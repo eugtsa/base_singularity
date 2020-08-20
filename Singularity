@@ -8,7 +8,6 @@ From: neurodebian:latest
 
 %post
 
-  #Installing all dependencies
   apt-get update
   DEBIAN_FRONTEND=noninteractive apt-get -yq install \
     build-essential \
