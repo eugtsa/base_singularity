@@ -3,11 +3,13 @@ From: neurodebian:latest
 
 %help
 
-    Container with Anaconda 3 from neurodebian.
-    This installation is based on Python 3.6
+    Container with packages on top of base 3.6 with anaconda
+
+%files
+  ./requirements.txt /requirements.txt
 
 %post
-
+  
   apt-get update
   DEBIAN_FRONTEND=noninteractive apt-get -yq install \
     build-essential \
@@ -28,3 +30,10 @@ From: neurodebian:latest
   conda config --add channels menpo
   conda update conda
   pip install --upgrade pip
+  echo `which python`
+  rm -rf /usr/local/lib/python3/site-packages/llvmlite*
+  #Install environment
+  rm -rf ~/anaconda3/lib/python3.6/site-packages/llvmlite*
+  pip install -I -r requirements.txt
+  #conda install catalyst
+  #python -m ipykernel install --user --name catalyst --display-name "Python (catalyst)"
