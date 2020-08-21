@@ -1,4 +1,5 @@
 fastprogress
+snakemake
 luigi==2.8.13
 sciluigi
 catalyst==20.6
