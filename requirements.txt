@@ -1,5 +1,5 @@
 fastprogress
-luigi
+luigi==2.8.13
 sciluigi
 catalyst==20.6
 cffi==1.14.2
