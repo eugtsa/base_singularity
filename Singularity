@@ -15,7 +15,8 @@ From: neurodebian:latest
     build-essential \
     wget \
     git \
-    libsndfile1
+    libsndfile1 \
+    postgresql-server.dev
 
   rm -rf /var/lib/apt/lists/*
   apt-get clean
