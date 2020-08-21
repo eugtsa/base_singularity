@@ -14,7 +14,8 @@ From: neurodebian:latest
   DEBIAN_FRONTEND=noninteractive apt-get -yq install \
     build-essential \
     wget \
-    git
+    git \
+    libsndfile1
 
   rm -rf /var/lib/apt/lists/*
   apt-get clean
