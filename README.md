@@ -19,7 +19,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 We use singularity (https://sylabs.io/guides/3.2/user-guide/)
 
-## Bse image
+## Base image
 
 [![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/4679)
 
@@ -28,7 +28,7 @@ Recipe for image is located here:
 Singularity repo is located on github because it has native integrations with singularity hub. It allows us to 
 automatically build singularity recipes and store resulting images on singularity hub.
 
-After build this image is available through singularity hub: https://www.singularity-hub.org/collections/46
+After build this image is available through singularity hub: https://www.singularity-hub.org/collections/4679
 
 Image is based on neurodebian (http://neuro.debian.net/) and include common scientific libraries.
 
