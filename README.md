@@ -5,7 +5,8 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 # Contents of repo
 ```
 .
-├── notebooks          - notebookds with some demos
+├── notebooks          - directory with notebookds with some demos
+├── scripts            - directory with scripts for demo
 ├── requirements.txt   - python requirements.txt with some libraries
 ├── Singularity        - singularity recipy for demo
 └── README.md          - this document
