@@ -1,7 +1,6 @@
 fastprogress
 snakemake
-luigi==2.8.13
-sciluigi
+nodejs
 catalyst==20.6
 cffi==1.14.2
 ipython==7.16.1

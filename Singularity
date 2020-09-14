@@ -33,7 +33,6 @@ From: neurodebian:latest
   conda config --add channels conda-forge
   conda config --add channels pytorch
   conda config --add channels menpo
-  conda install -c conda-forge nodejs
   conda update conda
   pip install --upgrade pip
   rm -rf /usr/local/lib/python3/site-packages/llvmlite*
