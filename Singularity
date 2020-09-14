@@ -40,4 +40,5 @@ From: neurodebian:latest
   #Install environment
   rm -rf ~/anaconda3/lib/python3.6/site-packages/llvmlite*
   pip install -I -r requirements.txt
+  conda install nodejs
   jupyter labextension install @jupyter-widgets/jupyterlab-manager
