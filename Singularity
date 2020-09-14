@@ -14,6 +14,9 @@ From: neurodebian:latest
   DEBIAN_FRONTEND=noninteractive apt-get -yq install \
     build-essential \
     wget \
+    tmux \
+    tree \
+    vim \
     git \
     libsndfile1 \
     postgresql-server.dev
@@ -30,12 +33,12 @@ From: neurodebian:latest
   conda config --add channels conda-forge
   conda config --add channels pytorch
   conda config --add channels menpo
+  conda install -c conda-forge nodejs
   conda update conda
   pip install --upgrade pip
-  echo `which python`
   rm -rf /usr/local/lib/python3/site-packages/llvmlite*
+  
   #Install environment
   rm -rf ~/anaconda3/lib/python3.6/site-packages/llvmlite*
   pip install -I -r requirements.txt
-  #conda install catalyst
-  #python -m ipykernel install --user --name catalyst --display-name "Python (catalyst)"
+  jupyter labextension install @jupyter-widgets/jupyterlab-manager
