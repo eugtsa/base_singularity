@@ -1,0 +1,11 @@
+singularity: "../../../../ukb_singularity_latest.sif"
+
+rule plot:
+    output: "{dataset}_plot.jpg"
+    input:  "{dataset}.csv"
+    shell: "python plotter.py {input} {output}"
+
+rule filter:
+    output: "{csvdata}_filtered.csv"
+    input: "{csvdata}.csv"
+    shell: "egrep -v ^boring {input} > {output}"
