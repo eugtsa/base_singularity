@@ -40,5 +40,9 @@ From: neurodebian:latest
   #Install environment
   rm -rf ~/anaconda3/lib/python3.6/site-packages/llvmlite*
   pip install -I -r requirements.txt
+  pip uninstall matplotlib -y
   conda install nodejs
+  conda install matplotlib
   jupyter labextension install @jupyter-widgets/jupyterlab-manager
+#  conda install xeus-python -c conda-forge
+#  jupyter labextension install @jupyterlab/debugger
