@@ -5,9 +5,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 # Contents of repo
 ```
 .
-├── notebooks          - directory with notebookds with some demos
-├── data               - sample data to check out jupyter lab
-├── scripts            - directory with scripts for demo
+├── notebooks          - notebookds with some demos
 ├── requirements.txt   - python requirements.txt with some libraries
 ├── Singularity        - singularity recipy for demo
 └── README.md          - this document
@@ -15,6 +13,16 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 # Where to start
 
+- To install singularity on your local machine with ubuntu, do in terminal:
+
+   `sudo apt-get install singularity-container` 
+
+- To pull singularity image (if it's not already pulled somewhere): 
+   
+   `singularity pull shub://eugtsa/base_singularity:latest` 
+
+- to pull singularity image: ``
+- to run singularity image: `unset XDG_RUNTIME_DIR;singularity exec eugtsa-base_singularity-master-latest.simg jupyter lab`
 - check out ipywidgets demo in `notebooks/1_ipywidgets_demo.ipynb`
 
 # Singularity
@@ -38,7 +46,7 @@ Image is based on neurodebian (http://neuro.debian.net/) and include common scie
 
 ## Known bugs
 
-- If you have problem with running our image on your local machine and traceback of error starts with:
+- If you have a problem with running this singularity image on your local machine and traceback of error ends with:
 
   `File "/usr/local/lib/python3.7/os.py", line 211, in makedirs`
   
