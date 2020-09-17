@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "a62262cc-a2a2-4a6a-8c9d-9d0aa7b53431",
+        "type": "message",
+        "text": "<https:\/\/www.rbc.ru\/technology_and_media\/23\/02\/2020\/5e522f209a79471b216a80fd>",
+        "user": "U48A8L25N",
+        "ts": "1582451907.000600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Сторонник идеи плоской Земли погиб в США при полете на самодельной ракете",
+                "title_link": "https:\/\/www.rbc.ru\/technology_and_media\/23\/02\/2020\/5e522f209a79471b216a80fd",
+                "text": "Майк Хьюз по прозвищу Безумный Майк разбился при попытке совершить полет на самодельной паровой ракете. Ее запуск был проведен в Калифорнии для съемок передачи на канале Science Channel",
+                "fallback": "РБК: Сторонник идеи плоской Земли погиб в США при полете на самодельной ракете",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/2\/20\/755824472220202.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/technology_and_media\/23\/02\/2020\/5e522f209a79471b216a80fd",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 85039,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.2.20\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/technology_and_media\/23\/02\/2020\/5e522f209a79471b216a80fd"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJoHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rbc.ru\/technology_and_media\/23\/02\/2020\/5e522f209a79471b216a80fd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "el_resitas_shake",
+                "users": [
+                    "U74DLUWUC",
+                    "UC7DFDJUA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00bb9917-211b-4b99-95db-0a6a98d9bbff",
+        "type": "message",
+        "text": "не прощает небесная твердь дерзких",
+        "user": "U48A8L25N",
+        "ts": "1582476474.001400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "не прощает небесная твердь дерзких"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40dc0bed-4052-47fe-8eb6-0d49183bbe82",
+        "type": "message",
+        "text": "<https:\/\/www.facebook.com\/100009476987620\/posts\/2671223136536893>",
+        "user": "U48A8L25N",
+        "ts": "1582484356.001600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Адвокат Дмитрий Джулай",
+                "title_link": "https:\/\/www.facebook.com\/100009476987620\/posts\/2671223136536893",
+                "text": "Расскажу вам одну сказку на ночь. Все персонажи, конечно, вымышленные, любые совпадения, естественно, совершенно случайные. Михаил Афанасьевич Булгаков в нежно любимом мной романе \"Мастер и...",
+                "fallback": "Адвокат Дмитрий Джулай",
+                "from_url": "https:\/\/www.facebook.com\/100009476987620\/posts\/2671223136536893",
+                "thumb_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-1\/s200x200\/87269465_2671926446466562_1096465284782358528_n.jpg?_nc_cat=105&_nc_ohc=htNm_J_z6ggAX95uSdI&_nc_ht=scontent-iad3-1.xx&_nc_tp=7&oh=82524630f7028914669179d4e0b79c01&oe=5EBFE610",
+                "thumb_width": 200,
+                "thumb_height": 198,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/100009476987620\/posts\/2671223136536893"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TVoJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/100009476987620\/posts\/2671223136536893"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

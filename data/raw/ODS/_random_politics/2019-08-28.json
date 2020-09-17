@@ -1,0 +1,991 @@
+[
+    {
+        "client_msg_id": "74227e06-0d93-4012-ad98-93f94330564d",
+        "type": "message",
+        "text": "у меня тут в Штуттгарте 80% голосовали за путина, я не думаю, что кто-то тут подделывал бюллетени. В штатах тоже много \"патриотов\".",
+        "user": "U5H0L5T98",
+        "ts": "1566981623.000300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566896165.286900",
+        "parent_user_id": "UFDMALG6P"
+    },
+    {
+        "client_msg_id": "f6d3b9e8-2469-40f4-9652-a445918acb5a",
+        "type": "message",
+        "text": "Оппозиционно настроенные люди зачастую тупо игнорили выборы, тем более что к этому активно призывал навальный.",
+        "user": "U7CAU0GMU",
+        "ts": "1566982280.000600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566896165.286900",
+        "parent_user_id": "UFDMALG6P",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5be34d8-abde-4dc3-b3a9-e050fd9beed1",
+        "type": "message",
+        "text": "А че патриоты в кавычках?",
+        "user": "U7CAU0GMU",
+        "ts": "1566982293.000800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566896165.286900",
+        "parent_user_id": "UFDMALG6P"
+    },
+    {
+        "client_msg_id": "20125c78-0b00-4a51-bf0c-c1062e85600e",
+        "type": "message",
+        "text": "любовь к путину это не патриотизм.",
+        "user": "U5H0L5T98",
+        "ts": "1566984803.001100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566896165.286900",
+        "parent_user_id": "UFDMALG6P"
+    },
+    {
+        "client_msg_id": "1e5f68b1-70f6-4aed-8c39-a4eff276ab13",
+        "type": "message",
+        "text": "&gt; любовь к путину это не патриотизм.\nУ всех разное понимание",
+        "user": "U7CAU0GMU",
+        "ts": "1566985506.001300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566896165.286900",
+        "parent_user_id": "UFDMALG6P"
+    },
+    {
+        "client_msg_id": "6836b48f-82a3-478e-ba63-29efb6768197",
+        "type": "message",
+        "text": "Ну тут спорить не буду.",
+        "user": "U5H0L5T98",
+        "ts": "1566990340.001500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566896165.286900",
+        "parent_user_id": "UFDMALG6P"
+    },
+    {
+        "client_msg_id": "cef1dfe0-20b9-45d5-83a7-5fca42607533",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=6rO4fAzlQEU>",
+        "user": "U27HU84H4",
+        "ts": "1567018834.001800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Алексей Савватеев - Моделирование лоббирования коррупции в экономике",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=6rO4fAzlQEU",
+                "author_name": "НаукаPRO",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UClk8C-ve3vb96jSqltT05wA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/6rO4fAzlQEU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Алексей Савватеев - Моделирование лоббирования коррупции в экономике",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/6rO4fAzlQEU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=6rO4fAzlQEU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=6rO4fAzlQEU"
+            }
+        ],
+        "thread_ts": "1567018834.001800",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1567028737.010200",
+        "reply_users": [
+            "U43QVTY49",
+            "U27HU84H4",
+            "U74DLUWUC",
+            "U2TS6AQ66"
+        ],
+        "replies": [
+            {
+                "user": "U43QVTY49",
+                "ts": "1567019217.002000"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1567019667.002200"
+            },
+            {
+                "user": "U43QVTY49",
+                "ts": "1567022653.002400"
+            },
+            {
+                "user": "U43QVTY49",
+                "ts": "1567023200.002700"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1567024041.003100"
+            },
+            {
+                "user": "U74DLUWUC",
+                "ts": "1567024211.004500"
+            },
+            {
+                "user": "U43QVTY49",
+                "ts": "1567024353.004700"
+            },
+            {
+                "user": "U2TS6AQ66",
+                "ts": "1567025592.007600"
+            },
+            {
+                "user": "U43QVTY49",
+                "ts": "1567028737.010200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1197be02-031e-4d8f-a41e-5553c857183b",
+        "type": "message",
+        "text": "Данный персонаж начал у меня вызывать сомнения после его срача с Панчиным. Все-таки когда математик утверждает, что гомеопатия работает, потому что \"его знакомым помогает\" - это странно и говорит о том, что он непоследователен в своей системе взглядов и аргументации",
+        "user": "U43QVTY49",
+        "ts": "1567019217.002000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e478d3302d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1046324740519_e478d3302d4c1bc1bf52_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Myagkikh",
+            "display_name": "pavel_myagkikh",
+            "team": "T040HKJE3",
+            "name": "pavel_myagkikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "6b543e28-1c5c-4734-9a9c-2b2e32084a8e",
+        "type": "message",
+        "text": "Дашь ссылку на срач? Ну и не обязательно человек говорит то, что думает (а может и цели ставит иные).",
+        "user": "U27HU84H4",
+        "ts": "1567019667.002200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "b9d3f969-050d-48f6-b63f-7c6a38c94c0d",
+        "type": "message",
+        "text": "<https:\/\/m.facebook.com\/story.php?story_fbid=10219272066498388&amp;id=1411340553>",
+        "user": "U43QVTY49",
+        "ts": "1567022653.002400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e478d3302d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1046324740519_e478d3302d4c1bc1bf52_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Myagkikh",
+            "display_name": "pavel_myagkikh",
+            "team": "T040HKJE3",
+            "name": "pavel_myagkikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Alexander Panchin",
+                "title_link": "https:\/\/m.facebook.com\/story.php?story_fbid=10219272066498388&id=1411340553",
+                "text": "О бесовской природе гомеопатии Поскольку Алексей Савватеев продолжает настаивать на эффективности гомеопатии и написал об этом несколько постов в Livejournal, я попробую в последний раз ответить на...",
+                "fallback": "Alexander Panchin",
+                "image_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-9\/fr\/cp0\/e15\/q65\/57343402_10219272417987175_5411107087230959616_o.jpg?_nc_cat=109&_nc_oc=AQlOLIkri3kfN11ofUPxn4vv39GTFJYl13VaWUFU2RutQYqPpXGiYe1wXod9iWXRsiE&_nc_ht=scontent-iad3-1.xx&oh=d9b993d9bf473e1fbe936e5dee7c0e3a&oe=5DD0DBE2",
+                "from_url": "https:\/\/m.facebook.com\/story.php?story_fbid=10219272066498388&id=1411340553",
+                "image_width": 453,
+                "image_height": 250,
+                "image_bytes": 68004,
+                "service_icon": "https:\/\/m.facebook.com\/favicon.ico",
+                "service_name": "m.facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/m.facebook.com\/story.php?story_fbid=10219272066498388&amp;id=1411340553"
+            }
+        ],
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc1b15cc-bc30-4808-8b4b-b9625f03b236",
+        "type": "message",
+        "text": "Может и иные цели, но с точки зрения образования аудитории и концепции Logics for Social Good - эт зашквар",
+        "user": "U43QVTY49",
+        "ts": "1567023200.002700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e478d3302d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1046324740519_e478d3302d4c1bc1bf52_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Myagkikh",
+            "display_name": "pavel_myagkikh",
+            "team": "T040HKJE3",
+            "name": "pavel_myagkikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "54d93dce-d498-4688-93b4-b3b09d339e4d",
+        "type": "message",
+        "text": "В копилку для всестороннего изучения (Савватеев прям открылся с новой стороны):\n<https:\/\/savvateev.livejournal.com\/278909.html>\n<https:\/\/savvateev.livejournal.com\/279358.html>",
+        "user": "U27HU84H4",
+        "ts": "1567024041.003100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1567024055.000000"
+        },
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "4d13b8bb-9479-4f39-8e95-61046b0f261f",
+        "type": "message",
+        "text": "<https:\/\/www.vedomosti.ru\/opinion\/articles\/2019\/08\/27\/809784-kogda-rol-shuta>",
+        "user": "U48A8L25N",
+        "ts": "1567024083.003700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Когда роль шута переходит королю",
+                "title_link": "https:\/\/www.vedomosti.ru\/opinion\/articles\/2019\/08\/27\/809784-kogda-rol-shuta",
+                "text": "Демонстрация президентом своего всеведения и всевластия никак не сказывается на положении дел в стране",
+                "fallback": "Когда роль шута переходит королю",
+                "image_url": "https:\/\/sharing.vedomosti.ru\/1566940600\/vedomosti.ru\/opinion\/articles\/2019\/08\/27\/809784-kogda-rol-shuta.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1566940600,
+                "from_url": "https:\/\/www.vedomosti.ru\/opinion\/articles\/2019\/08\/27\/809784-kogda-rol-shuta",
+                "image_bytes": 50068,
+                "service_name": "vedomosti.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.vedomosti.ru\/opinion\/articles\/2019\/08\/27\/809784-kogda-rol-shuta"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4f9b00a-555e-49f8-9a6c-26dc82fbb5c6",
+        "type": "message",
+        "text": "что это с ведомостями)",
+        "user": "U48A8L25N",
+        "ts": "1567024133.004200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024133.004200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1567024188.004300",
+        "reply_users": [
+            "U3AG4B1N1"
+        ],
+        "replies": [
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1567024188.004300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0481e1d4-c9b5-4b83-a85b-3371111a33de",
+        "type": "message",
+        "text": "ну ведомости более-менее норм газета",
+        "user": "U3AG4B1N1",
+        "ts": "1567024188.004300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024133.004200",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "935b614a-f787-4efc-97ed-c4519dee3378",
+        "type": "message",
+        "text": "&gt;Дашь ссылку на срач? Ну и не обязательно человек говорит то, что думает (а может и цели ставит иные).\n\nОбычно все намного проще - даже выдающиеся спецы в одном деле могут быть невероятными идиотами в других областях :idk:",
+        "user": "U74DLUWUC",
+        "ts": "1567024211.004500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "a52c7e60-d4e8-42c9-82e4-efb331845f90",
+        "type": "message",
+        "text": "<@U27HU84H4> да, я много за ним следил, религиозные темы оставлял без внимания, а вот когда буллшит в science вторгается - я не люблю",
+        "user": "U43QVTY49",
+        "ts": "1567024353.004700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e478d3302d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1046324740519_e478d3302d4c1bc1bf52_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Myagkikh",
+            "display_name": "pavel_myagkikh",
+            "team": "T040HKJE3",
+            "name": "pavel_myagkikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "39e69820-d221-4fa3-b9a3-e21b4438af60",
+        "type": "message",
+        "text": "Кстати, криворукие дибилы из команды Навального сегодня зачем-то публично открыли порт msk.vote, можно было посмотреть всех, кого рекомендуют на умное голосование. И снять их с выборов :el_risitas:. Сейчас уже недоступно вроде. А, нет, доступно. Го обсуждать",
+        "user": "U3AG4B1N1",
+        "ts": "1567024664.006800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3AG4B1N1",
+            "ts": "1567024694.000000"
+        },
+        "thread_ts": "1567024664.006800",
+        "reply_count": 12,
+        "reply_users_count": 4,
+        "latest_reply": "1567028711.010000",
+        "reply_users": [
+            "UGTNTEBPV",
+            "U3AG4B1N1",
+            "U7CAU0GMU",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1567024954.007000"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1567025059.007300"
+            },
+            {
+                "user": "U7CAU0GMU",
+                "ts": "1567027185.007900"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1567027641.008200"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1567027938.008500"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1567028038.008700"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1567028108.008900"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1567028196.009100"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1567028326.009300"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1567028416.009500"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1567028499.009800"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1567028711.010000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6bbe28d5-7214-43ae-b77e-d911a60112b8",
+        "type": "message",
+        "text": "Вам в <#C9J1ZMNFM|_random_b>",
+        "user": "UGTNTEBPV",
+        "ts": "1567024954.007000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1567024984.000000"
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "3425294b-7097-48c9-a9d8-ba19fea22a29",
+        "type": "message",
+        "text": "Куда еще меня пошлешь?)",
+        "user": "U3AG4B1N1",
+        "ts": "1567025059.007300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1",
+        "reactions": [
+            {
+                "name": "toxic",
+                "users": [
+                    "UGTNTEBPV",
+                    "UJ8BXBM36"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81311727-c9f5-4522-b205-1e8caa9e2622",
+        "type": "message",
+        "text": "У Алексея, в целом, странное представление о мире. Например, об образовании. Где-то был видос, где он слишком фанатично и однобоко об этом рассуждает. После просмотра этого ролика, я немного расстроился, потому как его контент по математике очень даже годный, а вот мировоззрение никак не соотносится с моим.",
+        "user": "U2TS6AQ66",
+        "ts": "1567025592.007600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "a99f8c5c-555a-4e20-9542-87abc2dffff6",
+        "type": "message",
+        "text": "Слабоумное голосование",
+        "user": "U7CAU0GMU",
+        "ts": "1567027185.007900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1",
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U3AG4B1N1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ced6103-7bad-443b-a033-a956c8d70962",
+        "type": "message",
+        "text": "Ну да, нормальных людей же не допустили, будем по убыванию степени отвращения голосовать",
+        "user": "U3AG4B1N1",
+        "ts": "1567027641.008200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3AG4B1N1",
+            "ts": "1567027684.000000"
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "c5a36d0c-e705-4f78-b918-1254c18da402",
+        "type": "message",
+        "text": "может и специально открыли, для шума",
+        "user": "U48A8L25N",
+        "ts": "1567027938.008500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "45bb517d-3590-4182-9750-248118e88691",
+        "type": "message",
+        "text": "Но нигде об этом не упоминается вообще",
+        "user": "U3AG4B1N1",
+        "ts": "1567028038.008700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "b3439859-c711-4008-a92f-8127267ed1eb",
+        "type": "message",
+        "text": "Не понимаю, почему Жуковского поддержали, а не Юнемана. Хотя они оба нормальные, видимо поэтому Юнемана и допустили, ведь один Жуковский точно бы едроску вынес",
+        "user": "U3AG4B1N1",
+        "ts": "1567028108.008900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "8ee2bd29-3122-4188-ad81-a0d479a10caf",
+        "type": "message",
+        "text": "риторический вопрос)",
+        "user": "U48A8L25N",
+        "ts": "1567028196.009100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "093e9730-ebbc-4129-99d1-a35f9a30872e",
+        "type": "message",
+        "text": "мне кажется сильно это все равно не повлияет, на результаты выборов, спорная штука, выбирать тех кого укажут",
+        "user": "U48A8L25N",
+        "ts": "1567028326.009300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "2552e49a-6c77-4a4d-8bc3-b37c51a44127",
+        "type": "message",
+        "text": "Ну смотря что считать сильным. Уверен, что мандатов у едросов будет меньше чем сейчас. Дальше уже нужно смотреть",
+        "user": "U3AG4B1N1",
+        "ts": "1567028416.009500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3AG4B1N1",
+            "ts": "1567028428.000000"
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "91013506-71b1-4aa2-83ad-7f58f50bffcb",
+        "type": "message",
+        "text": "поглядим шо получится",
+        "user": "U48A8L25N",
+        "ts": "1567028499.009800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1"
+    },
+    {
+        "client_msg_id": "492a42ed-fc2b-44f4-8776-b51bee355755",
+        "type": "message",
+        "text": "В любом случае это игра вдолгую. Подготовка к 2021 году. Хотя там смысл примерно ясен - минимум партийных списков, максимум одномандатных округов с самомедвеженцами. Тяжело(",
+        "user": "U3AG4B1N1",
+        "ts": "1567028711.010000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567024664.006800",
+        "parent_user_id": "U3AG4B1N1",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b98a3c6-ab73-4fce-a856-ee3b2c21b0f3",
+        "type": "message",
+        "text": "Я об этом и говорю. Математику от него - :+1: всё остальное - надо фильтровать",
+        "user": "U43QVTY49",
+        "ts": "1567028737.010200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e478d3302d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1046324740519_e478d3302d4c1bc1bf52_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Myagkikh",
+            "display_name": "pavel_myagkikh",
+            "team": "T040HKJE3",
+            "name": "pavel_myagkikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567018834.001800",
+        "parent_user_id": "U27HU84H4"
+    }
+]

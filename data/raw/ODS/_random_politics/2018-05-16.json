@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/ru-mir.net\/2017\/11\/12\/kriminalnaya-imperiya-putina\/>",
+        "user": "U9ZU1CYUD",
+        "ts": "1526504185.000286",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Реальный Мир",
+                "title": "Криминальная империя Путина",
+                "title_link": "http:\/\/ru-mir.net\/2017\/11\/12\/kriminalnaya-imperiya-putina\/",
+                "text": "Продолжить чтение Криминальная империя Путина",
+                "fallback": "Реальный Мир: Криминальная империя Путина",
+                "from_url": "http:\/\/ru-mir.net\/2017\/11\/12\/kriminalnaya-imperiya-putina\/",
+                "id": 1,
+                "original_url": "http:\/\/ru-mir.net\/2017\/11\/12\/kriminalnaya-imperiya-putina\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N",
+                    "U9ZU1CYUD",
+                    "U48B3EN87"
+                ],
+                "count": 3
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flag-um",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

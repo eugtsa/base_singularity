@@ -1,0 +1,1301 @@
+[
+    {
+        "client_msg_id": "f3c528d5-0078-4262-a39f-2a9258957b0e",
+        "type": "message",
+        "text": ":like нету ставить лайк-а-бос?)",
+        "user": "U2TP5JELS",
+        "ts": "1583910009.091400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":like нету ставить лайк-а-бос?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583909511.091300",
+        "parent_user_id": "UHGV9TMEZ",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UHGV9TMEZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Хочу еще, чтобы мне ничего за это не было :thinking: ",
+        "user": "U3AG4B1N1",
+        "ts": "1583910174.092400",
+        "thread_ts": "1583909511.091300",
+        "root": {
+            "client_msg_id": "566982bd-37d1-4ea8-bb5e-b1e846fc8f83",
+            "type": "message",
+            "text": "Ставь лайк если тоже хочешь научится так шикарно врать и забирать свои слова",
+            "user": "UHGV9TMEZ",
+            "ts": "1583909511.091300",
+            "team": "T040HKJE3",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3qYVe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Ставь лайк если тоже хочешь научится так шикарно врать и забирать свои слова"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1583909511.091300",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1583910174.092400",
+            "reply_users": [
+                "U2TP5JELS",
+                "U3AG4B1N1"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8hbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Хочу еще, чтобы мне ничего за это не было "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "68011E57-D527-441D-9FF1-1B2A04C857E4",
+        "reactions": [
+            {
+                "name": "bigbrother",
+                "users": [
+                    "UCQ1YNU9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fb30f3f-80de-49cd-bb08-721e3ea568b6",
+        "type": "message",
+        "text": "Мне в фб пишут что надо идти голосовать 22 апреля.",
+        "user": "UGTNTEBPV",
+        "ts": "1583913692.093400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Мне в фб пишут что надо идти голосовать 22 апреля."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "718afb0d-0c4c-429a-8ca2-14a7323ea3cf",
+        "type": "message",
+        "text": "Нихера не понятно, пойдешь - скажут \"смотрите явка\" и нарисуют 50+%  себе, не пойдешь - скажут все надомно проголосовали и тоже 50+% нарисуют( По идее надо идти и наверно монитроить чтоб ен было вбросов.",
+        "user": "U2TP5JELS",
+        "ts": "1583915214.094900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07P6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Нихера не понятно, пойдешь - скажут \"смотрите явка\" и нарисуют 50+%  себе, не пойдешь - скажут все надомно проголосовали и тоже 50+% нарисуют( По идее надо идти и наверно монитроить чтоб ен было вбросов."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583915214.094900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1583916085.097700",
+        "reply_users": [
+            "UGTNTEBPV"
+        ],
+        "replies": [
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1583916085.097700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c8ad005a-4634-4775-9bfb-ded85c8aecc3",
+        "type": "message",
+        "text": "Я думаю, если пойти, то будет у них повод мухлевать, а поскольку это итак изначально мухлёж, потомучто это не референдум, то они будут в ещё большем дерьме. Но по большому счёту оснований идти перевешивает ненамного основания не идти.",
+        "user": "UGTNTEBPV",
+        "ts": "1583915597.097400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0T=vw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я думаю, если пойти, то будет у них повод мухлевать, а поскольку это итак изначально мухлёж, потомучто это не референдум, то они будут в ещё большем дерьме. Но по большому счёту оснований идти перевешивает ненамного основания не идти."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87c2a391-182a-4cd4-a22b-5e6673a5226e",
+        "type": "message",
+        "text": "там не предусмотрено наблюдения, но можно агитировать.",
+        "user": "UGTNTEBPV",
+        "ts": "1583916085.097700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "там не предусмотрено наблюдения, но можно агитировать."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583915214.094900",
+        "parent_user_id": "U2TP5JELS"
+    },
+    {
+        "client_msg_id": "dbff7599-4fcd-4a1b-a92c-71efc73725c6",
+        "type": "message",
+        "text": "Зачем что-то придумать если все равно ничего не изменить, и даже не из-за того что кто-то себе процентики приписывает, а из-за того, что люди голосуют за Путина потому-что \"больше не за кого\"",
+        "user": "UHGV9TMEZ",
+        "ts": "1583923747.101100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "54985a840d04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-13\/890761007282_54985a840d04e6fb2cb3_72.png",
+            "first_name": "Philip",
+            "real_name": "Philip Konokhov",
+            "display_name": "Efy",
+            "team": "T040HKJE3",
+            "name": "philipkonokhov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5H+X8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Зачем что-то придумать если все равно ничего не изменить, и даже не из-за того что кто-то себе процентики приписывает, а из-за того, что люди голосуют за Путина потому-что \"больше не за кого\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c7dca9d-49b4-42e1-8868-b43902a3711c",
+        "type": "message",
+        "text": "потому что рукописи и проколы УИКов не горят. Будет виден уровень мухлежа.",
+        "user": "UGTNTEBPV",
+        "ts": "1583924463.102800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZrFv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "потому что рукописи и проколы УИКов не горят. Будет виден уровень мухлежа."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "851927e5-cac2-496e-8c8b-ee716ec89c16",
+        "type": "message",
+        "text": "Да я же про то и говорю, что даже мухляжа кажется не надо, люди реально хотят чтобы Путин и дальше оставался царем батюшкой. Мы же тут с данными работаем, просто ваши знакомые нерепрезентативная выборка. Может быть я конечно не прав, там всякие левады говорят что индекс одобрения Путина в районе 32% , но мне кажется что мухлевать ему чтобы победить и не нужно",
+        "user": "UHGV9TMEZ",
+        "ts": "1583925382.104900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "54985a840d04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-13\/890761007282_54985a840d04e6fb2cb3_72.png",
+            "first_name": "Philip",
+            "real_name": "Philip Konokhov",
+            "display_name": "Efy",
+            "team": "T040HKJE3",
+            "name": "philipkonokhov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=pj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да я же про то и говорю, что даже мухляжа кажется не надо, люди реально хотят чтобы Путин и дальше оставался царем батюшкой. Мы же тут с данными работаем, просто ваши знакомые нерепрезентативная выборка. Может быть я конечно не прав, там всякие левады говорят что индекс одобрения Путина в районе 32% , но мне кажется что мухлевать ему чтобы победить и не нужно"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583925382.104900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1583929845.106100",
+        "reply_users": [
+            "UGTNTEBPV",
+            "UJ2JGSQ3X"
+        ],
+        "replies": [
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1583928540.105400"
+            },
+            {
+                "user": "UJ2JGSQ3X",
+                "ts": "1583929845.106100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FUX9ELB7B",
+                "created": 1583928085,
+                "timestamp": 1583928085,
+                "name": "image (13).png",
+                "title": "image (13).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U48A8L25N",
+                "editable": false,
+                "size": 362293,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FUX9ELB7B\/image__13_.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FUX9ELB7B\/download\/image__13_.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUX9ELB7B-ba233d8dee\/image__13__64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUX9ELB7B-ba233d8dee\/image__13__80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUX9ELB7B-ba233d8dee\/image__13__360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 257,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUX9ELB7B-ba233d8dee\/image__13__480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 342,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUX9ELB7B-ba233d8dee\/image__13__160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "image_exif_rotation": 1,
+                "original_w": 640,
+                "original_h": 456,
+                "thumb_tiny": "AwAiADC8xIkzuOB2qMF+71KZDkj5f++qCd65449GpWAazHnDd+KQs4H3+aeg6jn\/AL6zR+J\/OncLEIaRjw2aU+YoyTkUD7xwacxbac4ouOwrHLcDH5c07I2HC49qZJgP0\/Qf1p4HyZAwSOuKBAh5PB+tBxzk0kY4OOPwpHGB249qAIslnJUZApd+3kg4J7imxNtmHoeKJDmE8k4bvQMuEA9QKKKKBAAB0qKbpUtRTdKAKZ609\/uH8KYetPf7h\/Cga2P\/2Q==",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U48A8L25N\/FUX9ELB7B\/image__13_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FUX9ELB7B-eca59c63f5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U48A8L25N",
+        "display_as_bot": false,
+        "ts": "1583928092.105100",
+        "client_msg_id": "61b3aeb0-8cd9-4a2f-83a6-da44cdfa73a7",
+        "reactions": [
+            {
+                "name": "bayan",
+                "users": [
+                    "UELA14HSS",
+                    "U50GQKH5J",
+                    "UJGV816FM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "petushara",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3038c5b0-372b-4aeb-888b-a2c7d33ea553",
+        "type": "message",
+        "text": "не знаю, надо смотреть социологию.",
+        "user": "UGTNTEBPV",
+        "ts": "1583928540.105400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iq3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "не знаю, надо смотреть социологию."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583925382.104900",
+        "parent_user_id": "UHGV9TMEZ"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FV7CG60JU",
+                "created": 1583928870,
+                "timestamp": 1583928870,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UEBC73WP7",
+                "editable": false,
+                "size": 288764,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FV7CG60JU\/image_from_ios.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FV7CG60JU\/download\/image_from_ios.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_720.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_800.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_960.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FV7CG60JU-7e2daaae9c\/image_from_ios_1024.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 2560,
+                "original_h": 1440,
+                "thumb_tiny": "AwAbADC4UU\/xEZ54NMIBbHzcd8mnKR329aX5d2cr+XNMEN2c43P\/AN9GpG4AFIzKuCT+lNMqsAMGgBxO2n1DkDnHTrUqsGGQc0kDGqxzwoH40uDuBzUcfMhB6YqamBWnOXA9KSIZkWmE5J+tPi\/i\/wB2kA9gTHwe+eaiDFeQcGphytQUDZ\/\/2Q==",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UEBC73WP7\/FV7CG60JU\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FV7CG60JU-ddf9a923aa",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mye",
+                "elements": []
+            }
+        ],
+        "user": "UEBC73WP7",
+        "display_as_bot": false,
+        "ts": "1583928879.105600",
+        "client_msg_id": "FC8731A0-505E-446C-9542-21413AE51F56",
+        "thread_ts": "1583928879.105600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1583939777.106700",
+        "reply_users": [
+            "U4DUJM693"
+        ],
+        "replies": [
+            {
+                "user": "U4DUJM693",
+                "ts": "1583939777.106700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N",
+                    "U50GQKH5J",
+                    "UU6LRAGRE",
+                    "UEBC73WP7",
+                    "UC7DFDJUA"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19207a0b-0e31-44b6-bb26-ed0c1969cb07",
+        "type": "message",
+        "text": "Чтобы победить уверенно надо мухлевать, никому 30% не хочется на выборах, ему 55%+ подавай",
+        "user": "UJ2JGSQ3X",
+        "ts": "1583929845.106100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1ed5ef7b8531",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-24\/616533640836_1ed5ef7b85313f46c87c_72.jpg",
+            "first_name": "eStatiq",
+            "real_name": "eStatiq Hikky",
+            "display_name": "hikky",
+            "team": "T040HKJE3",
+            "name": "andrey.vl.danilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GLkkV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Чтобы победить уверенно надо мухлевать, никому 30% не хочется на выборах, ему 55%+ подавай"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583925382.104900",
+        "parent_user_id": "UHGV9TMEZ"
+    },
+    {
+        "client_msg_id": "48c1a415-c1dc-47a6-9a0b-efa1ca33369d",
+        "type": "message",
+        "text": "нужна версия 2020",
+        "user": "U4DUJM693",
+        "ts": "1583939777.106700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9b661ea0758a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-07\/378213480998_9b661ea0758a8b1a808b_72.jpg",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Talipov",
+            "display_name": "roosh_roosh",
+            "team": "T040HKJE3",
+            "name": "roosh_roosh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LwF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "нужна версия 2020"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583928879.105600",
+        "parent_user_id": "UEBC73WP7"
+    },
+    {
+        "client_msg_id": "f5516dad-54b6-4751-99e7-49255f1edbd4",
+        "type": "message",
+        "text": "&gt; ВОЗ объявила пандемию коронавируса в мире\nну наконец-то",
+        "user": "U48A8L25N",
+        "ts": "1583944598.107100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n6d",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ВОЗ объявила пандемию коронавируса в мире"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ну наконец-то"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e2be9b5-cfcc-4aeb-bc9f-e8fa7bed326f",
+        "type": "message",
+        "text": "1. Почему до сих пор важно, кто там за кого голосует, если ещё при Сталине было известно, что важно как посчитают, а посчитают понятно как? Откуда все эти черти вылезают, бесконечно обсуждающие всякие там проценты проголосовавших?\n2. Почему кому-то важно, чё там за поправки в конституцию, если вся либерастня давно постановила, что конституция не исполняется? Если она не исполняется, то какая разница что туда вносят? Они в логику могут или чё?\n3. Какая разница какой там срок у Путина, четвёртый или двадцатый, если уже лет 10 как назад произошло первое событие хакинга лимитов сроков впервый раз и было показано, что так можно? В США тоже были кейсы, когда презики оставались больше чем на 2 срока и придумывали какие-то объяснения и все хавали. Какая проблема тут захавать?\n4. В России \"режим\" (тупое слово) правый начиная с развала проклятого совка. Сначала он был правый либеральный, а после выпила всяких Березовских стал правый консервативный и лет 20 ничего в данном главном параметре архитектуры страны не менялось. Кого может волновать в этих условиях какой-то параметр типа \"личность генсека\"? Какая разница, Хрущёв или Брежнев, если от консерватизма в либерастню трендов ухода нет, и тем более нет трендов ухода от правоты в левоту?\n5. Нахера дебилы ходят на митинги? Ну вышли, ну потоптались, ну зашли обратно к мамке на борщ. Почему вся эта масса не занимается чем-то реальным, типа кровавого и тяжёлого пропихивания своей воли через суды, письма в администрацию, прокуратуры и всё такое? Власть сменится, а как делали в стране газоны по кривожопым нормам, при которым говно стекает на проезжую часть, так и продолжат делать. Как было принято кумовство, так и останется. Куда так ловко исчезнет коррупция, если каждый в народе мечтает хапать и хавать, а честно работать у нас в народе \"не принято\"?\n6. Кого волнует реакция населения? Откуда эти обсуждения про \"прощупывают реакцию населения\"? Во-первых население как толпа довольно примитивно, в смысле модель его поведения давно построена и любая реакция предсказуема. Народ делает что-то страшное не как реакцию на тактические поступки и заявления власти (всем лень жопу поднимать с дивана), а как... а народ вообще ничего страшного никогда не делал. Что-то страшное делают всегда какие-то организованные группы лиц, а они все на учёте. И то, сделать что-то эти группы лиц могут только при полном ослабевании власти, до чего нам ещё очень далеко и хорошо.\n7. Кого ещё волнует сбитый боинг? Ну постановят там что-то в Гааге и чё? Наши скажут: \"а вот и нет, бебебе, проблем\"?\n8. А чё там с тиньков-банком? Жопа ему или правда что управление этим банком личностью \"Олег Тиньков\" давно уже особо не производится и там процессы без него поставлены норм?\n9. Просьба кратко захерачить объективную истину в ответ на каждый пункт в подтред.",
+        "user": "UUG3G3WPL",
+        "ts": "1583961767.126800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g89062366c9b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/89062366c9b056ee37862a8cc89cfda4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Ivan Trohin",
+            "display_name": "Ivan Trohin",
+            "team": "T040HKJE3",
+            "name": "ivan.trohin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUG3G3WPL",
+            "ts": "1583962428.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xNr",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Почему до сих пор важно, кто там за кого голосует, если ещё при Сталине было известно, что важно как посчитают, а посчитают понятно как? Откуда все эти черти вылезают, бесконечно обсуждающие всякие там проценты проголосовавших?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Почему кому-то важно, чё там за поправки в конституцию, если вся либерастня давно постановила, что конституция не исполняется? Если она не исполняется, то какая разница что туда вносят? Они в логику могут или чё?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Какая разница какой там срок у Путина, четвёртый или двадцатый, если уже лет 10 как назад произошло первое событие хакинга лимитов сроков впервый раз и было показано, что так можно? В США тоже были кейсы, когда презики оставались больше чем на 2 срока и придумывали какие-то объяснения и все хавали. Какая проблема тут захавать?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "В России \"режим\" (тупое слово) правый начиная с развала проклятого совка. Сначала он был правый либеральный, а после выпила всяких Березовских стал правый консервативный и лет 20 ничего в данном главном параметре архитектуры страны не менялось. Кого может волновать в этих условиях какой-то параметр типа \"личность генсека\"? Какая разница, Хрущёв или Брежнев, если от консерватизма в либерастню трендов ухода нет, и тем более нет трендов ухода от правоты в левоту?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Нахера дебилы ходят на митинги? Ну вышли, ну потоптались, ну зашли обратно к мамке на борщ. Почему вся эта масса не занимается чем-то реальным, типа кровавого и тяжёлого пропихивания своей воли через суды, письма в администрацию, прокуратуры и всё такое? Власть сменится, а как делали в стране газоны по кривожопым нормам, при которым говно стекает на проезжую часть, так и продолжат делать. Как было принято кумовство, так и останется. Куда так ловко исчезнет коррупция, если каждый в народе мечтает хапать и хавать, а честно работать у нас в народе \"не принято\"?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Кого волнует реакция населения? Откуда эти обсуждения про \"прощупывают реакцию населения\"? Во-первых население как толпа довольно примитивно, в смысле модель его поведения давно построена и любая реакция предсказуема. Народ делает что-то страшное не как реакцию на тактические поступки и заявления власти (всем лень жопу поднимать с дивана), а как... а народ вообще ничего страшного никогда не делал. Что-то страшное делают всегда какие-то организованные группы лиц, а они все на учёте. И то, сделать что-то эти группы лиц могут только при полном ослабевании власти, до чего нам ещё очень далеко и хорошо."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Кого ещё волнует сбитый боинг? Ну постановят там что-то в Гааге и чё? Наши скажут: \"а вот и нет, бебебе, проблем\"?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "А чё там с тиньков-банком? Жопа ему или правда что управление этим банком личностью \"Олег Тиньков\" давно уже особо не производится и там процессы без него поставлены норм?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Просьба кратко захерачить объективную истину в ответ на каждый пункт в подтред."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N",
+                    "UEBC73WP7",
+                    "UHGV9TMEZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "wat",
+                "users": [
+                    "U2TP5JELS",
+                    "UEBC73WP7",
+                    "U5H055U0J"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UFSTXBQ7K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U7H91LHAA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "UJGV816FM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e7caea5-3118-40b7-aaa8-f24242944c8d",
+        "type": "message",
+        "text": "2. если она не исполняется, че это значит что нельзя отмечать очередные её неисполнения? какая здесь связь поясните",
+        "user": "U48A8L25N",
+        "ts": "1583963842.131700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eqPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. если она не исполняется, че это значит что нельзя отмечать очередные её неисполнения? какая здесь связь поясните"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1694498-379c-473b-99ab-4807c180ac48",
+        "type": "message",
+        "text": "1. кому известно? кому понятно? и как то, что кому-то известно и кому-то понятно отменяет то, что декларируется демократия, и по поводу недодемократии возникают вопросы?)",
+        "user": "U48A8L25N",
+        "ts": "1583963919.133500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAMX",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "кому известно? кому понятно? и как то, что кому-то известно и кому-то понятно отменяет то, что декларируется демократия, и по поводу недодемократии возникают вопросы?)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "780457e6-dcbb-4080-bf83-ce640132f288",
+        "type": "message",
+        "text": "3. И опять вопрос непонятен, что от того, что это не первый хакинг требуется не упоминать новые? какая здесь логика поясните. В сша были кейсы чего? насколько я помню такое было более 70 лет назад, с таким же успехом можно привести что было при царской россии.",
+        "user": "U48A8L25N",
+        "ts": "1583964150.136500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1583965881.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CB6d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3. И опять вопрос непонятен, что от того, что это не первый хакинг требуется не упоминать новые? какая здесь логика поясните. В сша были кейсы чего? насколько я помню такое было более 70 лет назад, с таким же успехом можно привести что было при царской россии."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5a642bc-c0fb-4284-9c10-3b77833e4ea9",
+        "type": "message",
+        "text": "3. И опять же с чего если где-то там были сроки больше двух, это становится нормой, тупейший аргумент",
+        "user": "U48A8L25N",
+        "ts": "1583964197.137500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1K8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3. И опять же с чего если где-то там были сроки больше двух, это становится нормой, тупейший аргумент"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae9bf142-d1b6-4b29-a749-d0d89a1bc2ad",
+        "type": "message",
+        "text": "4. почему же тупое слово, очень подходящее. либеральный режим? вы говорите либеральный режим, но при этом упоминаете березовского, олигарха) вы точно имеете ввиду либеральный режим? правый консервативный? что вы имеете ввиду под правым, если речь о социальном режиме, то разница между бедными и богатыми в россии растет, а не наоборот, так в чем проявляется социальность путина? Разница не в том хрущев или брежнев, а в том какие процессы при этом идут, в россии власть путина укрепляется, а обещанные блага наступают в основном по телевизору, можно кучу его обещаний вспомнить.",
+        "user": "U48A8L25N",
+        "ts": "1583964964.144700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4. почему же тупое слово, очень подходящее. либеральный режим? вы говорите либеральный режим, но при этом упоминаете березовского, олигарха) вы точно имеете ввиду либеральный режим? правый консервативный? что вы имеете ввиду под правым, если речь о социальном режиме, то разница между бедными и богатыми в россии растет, а не наоборот, так в чем проявляется социальность путина? Разница не в том хрущев или брежнев, а в том какие процессы при этом идут, в россии власть путина укрепляется, а обещанные блага наступают в основном по телевизору, можно кучу его обещаний вспомнить."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583964964.144700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1584005646.202200",
+        "reply_users": [
+            "UJUQAF96G",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "UJUQAF96G",
+                "ts": "1584003307.159400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1584005646.202200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "29469b42-bdb2-4289-b2ff-bb28317de1fe",
+        "type": "message",
+        "text": "5. Тут опять непонятно, почему нельзя ходить на митинги и одновременно через суды чего-то добиваться, как работает ваша логика? тот же навальный если его взять за пример, вполне себе пользуется судами, пишет обращения и прочее, причем проигрывая здесь, он часто выигрывает в еспч, что отлично характеризует эффективность и беспристрастность российских судов. Дальше опять непонятно, что нельзя менять газоны и власть одновременно?) Так с кумовством надо бороться, если бы ничего не менялось, то куча стран так бы и остались странами третьего мира, а не выбились в какие-нибудь мировые импортеры электронной техники)",
+        "user": "U48A8L25N",
+        "ts": "1583965339.150200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cx1S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5. Тут опять непонятно, почему нельзя ходить на митинги и одновременно через суды чего-то добиваться, как работает ваша логика? тот же навальный если его взять за пример, вполне себе пользуется судами, пишет обращения и прочее, причем проигрывая здесь, он часто выигрывает в еспч, что отлично характеризует эффективность и беспристрастность российских судов. Дальше опять непонятно, что нельзя менять газоны и власть одновременно?) Так с кумовством надо бороться, если бы ничего не менялось, то куча стран так бы и остались странами третьего мира, а не выбились в какие-нибудь мировые импортеры электронной техники)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbbd13eb-b6db-4431-a627-efffce13bf74",
+        "type": "message",
+        "text": "6. Да что вы, где же вы такой гениальный то сидите, что оказывается модели построены и все просчитано, пока на это миллиарды тратятся, пошли бы сэкономили этим бездарям деньги)",
+        "user": "U48A8L25N",
+        "ts": "1583965526.152000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vv3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6. Да что вы, где же вы такой гениальный то сидите, что оказывается модели построены и все просчитано, пока на это миллиарды тратятся, пошли бы сэкономили этим бездарям деньги)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9f02b11-d4c2-4113-8af2-dbd371ee9337",
+        "type": "message",
+        "text": "7. Да всех волнует, это же еще один показатель, причем на весь мир, что власть в россии фактически спонсирует терроризм. Ну скажут наши бебе, а мир то кого слушает, наших, или тех кто расследует? Что ничего не будет говорили например про допинговый скандал, и что теперь? спортсменов постоянно гнобят, просто потому что они из россии, как пример)",
+        "user": "U48A8L25N",
+        "ts": "1583965713.155100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7. Да всех волнует, это же еще один показатель, причем на весь мир, что власть в россии фактически спонсирует терроризм. Ну скажут наши бебе, а мир то кого слушает, наших, или тех кто расследует? Что ничего не будет говорили например про допинговый скандал, и что теперь? спортсменов постоянно гнобят, просто потому что они из россии, как пример)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ec36bcd-4a79-4197-b183-e14e955f8995",
+        "type": "message",
+        "text": "8. Даже если он ничем не управляет, он же медийная личность, не слежу за этой ситуацией, но слышал что какие-то активы упали",
+        "user": "U48A8L25N",
+        "ts": "1583965817.156300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Viq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8. Даже если он ничем не управляет, он же медийная личность, не слежу за этой ситуацией, но слышал что какие-то активы упали"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

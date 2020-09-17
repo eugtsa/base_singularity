@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "27c54fa0-5d1e-4ee6-b755-c28ca18b0738",
+        "type": "message",
+        "text": "как пример можно казахстан привести, у нас время от времени просто выключают фейсбук",
+        "user": "U48A8L25N",
+        "ts": "1568536362.002000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "85a23d4f-1f7b-486d-a11b-469d88587932",
+        "type": "message",
+        "text": "даже в сети особо не выступают",
+        "user": "U48A8L25N",
+        "ts": "1568536393.002500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0ad7e26f-bc8b-4d0f-84ea-5337e8e173f5",
+        "type": "message",
+        "text": "Вот зачем постить видосы по 40 минут без TLDW?",
+        "user": "U7CAU0GMU",
+        "ts": "1568536412.003000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568476937.000500",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "20ec7b02-ba9e-4d1a-bef3-04286f6f431b",
+        "type": "message",
+        "text": "или например у нас коуб блокируется, правда хреново блокируется,  он либо очень долго грузится, либо грузится после нескольких перезапросов",
+        "user": "U48A8L25N",
+        "ts": "1568536453.003800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81099767-d7ce-4b71-92da-54063a2b9faf",
+        "type": "message",
+        "text": "Невольно напрашивается сравнение с Москвой.\n<https:\/\/www.bbc.com\/russian\/news-49707285>",
+        "user": "UGTNTEBPV",
+        "ts": "1568556699.005400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BBC News Русская служба",
+                "title": "Стычки в Гонконге: бутылки с горючей смесью, водометы и слезоточивый газ",
+                "title_link": "https:\/\/www.bbc.com\/russian\/news-49707285",
+                "text": "Полиция Гонконга использовала водометы и слезоточивый газ против демонстрантов, которые бросали бутылки с горючей смесью и кирпичи возле правительственных учреждений города в ходе протестов в воскресенье.",
+                "fallback": "BBC News Русская служба: Стычки в Гонконге: бутылки с горючей смесью, водометы и слезоточивый газ",
+                "image_url": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_russian\/A385\/production\/_108816814_gettyimages-1168358238.jpg",
+                "from_url": "https:\/\/www.bbc.com\/russian\/news-49707285",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 90332,
+                "service_icon": "https:\/\/static.bbc.co.uk\/news\/1.290.03379\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bbc.com\/russian\/news-49707285"
+            }
+        ]
+    }
+]

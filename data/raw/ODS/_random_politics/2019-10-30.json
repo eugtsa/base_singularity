@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "890b7c1f-b61d-4fc8-b5c5-0dac95cfa827",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4141418>",
+        "user": "U48A8L25N",
+        "ts": "1572426009.007000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Гордые платят всем",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4141418",
+                "text": "Отказ от «санкционной» еды стоит российским потребителям 445 млрд руб. в год",
+                "fallback": "Гордые платят всем",
+                "image_url": "https:\/\/im.kommersant.ru\/SocialPics\/4141418_26_1815824_478369604",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1572296400,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4141418",
+                "image_bytes": 73041,
+                "service_icon": "https:\/\/im.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4141418"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd2ff61e-7fe4-463a-8ded-6f17ed06546d",
+        "type": "message",
+        "text": "сильное заявление от :twitter:\n<https:\/\/twitter.com\/jack\/status\/1189634360472829952?s=20>",
+        "user": "U3KBYJQSF",
+        "ts": "1572469058.007700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jack|@jack>: We’ve made the decision to stop all political advertising on Twitter globally. We believe political message reach should be earned, not bought. Why? A few reasons…🧵",
+                "ts": 1572465908,
+                "author_name": "jack 🌍🌏🌎",
+                "author_link": "https:\/\/twitter.com\/jack\/status\/1189634360472829952",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1115644092329758721\/AFjOr-K8_normal.jpg",
+                "author_subname": "@jack",
+                "text": "We’ve made the decision to stop all political advertising on Twitter globally. We believe political message reach should be earned, not bought. Why? A few reasons…🧵",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/jack\/status\/1189634360472829952?s=20",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/jack\/status\/1189634360472829952?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "client_msg_id": "f0902a2f-fa00-4063-89ad-cdab2b0e3c27",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/StalinGulag\/status\/1235600669245149184>",
+        "user": "U48A8L25N",
+        "ts": "1583430494.034400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/StalinGulag|@StalinGulag>: «Жителя Калуги Ивана Любшина приговорили к пяти годам и двум месяцам колонии из-за комментария в VK. Суд признал его виновным в оправдании терроризма»\n\nУже не осталось никаких слов, чтобы описать этот пиздец. Дикие сроки за комменты стали обыденностью",
+                "ts": 1583425130,
+                "author_name": "Сталингулаг",
+                "author_link": "https:\/\/twitter.com\/StalinGulag\/status\/1235600669245149184",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/686677126729330688\/dVSWRNKr_normal.jpg",
+                "author_subname": "@StalinGulag",
+                "text": "«Жителя Калуги Ивана Любшина приговорили к пяти годам и двум месяцам колонии из-за комментария в VK. Суд признал его виновным в оправдании терроризма»\n\nУже не осталось никаких слов, чтобы описать этот пиздец. Дикие сроки за комменты стали обыденностью",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/StalinGulag\/status\/1235600669245149184",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/StalinGulag\/status\/1235600669245149184",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lttm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/StalinGulag\/status\/1235600669245149184"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c9257f6-b70c-4d9b-935a-5d4c135c4b49",
+        "type": "message",
+        "text": "а за пытки условка же)",
+        "user": "U48A8L25N",
+        "ts": "1583430717.034700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOzu\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "а за пытки условка же)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "188fc5e1-b38b-443c-aaea-79e83089ae0f",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/LazarevT13\/status\/1235597611253579777>",
+        "user": "U48A8L25N",
+        "ts": "1583430718.034900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/LazarevT13|@LazarevT13>: <https:\/\/twitter.com\/MBKhMedia|@MBKhMedia> Сотрудника ФСИН осудили условно за пытки и издевательства\n<https:\/\/www.svoboda.org\/a\/30008957.html>",
+                "ts": 1583424401,
+                "author_name": "Андрей Лазарев",
+                "author_link": "https:\/\/twitter.com\/LazarevT13\/status\/1235597611253579777",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1158185179510378496\/H9rVXmqW_normal.jpg",
+                "author_subname": "@LazarevT13",
+                "text": "<https:\/\/twitter.com\/MBKhMedia|@MBKhMedia> Сотрудника ФСИН осудили условно за пытки и издевательства\n<https:\/\/www.svoboda.org\/a\/30008957.html>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/LazarevT13\/status\/1235597611253579777",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/LazarevT13\/status\/1235597611253579777",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+yE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/LazarevT13\/status\/1235597611253579777"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34b4a71d-f568-4b22-b11b-c1e227f14d21",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4277481>",
+        "user": "U48A8L25N",
+        "ts": "1583431905.035200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В Москве введен режим повышенной готовности из-за коронавируса",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4277481",
+                "text": "Подробнее на сайте",
+                "fallback": "В Москве введен режим повышенной готовности из-за коронавируса",
+                "image_url": "https:\/\/im.kommersant.ru\/SocialPics\/4277481_26_0_1403792655",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1583431664,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4277481",
+                "image_bytes": 50897,
+                "service_icon": "https:\/\/im.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4277481"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XhY+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kommersant.ru\/doc\/4277481"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e5658e2-738b-4471-bb8e-0fbe0b2d6d77",
+        "type": "message",
+        "text": "кстати вангую что где-нибудь через 2 недели окажется что в России короновирусом заражены пару тысяч человек, просто им поставили диагноз орви",
+        "user": "UHGV9TMEZ",
+        "ts": "1583474314.036200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "54985a840d04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-13\/890761007282_54985a840d04e6fb2cb3_72.png",
+            "first_name": "Philip",
+            "real_name": "Philip Konokhov",
+            "display_name": "Efy",
+            "team": "T040HKJE3",
+            "name": "philipkonokhov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dCqWQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "кстати вангую что где-нибудь через 2 недели окажется что в России короновирусом заражены пару тысяч человек, просто им поставили диагноз орви"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N",
+                    "UELA14HSS",
+                    "U27HU84H4",
+                    "U50GQKH5J"
+                ],
+                "count": 4
+            },
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U27HU84H4",
+                    "U50GQKH5J"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

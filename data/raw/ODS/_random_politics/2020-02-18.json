@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "b14453a5-8546-40bb-8923-36a7a83fd90f",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/adagamov\/status\/1229805030028513281>",
+        "user": "U48A8L25N",
+        "ts": "1582062899.048400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1582063084.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/adagamov|@adagamov>: Место вокруг памятника Анатолию Собчаку, куда завтра приедет Путин для возложения цветов в день памяти петербургского мэра, огородили забором из бронестекла. <https:\/\/pbs.twimg.com\/media\/ERElFefXUAAAVRV.jpg>",
+                "ts": 1582043342,
+                "author_name": "Roustem Adagamov",
+                "author_link": "https:\/\/twitter.com\/adagamov\/status\/1229805030028513281",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/853555737125158912\/tmlNGV9s_normal.jpg",
+                "author_subname": "@adagamov",
+                "text": "Место вокруг памятника Анатолию Собчаку, куда завтра приедет Путин для возложения цветов в день памяти петербургского мэра, огородили забором из бронестекла. <https:\/\/pbs.twimg.com\/media\/ERElFefXUAAAVRV.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/adagamov\/status\/1229805030028513281",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/ERElFefXUAAAVRV.jpg",
+                "image_width": 1200,
+                "image_height": 900,
+                "image_bytes": 323719,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/adagamov\/status\/1229805030028513281",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0+ya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/adagamov\/status\/1229805030028513281"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "client_msg_id": "2a8c71d6-4140-4d10-bb29-b02778aed3b7",
+        "type": "message",
+        "text": "<https:\/\/www.znak.com\/2019-09-04\/v_sochi_onkobolnogo_s_suprugoy_vyselili_iz_pansionata_na_ulicu_ih_lishili_zhilya_iz_za_olimpiady_201>",
+        "user": "U48A8L25N",
+        "ts": "1567585301.023000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В Сочи онкобольного с супругой выселили из пансионата на улицу. Их лишили жилья из-за Олимпиады-2014",
+                "title_link": "https:\/\/www.znak.com\/2019-09-04\/v_sochi_onkobolnogo_s_suprugoy_vyselili_iz_pansionata_na_ulicu_ih_lishili_zhilya_iz_za_olimpiady_201",
+                "text": "В Сочи судебные приставы выселили на улицу из маневренного фонда в пансионате Нептун супружескую пару",
+                "fallback": "В Сочи онкобольного с супругой выселили из пансионата на улицу. Их лишили жилья из-за Олимпиады-2014",
+                "image_url": "https:\/\/img.znak.com\/og174770.png",
+                "from_url": "https:\/\/www.znak.com\/2019-09-04\/v_sochi_onkobolnogo_s_suprugoy_vyselili_iz_pansionata_na_ulicu_ih_lishili_zhilya_iz_za_olimpiady_201",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 216476,
+                "service_icon": "https:\/\/www.znak.com\/favicon.png",
+                "service_name": "znak.com",
+                "id": 1,
+                "original_url": "https:\/\/www.znak.com\/2019-09-04\/v_sochi_onkobolnogo_s_suprugoy_vyselili_iz_pansionata_na_ulicu_ih_lishili_zhilya_iz_za_olimpiady_201"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3ef018c-a113-4a4b-adf7-46086a9df10f",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4081331#id1781225>",
+        "user": "U48A8L25N",
+        "ts": "1567591653.023300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "СМИ: власти Гонконга объявили о снятии поправок в закон об экстрадиции",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4081331#id1781225",
+                "text": "Подробнее на сайте",
+                "fallback": "СМИ: власти Гонконга объявили о снятии поправок в закон об экстрадиции",
+                "image_url": "https:\/\/im2.kommersant.ru\/SocialPics\/4081331_26_1792357_388852236",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1567589121,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4081331#id1781225",
+                "image_bytes": 29076,
+                "service_icon": "https:\/\/im2.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4081331#id1781225"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "234c4cb9-d275-456b-8b0e-7030adc666d8",
+        "type": "message",
+        "text": "вы же не хотите чтобы как в гонконге?)",
+        "user": "U48A8L25N",
+        "ts": "1567591662.023900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "police",
+                "users": [
+                    "UFDMALG6P"
+                ],
+                "count": 1
+            },
+            {
+                "name": "povar",
+                "users": [
+                    "U27HU84H4",
+                    "UJUQAF96G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "putin",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c05a454d-068e-493e-acb3-0260fc17e745",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=5Up8yphusRE>",
+        "user": "U27HU84H4",
+        "ts": "1567618099.024400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Н.С. Михалков. Одним - можно, а другим - нельзя!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5Up8yphusRE",
+                "author_name": "Alexey Khaletski",
+                "author_link": "https:\/\/www.youtube.com\/user\/alexeykhaletski",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5Up8yphusRE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Н.С. Михалков. Одним - можно, а другим - нельзя!",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/5Up8yphusRE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5Up8yphusRE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=5Up8yphusRE"
+            }
+        ],
+        "thread_ts": "1567618099.024400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1567685320.028100",
+        "reply_users": [
+            "UGTNTEBPV"
+        ],
+        "replies": [
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1567685320.028100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N",
+                    "U27SUBTB9",
+                    "U70T87GMA",
+                    "U9GUF2PN2"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "такая маленькая белорусская оппозиция, а уже раскалывается",
+        "files": [
+            {
+                "id": "FN1E76DB2",
+                "created": 1567666153,
+                "timestamp": 1567666153,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UBRKXHMJB",
+                "editable": false,
+                "size": 163689,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FN1E76DB2\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FN1E76DB2\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN1E76DB2-86dba17b27\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN1E76DB2-86dba17b27\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN1E76DB2-86dba17b27\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 306,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN1E76DB2-86dba17b27\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 407,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN1E76DB2-86dba17b27\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN1E76DB2-86dba17b27\/image_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 611,
+                "thumb_720_h": 720,
+                "image_exif_rotation": 1,
+                "original_w": 634,
+                "original_h": 747,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UBRKXHMJB\/FN1E76DB2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FN1E76DB2-18ea023222",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UBRKXHMJB",
+        "display_as_bot": false,
+        "ts": "1567666155.024900",
+        "client_msg_id": "5dfd2084-1c0e-444b-b035-7f3174bc50e6",
+        "thread_ts": "1567666155.024900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1567679165.026400",
+        "reply_users": [
+            "UBRKXHMJB",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "UBRKXHMJB",
+                "ts": "1567667966.025400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1567679165.026400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "haha_classic",
+                "users": [
+                    "U710D2PPX",
+                    "UC7DFDJUA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

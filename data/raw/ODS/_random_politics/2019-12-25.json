@@ -1,0 +1,666 @@
+[
+    {
+        "client_msg_id": "3e04e277-4e45-4fd4-b155-e545862078f5",
+        "type": "message",
+        "text": "Вот это наброс, пишут, даже Новая Газета продалась кровавому режиму: <https:\/\/www.proekt.media\/narrative\/liberal-sergey-chemezov\/>. (Источники финансирования издания “Проект” при этом не раскрыты :kekeke: )",
+        "user": "U7CAU0GMU",
+        "ts": "1577271109.009100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Проект.",
+                "title": "Друзья по особым поручениям",
+                "title_link": "https:\/\/www.proekt.media\/narrative\/liberal-sergey-chemezov\/",
+                "text": "Сергей Чемезов и его партнеры поддерживают оппозиционные СМИ, создавая иллюзию свободы в стране и имея возможность контроля журналистов.",
+                "fallback": "Проект.: Друзья по особым поручениям",
+                "image_url": "https:\/\/proektmedia-stat.ams3.digitaloceanspaces.com\/2019\/12\/Chemezov-social.png",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1577256900,
+                "from_url": "https:\/\/www.proekt.media\/narrative\/liberal-sergey-chemezov\/",
+                "image_bytes": 147437,
+                "id": 1,
+                "original_url": "https:\/\/www.proekt.media\/narrative\/liberal-sergey-chemezov\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7LU9u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вот это наброс, пишут, даже Новая Газета продалась кровавому режиму: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.proekt.media\/narrative\/liberal-sergey-chemezov\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". (Источники финансирования издания “Проект” при этом не раскрыты "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kekeke"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577271109.009100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1577280900.013000",
+        "reply_users": [
+            "UDSEN1N2E"
+        ],
+        "replies": [
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1577280900.013000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3dafd27c-e893-45c9-887a-b916d367af0f",
+        "type": "message",
+        "text": "<@U070Y25AS> а почему тогда Керенский испугался Корнилова?",
+        "user": "UJ2JGSQ3X",
+        "ts": "1577272178.009400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1ed5ef7b8531",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-24\/616533640836_1ed5ef7b85313f46c87c_72.jpg",
+            "first_name": "eStatiq",
+            "real_name": "eStatiq Hikky",
+            "display_name": "hikky",
+            "team": "T040HKJE3",
+            "name": "andrey.vl.danilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ans57",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U070Y25AS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " а почему тогда Керенский испугался Корнилова?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS"
+    },
+    {
+        "client_msg_id": "8f460519-de8e-426a-ab4b-cc50005b7462",
+        "type": "message",
+        "text": "не владею информацией",
+        "user": "U070Y25AS",
+        "ts": "1577272198.009600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fceae7bbae9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-06-30\/7032585669_fceae7bbae9fe6bd6054_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Malev",
+            "display_name": "malev",
+            "team": "T040HKJE3",
+            "name": "malev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jNB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "не владею информацией"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS"
+    },
+    {
+        "client_msg_id": "55874f05-80a3-48b8-bb9a-b2f74cbc6405",
+        "type": "message",
+        "text": "к своему стыду не знаю, кто такой Корнилов",
+        "user": "U070Y25AS",
+        "ts": "1577272204.009800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fceae7bbae9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-06-30\/7032585669_fceae7bbae9fe6bd6054_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Malev",
+            "display_name": "malev",
+            "team": "T040HKJE3",
+            "name": "malev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vnGkn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "к своему стыду не знаю, кто такой Корнилов"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS",
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "UELA14HSS",
+                    "UJ2JGSQ3X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79ec9961-233f-4e37-8c1c-c858d39fca6a",
+        "type": "message",
+        "text": "Генерал от инфантерии Русской Армии. Керенский испугался, что он идет власть отнимать, раздал оружие ячейкам социалистических партий на заводах. За что потом и поплатился в октябре <https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5>",
+        "user": "UJ2JGSQ3X",
+        "ts": "1577272348.010000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1ed5ef7b8531",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-24\/616533640836_1ed5ef7b85313f46c87c_72.jpg",
+            "first_name": "eStatiq",
+            "real_name": "eStatiq Hikky",
+            "display_name": "hikky",
+            "team": "T040HKJE3",
+            "name": "andrey.vl.danilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ2JGSQ3X",
+            "ts": "1577272454.000000"
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7d\/Aleksandr_Fedorovich_Kerensky.jpg",
+                "image_width": 438,
+                "image_height": 637,
+                "image_bytes": 110801,
+                "title": "Корниловское выступление",
+                "title_link": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+                "from_url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/ru.wikipedia.org\/",
+                "text": "Корни́ловское выступле́ние (в советской историографии — Корниловский мятеж, Корниловщина) — неудачная попытка установления военной диктатуры, предпринятая Верховным главнокомандующим Русской Армией генералом от инфантерии Л. Г. Корниловым в августе (сентябре) 1917 года с целью восстановления в России «твёрдой власти» и предотвращения с помощью военной силы прихода к власти левых радикалов (большевиков).\nВыступление произошло на фоне острого общественно-политического кризиса в России и падения авторитета Временного правительства. В этих условиях Корнилов потребовал отставки правительства и предоставления ему чрезвычайных полномочий, выдвинув программу «спасения Родины» (милитаризация страны, ликвидация революционно-демократических организаций, введение смертной казни и т. д.), которая была в основном поддержана министром-председателем Временного правительства А. Ф. Керенским, но её осуществление было признано «несвоевременным».",
+                "fallback": "wikipedia: Корниловское выступление",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eono",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Генерал от инфантерии Русской Армии. Керенский испугался, что он идет власть отнимать, раздал оружие ячейкам социалистических партий на заводах. За что потом и поплатился в октябре "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS"
+    },
+    {
+        "client_msg_id": "2235746f-9537-4ea5-98bf-a376c870266b",
+        "type": "message",
+        "text": "&gt; к своему стыду не знаю, кто такой Корнилов\nИ вот с таким уровнем знаний люди делают глобальные выводы.",
+        "user": "U7CAU0GMU",
+        "ts": "1577274390.010500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o3Wpq",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "к своему стыду не знаю, кто такой Корнилов"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "И вот с таким уровнем знаний люди делают глобальные выводы."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS"
+    },
+    {
+        "client_msg_id": "49711c68-a729-42a8-96ef-cc4211775af3",
+        "type": "message",
+        "text": "Не зря все-таки политоту загоняют в резервацию, без хорошего багажа знаний могут получиться только холивары",
+        "user": "U7CAU0GMU",
+        "ts": "1577274421.010800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8a5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Не зря все-таки политоту загоняют в резервацию, без хорошего багажа знаний могут получиться только холивары"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS",
+        "reactions": [
+            {
+                "name": "popcorn",
+                "users": [
+                    "UELA14HSS",
+                    "U27HU84H4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a66f999-6bbb-4253-9d09-8b80d0517f55",
+        "type": "message",
+        "text": "Пишет человек, поддерживающий авторитарные режимы, основанные на лжи чуть более чем полностью.",
+        "user": "UAG21HMV4",
+        "ts": "1577274522.011000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UAG21HMV4",
+            "ts": "1577274573.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o9NVm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Пишет человек, поддерживающий авторитарные режимы, основанные на лжи чуть более чем полностью."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS",
+        "reactions": [
+            {
+                "name": "indeed",
+                "users": [
+                    "U7CAU0GMU",
+                    "U070Y25AS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pepe_clown",
+                "users": [
+                    "U7CAU0GMU",
+                    "U070Y25AS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "petushara",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b2a4ca0-9ba2-4724-aea4-37ade9d12d5c",
+        "type": "message",
+        "text": "Ну в демократических странах никто не врет и не передергивает, сплошная Правда :indeed:",
+        "user": "U7CAU0GMU",
+        "ts": "1577274681.011400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hIac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну в демократических странах никто не врет и не передергивает, сплошная Правда "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "indeed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS",
+        "reactions": [
+            {
+                "name": "pepe_clown",
+                "users": [
+                    "UAG21HMV4",
+                    "UELA14HSS"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bf816b1-53c3-4351-9d83-8316c7f70581",
+        "type": "message",
+        "text": "Надо понимать, в :pepe_clown:  зашифрованы какие-то тонкие аргументы, которые ватники типа меня понять не способны.",
+        "user": "U7CAU0GMU",
+        "ts": "1577276562.012000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Надо понимать, в "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pepe_clown"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  зашифрованы какие-то тонкие аргументы, которые ватники типа меня понять не способны."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS"
+    },
+    {
+        "client_msg_id": "e3470c43-4ed7-4ea4-8bd9-dfea56d06166",
+        "type": "message",
+        "text": "всегда была продана ему",
+        "user": "UDSEN1N2E",
+        "ts": "1577280900.013000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7ead48eb4ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/917ead48eb4ab8bcedbb454977143e60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stiv Yakovenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "stiv.yakovenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vdh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "всегда была продана ему"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577271109.009100",
+        "parent_user_id": "U7CAU0GMU",
+        "reactions": [
+            {
+                "name": "wow-pika",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E109BD57-736A-475C-B9E1-224D90F43890",
+        "type": "message",
+        "text": "<@U7CAU0GMU> мой уровень погружения достаточный, чтобы хейтить лузеров. Если вы хотите, чтобы я изменил свою точку зрения на этот вопрос, вам придётся меня образовывать и завоёвывать мою симпатию ",
+        "user": "U070Y25AS",
+        "ts": "1577283735.015100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fceae7bbae9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-06-30\/7032585669_fceae7bbae9fe6bd6054_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Malev",
+            "display_name": "malev",
+            "team": "T040HKJE3",
+            "name": "malev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U7CAU0GMU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " мой уровень погружения достаточный, чтобы хейтить лузеров. Если вы хотите, чтобы я изменил свою точку зрения на этот вопрос, вам придётся меня образовывать и завоёвывать мою симпатию "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577212555.007000",
+        "parent_user_id": "U070Y25AS",
+        "reactions": [
+            {
+                "name": "youknow",
+                "users": [
+                    "UELA14HSS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "likeaboss",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

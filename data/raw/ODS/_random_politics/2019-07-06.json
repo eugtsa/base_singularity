@@ -1,0 +1,205 @@
+[
+    {
+        "client_msg_id": "fd7b744a-8dbc-4b64-b8bc-173696130554",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/oldLentach\/status\/1147391827651305474>",
+        "user": "U48A8L25N",
+        "ts": "1562396602.242900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/oldLentach|@oldLentach>: Министерство цифрового развития РФ разработало законопроект о создании «конкурента «Википедии». \n\nДеньги на это будут выделены из федерального бюджета, подписка будет платной, а все статьи будут проходить научную проверку: <http:\/\/lentach.media\/5e04> <https:\/\/pbs.twimg.com\/media\/D-xax3_XYAAn9lL.png>",
+                "ts": 1562394503,
+                "author_name": "Лентач",
+                "author_link": "https:\/\/twitter.com\/oldLentach\/status\/1147391827651305474",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1112810676605550595\/D8_OVc-i_normal.png",
+                "author_subname": "@oldLentach",
+                "text": "Министерство цифрового развития РФ разработало законопроект о создании «конкурента «Википедии». \n\nДеньги на это будут выделены из федерального бюджета, подписка будет платной, а все статьи будут проходить научную проверку: <http:\/\/lentach.media\/5e04> <https:\/\/pbs.twimg.com\/media\/D-xax3_XYAAn9lL.png>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/oldLentach\/status\/1147391827651305474",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/D-xax3_XYAAn9lL.png",
+                "image_width": 900,
+                "image_height": 559,
+                "image_bytes": 165745,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/oldLentach\/status\/1147391827651305474",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "695ce413-bfe4-4938-a480-30652c5207fe",
+        "type": "message",
+        "text": "распильщики не дремлют)",
+        "user": "U48A8L25N",
+        "ts": "1562396613.243400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562396613.243400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1562441002.244900",
+        "reply_users": [
+            "UFDMALG6P",
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "UFDMALG6P",
+                "ts": "1562429007.244500"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1562441002.244900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8e5f9e3b-5ec3-482b-bdc9-4f5bd6580aaf",
+        "type": "message",
+        "text": "```У читателей появится альтернатива, они сами решат, кому им верить больше``` :notbad:",
+        "user": "UFDMALG6P",
+        "ts": "1562429007.244500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562396613.243400",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N",
+                    "UBRKXHMJB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf706982-7201-4135-8771-6f25cffdb274",
+        "type": "message",
+        "text": "РосПил",
+        "user": "U9ZU1CYUD",
+        "ts": "1562441002.244900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562396613.243400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "75747cdd-44b6-4fdb-952c-087275c4a422",
+        "type": "message",
+        "text": "<https:\/\/ru.wikipedia.org\/wiki\/%D0%92%D0%B5%D0%BD%D0%B5%D1%81%D1%83%D1%8D%D0%BB%D0%B0#%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81>",
+        "user": "UDSEN1N2E",
+        "ts": "1562442522.245300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7ead48eb4ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/917ead48eb4ab8bcedbb454977143e60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stiv Yakovenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "stiv.yakovenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7b\/Flag_of_Venezuela_%28state%29.svg\/1200px-Flag_of_Venezuela_%28state%29.svg.png",
+                "image_width": 1200,
+                "image_height": 800,
+                "image_bytes": 72408,
+                "title": "Венесуэла",
+                "title_link": "https:\/\/ru.wikipedia.org\/wiki\/%D0%92%D0%B5%D0%BD%D0%B5%D1%81%D1%83%D1%8D%D0%BB%D0%B0#%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81",
+                "from_url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%92%D0%B5%D0%BD%D0%B5%D1%81%D1%83%D1%8D%D0%BB%D0%B0#%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/ru.wikipedia.org\/",
+                "text": "Венесуэла, полная официальная форма — Боливариа́нская Респу́блика Венесуэ́ла (исп. República Bolivariana de Venezuela, МФА (исп.): [reˈpuβlika βoliβaˈɾjana ðe βeneˈswela]) — государство на севере Южной Америки.\nОмывается Карибским морем и Атлантическим океаном на севере, граничит с Гайаной на востоке, Бразилией — на юге и Колумбией — на западе.",
+                "fallback": "wikipedia: Венесуэла",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%92%D0%B5%D0%BD%D0%B5%D1%81%D1%83%D1%8D%D0%BB%D0%B0#%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B8%D0%B7%D0%B8%D1%81"
+            }
+        ],
+        "thread_ts": "1561479327.161600",
+        "parent_user_id": "U316J6CT1"
+    },
+    {
+        "client_msg_id": "4ef5b794-7dfd-489a-a920-7864e5c1d54b",
+        "type": "message",
+        "text": "м?",
+        "user": "U316J6CT1",
+        "ts": "1562450616.245700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561479327.161600",
+        "parent_user_id": "U316J6CT1"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "text": "тем временем становится понятно за что Россия воюет в Сирии",
+        "user": "U48A8L25N",
+        "ts": "1498504697.857827",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/kompanii-438121\/>",
+        "user": "U48A8L25N",
+        "ts": "1498504698.858260",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "«Фонтанка»: связанная с Пригожиным структура займется охраной нефтяных месторождений в Сирии",
+                "title_link": "https:\/\/tvrain.ru\/news\/kompanii-438121\/",
+                "text": "Четверть нефти и газа, на территории&amp;nbsp;подконтрольной президенту Сирии Башару&amp;nbsp;Асаду, может достаться&amp;nbsp;связанной с миллиардером Евгением Пригожиным&amp;nbsp;компании. Об этом сообщает &amp;laquo;Фонтанка&amp;raquo;.",
+                "fallback": "«Фонтанка»: связанная с Пригожиным структура займется охраной нефтяных месторождений в Сирии",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/43\/81\/21\/image.png?2017_06_26_22_13_39",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1498503843,
+                "from_url": "https:\/\/tvrain.ru\/news\/kompanii-438121\/",
+                "image_bytes": 349600,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1
+            }
+        ]
+    }
+]

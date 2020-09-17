@@ -1,0 +1,65 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/secretmag.ru\/news\/rassledovanie-dnya-kak-nauchnyi-rukovoditel-putina-stal-milliarderom-24-07-2017.htm>",
+        "user": "U04725QK7",
+        "ts": "1500895408.655772",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Секрет фирмы",
+                "title": "Расследование дня. Как научный руководитель Путина стал миллиардером",
+                "title_link": "https:\/\/secretmag.ru\/news\/rassledovanie-dnya-kak-nauchnyi-rukovoditel-putina-stal-milliarderom-24-07-2017.htm",
+                "text": "Ректор Санкт-Петербургского университета Владимир Литвиненко, под руководством которого президент России Владимир Путин защитил свою канд...",
+                "fallback": "Секрет фирмы: Расследование дня. Как научный руководитель Путина стал миллиардером",
+                "image_url": "https:\/\/secretmag.ru\/imgs\/2017\/07\/24\/11\/1348217\/ed1de5ca2c7ee8239e749c812f03ace9fe2ebc82.png",
+                "from_url": "https:\/\/secretmag.ru\/news\/rassledovanie-dnya-kak-nauchnyi-rukovoditel-putina-stal-milliarderom-24-07-2017.htm",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 47223,
+                "service_icon": "https:\/\/secretmag.ru\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "coincidence",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N",
+                    "U3NR8Q399",
+                    "U04ELQZAU",
+                    "U1MBE50E6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "spasi",
+                "users": [
+                    "U3SKM61F0",
+                    "U3NR8Q399"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

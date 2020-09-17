@@ -1,0 +1,320 @@
+[
+    {
+        "client_msg_id": "853669b3-6f27-4dea-a6e6-06203df356c8",
+        "type": "message",
+        "text": "<https:\/\/www.mk.ru\/social\/2019\/07\/11\/besprecendetnoe-reshenie-espch-pomozhet-spasti-zhertv-domashnego-nasiliya-v-rossii.html>",
+        "user": "U48A8L25N",
+        "ts": "1562870109.275200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Беспрецендетное решение ЕСПЧ поможет спасти жертв домашнего насилия в России",
+                "title_link": "https:\/\/www.mk.ru\/social\/2019\/07\/11\/besprecendetnoe-reshenie-espch-pomozhet-spasti-zhertv-domashnego-nasiliya-v-rossii.html",
+                "text": "Несколько дней назад Европейский суд вынес беспрецедентное решение по первому делу о домашнем насилии в РФ. Для ЕСПЧ история 34-летней Валерии Володиной из Ульяновска, над которой более двух лет измывался бывший возлюбленный, оказалась настолько вопиющей, что Страсбург уже анонсировал так называемое «пилотное постановление», которое призвано спасти всех российских женщин от домашних тиранов.",
+                "fallback": "Беспрецендетное решение ЕСПЧ поможет спасти жертв домашнего насилия в России",
+                "image_url": "https:\/\/static.mk.ru\/upload\/entities\/2019\/07\/11\/21\/articles\/facebookPicture\/b5\/e1\/db\/49\/851b1bb0625a93d81a3feaf1741c5062.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "from_url": "https:\/\/www.mk.ru\/social\/2019\/07\/11\/besprecendetnoe-reshenie-espch-pomozhet-spasti-zhertv-domashnego-nasiliya-v-rossii.html",
+                "image_bytes": 97231,
+                "service_icon": "https:\/\/static.mk.ru\/media\/img\/mk.ru\/____i-img\/apple-touch-icon.png",
+                "service_name": "mk.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.mk.ru\/social\/2019\/07\/11\/besprecendetnoe-reshenie-espch-pomozhet-spasti-zhertv-domashnego-nasiliya-v-rossii.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d8fed84-e5b1-4281-b7c7-308355a7ca78",
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1562870112.275400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d252366e-4cbe-4f89-8d56-b92c1eb3cea6",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4027364>",
+        "user": "U48A8L25N",
+        "ts": "1562873626.275800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Россия готовит ответ на «моральные войны»",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4027364",
+                "text": "В Совете федерации обсудили угрозу духовному суверенитету страны",
+                "fallback": "Россия готовит ответ на «моральные войны»",
+                "image_url": "https:\/\/im8.kommersant.ru\/SocialPics\/4027364_26_1771973_1659507807",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1562878800,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4027364",
+                "image_bytes": 31885,
+                "service_icon": "https:\/\/im2.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4027364"
+            }
+        ],
+        "thread_ts": "1562873626.275800",
+        "reply_count": 13,
+        "reply_users_count": 5,
+        "latest_reply": "1562967229.282100",
+        "reply_users": [
+            "U5H0L5T98",
+            "U48A8L25N",
+            "UFDMALG6P",
+            "U9ZU1CYUD",
+            "U43QVTY49"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562877210.277300"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562877238.277600"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562877315.277800"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562877341.278000"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562877426.278200"
+            },
+            {
+                "user": "UFDMALG6P",
+                "ts": "1562947327.278500"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1562957987.278700"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1562958017.278900"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562959055.280200"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562959401.280600"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562959441.281000"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1562962904.281900"
+            },
+            {
+                "user": "U43QVTY49",
+                "ts": "1562967229.282100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1f725932-5543-4df3-b537-8d9467bd9091",
+        "type": "message",
+        "text": "совсем шизанулись)",
+        "user": "U48A8L25N",
+        "ts": "1562873631.276200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "030671b5-0e01-4cff-af8c-62bf031b31aa",
+        "type": "message",
+        "text": "Россия наносит ответный удар :facepunch: нас окружают войска НАТО!",
+        "user": "U5H0L5T98",
+        "ts": "1562877210.277300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562873626.275800",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18541521-b46c-4bf6-9f6f-35e92d4ad2b7",
+        "type": "message",
+        "text": "Россия мутузит себя, чтобы враги боялись)",
+        "user": "U48A8L25N",
+        "ts": "1562877238.277600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562873626.275800",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "e79e3f9c-c571-4909-bc17-59c220f1421b",
+        "type": "message",
+        "text": "реально, выглядит будто идиоты в правительстве не знают в какую сторону рвать)",
+        "user": "U48A8L25N",
+        "ts": "1562877315.277800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562873626.275800",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "d9dfbc84-f8cb-4c05-b708-52d546cdf73e",
+        "type": "message",
+        "text": "и за духовность и за империю и за руский мир)",
+        "user": "U48A8L25N",
+        "ts": "1562877341.278000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562873626.275800",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "771b6160-5f0d-4361-ad45-84ebf0adc644",
+        "type": "message",
+        "text": "Да ты я смотрю открыл глаза :face_with_rolling_eyes:",
+        "user": "U5H0L5T98",
+        "ts": "1562877426.278200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562873626.275800",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

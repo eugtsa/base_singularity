@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/www.bbc.com\/news\/world-asia-42549687>",
+        "user": "U5H055U0J",
+        "ts": "1514970009.000158",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bf00847de62a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/791723789078_bf00847de62af24e7247_72.jpg",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BBC News",
+                "title": "Trump to Kim: My button's bigger than yours",
+                "title_link": "http:\/\/www.bbc.com\/news\/world-asia-42549687",
+                "text": "The president's tweet is the latest in the war of words between the two nuclear-armed leaders.",
+                "fallback": "BBC News: Trump to Kim: My button's bigger than yours",
+                "image_url": "https:\/\/ichef-1.bbci.co.uk\/news\/1024\/cpsprodpb\/2746\/production\/_99445001_istock-585171778.jpg",
+                "from_url": "http:\/\/www.bbc.com\/news\/world-asia-42549687",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 26389,
+                "service_icon": "http:\/\/static.bbci.co.uk\/news\/1.223.02234\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    }
+]

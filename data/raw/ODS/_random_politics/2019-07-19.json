@@ -1,0 +1,182 @@
+[
+    {
+        "client_msg_id": "f10f905f-4ec9-4b05-8429-9ff5f54f7eb0",
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/v_moskve_k_odnopoloj_pare_vospityvajuschej_priemnyh_detej_prishli_s_obyskami-489875\/>",
+        "user": "U48A8L25N",
+        "ts": "1563533629.300300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В Москве к однополой паре, воспитывающей приемных детей, пришли с обысками",
+                "title_link": "https:\/\/tvrain.ru\/news\/v_moskve_k_odnopoloj_pare_vospityvajuschej_priemnyh_detej_prishli_s_obyskami-489875\/",
+                "text": "В Москве пришли с обысками к двум мужчинам, которые воспитывают приемных детей. Об этом Дождю сообщили в ЛГБТ-группе «Стимул».",
+                "fallback": "В Москве к однополой паре, воспитывающей приемных детей, пришли с обысками",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/48\/98\/75\/image.png?2019_07_19_13_38_57",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1563532734,
+                "from_url": "https:\/\/tvrain.ru\/news\/v_moskve_k_odnopoloj_pare_vospityvajuschej_priemnyh_detej_prishli_s_obyskami-489875\/",
+                "image_bytes": 57641,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/news\/v_moskve_k_odnopoloj_pare_vospityvajuschej_priemnyh_detej_prishli_s_obyskami-489875\/"
+            }
+        ],
+        "thread_ts": "1563533629.300300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1563537393.300700",
+        "reply_users": [
+            "U7VBNMG2F",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U7VBNMG2F",
+                "ts": "1563537343.300500"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1563537393.300700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1db80f21-8eb2-45af-b8f1-90d4d6e6c11f",
+        "type": "message",
+        "text": "Там же, вроде, ещё на каких-то социальных работников завели дело о халатности, потому что они не донесли никуда",
+        "user": "U7VBNMG2F",
+        "ts": "1563537343.300500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0ecf4eee4f5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/920ecf4eee4f580b9c72339632df3661.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Lymar",
+            "display_name": "Yoptar",
+            "team": "T040HKJE3",
+            "name": "yoptar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563533629.300300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "c89b690b-2cfa-4cbb-a64c-8670e0a872cc",
+        "type": "message",
+        "text": "недонос :yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1563537393.300700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563533629.300300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "5b1202e0-6907-47c1-bd4a-0330f461b168",
+        "type": "message",
+        "text": "<https:\/\/echo.msk.ru\/blog\/aillar\/2467157-echo\/>",
+        "user": "U48A8L25N",
+        "ts": "1563562097.301000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Эхо Москвы",
+                "title": "Блоги \/ Андрей Илларионов: А вот и признание российского МИДа",
+                "title_link": "https:\/\/echo.msk.ru\/blog\/aillar\/2467157-echo\/",
+                "text": "Судя по тому, что Грушко воспользовался той же формулой о конфиденциальности ведущихся переговоров, их предметом, очевидно, являются вопросы компенсаций родственникам жертв, погибших 17 июля 2014 года…",
+                "fallback": "Эхо Москвы: Блоги \/ Андрей Илларионов: А вот и признание российского МИДа",
+                "image_url": "https:\/\/cdn.echo.msk.ru\/files\/3130485.jpg",
+                "from_url": "https:\/\/echo.msk.ru\/blog\/aillar\/2467157-echo\/",
+                "image_width": 405,
+                "image_height": 250,
+                "image_bytes": 22346,
+                "service_icon": "https:\/\/echo.msk.ru\/favicon.ico?echo",
+                "id": 1,
+                "original_url": "https:\/\/echo.msk.ru\/blog\/aillar\/2467157-echo\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b03254c-4b9d-4a2c-b0f5-bc8b38e0c945",
+        "type": "message",
+        "text": "<https:\/\/www.bbc.com\/russian\/features-49050982>",
+        "user": "U48A8L25N",
+        "ts": "1563566910.301300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BBC News Русская служба",
+                "title": "Москит, Надежда, Наутилус: хакеры раскрыли суть проектов тайного подрядчика ФСБ",
+                "title_link": "https:\/\/www.bbc.com\/russian\/features-49050982",
+                "text": "Хакеры взломали сервер крупного подрядчика российских спецслужб и ведомств, а затем поделились с журналистами описаниями десятков непубличных проектов в области интернета: от деанонимизации пользователей браузера Tor до исследования уязвимости торрентов.",
+                "fallback": "BBC News Русская служба: Москит, Надежда, Наутилус: хакеры раскрыли суть проектов тайного подрядчика ФСБ",
+                "image_url": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_russian\/4DAC\/production\/_107948891_b3573891-f88b-446c-9426-4e8575e2f2f8.jpg",
+                "from_url": "https:\/\/www.bbc.com\/russian\/features-49050982",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 49061,
+                "service_icon": "https:\/\/static.bbc.co.uk\/news\/1.284.03349\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bbc.com\/russian\/features-49050982"
+            }
+        ]
+    }
+]

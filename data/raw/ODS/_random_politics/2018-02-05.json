@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/svoboda_interneta_v_rossii-456838\/>",
+        "user": "U48A8L25N",
+        "ts": "1517820865.000317",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "«Агора» заявила об усилении давления на свободу интернета в России",
+                "title_link": "https:\/\/tvrain.ru\/news\/svoboda_interneta_v_rossii-456838\/",
+                "text": "В&amp;nbsp;2017 году в&amp;nbsp;рунете в&amp;nbsp;среднем ежедневно блокировали 244 страницы, пользователи сети раз в&amp;nbsp;шесть дней становились целью нападений или получали угрозы, раз в&amp;nbsp;восемь дней суд приговаривал людей к&amp;nbsp;реальному сроку за&amp;nbsp;действия в&amp;nbsp;интернете. Об&amp;nbsp;этом говорится в&amp;nbsp;сообщении международной правозащитной группы&amp;nbsp;&amp;laquo;Агора&amp;raquo;, поступившем в распоряжение Дождя.",
+                "fallback": "«Агора» заявила об усилении давления на свободу интернета в России",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/45\/68\/38\/image.png?2018_02_05_11_13_16",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1517816746,
+                "from_url": "https:\/\/tvrain.ru\/news\/svoboda_interneta_v_rossii-456838\/",
+                "image_bytes": 306244,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "you-dont-say",
+                "users": [
+                    "U6NSQ80GN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

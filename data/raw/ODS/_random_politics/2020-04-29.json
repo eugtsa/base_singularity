@@ -1,0 +1,262 @@
+[
+    {
+        "client_msg_id": "c3c22e73-366e-4036-a982-72151044acff",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/short\/2020\/04\/29\/v-kakih-regionah-rossii-ministry-zdravoohraneniya-ushli-v-otstavku-vo-vremya-epidemii-covid-19-spisok>",
+        "user": "UGTNTEBPV",
+        "ts": "1588156258.094500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "В каких регионах России министры здравоохранения ушли в отставку во время эпидемии COVID-19. Список — Meduza",
+                "title_link": "https:\/\/meduza.io\/short\/2020\/04\/29\/v-kakih-regionah-rossii-ministry-zdravoohraneniya-ushli-v-otstavku-vo-vremya-epidemii-covid-19-spisok",
+                "fallback": "Meduza: В каких регионах России министры здравоохранения ушли в отставку во время эпидемии COVID-19. Список — Meduza",
+                "image_url": "https:\/\/meduza.io\/image\/attachments\/images\/005\/465\/798\/original\/QO3sJNe9pPrdO68NNsykdg.png",
+                "image_width": 475,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/short\/2020\/04\/29\/v-kakih-regionah-rossii-ministry-zdravoohraneniya-ushli-v-otstavku-vo-vremya-epidemii-covid-19-spisok",
+                "image_bytes": 135722,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/short\/2020\/04\/29\/v-kakih-regionah-rossii-ministry-zdravoohraneniya-ushli-v-otstavku-vo-vremya-epidemii-covid-19-spisok"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TA5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/short\/2020\/04\/29\/v-kakih-regionah-rossii-ministry-zdravoohraneniya-ushli-v-otstavku-vo-vremya-epidemii-covid-19-spisok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db32c7b0-d009-47bb-ae30-89b318bf5b9c",
+        "type": "message",
+        "text": ":rospil: :female-doctor: :putout:\n\"Авторы проекта хотят выяснить, есть ли типичные для российского этноса «генетические поломки», которые можно выявить и затем отредактировать.\"\n\"Эти русские сломались, несите новых.\" Интересно, а удмуртов и калмыков исследование коснется?\n<https:\/\/meduza.io\/feature\/2020\/04\/29\/starshaya-doch-putina-mariya-vorontsova-stanet-kuratorom-proekta-po-geneticheskomu-analizu-rossiyan-rosneft-vlozhit-v-issledovaniya-do-milliarda-dollarov>",
+        "user": "UELA14HSS",
+        "ts": "1588167697.096500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f57d2c5ea770",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-04\/495013890082_f57d2c5ea770b73ea694_72.jpg",
+            "first_name": "Grigoriy",
+            "real_name": "Grigoriy Rashkov",
+            "display_name": "logogriph",
+            "team": "T040HKJE3",
+            "name": "rashkov079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UELA14HSS",
+            "ts": "1588167910.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Старшая дочь Путина Мария Воронцова станет куратором проекта по генетическому анализу россиян. «Роснефть» вложит в исследования до миллиарда долларов Главное из расследования «Русской службы Би-би-си» — Meduza",
+                "title_link": "https:\/\/meduza.io\/feature\/2020\/04\/29\/starshaya-doch-putina-mariya-vorontsova-stanet-kuratorom-proekta-po-geneticheskomu-analizu-rossiyan-rosneft-vlozhit-v-issledovaniya-do-milliarda-dollarov",
+                "text": "Детский эндокринолог, предполагаемая старшая дочь Владимира Путина Мария Воронцова и компания «Роснефть» займутся созданием центра генетических исследований. Об этом сообщает «Русская служба Би-би-си» со ссылкой на источники.",
+                "fallback": "Meduza: Старшая дочь Путина Мария Воронцова станет куратором проекта по генетическому анализу россиян. «Роснефть» вложит в исследования до миллиарда долларов Главное из расследования «Русской службы Би-би-си» — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1588162237\/feature\/2020\/04\/29\/starshaya-doch-putina-mariya-vorontsova-stanet-kuratorom-proekta-po-geneticheskomu-analizu-rossiyan-rosneft-vlozhit-v-issledovaniya-do-milliarda-dollarov",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/feature\/2020\/04\/29\/starshaya-doch-putina-mariya-vorontsova-stanet-kuratorom-proekta-po-geneticheskomu-analizu-rossiyan-rosneft-vlozhit-v-issledovaniya-do-milliarda-dollarov",
+                "image_bytes": 346661,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/feature\/2020\/04\/29\/starshaya-doch-putina-mariya-vorontsova-stanet-kuratorom-proekta-po-geneticheskomu-analizu-rossiyan-rosneft-vlozhit-v-issledovaniya-do-milliarda-dollarov"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HFlP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rospil"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "female-doctor"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "putout"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"Авторы проекта хотят выяснить, есть ли типичные для российского этноса «генетические поломки», которые можно выявить и затем отредактировать.\"\n\"Эти русские сломались, несите новых.\" Интересно, а удмуртов и калмыков исследование коснется?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/feature\/2020\/04\/29\/starshaya-doch-putina-mariya-vorontsova-stanet-kuratorom-proekta-po-geneticheskomu-analizu-rossiyan-rosneft-vlozhit-v-issledovaniya-do-milliarda-dollarov"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588167697.096500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1588792780.108800",
+        "reply_users": [
+            "UQRRC9GCD"
+        ],
+        "replies": [
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1588792780.108800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rospil",
+                "users": [
+                    "UCQ1YNU9M",
+                    "U1TJJJZQ8",
+                    "U27SUBTB9",
+                    "UJGV816FM",
+                    "UDE5GJXAA",
+                    "U9GUF2PN2",
+                    "U703EJR2N"
+                ],
+                "count": 7
+            },
+            {
+                "name": "povar",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "oil_drum",
+                "users": [
+                    "U70T87GMA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ban",
+                "users": [
+                    "U36Q9NJMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca414708-5a08-42db-a457-7526bf94b165",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=7krHon1ykx0>",
+        "user": "U27HU84H4",
+        "ts": "1588184083.098300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Золотой дворец вашего любимого доктора",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=7krHon1ykx0",
+                "author_name": "Алексей Навальный",
+                "author_link": "https:\/\/www.youtube.com\/user\/NavalnyRu",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/7krHon1ykx0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Золотой дворец вашего любимого доктора",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/7krHon1ykx0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=7krHon1ykx0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=7krHon1ykx0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NWUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=7krHon1ykx0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588184083.098300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1588792713.108500",
+        "reply_users": [
+            "UQRRC9GCD"
+        ],
+        "replies": [
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1588792713.108500"
+            }
+        ],
+        "subscribed": false
+    }
+]

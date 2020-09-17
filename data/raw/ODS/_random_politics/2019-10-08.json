@@ -1,0 +1,716 @@
+[
+    {
+        "client_msg_id": "06b20db8-26bd-429f-b9f8-c2bc3e764094",
+        "type": "message",
+        "text": "<https:\/\/trv-science.ru\/2019\/10\/02\/apellyacii-po-kandidaturam-v-chleny-ran\/>",
+        "user": "U27HU84H4",
+        "ts": "1570523199.079900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "feelsgoodmeme",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e81abf7a-91b1-4111-8bbb-398b183ffc84",
+        "type": "message",
+        "text": "<https:\/\/dtf.ru\/esport\/74117-blizzard-diskvalificirovala-igroka-s-turnira-po-hearthstone-iz-za-ego-prizyva-osvobodit-gonkong-v-intervyu-posle-matcha?utm_campaign=na-proshedshem-etape-krupneyshego-turnira-p>",
+        "user": "U48A8L25N",
+        "ts": "1570526195.080300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DTF",
+                "title": "Blizzard дисквалифицировала игрока с турнира по Hearthstone из-за его призыва освободить Гонконг в интервью после матча — Киберспорт на DTF",
+                "title_link": "https:\/\/dtf.ru\/esport\/74117-blizzard-diskvalificirovala-igroka-s-turnira-po-hearthstone-iz-za-ego-prizyva-osvobodit-gonkong-v-intervyu-posle-matcha?utm_campaign=na-proshedshem-etape-krupneyshego-turnira-p",
+                "text": "Никаких призовых он теперь тоже не получит.",
+                "fallback": "DTF: Blizzard дисквалифицировала игрока с турнира по Hearthstone из-за его призыва освободить Гонконг в интервью после матча — Киберспорт на DTF",
+                "image_url": "https:\/\/dtf.ru\/cover\/tw\/c\/74117\/1570520027\/cover.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1570520027,
+                "from_url": "https:\/\/dtf.ru\/esport\/74117-blizzard-diskvalificirovala-igroka-s-turnira-po-hearthstone-iz-za-ego-prizyva-osvobodit-gonkong-v-intervyu-posle-matcha?utm_campaign=na-proshedshem-etape-krupneyshego-turnira-p",
+                "image_bytes": 157405,
+                "service_icon": "https:\/\/static-osnova.gcdn.co\/static\/build\/dtf.ru\/favicons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/dtf.ru\/esport\/74117-blizzard-diskvalificirovala-igroka-s-turnira-po-hearthstone-iz-za-ego-prizyva-osvobodit-gonkong-v-intervyu-posle-matcha?utm_campaign=na-proshedshem-etape-krupneyshego-turnira-p"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a4ea54a-90fa-4c5b-b7bb-cbd665b7ee32",
+        "type": "message",
+        "text": "<https:\/\/mobile.twitter.com\/SouthPark\/status\/1181273539799736320>\n\nДань, я тебе мем принес",
+        "user": "U74DLUWUC",
+        "ts": "1570531465.081000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/SouthPark|@SouthPark>: Watch the full episode - <https:\/\/cart.mn\/sp-2302>\n\n<https:\/\/twitter.com\/THR|@THR> article - <https:\/\/cart.mn\/china> <https:\/\/pbs.twimg.com\/media\/EGS6BaHVUAEjRaL.jpg>",
+                "ts": 1570472533,
+                "author_name": "South Park",
+                "author_link": "https:\/\/twitter.com\/SouthPark\/status\/1181273539799736320",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1181350049378394112\/QU3EIcV2_normal.jpg",
+                "author_subname": "@SouthPark",
+                "text": "Watch the full episode - <https:\/\/cart.mn\/sp-2302>\n\n<https:\/\/twitter.com\/THR|@THR> article - <https:\/\/cart.mn\/china> <https:\/\/pbs.twimg.com\/media\/EGS6BaHVUAEjRaL.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/mobile.twitter.com\/SouthPark\/status\/1181273539799736320",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EGS6BaHVUAEjRaL.jpg",
+                "image_width": 857,
+                "image_height": 1200,
+                "image_bytes": 153699,
+                "id": 1,
+                "original_url": "https:\/\/mobile.twitter.com\/SouthPark\/status\/1181273539799736320",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U48A8L25N",
+                    "U27SUBTB9",
+                    "UAG21HMV4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52b88afc-65a4-404b-98ab-b7e91e507598",
+        "type": "message",
+        "text": "но ты старался, я это ценю",
+        "user": "U48A8L25N",
+        "ts": "1570531634.081500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1dedfff3-6961-43ed-9161-afca32b06871",
+        "type": "message",
+        "text": ":idk:",
+        "user": "U74DLUWUC",
+        "ts": "1570531667.082000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F409FF2D-1415-4C46-A471-028091DF9689",
+        "type": "message",
+        "text": "Даже не знаю, от кого тошнит больше: от игрока или от близзов. ",
+        "user": "UFUKQMV5K",
+        "ts": "1570537390.083300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8a91a2a07c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/108a91a2a07c545511a5b00252d64020.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Leonid An",
+            "display_name": "Pharmakon",
+            "team": "T040HKJE3",
+            "name": "linguist.5113",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a06d714c-53f7-46a2-8bbb-ba70152652e2",
+        "type": "message",
+        "text": "близы охуевшие как обычно",
+        "user": "U48A8L25N",
+        "ts": "1570537971.083700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "13B0D94A-29E5-47FA-8141-DFC686376A1D",
+        "type": "message",
+        "text": "Как обладатель 4 забаненных аккаунтов подтверждаю.",
+        "user": "UFUKQMV5K",
+        "ts": "1570538053.084500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8a91a2a07c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/108a91a2a07c545511a5b00252d64020.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Leonid An",
+            "display_name": "Pharmakon",
+            "team": "T040HKJE3",
+            "name": "linguist.5113",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFUKQMV5K",
+            "ts": "1570538069.000000"
+        }
+    },
+    {
+        "client_msg_id": "3f0ee291-69cc-4757-b096-29c788aaf36c",
+        "type": "message",
+        "text": "я тоже пару аков проебал)",
+        "user": "U48A8L25N",
+        "ts": "1570538076.085000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "217474E9-56EB-45F6-91EC-B2E94765A483",
+        "type": "message",
+        "text": "Я шучу, что у меня в Overwatch подписка как в WOW. :slightly_smiling_face:",
+        "user": "UFUKQMV5K",
+        "ts": "1570538122.085900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8a91a2a07c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/108a91a2a07c545511a5b00252d64020.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Leonid An",
+            "display_name": "Pharmakon",
+            "team": "T040HKJE3",
+            "name": "linguist.5113",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "024024c0-945f-438a-8077-97546de5a47d",
+        "type": "message",
+        "text": "еретик",
+        "user": "U48A8L25N",
+        "ts": "1570538157.086200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7607FA34-9EFB-4468-9544-A39920C8B001",
+        "type": "message",
+        "text": "Скорее :toxic: ",
+        "user": "UFUKQMV5K",
+        "ts": "1570538178.086600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8a91a2a07c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/108a91a2a07c545511a5b00252d64020.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Leonid An",
+            "display_name": "Pharmakon",
+            "team": "T040HKJE3",
+            "name": "linguist.5113",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a121a84f-3d15-4658-a827-677f5e02af68",
+        "type": "message",
+        "text": "<https:\/\/www.vedomosti.ru\/politics\/news\/2019\/10\/08\/813159-zakonoproekt>",
+        "user": "U48A8L25N",
+        "ts": "1570550939.086900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Сенатор Клишас предложил блокировать пользователей мессенджеров",
+                "title_link": "https:\/\/www.vedomosti.ru\/politics\/news\/2019\/10\/08\/813159-zakonoproekt",
+                "text": "В Госдуму внесли проект закона о блокировке пользователей e-mail-сервисов и мессенджеров, распространяющих запрещенную в России информацию. Об этом сообщает «РИА Новости» со ссылкой на председателя комитета Совета Федерации по конституционному законодательству Андрея Клишаса, являющегося одним из авторов документа. Соавторами законопроекта являются также сенаторы Александр Башкин, Людмила Бокова и Александр Карлин.",
+                "fallback": "Сенатор Клишас предложил блокировать пользователей мессенджеров",
+                "image_url": "https:\/\/sharing.vedomosti.ru\/1570545701\/vedomosti.ru\/politics\/news\/2019\/10\/08\/813159-zakonoproekt.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1570543775,
+                "from_url": "https:\/\/www.vedomosti.ru\/politics\/news\/2019\/10\/08\/813159-zakonoproekt",
+                "image_bytes": 73181,
+                "service_name": "vedomosti.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.vedomosti.ru\/politics\/news\/2019\/10\/08\/813159-zakonoproekt"
+            }
+        ],
+        "thread_ts": "1570550939.086900",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1570556901.090400",
+        "reply_users": [
+            "U74DLUWUC",
+            "UFUKQMV5K",
+            "U48A8L25N",
+            "UGTNTEBPV"
+        ],
+        "replies": [
+            {
+                "user": "U74DLUWUC",
+                "ts": "1570551012.087100"
+            },
+            {
+                "user": "UFUKQMV5K",
+                "ts": "1570552087.087800"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1570552279.088000"
+            },
+            {
+                "user": "UFUKQMV5K",
+                "ts": "1570552366.088400"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1570556607.090200"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1570556901.090400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "065fc080-553e-4a29-b5e1-cdcdf329e833",
+        "type": "message",
+        "text": "Анус пусть себе заблокирует",
+        "user": "U74DLUWUC",
+        "ts": "1570551012.087100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570550939.086900",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E4DFD445-BA53-4C80-839A-4A2BF98D0515",
+        "type": "message",
+        "text": "Что там с анальными зондами? Долго ждать?",
+        "user": "UFUKQMV5K",
+        "ts": "1570552087.087800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8a91a2a07c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/108a91a2a07c545511a5b00252d64020.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Leonid An",
+            "display_name": "Pharmakon",
+            "team": "T040HKJE3",
+            "name": "linguist.5113",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570550939.086900",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "9b54b8d8-decf-4638-aece-f130536e35ae",
+        "type": "message",
+        "text": "нетерпение?)",
+        "user": "U48A8L25N",
+        "ts": "1570552279.088000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570550939.086900",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "6694DA2C-0295-41FF-BFF0-6EE10CC213DE",
+        "type": "message",
+        "text": "Тревожное предчувствие. ",
+        "user": "UFUKQMV5K",
+        "ts": "1570552366.088400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8a91a2a07c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/108a91a2a07c545511a5b00252d64020.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Leonid An",
+            "display_name": "Pharmakon",
+            "team": "T040HKJE3",
+            "name": "linguist.5113",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570550939.086900",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe88bd2c-62c4-4540-9c83-cca753d4bfe6",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/paragraph\/2019\/10\/08\/senator-andrey-klimov-rasskazal-kak-otrazili-mozaichnuyu-ataku-na-rossiyskie-vybory-maksimalno-korotko>",
+        "user": "U48A8L25N",
+        "ts": "1570554951.088800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Сенатор Андрей Климов рассказал, как отразили «мозаичную» атаку на российские выборы. Максимально коротко — Meduza",
+                "title_link": "https:\/\/meduza.io\/paragraph\/2019\/10\/08\/senator-andrey-klimov-rasskazal-kak-otrazili-mozaichnuyu-ataku-na-rossiyskie-vybory-maksimalno-korotko",
+                "fallback": "Meduza: Сенатор Андрей Климов рассказал, как отразили «мозаичную» атаку на российские выборы. Максимально коротко — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1570550861\/paragraph\/2019\/10\/08\/senator-andrey-klimov-rasskazal-kak-otrazili-mozaichnuyu-ataku-na-rossiyskie-vybory-maksimalno-korotko",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/paragraph\/2019\/10\/08\/senator-andrey-klimov-rasskazal-kak-otrazili-mozaichnuyu-ataku-na-rossiyskie-vybory-maksimalno-korotko",
+                "image_bytes": 455948,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/paragraph\/2019\/10\/08\/senator-andrey-klimov-rasskazal-kak-otrazili-mozaichnuyu-ataku-na-rossiyskie-vybory-maksimalno-korotko"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29bb4958-7e72-418e-a9c3-326457ba2fac",
+        "type": "message",
+        "text": "пздц",
+        "user": "U48A8L25N",
+        "ts": "1570554953.089200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c898757c-68a0-4901-a922-d7ce75871dc4",
+        "type": "message",
+        "text": "одни лозунги, причем максимально дешевые",
+        "user": "U48A8L25N",
+        "ts": "1570554969.089600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570554969.089600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1570572477.090800",
+        "reply_users": [
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1570572477.090800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6a38a31b-d1fc-4c1d-9da2-baa39f003dbd",
+        "type": "message",
+        "text": "Если примут, то это капздец. У нас пол страны пишет про нашу власть запрещённую информацию в мессенджерах.",
+        "user": "UGTNTEBPV",
+        "ts": "1570556607.090200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570550939.086900",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "45edc9bd-c8c6-4d21-a14c-b7b9f7ee82df",
+        "type": "message",
+        "text": "Ладно, разговоры на кухне запретить невозможно.",
+        "user": "UGTNTEBPV",
+        "ts": "1570556901.090400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1570556910.000000"
+        },
+        "thread_ts": "1570550939.086900",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "9672ffb8-44f3-47c4-af86-b34af836d680",
+        "type": "message",
+        "text": "Если народ тупой то зачем изощряться?",
+        "user": "U9ZU1CYUD",
+        "ts": "1570572477.090800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570554969.089600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N",
+                    "U5H0L5T98"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

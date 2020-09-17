@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.gazeta.ru\/business\/news\/2017\/07\/07\/n_10273814.shtml>",
+        "user": "U48A8L25N",
+        "ts": "1499412244.949194",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Газета.Ru",
+                "title": "Siemens расследует сообщения о закупке турбин для Крыма",
+                "title_link": "https:\/\/www.gazeta.ru\/business\/news\/2017\/07\/07\/n_10273814.shtml",
+                "text": "Руководство компании Siemens сообщило о начале расследования после сообщений о закупке «Технопромэкспортом» турбин для энергообъектов в Крыму, передает Reuters .",
+                "fallback": "Газета.Ru: Siemens расследует сообщения о закупке турбин для Крыма",
+                "image_url": "https:\/\/www.gazeta.ru\/nm2015\/preview\/business\/news\/2017\/07\/07\/n_10273814.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.gazeta.ru\/business\/news\/2017\/07\/07\/n_10273814.shtml",
+                "image_bytes": 63080,
+                "service_icon": "http:\/\/static.gazeta.ru\/nm2012\/i\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt;&gt;В компании отметили, что в случае перенаправлений недавно приобретенных турбин в Крым, это будет означать нарушение актуальных соглашений, для предотвращения которого «были предприняты все возможные законные меры».",
+        "user": "U48A8L25N",
+        "ts": "1499412283.960779",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/lenta.ru\/news\/2017\/07\/07\/inoagenty\/>",
+        "user": "U48A8L25N",
+        "ts": "1499430003.876120",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Из сельских библиотек негласно изъяли подаренные фондом Сороса книги Солженицына",
+                "title_link": "https:\/\/lenta.ru\/news\/2017\/07\/07\/inoagenty\/",
+                "text": "В сельские библиотеки Архангельской области поступило негласное распоряжение изъять все книги, закупленные и переданные им в дар фондом Сороса. Об этом сообщил старший научный сотрудник Института русской литературы РАН Алексей Балакин. Речь идет о произведениях Солженицына, Пушкина, Достоевского и Чехова.",
+                "fallback": "Из сельских библиотек негласно изъяли подаренные фондом Сороса книги Солженицына",
+                "image_url": "https:\/\/icdn.lenta.ru\/images\/2017\/07\/07\/14\/20170707144920953\/detail_395da3f9c98c6551b6fc10b6ee018136.jpg",
+                "from_url": "https:\/\/lenta.ru\/news\/2017\/07\/07\/inoagenty\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 110528,
+                "service_icon": "https:\/\/icdn.lenta.ru\/lenta_touch.png",
+                "service_name": "lenta.ru",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1499430007.877840",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1445068798.000002",
+        "user": "U070Y25AS",
+        "text": "<@U070Y25AS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1445068798.000003",
+        "user": "U070Y25AS",
+        "text": "<@U070Y25AS> set the channel purpose: channel for politics discussion.",
+        "purpose": "channel for politics discussion."
+    },
+    {
+        "type": "message",
+        "text": "<@U06J1LG1M>: <@U0AJU5AMA>",
+        "user": "U070Y25AS",
+        "ts": "1445068808.000004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fceae7bbae9f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2015-06-30\/7032585669_fceae7bbae9fe6bd6054_72.jpg",
+            "first_name": "Kirill",
+            "real_name": "Kirill Malev",
+            "display_name": "malev",
+            "team": "T040HKJE3",
+            "name": "malev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1445074214.000005",
+        "user": "U04CH4QBD",
+        "text": "<@U04CH4QBD> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1445075840.000006",
+        "user": "U065VP6F7",
+        "text": "<@U065VP6F7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1445090511.000007",
+        "user": "U0AJU5AMA",
+        "text": "<@U0AJU5AMA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1445094634.000008",
+        "user": "U0873FY94",
+        "text": "<@U0873FY94> has joined the channel"
+    }
+]

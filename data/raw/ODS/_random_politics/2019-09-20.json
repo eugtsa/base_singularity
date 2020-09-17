@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "4639862c-fa13-497a-ab14-811e81ff4ac2",
+        "type": "message",
+        "text": "Не пытайся покинуть Беларусь :feelsgoodmeme:\n\n<https:\/\/news.tut.by\/society\/654150.html>",
+        "user": "UBRKXHMJB",
+        "ts": "1568988656.055500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de59d1f494ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-10\/597490261649_de59d1f494ad69f0a2c2_72.jpg",
+            "first_name": "Daniil",
+            "real_name": "Daniil Barysevich",
+            "display_name": "devvindan",
+            "team": "T040HKJE3",
+            "name": "devvindan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TUT.BY",
+                "title": "Подростку отказали в паспорте серии РР для репатриации. Для военкомата он в 15 уже призывник",
+                "title_link": "https:\/\/news.tut.by\/society\/654150.html",
+                "text": "Семья жителя Витебска хотела получить паспорта серии РР. Но процесс застопорился из-за 15-летнего сына. В военкомате сообщили: раз парень — призывник, справка для такого паспорта ему не положена. «Сыну 15, какой он призывник?» — возмущен отец.",
+                "fallback": "TUT.BY: Подростку отказали в паспорте серии РР для репатриации. Для военкомата он в 15 уже призывник",
+                "image_url": "https:\/\/dh.img.tyt.by\/1200x630s\/n\/vasilkov\/0b\/e\/og_654150_pechi_prisyaga_vas_tutby_phsl_10122016_img_1443.jpg?1568986182",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1568982420,
+                "from_url": "https:\/\/news.tut.by\/society\/654150.html",
+                "image_bytes": 133894,
+                "service_icon": "https:\/\/news.tut.by\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/news.tut.by\/society\/654150.html"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "lukashenko",
+                "users": [
+                    "U27HU84H4",
+                    "U48A8L25N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flag-by",
+                "users": [
+                    "U27HU84H4",
+                    "U48A8L25N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "petr-west",
+                "users": [
+                    "U27HU84H4",
+                    "U48A8L25N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1861215-9950-40b1-b74f-ad3b5a8451d7",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/BL6KU0aTZik>",
+        "user": "U27HU84H4",
+        "ts": "1568998207.055900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Анекдот про Китай от Сергея Бурунова \/\/ Китайская Жесть и Жизнь",
+                "title_link": "https:\/\/youtu.be\/BL6KU0aTZik",
+                "author_name": "Китайская жесть и жизнь",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCD_RU6kznaLyn6sTmGSA6CQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/BL6KU0aTZik\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Анекдот про Китай от Сергея Бурунова \/\/ Китайская Жесть и Жизнь",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/BL6KU0aTZik?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/BL6KU0aTZik",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/BL6KU0aTZik"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d42aafd-b70b-4f3d-a6aa-90e3c7cdfcf6",
+        "type": "message",
+        "text": "старенький анекдот",
+        "user": "U48A8L25N",
+        "ts": "1569009400.056900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0a5fcfcb-8c0a-4e66-8437-f79021c6faa8",
+        "type": "message",
+        "text": "я тут подумал, несмотря на эпатажность и слова типа, что путин - демон, якутский шаман, возможно, один из самых адекватных людей в россии, поскольку действует а не ждет чего-то :filosoraptor:",
+        "user": "U48A8L25N",
+        "ts": "1569030701.057100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

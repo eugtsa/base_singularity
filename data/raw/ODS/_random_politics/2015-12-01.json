@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "text": "Сегодня слушал Тимофея (<http:\/\/radio.mediametrics.ru\/antikrizis_s_timofeem_martinovim\/760\/> ) и вот о чем подумал: все эти технологические инициативы и попытки поиграть в европу… как бы выпестовать запросы по темам в соцсеточках, чтобы понять кому реально интересен на практике такие вещи как образовач, а не желтизна голимая\nи какой реальный эффект оказывает работа таких институтов развития как РВК и всякие инкубаторы\/акселераторы\/бизнес парки россии?\nусугубляется все лекцией вчерашней о том, как все устроено в европах и даже там все не очень хорошо <http:\/\/www.youtube.com\/watch?v=IRB48-4OF5k>\nфорсайты пока не ясно работают или нет \nа MIT говорит что у них все хорошо не смотря на кризисы во всем мире и даже в долине\n\nтакие мысли на ночь глядя",
+        "user": "U0AJU5AMA",
+        "ts": "1449009032.000002",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbb21f67d330",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f6bb21f67d330be3c32e584dfaa9d021.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jin",
+            "real_name": "Jin Kolesnikov",
+            "display_name": "jinkolesnikov",
+            "team": "T040HKJE3",
+            "name": "jinkolesnikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "radio.mediametrics.ru",
+                "title": "Радио МедиаМетрикс - Новости экономики",
+                "title_link": "http:\/\/radio.mediametrics.ru\/antikrizis_s_timofeem_martinovim\/760\/",
+                "text": "Анализ влияния политических событий в мире на жизнь рядовых граждан",
+                "fallback": "radio.mediametrics.ru: Радио МедиаМетрикс - Новости экономики",
+                "image_url": "http:\/\/radio.mediametrics.ru\/uploads\/archive_ico2\/2015\/12\/01\/d558a6ded3b4c95081487f6eb1891e4e.jpg",
+                "from_url": "http:\/\/radio.mediametrics.ru\/antikrizis_s_timofeem_martinovim\/760\/",
+                "image_width": 600,
+                "image_height": 250,
+                "image_bytes": 38962,
+                "id": 1
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Открытая лекция о Европейском опыте построения региональных инновационных экосистем и кластеров",
+                "title_link": "http:\/\/www.youtube.com\/watch?v=IRB48-4OF5k",
+                "author_name": "LinkWest Group",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCalzz8aBQcqXCC7_fKMJ6QA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/IRB48-4OF5k\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Открытая лекция о Европейском опыте построения региональных инновационных экосистем и кластеров",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/IRB48-4OF5k?feature=oembed&autoplay=1\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "http:\/\/www.youtube.com\/watch?v=IRB48-4OF5k",
+                "id": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=9PoJHRp1iKc>",
+        "user": "U0AJU5AMA",
+        "ts": "1449009071.000004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbb21f67d330",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f6bb21f67d330be3c32e584dfaa9d021.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jin",
+            "real_name": "Jin Kolesnikov",
+            "display_name": "jinkolesnikov",
+            "team": "T040HKJE3",
+            "name": "jinkolesnikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Антикризис с Тимофеем Мартыновым",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9PoJHRp1iKc",
+                "author_name": "Radio Mediametrics",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCC92_fkVC3TNsfqz_wRV8Yg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9PoJHRp1iKc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Антикризис с Тимофеем Мартыновым",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9PoJHRp1iKc?feature=oembed&autoplay=1\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9PoJHRp1iKc",
+                "id": 1
+            }
+        ]
+    }
+]

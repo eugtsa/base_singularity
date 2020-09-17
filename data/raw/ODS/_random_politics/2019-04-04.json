@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "3e5751c5-99d7-484c-b1fd-877ca480b719",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/mudakoff\/status\/1113823860334501888>",
+        "user": "U48A8L25N",
+        "ts": "1554400389.000400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mudakoff|@mudakoff>: Как же пиздато, что «традиционные СМИ» выведены из-под закона о фейк-ньюс и они дальше могут плодить бред, не боясь получить штраф :+1::+1::+1: <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1113823818315857920\/pu\/img\/Rnyi8KoyouC4ZL2x.jpg>",
+                "ts": 1554391276,
+                "author_name": "#MDK",
+                "author_link": "https:\/\/twitter.com\/mudakoff\/status\/1113823860334501888",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/921369060994109440\/rWj-Da6M_normal.jpg",
+                "author_subname": "@mudakoff",
+                "text": "Как же пиздато, что «традиционные СМИ» выведены из-под закона о фейк-ньюс и они дальше могут плодить бред, не боясь получить штраф :+1::+1::+1:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mudakoff\/status\/1113823860334501888",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1113823818315857920\/pu\/img\/Rnyi8KoyouC4ZL2x.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 625,
+                "video_html_width": 1200,
+                "video_html_height": 625,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1113823818315857920\/pu\/img\/Rnyi8KoyouC4ZL2x.jpg\" width=\"1200\" height=\"625\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1113823818315857920\/pu\/vid\/1382x720\/MzcPDNbibHIR26QZ.mp4?tag=8\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mudakoff\/status\/1113823860334501888",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49e1f226-9ec4-4fb3-ab80-90d7901e5d3b",
+        "type": "message",
+        "text": "&gt;тунель в котором подменяют цифры пока они летят :yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1554400463.001200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554400463.001200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1554408016.002000",
+        "reply_users": [
+            "U5H0L5T98",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1554403132.001600"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1554403138.001800"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1554408016.002000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "65784ecb-24b5-466f-bf79-05ff3fc56b23",
+        "type": "message",
+        "text": "да ладно, это же америкосы делают",
+        "user": "U5H0L5T98",
+        "ts": "1554403132.001600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554400463.001200",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "98b868b8-d417-475a-865c-a1b750d43d83",
+        "type": "message",
+        "text": "вон путину накрутили",
+        "user": "U5H0L5T98",
+        "ts": "1554403138.001800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554400463.001200",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f612f589-dace-46c3-8160-4ba0766d2a88",
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1554408016.002000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1554400463.001200",
+        "parent_user_id": "U48A8L25N"
+    }
+]

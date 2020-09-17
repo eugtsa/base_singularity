@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "37af1011-534a-4c25-a2c3-1301c258c92d",
+        "type": "message",
+        "text": "<https:\/\/echo.msk.ru\/news\/2593072-echo.html>",
+        "user": "U48A8L25N",
+        "ts": "1582393656.000200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Эхо Москвы",
+                "title": "Guardian: Россия проводит кампанию по распространению дезинформации  о вспышке коронавируса",
+                "title_link": "https:\/\/echo.msk.ru\/news\/2593072-echo.html",
+                "text": "Об этом пишет Guardian со сылкой на американских чиновников…",
+                "fallback": "Эхо Москвы: Guardian: Россия проводит кампанию по распространению дезинформации  о вспышке коронавируса",
+                "image_url": "https:\/\/cdn.echo.msk.ru\/files\/3223178.jpg",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/echo.msk.ru\/news\/2593072-echo.html",
+                "image_bytes": 37425,
+                "service_icon": "https:\/\/echo.msk.ru\/i\/icons\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/echo.msk.ru\/news\/2593072-echo.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Edu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/echo.msk.ru\/news\/2593072-echo.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

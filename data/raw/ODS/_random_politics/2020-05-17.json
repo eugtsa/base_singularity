@@ -1,0 +1,264 @@
+[
+    {
+        "client_msg_id": "f17f8b7b-2aeb-461b-9ec2-70253bac4bd3",
+        "type": "message",
+        "text": "Да нету тут TL;DR - надо смотреть целиком. Говорю же - прослезился.\n\nПро другие ролики напишу TL;DR.",
+        "user": "U316J6CT1",
+        "ts": "1589729264.136900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bGJL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да нету тут TL;DR - надо смотреть целиком. Говорю же - прослезился.\n\nПро другие ролики напишу TL;DR."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589696148.136400",
+        "parent_user_id": "U316J6CT1"
+    },
+    {
+        "client_msg_id": "cb4fea48-4d38-408e-a006-371ad8f268c3",
+        "type": "message",
+        "text": "Итак, тот же автор.\n<https:\/\/www.youtube.com\/watch?v=kTenohS0Xsw>\n\n*TL;DR:* Речь об одном из эпизодов выпуска гражданина Дудя про Колыму. Думаю интересовавшиеся уже нашли много документов и аналитики показываю шляпность произведения гр. Дудя, этот выпуск из этой серии. Разбор фактов о \"расстрельной тюрьме\" под названием Серпантинка.\n• противоречивость показаний (о расположении, о времени, о начальнике тюрьмы);\n• отсутствие ссылок на документы в \"художественных произведениях\";\n• представлены цитаты из книги А.Г. Козлова \"Магадан: возникновение, становление и развитие административного центра Дальстроя (1929-1945)\", в которой содержатся ссылки на копии актов расстрелов. В актах расстрелов указаны имена-фамилии участников, время, места захоронения. То есть странно, что про Серпантинку никто ни на что не может сослаться, что отстуствуют подобные списки с тысячами расстрелянных.\nЕсли посмотреть канал, там по многим эпизодам из выпуска гр. Дудя содержатся материалы.",
+        "user": "U316J6CT1",
+        "ts": "1589768143.142100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U316J6CT1",
+            "ts": "1589768999.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Плохой сигнал. Дудь, Колыма и расстрельная тюрьма Серпантинка",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kTenohS0Xsw",
+                "author_name": "Плохой сигнал",
+                "author_link": "https:\/\/www.youtube.com\/user\/tubushow",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kTenohS0Xsw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Плохой сигнал. Дудь, Колыма и расстрельная тюрьма Серпантинка",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kTenohS0Xsw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kTenohS0Xsw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=kTenohS0Xsw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JwTQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Итак, тот же автор.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=kTenohS0Xsw"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "TL;DR:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Речь об одном из эпизодов выпуска гражданина Дудя про Колыму. Думаю интересовавшиеся уже нашли много документов и аналитики показываю шляпность произведения гр. Дудя, этот выпуск из этой серии. Разбор фактов о \"расстрельной тюрьме\" под названием Серпантинка.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "противоречивость показаний (о расположении, о времени, о начальнике тюрьмы);"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "отсутствие ссылок на документы в \"художественных произведениях\";"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "представлены цитаты из книги А.Г. Козлова \"Магадан: возникновение, становление и развитие административного центра Дальстроя (1929-1945)\", в которой содержатся ссылки на копии актов расстрелов. В актах расстрелов указаны имена-фамилии участников, время, места захоронения. То есть странно, что про Серпантинку никто ни на что не может сослаться, что отстуствуют подобные списки с тысячами расстрелянных."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nЕсли посмотреть канал, там по многим эпизодам из выпуска гр. Дудя содержатся материалы."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589768143.142100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1590615083.149200",
+        "reply_users": [
+            "UQRRC9GCD",
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1589770816.143100"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1590615083.149200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UQRRC9GCD",
+                    "U7CAU0GMU",
+                    "UFVDU2FJP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "vatnik",
+                "users": [
+                    "UAG21HMV4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013TBRR52N",
+                "created": 1589770814,
+                "timestamp": 1589770814,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQRRC9GCD",
+                "editable": false,
+                "size": 441128,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F013TBRR52N\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F013TBRR52N\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013TBRR52N-7c2356e82d\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013TBRR52N-7c2356e82d\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013TBRR52N-7c2356e82d\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 346,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013TBRR52N-7c2356e82d\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 461,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013TBRR52N-7c2356e82d\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "original_w": 586,
+                "original_h": 563,
+                "thumb_tiny": "AwAuADCCxto51cvngjGDVhrG3DhAHLf73Sm6T9yT6irCBvPlbGeeKQER0+ADo3\/fVRR21s0mwhs9vmq6XwMd\/X\/Cs5T+\/XHXIpjZb\/s6D\/a\/Oqt9axwRqyZyTjk1q5qhqv8AqU\/3v6UEkenSCKGV26Air0b708wjaD0zWZaOgjaN\/wCMip7yc+WEXigZI8vmSZB+X+dVJvvH1JpVmGAOKjkbexNAXJoryVOCdw96beXIniUbcEHNQU1+lACxjOcE\/hT2y3JYn8BUaMF6inb1z0\/QUALgg9T+Qo2nHBP6U0spPIP4YpP3fo350AP289T+lMfrjJppxnjp705U3LnNAH\/\/2Q==",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UQRRC9GCD\/F013TBRR52N\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F013TBRR52N-3968a20b3e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UQRRC9GCD",
+        "display_as_bot": false,
+        "ts": "1589770816.143100",
+        "client_msg_id": "4ab938b7-1066-42d9-aa90-42b7f1586b51",
+        "thread_ts": "1589768143.142100",
+        "parent_user_id": "U316J6CT1",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

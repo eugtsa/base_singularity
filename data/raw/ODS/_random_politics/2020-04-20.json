@@ -1,0 +1,370 @@
+[
+    {
+        "client_msg_id": "6e3b6fff-1abb-48fb-9ed6-b3ff0830cc95",
+        "type": "message",
+        "text": "Эвона как лайки и цифровые рейтинги можно обернуть ... ... людям: <https:\/\/t.me\/itsorm\/1695>",
+        "user": "U27HU84H4",
+        "ts": "1587402719.074300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1587402986.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "IT и СОРМ",
+                "title_link": "https:\/\/t.me\/itsorm\/1695",
+                "text": "Люди по всей стране нашли отличный способ публично требовать от властей адекватных действий во время эпидемии — массово постят сообщения на Яндекс.Картах. Чтобы оценить масштабы, можно посмотреть ленту всех сообщений на этом сайте — их публикуют сотни в минуту. В условиях эпидемии, когда нет возможности выйти на улицу, такой способ выражения требований — единственный доступный. Но Яндекс, вместо того, чтобы стать площадкой для мнения граждан в такое сложное время, начал удалять сообщения с карты. Несмотря на то, что Яндекс помогает распространять ложь власти через свой позорный сервис Яндекс.Новости, они делают множество отличных вещей — запустили быстрый тест на коронавирус на дому, разнёсли в пух и прах эффективность цифрового концлагеря в целях борьбы с эпидемией. У меня есть предложение к Яндексу. У вас прямо сейчас есть шанс хоть частично отмыться от позорных Яндекс.Новостей, через которые вы вносите свой небольшой вклад в то, что банда Путина у власти. Вы даже начали пользоваться этим шансом. Давайте…",
+                "fallback": "Telegram: IT и СОРМ",
+                "thumb_url": "https:\/\/cdn4.telesco.pe\/file\/ax43voz1OtCCNMYRsIrFl55_RSS0LuHNAWHb7pd3Hxd6v1m2nQTQuPocNa5h60IX8BqzHezeqCQmPMeQFsQXrT-N8rANAmcC0tmKaEFZAdUTuoSaB6yK82fo7z8BwcU3FK3xldJ0TujKdx2JxNwbQ9J1vQhiuX-_Bh2wyGDWzI8l_qZk1MDvCxhfU75uuCpF462bT0I3MU0OLS_Wl3dYWXf24AdPnKuzz6HQt2tQxd8itmN6k0Gi7tALDeBmNDIf6BB2yBQGxc-l62yt1YXddgJ2GNBQ9cWSy1lj8gbxXbxbB3RXeGxxRevv22l0i2Jd2Ony9VBs-Pkg7Pud34osMg.jpg",
+                "from_url": "https:\/\/t.me\/itsorm\/1695",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http:\/\/telegram.org\/favicon.ico?3",
+                "id": 1,
+                "original_url": "https:\/\/t.me\/itsorm\/1695"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Эвона как лайки и цифровые рейтинги можно обернуть ... ... людям: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.me\/itsorm\/1695"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "el_risitas",
+                "users": [
+                    "USLHTRF40"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "900a15a1-ad2b-4743-b25b-0330f121df90",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=oWo72EV3Bvg>",
+        "user": "U27HU84H4",
+        "ts": "1587404792.074700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Василий Уткин @Василий Уткин \/ Персонально ваш \/\/ 20.04.20",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=oWo72EV3Bvg",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/oWo72EV3Bvg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Василий Уткин @Василий Уткин \/ Персонально ваш \/\/ 20.04.20",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/oWo72EV3Bvg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=oWo72EV3Bvg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=oWo72EV3Bvg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nFJvh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=oWo72EV3Bvg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UAG21HMV4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe67c884-6657-45f4-8c76-3dcdbeb36f56",
+        "type": "message",
+        "text": "1,3 за нефть :yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1587405472.075200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oPPL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1,3 за нефть "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yeah-sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011RDV613R",
+                "created": 1587405582,
+                "timestamp": 1587405582,
+                "name": "Screenshot_20200420-215304_FinamTrade.jpg",
+                "title": "Screenshot_20200420-215304_FinamTrade.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U48A8L25N",
+                "editable": false,
+                "size": 48246,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F011RDV613R\/screenshot_20200420-215304_finamtrade.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F011RDV613R\/download\/screenshot_20200420-215304_finamtrade.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 175,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 234,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_720.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 350,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_800.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 389,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_960.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 467,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011RDV613R-d15b846c70\/screenshot_20200420-215304_finamtrade_1024.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 498,
+                "thumb_1024_h": 1024,
+                "original_w": 720,
+                "original_h": 1480,
+                "thumb_tiny": "AwAwABekAMcikwv92nkEU2gBCBjpSYHpTqKAF70GkpewoASiiigBcUU\/ypP+eTf98mnLA7dQV+oNAyIY75\/Cl+T\/AGqlNs4HGT\/wE037O\/of++TSugsz\/9k=",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U48A8L25N\/F011RDV613R\/screenshot_20200420-215304_finamtrade.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F011RDV613R-176ba2727a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U48A8L25N",
+        "display_as_bot": false,
+        "ts": "1587405586.075300",
+        "client_msg_id": "93b989b0-f809-44d6-bc6b-43ca5ffe68d8",
+        "reactions": [
+            {
+                "name": "rocketfall",
+                "users": [
+                    "U1TJJJZQ8",
+                    "U047Z85QW",
+                    "U8GP0GKDG",
+                    "U70T87GMA"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af007dbf-23e2-41a3-a8c0-cf1f25ffcca3",
+        "type": "message",
+        "text": "<https:\/\/quote.rbc.ru\/news\/article\/5e9db0ff9a794775f62098ab>",
+        "user": "U48A8L25N",
+        "ts": "1587405717.075700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК Quote",
+                "title": "Цена нефти WTI опустилась до $1",
+                "title_link": "https:\/\/quote.rbc.ru\/news\/article\/5e9db0ff9a794775f62098ab",
+                "text": "РБК Quote :: котировки, курсы валют, новости, компании.",
+                "fallback": "РБК Quote: Цена нефти WTI опустилась до $1",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/6\/23\/755873927509236.jpg",
+                "from_url": "https:\/\/quote.rbc.ru\/news\/article\/5e9db0ff9a794775f62098ab",
+                "image_width": 404,
+                "image_height": 250,
+                "image_bytes": 286801,
+                "service_icon": "http:\/\/s.rbk.ru\/v4_quote_static\/common\/common-9.2.32\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/quote.rbc.ru\/news\/article\/5e9db0ff9a794775f62098ab"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/quote.rbc.ru\/news\/article\/5e9db0ff9a794775f62098ab"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69114568-3660-49c5-b024-8a22260a4e18",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=oEHXbdJcrso>",
+        "user": "U27HU84H4",
+        "ts": "1587406584.076000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Мир после пандемии. Сергей Гуриев. Нельзя делать одно и то же в надежде на другой результат",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=oEHXbdJcrso",
+                "author_name": "Президентский центр Бориса Ельцина",
+                "author_link": "https:\/\/www.youtube.com\/user\/YeltsinCentr",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/oEHXbdJcrso\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Мир после пандемии. Сергей Гуриев. Нельзя делать одно и то же в надежде на другой результат",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/oEHXbdJcrso?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=oEHXbdJcrso",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=oEHXbdJcrso"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Zs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=oEHXbdJcrso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

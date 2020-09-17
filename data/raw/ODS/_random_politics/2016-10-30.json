@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1477851740.000015",
+        "user": "U17TEG5GC",
+        "text": "<@U17TEG5GC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1477851757.000016",
+        "user": "U17TEG5GC",
+        "text": "<@U17TEG5GC> has left the channel"
+    }
+]

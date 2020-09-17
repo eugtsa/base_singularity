@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "text": "Кто-то за Россию в Цивилизацию 5 (или 4) играет, и хочет не научную, а культурную победу. Нужно больше храмов.",
+        "user": "U27HU84H4",
+        "ts": "1515881620.000051",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1515799276.000182",
+        "parent_user_id": "U34Q3KU8H",
+        "reactions": [
+            {
+                "name": "povar",
+                "users": [
+                    "U3Z5KPTRQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

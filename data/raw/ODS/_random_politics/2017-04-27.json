@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/5bRPTb3z2rU>",
+        "user": "U44H5N3C1",
+        "ts": "1493316721.616373",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "963eb223a909",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-14\/140811777729_963eb223a9099fb57b50_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Kondratev",
+            "display_name": "ksenon2611",
+            "team": "T040HKJE3",
+            "name": "ksenon2611",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Ленинград — Экстаз \/ Leningrad — Ecstasy",
+                "title_link": "https:\/\/youtu.be\/5bRPTb3z2rU",
+                "author_name": "Ленинград | Leningrad",
+                "author_link": "https:\/\/www.youtube.com\/user\/shnur0k",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5bRPTb3z2rU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Ленинград — Экстаз \/ Leningrad — Ecstasy",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/5bRPTb3z2rU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/5bRPTb3z2rU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

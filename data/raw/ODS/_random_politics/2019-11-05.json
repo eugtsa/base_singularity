@@ -1,0 +1,224 @@
+[
+    {
+        "client_msg_id": "db307bf7-37ee-4dbd-a334-c3a3932e59d1",
+        "type": "message",
+        "text": "Можно попросить только в одном канале срать этой новостью?",
+        "user": "U049HDR2Z",
+        "ts": "1572945988.009900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1b0ad7da-9564-4c0f-889c-085bae2d4bc7",
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/teleshow\/vechernee_shou\/chem_rossijskie_programmisty-496813\/>",
+        "user": "U48A8L25N",
+        "ts": "1573021093.010400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Чем российские программисты не угодили украинскому стартапу стоимостью в $2,7 млрд",
+                "title_link": "https:\/\/tvrain.ru\/teleshow\/vechernee_shou\/chem_rossijskie_programmisty-496813\/",
+                "text": "Сервис GitLab задумался о запрете нанимать на работу специалистов из Китая и России. Причина — из России могут улететь данные клиентов ресурса в открытый доступ. То есть вопрос в незащищенности персональных данных. Сам GitLab основали два выходца из Украины. Сейчас предложение о запрете обсуждается на сайте сервиса. Комментарии внимательно читал Богдан Бокалейко.",
+                "fallback": "Чем российские программисты не угодили украинскому стартапу стоимостью в $2,7 млрд",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/49\/68\/13\/image.png?2019_11_05_23_21_38",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1572979308,
+                "from_url": "https:\/\/tvrain.ru\/teleshow\/vechernee_shou\/chem_rossijskie_programmisty-496813\/",
+                "image_bytes": 320637,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/teleshow\/vechernee_shou\/chem_rossijskie_programmisty-496813\/"
+            }
+        ],
+        "thread_ts": "1573021093.010400",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1573162060.015800",
+        "reply_users": [
+            "UFUKQMV5K",
+            "U48A8L25N",
+            "U9ZU1CYUD",
+            "U2TP5JELS"
+        ],
+        "replies": [
+            {
+                "user": "UFUKQMV5K",
+                "ts": "1573021514.011800"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1573021673.012200"
+            },
+            {
+                "user": "UFUKQMV5K",
+                "ts": "1573054332.013000"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1573071557.014900"
+            },
+            {
+                "user": "U2TP5JELS",
+                "ts": "1573162060.015800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e9a883e7-eac1-4137-bd57-8935a3091d11",
+        "type": "message",
+        "text": "говорят на очереди калининградские датасаентисты",
+        "user": "U48A8L25N",
+        "ts": "1573021112.011000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b2eac155-8696-4f4d-ac9d-9896ee9e1212",
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1573021124.011200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Серьёзно?",
+        "files": [
+            {
+                "id": "FQ94PRJBZ",
+                "created": 1573021511,
+                "timestamp": 1573021511,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFUKQMV5K",
+                "editable": false,
+                "size": 889401,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FQ94PRJBZ\/image_from_ios.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FQ94PRJBZ\/download\/image_from_ios.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FQ94PRJBZ-1635b4233e\/image_from_ios_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 2208,
+                "thumb_tiny": "AwAwABu0bSP\/AGvzpBZxj+9+dWSQOpo3L6igCsLOMf3vzp32OL\/a\/Op9y+opaAAjPWmlQO36U6mnnHBNAChQOgpaBRQAU1iQeBUEs8iyFQnA780RzSPIFZcD1FA+VlmikFLQI\/\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UFUKQMV5K\/FQ94PRJBZ\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FQ94PRJBZ-3d970eeaae",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFUKQMV5K",
+        "display_as_bot": false,
+        "ts": "1573021514.011800",
+        "client_msg_id": "06408245-E26C-49DC-BFD5-226E7907153E",
+        "thread_ts": "1573021093.010400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "576fcb80-9990-42e1-b3b2-3271b8df39aa",
+        "type": "message",
+        "text": "лил а у меня полностью",
+        "user": "U48A8L25N",
+        "ts": "1573021673.012200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573021093.010400",
+        "parent_user_id": "U48A8L25N"
+    }
+]

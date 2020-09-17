@@ -1,0 +1,352 @@
+[
+    {
+        "client_msg_id": "e944fe6b-33a7-44aa-8eb2-c293c0073160",
+        "type": "message",
+        "text": "<http:\/\/www.tvrain.ru\/news\/putin_nazval_srednim_klassom_vseh_u_kogo_zarplata_vyshe_17_tysjach_rublej-504817\/|Путин назвал средним классом всех, у кого зарплата выше 17 тысяч рублей>",
+        "user": "U48A8L25N",
+        "ts": "1584531104.237800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Путин назвал средним классом всех, у кого зарплата выше 17 тысяч рублей",
+                "title_link": "http:\/\/www.tvrain.ru\/news\/putin_nazval_srednim_klassom_vseh_u_kogo_zarplata_vyshe_17_tysjach_rublej-504817\/",
+                "text": "По мнению Владимира Путина, к среднему классу в России можно причислить всех, кто зарабатывает больше 17 тысяч рублей в месяц. Об этом он заявил в очередной серии проекта ТАСС «20 вопросов президенту».",
+                "fallback": "Путин назвал средним классом всех, у кого зарплата выше 17 тысяч рублей",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/50\/48\/17\/image.png?2020_03_18_12_05_51",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1584522143,
+                "from_url": "http:\/\/www.tvrain.ru\/news\/putin_nazval_srednim_klassom_vseh_u_kogo_zarplata_vyshe_17_tysjach_rublej-504817\/",
+                "image_bytes": 1046737,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "http:\/\/www.tvrain.ru\/news\/putin_nazval_srednim_klassom_vseh_u_kogo_zarplata_vyshe_17_tysjach_rublej-504817\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ECh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.tvrain.ru\/news\/putin_nazval_srednim_klassom_vseh_u_kogo_zarplata_vyshe_17_tysjach_rublej-504817\/",
+                                "text": "Путин назвал средним классом всех, у кого зарплата выше 17 тысяч рублей"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eww",
+                "users": [
+                    "U2TP5JELS",
+                    "U262NSHCK",
+                    "U27HU84H4",
+                    "UDDCJ9L84",
+                    "UHGUXSJRK"
+                ],
+                "count": 5
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U50GQKH5J",
+                    "UJGV816FM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "spravedlivo",
+                "users": [
+                    "UDWJDVDHS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wtf",
+                "users": [
+                    "U27HU84H4",
+                    "UAH9H0R17"
+                ],
+                "count": 2
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "UDSEN1N2E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43af65c2-1b25-41c0-8793-0465fb797ab7",
+        "type": "message",
+        "text": "&gt; <http:\/\/ria.ru\/20200318\/1568802839.html|Курс доллара подскочил выше 80 рублей>",
+        "user": "U48A8L25N",
+        "ts": "1584544624.238800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РИА Новости",
+                "title": "Курс доллара подскочил выше 80 рублей",
+                "title_link": "http:\/\/ria.ru\/20200318\/1568802839.html",
+                "text": "Курс доллара подскочил выше 80 рублей впервые с февраля 2016 года - данные биржи РИА Новости, 18.03.2020",
+                "fallback": "РИА Новости: Курс доллара подскочил выше 80 рублей",
+                "image_url": "https:\/\/cdn24.img.ria.ru\/images\/sharing\/article\/1568802839.jpg?15687811051584544291",
+                "image_width": 444,
+                "ts": 1584544200,
+                "from_url": "http:\/\/ria.ru\/20200318\/1568802839.html",
+                "image_height": 250,
+                "image_bytes": 106050,
+                "service_icon": "https:\/\/cdn22.img.ria.ru\/i\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "http:\/\/ria.ru\/20200318\/1568802839.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kC8f",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/ria.ru\/20200318\/1568802839.html",
+                                "text": "Курс доллара подскочил выше 80 рублей"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woohoo",
+                "users": [
+                    "U50GQKH5J",
+                    "UPLRZHDUH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wow-pika",
+                "users": [
+                    "U50GQKH5J"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100rub",
+                "users": [
+                    "U2ZHRCAUB",
+                    "UJGV816FM",
+                    "U5KD4L5JP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81151a7a-bf62-4fa7-a9ba-e3ddb4fd1417",
+        "type": "message",
+        "text": "<https:\/\/www.forbes.ru\/newsroom\/milliardery\/395131-vse-bedneyut-bogateet-sostoyanie-arkadiya-rotenberga-na-fone-obshchey>\n\n<https:\/\/www.rbc.ru\/rbcfreenews\/5e7241779a794743eedc4564>",
+        "user": "U27HU84H4",
+        "ts": "1584559025.240100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Forbes.ru",
+                "title": "Все беднеют, он богатеет: состояние Аркадия Ротенберга на фоне общей паники выросло на $233 млн | Миллиардеры | Forbes.ru",
+                "title_link": "https:\/\/www.forbes.ru\/newsroom\/milliardery\/395131-vse-bedneyut-bogateet-sostoyanie-arkadiya-rotenberga-na-fone-obshchey",
+                "text": "Пока другие герои российского списка Forbes в понедельник продолжали беднеть, состояние совладельца «Мостотреста», наоборот, выросло более чем на $200 млн. Он единственный из российских миллиардеров, у которого в начале этой недели наблюдается рост стоимости активов.",
+                "fallback": "Forbes.ru: Все беднеют, он богатеет: состояние Аркадия Ротенберга на фоне общей паники выросло на $233 млн | Миллиардеры | Forbes.ru",
+                "image_url": "https:\/\/cdn.forbes.ru\/files\/sn-image\/395131_668643.jpeg",
+                "ts": 1584363577,
+                "from_url": "https:\/\/www.forbes.ru\/newsroom\/milliardery\/395131-vse-bedneyut-bogateet-sostoyanie-arkadiya-rotenberga-na-fone-obshchey",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 128366,
+                "service_icon": "https:\/\/www.forbes.ru\/themes\/forbes\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.forbes.ru\/newsroom\/milliardery\/395131-vse-bedneyut-bogateet-sostoyanie-arkadiya-rotenberga-na-fone-obshchey"
+            },
+            {
+                "service_name": "РБК",
+                "title": "Путин вручил Ротенбергу звезду Героя Труда",
+                "title_link": "https:\/\/www.rbc.ru\/rbcfreenews\/5e7241779a794743eedc4564",
+                "text": "Российский президент Владимир Путин наградил строителей Крымского моста в ходе своего визита на полуостров, передает РИА Новости . Звезды Героев Труда получили предприниматель Аркадий Ротенберг, ...",
+                "fallback": "РБК: Путин вручил Ротенбергу звезду Героя Труда",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/6\/06\/755845480440066.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/rbcfreenews\/5e7241779a794743eedc4564",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 59279,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.2.32\/images\/apple-touch-icon-60x60.png",
+                "id": 2,
+                "original_url": "https:\/\/www.rbc.ru\/rbcfreenews\/5e7241779a794743eedc4564"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7=HC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.forbes.ru\/newsroom\/milliardery\/395131-vse-bedneyut-bogateet-sostoyanie-arkadiya-rotenberga-na-fone-obshchey"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rbc.ru\/rbcfreenews\/5e7241779a794743eedc4564"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U50GQKH5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2991b76-b30a-4c4a-972a-e1086c46c8f5",
+        "type": "message",
+        "text": "<https:\/\/www.instagram.com\/tv\/B94zHBiHPMJ\/?igshid=1rxnjw1j7rlbo> :joy:",
+        "user": "U5H055U0J",
+        "ts": "1584562127.240500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bf00847de62a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/791723789078_bf00847de62af24e7247_72.jpg",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Instagram",
+                "title": "The Washington Post on Instagram: “President Trump issued a defiant defense Wednesday of his use of the phrase “Chinese virus” to describe the novel coronavirus, pushing back…”",
+                "title_link": "https:\/\/www.instagram.com\/tv\/B94zHBiHPMJ\/?igshid=1rxnjw1j7rlbo",
+                "text": "755 Likes, 136 Comments - The Washington Post (@washingtonpost) on Instagram: “President Trump issued a defiant defense Wednesday of his use of the phrase “Chinese virus” to…”",
+                "fallback": "Instagram: The Washington Post on Instagram: “President Trump issued a defiant defense Wednesday of his use of the phrase “Chinese virus” to describe the novel coronavirus, pushing back…”",
+                "image_url": "https:\/\/scontent-lga3-1.cdninstagram.com\/v\/t51.2885-15\/e35\/90315508_209427693464814_4632198513946900553_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=106&_nc_ohc=ozh7F7TT9aQAX_hlCcm&oh=fcf1fb42d04931e4180b0a2e45b92dd1&oe=5E750A0F",
+                "from_url": "https:\/\/www.instagram.com\/tv\/B94zHBiHPMJ\/?igshid=1rxnjw1j7rlbo",
+                "image_width": 141,
+                "image_height": 250,
+                "image_bytes": 84377,
+                "service_icon": "https:\/\/www.instagram.com\/static\/images\/ico\/apple-touch-icon-76x76-precomposed.png\/666282be8229.png",
+                "id": 1,
+                "original_url": "https:\/\/www.instagram.com\/tv\/B94zHBiHPMJ\/?igshid=1rxnjw1j7rlbo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cef",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/tv\/B94zHBiHPMJ\/?igshid=1rxnjw1j7rlbo"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

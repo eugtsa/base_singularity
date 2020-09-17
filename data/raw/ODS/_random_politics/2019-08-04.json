@@ -1,0 +1,338 @@
+[
+    {
+        "client_msg_id": "cb1bb572-98d0-4e18-b791-a289411c1ddb",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=EeTcB8eLenY>",
+        "user": "U48A8L25N",
+        "ts": "1564908820.025400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "За что боролся, на то и напоролся: случай на митинге 3 августа",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=EeTcB8eLenY",
+                "author_name": "varlamov",
+                "author_link": "https:\/\/www.youtube.com\/user\/ilyavarlamov",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/EeTcB8eLenY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: За что боролся, на то и напоролся: случай на митинге 3 августа",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/EeTcB8eLenY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=EeTcB8eLenY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=EeTcB8eLenY"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "leonid",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flag-kz",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "police",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b27451c-426b-4b8a-a55e-edbaf4c67fab",
+        "type": "message",
+        "text": "<https:\/\/coub.com\/view\/1yz5wu>",
+        "user": "U48A8L25N",
+        "ts": "1564909059.025700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coub",
+                "title": "Вот это поворот",
+                "title_link": "https:\/\/coub.com\/view\/1yz5wu",
+                "text": "by Old Dirty Scoundrel [Mr.Spogis]",
+                "fallback": "Coub: Вот это поворот",
+                "image_url": "https:\/\/coubsecure-s.akamaihd.net\/get\/b152\/p\/coub\/simple\/cw_image\/f3c0acc5df9\/0f8bf897a94c7f85646d5\/med_1564865269_00030.jpg",
+                "image_width": 400,
+                "image_height": 250,
+                "from_url": "https:\/\/coub.com\/view\/1yz5wu",
+                "image_bytes": 72238,
+                "service_icon": "https:\/\/coub.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/coub.com\/view\/1yz5wu"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U9ZU1CYUD",
+                    "UC7DFDJUA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FM1KVTS6R",
+                "created": 1564930340,
+                "timestamp": 1564930340,
+                "name": "image (36).png",
+                "title": "image (36).png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U48A8L25N",
+                "editable": false,
+                "size": 362078,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FM1KVTS6R\/image__36_.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FM1KVTS6R\/download\/image__36_.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FM1KVTS6R-87b1c09a99\/image__36__64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FM1KVTS6R-87b1c09a99\/image__36__80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FM1KVTS6R-87b1c09a99\/image__36__360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 162,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FM1KVTS6R-87b1c09a99\/image__36__480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 216,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FM1KVTS6R-87b1c09a99\/image__36__160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FM1KVTS6R-87b1c09a99\/image__36__720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 323,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FM1KVTS6R-87b1c09a99\/image__36__800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 359,
+                "image_exif_rotation": 1,
+                "original_w": 960,
+                "original_h": 431,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U48A8L25N\/FM1KVTS6R\/image__36_.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FM1KVTS6R-20f3fffcc9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U48A8L25N",
+        "display_as_bot": false,
+        "ts": "1564930343.026500",
+        "client_msg_id": "04201534-91cd-4f3e-a313-91d95c9cfe80"
+    },
+    {
+        "client_msg_id": "c8a34d2f-b701-4e61-8da7-d53d85366937",
+        "type": "message",
+        "text": "<http:\/\/www.znak.com\/2019-08-04\/v_moskve_zaderzhali_blogera_kotoryy_v_socsetyah_prizyval_ubivat_detey_silovikov>",
+        "user": "U48A8L25N",
+        "ts": "1564930399.027000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В Москве задержали блогера, который в соцсетях призывал убивать детей силовиков",
+                "title_link": "http:\/\/www.znak.com\/2019-08-04\/v_moskve_zaderzhali_blogera_kotoryy_v_socsetyah_prizyval_ubivat_detey_silovikov",
+                "text": "В Москве задержан Владислав Синицин 1989 года рождения, который в соцсетяхпризывал к насилию над детьми сотрудников правоохранительных органов.Как сообщается на сайте СКР, в отношении него возбуждено дело по пункту а части 2 статьи 282 УК РФ (Возбуждение ненависти либо вражды в отношении группы лиц, совершенное публично, в том числе с использованием информационно-телекоммуникационных сетей, включая сеть Интернет, с угрозой применения насилия).В сети Синицын называл себя Максом Стекловым",
+                "fallback": "В Москве задержали блогера, который в соцсетях призывал убивать детей силовиков",
+                "image_url": "https:\/\/img.znak.com\/og171616.png",
+                "from_url": "http:\/\/www.znak.com\/2019-08-04\/v_moskve_zaderzhali_blogera_kotoryy_v_socsetyah_prizyval_ubivat_detey_silovikov",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 397259,
+                "service_icon": "https:\/\/www.znak.com\/favicon.png",
+                "service_name": "znak.com",
+                "id": 1,
+                "original_url": "http:\/\/www.znak.com\/2019-08-04\/v_moskve_zaderzhali_blogera_kotoryy_v_socsetyah_prizyval_ubivat_detey_silovikov"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "loh",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "champagne",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d96aef6-6e0c-4e60-8db8-40afb6e2f8f2",
+        "type": "message",
+        "text": "<https:\/\/coub.com\/view\/1yzmnw>",
+        "user": "U48A8L25N",
+        "ts": "1564937694.027600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coub",
+                "title": "Достаточно мягкие",
+                "title_link": "https:\/\/coub.com\/view\/1yzmnw",
+                "text": "by SandyWander",
+                "fallback": "Coub: Достаточно мягкие",
+                "image_url": "https:\/\/coubsecure-s.akamaihd.net\/get\/b112\/p\/coub\/simple\/cw_image\/b8988f49592\/1603b71dd891dc272582d\/med_1564894142_00031.jpg",
+                "image_width": 400,
+                "image_height": 250,
+                "from_url": "https:\/\/coub.com\/view\/1yzmnw",
+                "image_bytes": 98215,
+                "service_icon": "https:\/\/coub.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/coub.com\/view\/1yzmnw"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flag-kz",
+                "users": [
+                    "U74DLUWUC",
+                    "U5H0L5T98"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b53d144-6f67-4e18-86fc-f1dff4971832",
+        "type": "message",
+        "text": "Свежая политота от Хазина:\n- к 2024 будут шатать лодку\n- \"голунова\" запустили в тот момент, когда Пу и Си толкали речь в Питере, чтобы в западном мире в заголовках не было Пу и Си, а был Голунов, потому что Пу и Си ломают миропорядок \"финансистов\" и играют на руку трампо-подобным идеологиям\n- демонстрацией того как успешно отбили голунова от власти молодёшь пытаются убедить, что \"всё в ваших руках\" и надо идти на улицу шатать лодку и вы сможете\n- голунов лично оказался не таким долбодятлом, как про него думали и тихо отполз и спрятался - никаких интервью и т.п.",
+        "user": "U6HNJVCP2",
+        "ts": "1564943927.030200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9a5ebd3a1787",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-08\/754961638678_9a5ebd3a1787a06d2cad_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Koneev",
+            "display_name": "Sergey Koneev",
+            "team": "T040HKJE3",
+            "name": "data.structures",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1564943927.030200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1565218881.046600",
+        "reply_users": [
+            "UDSEN1N2E"
+        ],
+        "replies": [
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1565218881.046600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "1c",
+                "users": [
+                    "UGTNTEBPV",
+                    "U48A8L25N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "holypeka",
+                "users": [
+                    "U5H055U0J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/omruruch\/status\/1016781931097100288?s=19>",
+        "user": "U27HU84H4",
+        "ts": "1531396858.000005",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[July 12th, 2018 2:50 PM] mephistopheies: так лодка и раскачивается, Русь испокон веков была православной, ей она и остается, несмотря на то что у нас в навязанной западом конституции написано что мы светское государство \n\nправославная вера - это часть русской культуры, и западные кукловоды это прекрасно понимают, и потому первым делом навязали нам атеизм",
+                "ts": "1531396239.000195",
+                "author_id": "U06J1LG1M",
+                "author_subname": "Pavel Nesterov",
+                "channel_id": "C04DA5FUF",
+                "channel_name": "_jobs",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "так лодка и раскачивается, Русь испокон веков была православной, ей она и остается, несмотря на то что у нас в навязанной западом конституции написано что мы светское государство \n\nправославная вера - это часть русской культуры, и западные кукловоды это прекрасно понимают, и потому первым делом навязали нам атеизм",
+                "author_name": "Pavel Nesterov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U06J1LG1M",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=48&d=https%3A%2F%2Fcfr.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0022-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C04DA5FUF\/p1531396239000195?thread_ts=1531381427000067&cid=C04DA5FUF",
+                "is_share": true,
+                "footer": "From a thread in #_jobs"
+            },
+            {
+                "fallback": "<https:\/\/twitter.com\/omruruch|@omruruch>: День в интернете прошел не зря <https:\/\/pbs.twimg.com\/media\/DhxVxMZVAAIOBJ4.jpg>",
+                "ts": 1531254677,
+                "author_name": "Sofia",
+                "author_link": "https:\/\/twitter.com\/omruruch\/status\/1016781931097100288",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/545989717469052928\/_PYd1Dm5_normal.jpeg",
+                "author_subname": "@omruruch",
+                "text": "День в интернете прошел не зря <https:\/\/pbs.twimg.com\/media\/DhxVxMZVAAIOBJ4.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/omruruch\/status\/1016781931097100288?s=19",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DhxVxMZVAAIOBJ4.jpg",
+                "image_width": 910,
+                "image_height": 678,
+                "image_bytes": 101657,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/omruruch\/status\/1016781931097100288?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "harold",
+                "users": [
+                    "U5H0L5T98",
+                    "U48A8L25N",
+                    "U74DLUWUC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U8U5W7JG5",
+                    "U48A8L25N",
+                    "U9ZU1CYUD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "putin",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fearful",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_vomiting",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hankey",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "speak_no_evil",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fcc0c26-001a-47fa-8984-b5f1d56cd8b4",
+        "type": "message",
+        "text": "и что самое интересное, современные российские патриоты недалеко ушли от этого тролинга)",
+        "user": "U48A8L25N",
+        "ts": "1531397101.000069",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

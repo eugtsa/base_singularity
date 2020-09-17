@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "d12d1d09-db5a-4b66-9f45-4c56c17141e3",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2020\/03\/17\/rpts-uzhestochila-sanitarnye-pravila-pri-bogosluzheniyah-v-moskovskoy-eparhii-prihozhanam-zapretyat-tselovat-krest-i-ruku-svyaschennika> Что теперь, свою руку целовать что ли?",
+        "user": "U049HDR2Z",
+        "ts": "1584435655.236800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U049HDR2Z",
+            "ts": "1584435660.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZBuN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/news\/2020\/03\/17\/rpts-uzhestochila-sanitarnye-pravila-pri-bogosluzheniyah-v-moskovskoy-eparhii-prihozhanam-zapretyat-tselovat-krest-i-ruku-svyaschennika"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Что теперь, свою руку целовать что ли?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "holypeka",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

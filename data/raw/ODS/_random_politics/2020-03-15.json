@@ -1,0 +1,510 @@
+[
+    {
+        "client_msg_id": "78ba9496-4a4a-417e-9268-c92e384b97cd",
+        "type": "message",
+        "text": "&gt; Путин создал рабочую группу Госсовета по борьбе с коронавирусом",
+        "user": "U48A8L25N",
+        "ts": "1584298065.224800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "95w",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Путин создал рабочую группу Госсовета по борьбе с коронавирусом"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "754dd812-d9d3-4d33-8061-144f7b0bc992",
+        "type": "message",
+        "text": "ГРУППУ ГОССОВЕТА",
+        "user": "U48A8L25N",
+        "ts": "1584298073.225100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wt56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ГРУППУ ГОССОВЕТА"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc1fa61e-b6f1-4ab7-8416-40a8eb5d4639",
+        "type": "message",
+        "text": "ну поехали :ussr:",
+        "user": "U48A8L25N",
+        "ts": "1584298082.225500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K\/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ну поехали "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ussr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584298082.225500",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1584346809.231400",
+        "reply_users": [
+            "UJUQAF96G",
+            "UJ2JGSQ3X"
+        ],
+        "replies": [
+            {
+                "user": "UJUQAF96G",
+                "ts": "1584333465.230400"
+            },
+            {
+                "user": "UJ2JGSQ3X",
+                "ts": "1584340472.230600"
+            },
+            {
+                "user": "UJUQAF96G",
+                "ts": "1584346809.231400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "petushara",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a525c67-68af-4f34-9f5a-4104f1153618",
+        "type": "message",
+        "text": "<https:\/\/echo.msk.ru\/blog\/echomsk\/2606210-echo\/>",
+        "user": "U48A8L25N",
+        "ts": "1584299731.225700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Эхо Москвы",
+                "title": "Блоги \/ EchoMSK: Надежда Иванченко: Вопросы московскому правительству и Сергею Собянину от московского учителя",
+                "title_link": "https:\/\/echo.msk.ru\/blog\/echomsk\/2606210-echo\/",
+                "text": "Почему в России не принимаются меры, которые принимаются во всем мире и считаются самыми действенными на данный момент? Это свой особый путь? Тогда мы можем получить и свой особый, пугающий результат…",
+                "fallback": "Эхо Москвы: Блоги \/ EchoMSK: Надежда Иванченко: Вопросы московскому правительству и Сергею Собянину от московского учителя",
+                "image_url": "https:\/\/cdn.echo.msk.ru\/files\/3232790.png",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "https:\/\/echo.msk.ru\/blog\/echomsk\/2606210-echo\/",
+                "image_bytes": 168956,
+                "service_icon": "https:\/\/echo.msk.ru\/i\/icons\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/echo.msk.ru\/blog\/echomsk\/2606210-echo\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lJ1i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/echo.msk.ru\/blog\/echomsk\/2606210-echo\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584299731.225700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1584302012.226300",
+        "reply_users": [
+            "UACAW8UT1",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "UACAW8UT1",
+                "ts": "1584301095.225900"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1584301993.226100"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1584302012.226300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "14f1d06e-69db-4da6-9647-da3cc628aad6",
+        "type": "message",
+        "text": "Уверен что на этой неделе закроют в Москве, а вот что будет с регионами хз потому что в Якутской деревне мало дела до короновируса, да и не выживет он там.",
+        "user": "UACAW8UT1",
+        "ts": "1584301095.225900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "52512937b2f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887859246581_52512937b2f5083cd769_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Kulagin",
+            "display_name": "rekcahd",
+            "team": "T040HKJE3",
+            "name": "rekcahd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Rk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Уверен что на этой неделе закроют в Москве, а вот что будет с регионами хз потому что в Якутской деревне мало дела до короновируса, да и не выживет он там."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584299731.225700",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "ea94e2e8-bf78-4e06-b95c-b93bde05c0f9",
+        "type": "message",
+        "text": "у нас в казахстане с 16 каникулы сделали, пока до 5, но сказали могут пересмотреть",
+        "user": "U48A8L25N",
+        "ts": "1584301993.226100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "у нас в казахстане с 16 каникулы сделали, пока до 5, но сказали могут пересмотреть"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584299731.225700",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "07cb153c-681f-492f-a266-ed12f32dd833",
+        "type": "message",
+        "text": "почему в россии еще так не сделали хз",
+        "user": "U48A8L25N",
+        "ts": "1584302012.226300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YcSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "почему в россии еще так не сделали хз"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584299731.225700",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "a53ec16b-912e-4b52-8414-ffe6a9dacae4",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/vlad_zhukovskiy\/status\/1239226176666828808>",
+        "user": "U27HU84H4",
+        "ts": "1584302786.226600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/vlad_zhukovskiy|@vlad_zhukovskiy>: Повторяем 2008 и 2014г: Путин, Силуанов, Матвиенко и «вечерний мудозвон» по зомбоящику рассказывают сказки, что обвал нефти с 71 до 35 долл и рубля с 61 до 75 не свалят экономику РФ в рецессию.\nВедь не может погрузиться в рецессию то, что давно в кризисе: с 2014г россияне беднеют <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1239225771157270529\/pu\/img\/pABC9KO_ygHoM3Xg.jpg>",
+                "ts": 1584289518,
+                "author_name": "Жуковский Владислав",
+                "author_link": "https:\/\/twitter.com\/vlad_zhukovskiy\/status\/1239226176666828808",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1084828931872747520\/VaQdYM5k_normal.jpg",
+                "author_subname": "@vlad_zhukovskiy",
+                "text": "Повторяем 2008 и 2014г: Путин, Силуанов, Матвиенко и «вечерний мудозвон» по зомбоящику рассказывают сказки, что обвал нефти с 71 до 35 долл и рубля с 61 до 75 не свалят экономику РФ в рецессию.\nВедь не может погрузиться в рецессию то, что давно в кризисе: с 2014г россияне беднеют",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/vlad_zhukovskiy\/status\/1239226176666828808",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1239225771157270529\/pu\/img\/pABC9KO_ygHoM3Xg.jpg",
+                "thumb_width": 675,
+                "thumb_height": 1200,
+                "video_html_width": 675,
+                "video_html_height": 1200,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1239225771157270529\/pu\/img\/pABC9KO_ygHoM3Xg.jpg\" width=\"675\" height=\"1200\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1239225771157270529\/pu\/vid\/720x1280\/npd2btfEpgd7Q76L.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/vlad_zhukovskiy\/status\/1239226176666828808",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bceG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/vlad_zhukovskiy\/status\/1239226176666828808"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "holypeka",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0443EE70-94B1-4990-B0FA-AFC8564884C3",
+        "type": "message",
+        "text": "Значок советского союза не в тему. Советский Союз - левое государство, Россия - правое. Они не просто не похожи, они противопоставлены друг другу. ",
+        "user": "UJUQAF96G",
+        "ts": "1584333465.230400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3863ed0bbe84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-18\/752196205714_3863ed0bbe845ba4c09a_72.png",
+            "first_name": "Danil",
+            "real_name": "Danil",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denemmy703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gtrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Значок советского союза не в тему. Советский Союз - левое государство, Россия - правое. Они не просто не похожи, они противопоставлены друг другу. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584298082.225500",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a3d6c24-623e-4280-ac31-7fe9a56f58fe",
+        "type": "message",
+        "text": "Правое?? XD",
+        "user": "UJ2JGSQ3X",
+        "ts": "1584340472.230600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1ed5ef7b8531",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-24\/616533640836_1ed5ef7b85313f46c87c_72.jpg",
+            "first_name": "eStatiq",
+            "real_name": "eStatiq Hikky",
+            "display_name": "hikky",
+            "team": "T040HKJE3",
+            "name": "andrey.vl.danilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Правое?? XD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584298082.225500",
+        "parent_user_id": "U48A8L25N"
+    }
+]

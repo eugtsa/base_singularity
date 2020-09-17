@@ -1,0 +1,125 @@
+[
+    {
+        "type": "message",
+        "text": "какие",
+        "user": "U48A8L25N",
+        "ts": "1497691879.731912",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/zhurnalistov_pervogo_kanala-437474\/>",
+        "user": "U48A8L25N",
+        "ts": "1497709197.507100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Журналистов «Первого канала» обязали отслеживать ситуацию в регионах для отчетов в Кремль",
+                "title_link": "https:\/\/tvrain.ru\/news\/zhurnalistov_pervogo_kanala-437474\/",
+                "text": "Каждый региональный корреспондент &amp;laquo;Первого канала&amp;raquo; раз в неделю составляет список наиболее обсуждаемых на местах тем. Отчеты о ситуации в регионах отправляются в администрацию президента, рассказали Дождю бывший и нынешний сотрудники &amp;laquo;Первого канала&amp;raquo;.",
+                "fallback": "Журналистов «Первого канала» обязали отслеживать ситуацию в регионах для отчетов в Кремль",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/43\/74\/74\/image.png?2017_06_17_16_54_20",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/tvrain.ru\/news\/zhurnalistov_pervogo_kanala-437474\/",
+                "image_bytes": 325672,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "мало того что пропагандисты, так еще и сексоты)",
+        "user": "U48A8L25N",
+        "ts": "1497709222.508548",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "как интересно из журналиста превращаешься в это?)",
+        "user": "U48A8L25N",
+        "ts": "1497709258.510465",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "или они и не были никогда журналистами)",
+        "user": "U48A8L25N",
+        "ts": "1497709270.511127",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1497730428.728700",
+        "user": "U3QD81XDH",
+        "text": "<@U3QD81XDH> has left the channel"
+    }
+]

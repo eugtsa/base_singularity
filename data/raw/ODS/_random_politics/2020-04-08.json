@@ -1,0 +1,132 @@
+[
+    {
+        "client_msg_id": "91de6f7a-ff52-42f4-bc16-e4b96c5d8baf",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=FXAfJgAITWU>",
+        "user": "U27HU84H4",
+        "ts": "1586372560.061600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Дмитрий Потапенко \/ Особое мнение \/\/ 08.04.20",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=FXAfJgAITWU",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/FXAfJgAITWU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Дмитрий Потапенко \/ Особое мнение \/\/ 08.04.20",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/FXAfJgAITWU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=FXAfJgAITWU",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=FXAfJgAITWU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFFQw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=FXAfJgAITWU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F011PQX0C0H",
+                "created": 1586377418,
+                "timestamp": 1586377418,
+                "name": "WhatsApp Image 2020-04-08 at 23.15.05.jpeg",
+                "title": "WhatsApp Image 2020-04-08 at 23.15.05.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U5H055U0J",
+                "editable": false,
+                "size": 123530,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F011PQX0C0H\/whatsapp_image_2020-04-08_at_23.15.05.jpeg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F011PQX0C0H\/download\/whatsapp_image_2020-04-08_at_23.15.05.jpeg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011PQX0C0H-87f0b234d4\/whatsapp_image_2020-04-08_at_23.15.05_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011PQX0C0H-87f0b234d4\/whatsapp_image_2020-04-08_at_23.15.05_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011PQX0C0H-87f0b234d4\/whatsapp_image_2020-04-08_at_23.15.05_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 323,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011PQX0C0H-87f0b234d4\/whatsapp_image_2020-04-08_at_23.15.05_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 431,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011PQX0C0H-87f0b234d4\/whatsapp_image_2020-04-08_at_23.15.05_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F011PQX0C0H-87f0b234d4\/whatsapp_image_2020-04-08_at_23.15.05_720.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 646,
+                "image_exif_rotation": 1,
+                "original_w": 798,
+                "original_h": 716,
+                "thumb_tiny": "AwArADBJCQuQcYqF52IA2ippRuiG3nPpVcxOAcA1JY5GyTnrUkp2kMDzUABjcFhgHip7gZKigCJ5nbHA4oRstz1ppVgO9NwVYHnigCyjKItw3BF9DzR5oI3BZ\/qDSxp+5EbDtzTwpUlQMKBxQIqzyq6gAyZH985qeRhkExg8Yzk1II1Zg3fGMVFOcADvmi47CsSFBEakH3NRv8wx5ag+u41ESezHH1pyNl8GgRaAYkfzpzLkfxAg5yKKNxx1P50xD1A9Ofeq8vMgXGeKkLH1NVpGIkBBOaVikK0PTCt+RqJlMbAkEc9xT2lkB4dvzqN3dx8zE\/U00DP\/2Q==",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U5H055U0J\/F011PQX0C0H\/whatsapp_image_2020-04-08_at_23.15.05.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F011PQX0C0H-32a2467123",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U5H055U0J",
+        "display_as_bot": false,
+        "ts": "1586377424.061800",
+        "client_msg_id": "cdbd433d-4e51-44e1-9f5f-c2335fa7a8c6",
+        "reactions": [
+            {
+                "name": "smile_cat",
+                "users": [
+                    "U7VBNMG2F",
+                    "U1TJJJZQ8",
+                    "UC7DFDJUA",
+                    "U21MU5ATE",
+                    "U0RATU6TU",
+                    "UG8K6LD6D",
+                    "U6U3QRW8K",
+                    "UKT220F7Y",
+                    "U48A8L25N",
+                    "U50GQKH5J"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

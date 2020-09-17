@@ -1,0 +1,2813 @@
+[
+    {
+        "client_msg_id": "2c1fee23-fa96-42f6-adca-9da42d82ae3c",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2019\/06\/24\/rospotrebnadzor-vyyavil-uhudshenie-kachestva-gruzinskogo-vina>",
+        "user": "U5H0L5T98",
+        "ts": "1561367862.121700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Роспотребнадзор выявил ухудшение качества грузинского вина — Meduza",
+                "title_link": "https:\/\/meduza.io\/news\/2019\/06\/24\/rospotrebnadzor-vyyavil-uhudshenie-kachestva-gruzinskogo-vina",
+                "text": "Роспотребнадзор обнаружил, что в последние годы качество грузинского алкоголя ухудшилось.",
+                "fallback": "Meduza: Роспотребнадзор выявил ухудшение качества грузинского вина — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1561366542\/news\/2019\/06\/24\/rospotrebnadzor-vyyavil-uhudshenie-kachestva-gruzinskogo-vina",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/news\/2019\/06\/24\/rospotrebnadzor-vyyavil-uhudshenie-kachestva-gruzinskogo-vina",
+                "image_bytes": 60156,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/news\/2019\/06\/24\/rospotrebnadzor-vyyavil-uhudshenie-kachestva-gruzinskogo-vina"
+            }
+        ],
+        "thread_ts": "1561367862.121700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1561368158.122200",
+        "reply_users": [
+            "U7CAU0GMU"
+        ],
+        "replies": [
+            {
+                "user": "U7CAU0GMU",
+                "ts": "1561368158.122200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N",
+                    "U7SFPUVQF",
+                    "U27SUBTB9",
+                    "U1HHX1QS3",
+                    "U43QVTY49",
+                    "U74DLUWUC",
+                    "U0MEP6PT2"
+                ],
+                "count": 7
+            },
+            {
+                "name": "coincidence",
+                "users": [
+                    "U48A8L25N",
+                    "U5H0L5T98",
+                    "U7SFPUVQF",
+                    "U27SUBTB9",
+                    "U1HHX1QS3",
+                    "U0MEP6PT2"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d97b650-6dee-42e1-bd38-c61b4b55f307",
+        "type": "message",
+        "text": ":coolstorybob:",
+        "user": "U5H0L5T98",
+        "ts": "1561367870.122000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "UFDMALG6P",
+                    "U48A8L25N",
+                    "U27SUBTB9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1ef74a2-f963-496a-90f3-9ad538852fab",
+        "type": "message",
+        "text": "Как, интересно, на грузинском будет \"жизнь по уставу\"?",
+        "user": "U7CAU0GMU",
+        "ts": "1561368158.122200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561367862.121700",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": ":kekeke:",
+        "files": [
+            {
+                "id": "FKU3HLYCD",
+                "created": 1561369275,
+                "timestamp": 1561369275,
+                "name": "Screen Shot 2019-06-24 at 12.39.27 PM.png",
+                "title": "Screen Shot 2019-06-24 at 12.39.27 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFDMALG6P",
+                "editable": false,
+                "size": 284808,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FKU3HLYCD\/screen_shot_2019-06-24_at_12.39.27_pm.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FKU3HLYCD\/download\/screen_shot_2019-06-24_at_12.39.27_pm.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 333,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 444,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 667,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 864,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 889,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKU3HLYCD-6ea78a8d79\/screen_shot_2019-06-24_at_12.39.27_pm_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 948,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1372,
+                "original_h": 1482,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UFDMALG6P\/FKU3HLYCD\/screen_shot_2019-06-24_at_12.39.27_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FKU3HLYCD-71ba9a23de",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFDMALG6P",
+        "display_as_bot": false,
+        "ts": "1561369278.122400",
+        "client_msg_id": "9c0a03db-aa10-4a29-9e50-46ccd4a095d2",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U48A8L25N",
+                    "U90HKUW3B",
+                    "U28J6CP29"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73cb1413-8a50-4277-8e49-aab92f475235",
+        "type": "message",
+        "text": "Фотогалерея про протесты от \"объективной\" Медузы. Если в других новостях они еще что-то упоминают про антироссийские лозунги, то на фотках ничего нет (только небольшой плакатик про Путина на заднем фоне): <https:\/\/meduza.io\/feature\/2019\/06\/21\/stolknoveniya-s-politsiey-na-aktsii-v-tsentre-tbilisi-fotografii>",
+        "user": "U7CAU0GMU",
+        "ts": "1561370364.124600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Столкновения с полицией на акции в центре Тбилиси. Фотографии — Meduza",
+                "title_link": "https:\/\/meduza.io\/feature\/2019\/06\/21\/stolknoveniya-s-politsiey-na-aktsii-v-tsentre-tbilisi-fotografii",
+                "text": "Вечером 20 июня в центре Тбилиси состоялась стихийная акция протеста. Тысячи людей вышли на улицы после выступления депутата Госдумы Сергея Гаврилова в парламенте Грузии — на заседании Межпарламентской ассамблеи православия. Гаврилов занял на заседании место спикера, что вызвало возмущение у оппозиционных партий. Участники акции протеста попытались прорваться в парламент. Полиция применила слезоточивый газ, резиновые пули и водометы. Пострадали 240 человек.",
+                "fallback": "Meduza: Столкновения с полицией на акции в центре Тбилиси. Фотографии — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1561106635\/feature\/2019\/06\/21\/stolknoveniya-s-politsiey-na-aktsii-v-tsentre-tbilisi-fotografii",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/feature\/2019\/06\/21\/stolknoveniya-s-politsiey-na-aktsii-v-tsentre-tbilisi-fotografii",
+                "image_bytes": 434546,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/feature\/2019\/06\/21\/stolknoveniya-s-politsiey-na-aktsii-v-tsentre-tbilisi-fotografii"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "are_you_fucking_kidding_me",
+                "users": [
+                    "U1HHX1QS3",
+                    "U2ZHRCAUB"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2efe671d-1190-49bb-8fd5-fdadaffd1e27",
+        "type": "message",
+        "text": "<@U7CAU0GMU> ну так много кто не хочет быть частью России, но нормы международного правила никто не отменял. Я об этом. Я думаю дай волю, половина регионов России попросится наружу, особенно с той властью что сейчас лучше на вольные хлеба, хоть какие то перемены. Поэтому вопрос о том исторически Абхазия часть Грузии или нет я не беру (не было это Грузией, в 20-м веке закинули в одну ССР, но не суть).",
+        "user": "U9ZU1CYUD",
+        "ts": "1561378744.125400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "9bc84eb5-29ff-4aa5-b20c-bf72d66c7e7d",
+        "type": "message",
+        "text": "<@U5H0L5T98> я понимаю о чем ты, просто реально я пытаюсь представить себя в той ситуации в которой грузины. На них напала российская армия (а именно так они считают, а не так что Саакашвили развязал 2008, хотя сейчас уже не так фантастически выглядит то что Россия сама могла спровоцировать на конфликт людей которые занимались просто учениями рядом в Гори, не отбрасываю). В общем, к ним въехала армия, дала по щам и уехала. Плюс Абхазию и Осетию они считают своей (правильно или нет не поднимаю вопрос).\n\nА с тем что начали антигосударственные лозунги переводить на народ это я не поддерживаю, это бесовщина и до добра не доведет. И тут каждый должен своей головой думать даже если скажем что рос.спецслужбы подстрекают никто не заставляет выходить на улицы и терять глаза (идиотизм вообще, сидеть бы дома епта!)",
+        "user": "U9ZU1CYUD",
+        "ts": "1561378974.125600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8feef0d1-a5a5-4ce1-95ed-bc76791cec77",
+        "type": "message",
+        "text": "<@U7CAU0GMU> у большинства абхазов российское гражданство насколько я знаю. Получают пенсии и т.д. Дети на бюджет в РФ поступают. Я вообще не понимаю смысла в существовании в таком виде. Или ты свободен или ты часть России или Грузии, ибо это подвешенное состояние только губительно для будущего.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561379100.125800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "fbe3f74b-e01e-48c2-bc4c-f6e950218b5d",
+        "type": "message",
+        "text": "никто не заставляет, - но это так не работает) почему они не могут не любить какую-то страну или даже отдельных её представителей, если говорить об ответственности, врядли какой-нибудь грузин должен думать: хм русских просто заставили, это не их решение, будем выступать только против правительтсва или отдельных его предложений",
+        "user": "U48A8L25N",
+        "ts": "1561379163.126100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "ff2dfd4b-cfe6-439c-9cc6-93e59aaa07d0",
+        "type": "message",
+        "text": "&gt; Я вообще не понимаю смысла в существовании в таком виде\nПодозреваю, это чтобы не выхватить более жесткие санкции.",
+        "user": "U7CAU0GMU",
+        "ts": "1561379268.127300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "c9b1e15f-a782-4449-a9fc-30f571be6738",
+        "type": "message",
+        "text": "<@U48A8L25N> не забываем что Грузия это 3.7 млн чел, а Тбилиси с пригородами это 50% этого населения.\nА на улицы вышли ну максимум 1000-2000 чел.\n\nКак раз вот многим плевать на ситуацию или нет неприязни к России или русским, и они не выходят на митинги и протесты и мы видим только ту кучку умалишенных.\n\nА так согласен, народ часто быдловат и идет за лозунгами очень легко.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561379298.127500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "e62fcddf-6f67-4bc8-9fa8-80e3b00d2f48",
+        "type": "message",
+        "text": "ну тут не совсем так, осуждают то россию за абхазию и т.п. боььшая часть грузин, разве нет?)",
+        "user": "U48A8L25N",
+        "ts": "1561379391.127900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "b7f7b388-1137-4309-9aeb-95483e3315ab",
+        "type": "message",
+        "text": "то что они не выходят на улицы это не показатель их отношения к россии или русским, просто они к такому не привычны, они не радикальны и прочее прочее",
+        "user": "U48A8L25N",
+        "ts": "1561379431.128100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "dc5937b8-e27f-4b78-81b6-b76079a88fdc",
+        "type": "message",
+        "text": "фактически то россия с грузией враги, несмотря на торговлю отношение и прочее",
+        "user": "U48A8L25N",
+        "ts": "1561379466.128300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "644bad71-283a-4195-af80-310c7306aade",
+        "type": "message",
+        "text": "&gt; Я думаю дай волю, половина регионов России попросится наружу\nАргумент частый, но не особо обоснованный. Более того, на Курилах аж опрос провели, хотят ли они в Японию. С таким охватом, что это больше похоже на референдум. Абсолютное большинство против: <https:\/\/wciom.ru\/index.php?id=236&amp;uid=9563>",
+        "user": "U7CAU0GMU",
+        "ts": "1561379474.128500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Пресс-выпуск",
+                "title_link": "https:\/\/wciom.ru\/index.php?id=236&uid=9563",
+                "fallback": "Пресс-выпуск",
+                "image_url": "https:\/\/www.wciom.ru\/fileadmin\/templates\/img\/logo200g.png",
+                "from_url": "https:\/\/wciom.ru\/index.php?id=236&uid=9563",
+                "image_width": 200,
+                "image_height": 200,
+                "image_bytes": 6890,
+                "service_icon": "https:\/\/wciom.ru\/favicon.ico",
+                "service_name": "wciom.ru",
+                "id": 1,
+                "original_url": "https:\/\/wciom.ru\/index.php?id=236&amp;uid=9563"
+            }
+        ],
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "eb7b30c2-472a-49ed-a403-c5abbac07c14",
+        "type": "message",
+        "text": "опрос хотят ли в японию это конечно очень показательно (нет)",
+        "user": "U48A8L25N",
+        "ts": "1561379518.128800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "625ebe5a-9eb4-4233-acfb-b0aed09af8d9",
+        "type": "message",
+        "text": "показательнее желание тех же татар провести референдум, который им проводить запретили",
+        "user": "U48A8L25N",
+        "ts": "1561379551.129000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "seriously",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e727ba4-f279-4007-bbf3-432b63305887",
+        "type": "message",
+        "text": "вообще ситуация с референдумом в крыму, это бомба под саму россию, и странно что это так мало обсуждают нет широкого понимания этого)",
+        "user": "U48A8L25N",
+        "ts": "1561379623.129300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "8a97f44f-b684-406f-ae22-93e9d6064bce",
+        "type": "message",
+        "text": "Что за запрещенный референдум?",
+        "user": "U7CAU0GMU",
+        "ts": "1561380461.129500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f8a8acc8-ca94-4170-97f0-f1a7db211f06",
+        "type": "message",
+        "text": "А я согласен с этим - Я думаю дай волю, половина регионов России попросится наружу.\n\nКонечно жаль будет терять земли, но это как с девушкой - любишь отпусти)",
+        "user": "U5H0L5T98",
+        "ts": "1561383834.129700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "4de3bfc5-eddf-48e1-8bf0-2563cdf53a1a",
+        "type": "message",
+        "text": "особенно та половина что с нефтью",
+        "user": "U1HHX1QS3",
+        "ts": "1561383891.129900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a0496a3-32af-4944-8729-069ea8526638",
+        "type": "message",
+        "text": "Пример той же Грузии показывает, что после отделения жизнь лучше не становится. Поэтому, наоборот: любишь - надо удерживать",
+        "user": "U7CAU0GMU",
+        "ts": "1561384466.130200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7c3afa18-d086-4e31-afac-be6a402edf51",
+        "type": "message",
+        "text": "что-т много кто говорил что становится, по примеру Грузии",
+        "user": "U1HHX1QS3",
+        "ts": "1561384486.130400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "3558bd72-71f7-4a25-b033-92f5fa198436",
+        "type": "message",
+        "text": "и вон Армения замечательно себя чувствует,или скажем Казахстано :slightly_smiling_face:",
+        "user": "U1HHX1QS3",
+        "ts": "1561384508.130600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "e7fc69a5-5e4e-4e05-90d4-48ef95043ef3",
+        "type": "message",
+        "text": "а вообще - классический аргумент abusive родителей)",
+        "user": "U1HHX1QS3",
+        "ts": "1561384523.130800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "2d96536f-6ff9-463e-853c-bc249f9bae37",
+        "type": "message",
+        "text": "&gt; много кто говорил что становится, по примеру Грузии\nКто говорил? Туристы?",
+        "user": "U7CAU0GMU",
+        "ts": "1561384693.131000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "cda70845-f585-4fdd-bd12-8789b116b1c8",
+        "type": "message",
+        "text": "Масштаб эмиграции говорит об обратном: <https:\/\/www.apsny.ge\/2016\/soc\/1462321727.php>",
+        "user": "U7CAU0GMU",
+        "ts": "1561384725.131200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Почему растет число эмигрантов из Грузии?",
+                "title_link": "https:\/\/www.apsny.ge\/2016\/soc\/1462321727.php",
+                "fallback": "Почему растет число эмигрантов из Грузии?",
+                "image_url": "http:\/\/www.apsny.ge\/images\/fb_lg.jpg",
+                "from_url": "https:\/\/www.apsny.ge\/2016\/soc\/1462321727.php",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 66394,
+                "service_icon": "https:\/\/www.apsny.ge\/favicon.ico",
+                "service_name": "apsny.ge",
+                "id": 1,
+                "original_url": "https:\/\/www.apsny.ge\/2016\/soc\/1462321727.php"
+            }
+        ],
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "46271cdc-9667-462c-8481-8fa34983434c",
+        "type": "message",
+        "text": "а масштаб эмиграции из РФ, если сравнивать?",
+        "user": "U1HHX1QS3",
+        "ts": "1561384745.131500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1HHX1QS3",
+            "ts": "1561384752.000000"
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "15382523-94e7-46dc-b91d-b2b81e95d4bc",
+        "type": "message",
+        "text": "там первый коммент норм",
+        "user": "U1HHX1QS3",
+        "ts": "1561384786.131800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "9510441f-f342-4cc7-b28b-e746e2a2a099",
+        "type": "message",
+        "text": "Из РФ в абсолютных величинах уезжает даже меньше. А население больше в 40 раз",
+        "user": "U7CAU0GMU",
+        "ts": "1561384903.132000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "5d7166e4-c5ca-4264-9313-51b7d3314d71",
+        "type": "message",
+        "text": "<https:\/\/inosmi.ru\/video\/20190624\/245340300.html>",
+        "user": "U48A8L25N",
+        "ts": "1561393519.132400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ИноСМИ.Ru",
+                "title": "Georgia Today (Грузия): Тако Нацвлишвили отвечает на запрет России на поездки",
+                "title_link": "https:\/\/inosmi.ru\/video\/20190624\/245340300.html",
+                "text": "Устроить из-за спикерского кресла и русского языка в парламенте многодневные манифестации и драку с увечьями — это настоящий позор. Но за этот позоре никто в Грузии публично не извинился. Зато вовсю идет кампания «импортозамещения» российских туристов. Вот и фотомодель привлекается — зовет, как сирена, в Грузию туристов со всего мира. Стимул — уязвить Путина.",
+                "fallback": "ИноСМИ.Ru: Georgia Today (Грузия): Тако Нацвлишвили отвечает на запрет России на поездки",
+                "thumb_url": "https:\/\/cdn1.img.inosmi.ru\/images\/24534\/02\/245340220.jpg",
+                "ts": 1561367220,
+                "from_url": "https:\/\/inosmi.ru\/video\/20190624\/245340300.html",
+                "thumb_width": 765,
+                "thumb_height": 403,
+                "service_icon": "https:\/\/inosmi.ru\/i\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/inosmi.ru\/video\/20190624\/245340300.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1c074d5-877c-466d-9cb4-de4d95cbd5a0",
+        "type": "message",
+        "text": "<@U48A8L25N> да, у грузин 95% и более кого встречал бзик на абхазии, комплексы и обиды и они не приемлют любой сепаратизм с их стороны.\n\nХотя по сути абхазы никогда частью Грузии не были, была когда то Колхида 3000 лет назад наверное блин, и то это некое общее государство. Было Абхазское царство куда пол Грузии входило. А потом 1000 лет назад и до 20 века была отдельная Абхазия на любой карте что можно найти. Абхазия имела статус ССР почти и почему то ее не в РСФСР с понижением увели а в Закавказскую ФСР, где ее статус понизили до автономии в одной из частей этой ФСР сделав частью Грузии. С этого момента 80% грузин проживавших там до 1989 там и поселились. А другие 30-40 тыс что есть и сейчас (а тогда 10-20 тыс) это потомки смешанного населения которые по сути и не грузины (мегрелы) а абхазы перешедшие на грузинский в лохматом 15-16 веке.\n\nЭто тоже самое как украина про Крым заявляет, там и украинцев не было, и украинской родиной не является, но завоевала Россия, еще когда Малороссия была и западной Украины не был в составе, и заселялось русскими, и позже лишь в 20-м веке передано было Украине и то это не особо изменило состав населения. И тут понятно что права более менее у крымских татар как автохтонов и кого то там еще и может у русских кто стал коренным за 200 лет.\n\nЖелания одно, реальность другая.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561393719.132700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7e350ea4-cd81-4956-8752-a26978ab0e2f",
+        "type": "message",
+        "text": "Провести референдум реально в таких регионах как:\nЧечня\nТатарстан\nБашкортостан\nТыва\n\nэти сразу 90% CL что захотят уйти\n\nдалее вероятностьв высокая но разные причины опаски (укажу в скобках), да и 30-40% согласных, сомневающихся:\nЯкутия (боятся что будет, как строить связи и Китай)\nДагестан (боятся что пересрутся)\nРеспублика Алтай (хотят отдельно, боятся Китая)\nБурятия (хотят отдельно, боятся Китая, но смотрят на Монголию, они им как украинцы русским)\nЧувашия (зажечься могут спокойно, хотя очень ассимилированный ментально и не пассионарный)\n\nОстальные регионы или критической массы мало или противоречий много внутри.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561394002.132900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "e45eb3a1-cc9c-41b7-9bc7-a22872467399",
+        "type": "message",
+        "text": "дело же не в желании местных (крымчан или абхазов), первопричиные же явно другие были, думаю местные и не думали особо о независимости) пока россия не решила",
+        "user": "U48A8L25N",
+        "ts": "1561394047.133100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U1HHX1QS3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ebbeea5-8c23-40fc-9989-d4dd3e9ea0be",
+        "type": "message",
+        "text": "<@U5H0L5T98> в колхозе сыт не будешь.\nБольшая страна это хорошо, это мощь, это потенциал, развитие и т.д.\nНо в нынешнем случае мне кажется по отдельности каждый будет лучше жить, т.к. все равно все в центр ориентировано, коррупция огромная, и прочее. Так было и в 17 веке и в 18, 19, и даже в 20 и щас также. И врядли че изменится за 1-2 поколения.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561394083.133300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "4cfbb69c-fe67-491e-a675-d5540a8a058f",
+        "type": "message",
+        "text": "с одной стороны большая страна хорошо, а с другой нет)  особенно если смотришь как деньги уходят на дотации другим регионам)",
+        "user": "U48A8L25N",
+        "ts": "1561394274.133600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "b467271f-3770-494c-ba51-0f24628c9551",
+        "type": "message",
+        "text": "<@U48A8L25N>\nкрымцы хотели всегда отдельно. Для многих Россия это враг, т.к. выселила и не вернула. Хотя у 30% уже русские жены. Но тут связка с Турцией работает хорошо, и Крым реально может быть независимым ибо за 1 год туда пару миллионов наплыв турков и потомков крымских татар будет спокойно , с подачи Турции.\n\nабхазы другой вопрос, они вообще ни о чем не думали и это было фантастический сценарий что Абхазия станет независимой отдельной и прочее, т.к. они были в глубочайшей стагнации уже в советское время, интегрированы в Грузию очень сильно, и ментально от ближайших по языку и истории северокавказцев (абазин, черкесов-адыгов) отличались как шведы от испанцев. Здесь сыграл фактор агресии Грузии которая силовым путем захотела зачистить от абхазов, и помощь северокавказцев (Россия в первые месяцы дала добро на бойню и закрыла границы чтоб добровольцев не было, но по перевалам перешли несколько сотен черкесов которые изменили историю Абхазии т.к. обладали опытом (Афганистан, и т.д.), и имели военное образование, к слову у абхазов ни одного даже уровня полковника не было чтоб сформировать армию, вот ее и формировали черкесы).\n\nАбхазам в общем повезло, будь противником кто посильнее и если бы Россия позже не решила поддержать, то хана 100 000 народу в той эйфории грузин которые призывали полностью истребить абхазов.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561394405.133800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "68d7bc84-dbd4-4590-add4-2892a7204c93",
+        "type": "message",
+        "text": "<@U48A8L25N>\nДотации уходят во все регионы, кроме нефтеносных. Никто оставлять деньги там не будет, и развивать Тюмень за 100% всей суммы чтоб оставалось в регионе.\n\nПроблема с 10-12 регионами у которых дотационность выше 60%, среди них половина кавказские региона, если ты намекаешь об этом, хотя какая нить Ивановская область тоже под 2\/3 дотационность и т.д.\n\nНо допустим обвинять Чечню в дотационности 90% я не могу т.к. чеченская нефть и азербайджанская позволили победить в ВОВ, позволили построить почти всю промышленность в СССР пока нефть в Сибири не начали норм добывать то чеченская нефть тоже шла на дотации другим регионам, а когда высосали все уже стали не нужны и попрекать типа вот вам слишком много даем.\n\nКак считаешь, справедливо?",
+        "user": "U9ZU1CYUD",
+        "ts": "1561394579.134100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f37a2cc9-9464-4630-bc8c-7f8bee370ab4",
+        "type": "message",
+        "text": "да врядли бы они устроили геноцид, кто бы им дал, это все же больше похоже было на провокацию",
+        "user": "U48A8L25N",
+        "ts": "1561394594.134300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7d12b110-d359-4418-b7c7-33c9ee39ed42",
+        "type": "message",
+        "text": "причем тут справедливость)",
+        "user": "U48A8L25N",
+        "ts": "1561394635.134500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "00141ec8-9d5c-4321-9ace-0b6bef4f2c62",
+        "type": "message",
+        "text": "в политике и интересах государств нет такого понятия, справедливость)",
+        "user": "U48A8L25N",
+        "ts": "1561394649.134700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f4c0c1fe-51ad-459a-8098-659e3c9e4619",
+        "type": "message",
+        "text": "<@U48A8L25N> возможно, но принять меры тогда нужно было и приняли...и понятно что ситуация уже осложнилась...даже если учесть что типа вдруг не хотели делать то что говорили, но эти слова отвернули абхазов навсегда",
+        "user": "U9ZU1CYUD",
+        "ts": "1561394667.134900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "1af1c778-bb75-4c69-a241-3656a4da9d7e",
+        "type": "message",
+        "text": "<@U48A8L25N> я за то чтоб и мой регион лишили дотаций но тогда чтоб и Москву.\nТут надо поменять правила, 90% компаний зарегистрированы в Москве и платят налоги там а кормятся с Сибирских и прочих ништячков.\n\nПри правильном раскладе о котором ты, я про дотационность, Москвы не станет как города 25 млн раздутым населением (наличным), и может тогда остальная страна пойдет развиваться.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561394753.135100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "59b34d7e-c7f8-46e8-9724-4050c73bfbb6",
+        "type": "message",
+        "text": "пока что мы в заложниках у Москвы и сильной централизации власти и финансовых потоков",
+        "user": "U9ZU1CYUD",
+        "ts": "1561394773.135300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "6111f4b3-6279-4f09-b69f-a072a7feb4c6",
+        "type": "message",
+        "text": "ну это до очередного кризиса центральной власти, как и с совком было",
+        "user": "U48A8L25N",
+        "ts": "1561394818.135500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "40414aa7-6d01-42bb-889c-af5989ef2bef",
+        "type": "message",
+        "text": "интересно что будет, если конечно будет, когда ядерные силы останутся у нескольких отделившихся или разделившихся",
+        "user": "U48A8L25N",
+        "ts": "1561394858.135700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "6624ac4c-7b64-43bb-9242-2227f2966b46",
+        "type": "message",
+        "text": "<@U48A8L25N> я думаю не повторят ошибку украины и не отдадут.\nв принципе и казахстан мог не отдавать ядерное оружие. И это был бы другой Казахстан. А то щас на шухере в боязни что Китай проглотит сидят.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561395146.135900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "18b03769-11e6-4448-8ead-71c5310a27f6",
+        "type": "message",
+        "text": "видимо какой-то трейдоф был, хотя посмотришь на испытания россии которые и сейчас проводятся на территории казахстана",
+        "user": "U48A8L25N",
+        "ts": "1561395278.136100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "2102614f-ae73-480b-b679-cce69e6ba770",
+        "type": "message",
+        "text": "и думаешь мало ли до чего они там могли договориться)",
+        "user": "U48A8L25N",
+        "ts": "1561395288.136300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "d03d0710-de4c-44b0-8d81-95eb1c17b4e1",
+        "type": "message",
+        "text": "Кстати, в случае с Грузией и прочими другими сказывается еще момент таких комплексов малого народа.\nЧасто даже среди своих вижу.\n\nЭто похоже на то как ребенок в 3-4 года ведет себя, всегда нет говорит, и это попытка отсечь себя, стать отдельной от мамы личностью, такой переходный период. Вот со странами и народами также. Пытаются строить из себя независимых, типа сами по себе.\n\nВообще истерию не понимаю т.к. никто как грузины не поимел плюшек с того что был частью Рос. Имп и СССР.\nРос.Имп помогла собрать грузинские княжества в одно государство (Грузии не существовало до этого, мегрелы, сваны, картвелы например имеют языки разошедшиеся 4000-5000 лет назад, я увлекаюсь этим и знаю о чем говорю, генетически разные очень народы, ментально помогло христианство в становлении единого государства и это часто было силой и при помощи русских). А в СССР вообще раздолье. Грузию русские не заселяли, место не занимали почти, 7-8% не более, и грузины могли полностью жить не в тесном регионе да еще расселяться в другие. В то время как допустим в Чечне набито было народу дохрена и чеченцев и русских было пополам и места было мало, земля была ценнее в разы. И финансово, Грузия высасывала огромные ресурсы из СССР, этакий курорт и неразвитое причерноморье в РСФСР во многом следствие того что не хотели обижать Грузию и отнимать хлеб. Поэтому были Крым, Абхазия (тогда Грузия) и Аджария. А Сочи, Туапсе, Анапой никто не занимался толком.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561395529.136500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "94cdd02e-375e-4969-a823-bf02c93e70c9",
+        "type": "message",
+        "text": "ну тут тоже разные нюансы кроме да, очевидно такого, психологического, многие еще все-таки хотят чтобы их язык, обычаи и подобное, не умирали, а наооборот возрождались и распространялись, даже вопреки логике и прагматизму, и тут их сложно осуждать, почему например ты должен быть в составе рф, обеспечивать дотациями, при том что новые поколения все меньше, например татары или башкиры, и все больше, если так можно выразиться русские",
+        "user": "U48A8L25N",
+        "ts": "1561395910.136700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "c95a7bfe-a6c5-447c-8097-343677fd3f56",
+        "type": "message",
+        "text": "опять же в современном мире, отделение само по себе от рф мало даст, на примере стран снг, где больш`ая часть населения русскоязычная, мировоззрение людей складывается во многом из того, что говорят русскоязычные источники информации, например тв, т.е в первую очередь это пропаганда рф",
+        "user": "U48A8L25N",
+        "ts": "1561396508.136900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "d55e857c-0a44-42c1-9687-ad7c82a8a6c7",
+        "type": "message",
+        "text": "Мне кажется, что из лекций\/выступлений Натальи Зубаревич становится понятно, что отделение или оставление их доходов при них, регионам не поможет экономически.",
+        "user": "U27HU84H4",
+        "ts": "1561396662.137100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "1278abc5-3f66-41b2-8274-cace389cc70e",
+        "type": "message",
+        "text": "но это как минимум может поднять уровень жизни, как с казахстаном, вроде и управление не очень хорошее, но денег нефтяных много, и можно заливать)",
+        "user": "U48A8L25N",
+        "ts": "1561396906.137300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "609ab0a6-5136-4df2-92d7-a29a71f0dc06",
+        "type": "message",
+        "text": "Казахстан вроде как лет десять-пятнадцать назад вложился в постройку заводов или нефтепереработок (а не в фонд будущих поколений или как он там называется).",
+        "user": "U27HU84H4",
+        "ts": "1561397131.137500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "30af1ca2-4440-43bf-b32e-a14ad1edf04a",
+        "type": "message",
+        "text": "Тыва что производит во внутристрановом разделении труда и что она, после отделения, сможет миру представить? Логистика туда не ахти. Вроде тюрем много, и выходцев из них.\nКак мне говорили, если через неё проходят веломарафоны всероссийские, то велосипедистам (и фотографам) настоятельно рекомендуют кучковаться, чтобы отбиваться от местных, которые даже трусы не постесняются снять с слабых одиночек, чтобы куда-то все вещи и шмотки загнать.",
+        "user": "U27HU84H4",
+        "ts": "1561397341.137700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "3e7c3baa-fffd-4a6b-b534-3d7dddfbe969",
+        "type": "message",
+        "text": "как что - будет “российских” заключенных импортировать) в сша вон куча коммерческих тюрем",
+        "user": "U1HHX1QS3",
+        "ts": "1561397472.137900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d65018a-2c5d-40d1-991a-8f16c85c429c",
+        "type": "message",
+        "text": "причем тут фонд то) обычные расходы, зачем для этого выделять в фонд",
+        "user": "U48A8L25N",
+        "ts": "1561397646.138200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7f715a73-7843-48d2-9b78-5448d29802a5",
+        "type": "message",
+        "text": "leonid, дотационность это пример, как и разделение на регионы, на самом деле то разделение может быть всяким",
+        "user": "U48A8L25N",
+        "ts": "1561397903.138400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "80312f32-26ec-4f35-ac2d-6f7d751ea120",
+        "type": "message",
+        "text": "а примеров таких, причин разделения множество",
+        "user": "U48A8L25N",
+        "ts": "1561397961.138600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "4e98f434-8832-4d77-b288-52b697914c7b",
+        "type": "message",
+        "text": "да и даже если разделение пройдет по регионом, мало ли в какие объединения эти регионы войдут, это все очень условно",
+        "user": "U48A8L25N",
+        "ts": "1561398044.138800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "ea9e2b22-4a50-42bd-b272-e680f62badde",
+        "type": "message",
+        "text": "<@U48A8L25N> если исходить только из логики, то даже в русском языке уже смысла не особо много.\nТ.к. только Россия и Украина по сути из русскоязычных (вторая скоро перестанет ей быть) генерирует технологии и прочее, а остальные это или ноль или так мало что по сути ни о чем. И масштабы влияния России в мире технологий и в экономике снижаются, и будут снижаться, и население падает. В итоге, уже не язык из первой пятерки самых важных. Чисто политически еще долго будет, но прагматически уже разрыв ощущается что переход на англ уже прям требуется. В принципе это я вижу и по части французского языка даже (к слову, больше носителей, шире география и суммарная экономика и т.д.), но все же подавляется английским и его распространением. По сути только англ и остается или замыкаться в собственные экономики как Китай делает.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561399733.139000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7efe4a43-ef0e-47a7-8177-2fef411de9ad",
+        "type": "message",
+        "text": "это понятно, тут прагматизм говорит о глобализации)",
+        "user": "U48A8L25N",
+        "ts": "1561399841.139200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "d6d73e43-c896-4013-b97a-e5e2c94b88a9",
+        "type": "message",
+        "text": "как у китая вряд ли получится, ибо все-таки нет такого количества собственных потребителей)",
+        "user": "U48A8L25N",
+        "ts": "1561399868.139400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "fd54e8ca-0a47-4083-b59d-7b998245ec3e",
+        "type": "message",
+        "text": "<@U48A8L25N>не вижу проблем чтоб все языки 5000 оставшиеся нормально существовали в достойных автономиях. Человек в наше время 3-4 языка должен и может знать свободно. Если он к кому-то себя относит, пусть относит. Я все больше ощущаю себя причастным ко многим культурам, но свое кавказское давлеет конечно, но я не скажу что я прям фанатичен в этом т.к. по сути в 21 веке нам нечего дать миру, а сохранять стоит нам (кавказцам) только некий моральный облик, какие то отдельно взятые традиции, но это скорее мелочи и общечеловеческие вещи, поэтому сути особо не меняет. Народы всегда рождались и умирали, так было и будет. Допустим те же грузины ратующие за быть отделньо от России и прочее и не быть русскими могут быть правнуками тех для кого было смертью быть картвелом и не быть больше мегрелом с мегрельской культурой или языком. Время уходит и все меняется.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561399902.139600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f7207805-7174-4700-82ca-22c8d6339ae4",
+        "type": "message",
+        "text": "ну, как я уже говорил понимание и прагматизм одно) а то что движет совсем другое)",
+        "user": "U48A8L25N",
+        "ts": "1561399987.139800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "8e99513c-ebf0-46c9-837d-5ee36ac4c922",
+        "type": "message",
+        "text": "<@U48A8L25N>у России есть хорошие шансы если попытаться удержать 145 млн в РФ, плюс СНГ и некие окружающие пространства, это 300-350 млн. Вполне статично стабильно можно существовать, но проблема в том, что Россия сама страна потребитель, а не производитель. Для статичности нужна полная линейка производства и сервиса, самообеспечение, которое есть у Китая. Он всем себя обеспечивает, все свое сам производит и западные товары лишь дополнение.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561399996.140000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "9d0a2425-b7ab-4f24-b854-06018bf64816",
+        "type": "message",
+        "text": "технологии нужны и китаю) в этом даже они в какой-то мере потребители",
+        "user": "U48A8L25N",
+        "ts": "1561400050.140200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "5bfe43e5-18ac-4d64-af3e-de2cb96a7a9c",
+        "type": "message",
+        "text": "Вроде бы 200 миллионов минимально хватает для самостоятельного рынка. ЕАЭС как раз не хватает примерно населения Украины :coincidence:",
+        "user": "U7CAU0GMU",
+        "ts": "1561400096.140400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f378c38d-8082-4bf8-9006-1bb7386ed163",
+        "type": "message",
+        "text": "не, вот muhakabartay прав тут, россия потребитель, поэтому 200 это слишком мало",
+        "user": "U48A8L25N",
+        "ts": "1561400162.140600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "e7921825-0144-4fe7-8884-4cb5efcbac71",
+        "type": "message",
+        "text": "да и россияне не богаты, рынок это не богат",
+        "user": "U48A8L25N",
+        "ts": "1561400191.140800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7783f792-2a1d-4f55-a510-707243f62c21",
+        "type": "message",
+        "text": "да, критическая масса в 500-1000 млн если достигли бы, то даже при низкой эффеткивности производство можно было бы делать, защищать и оградить от конкурентов было бы легко. А щас слабовато. У нас нет",
+        "user": "U9ZU1CYUD",
+        "ts": "1561400400.141000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "101ab3cc-c146-4e45-8bed-23dd7d6168d9",
+        "type": "message",
+        "text": "У нас нет электронной промышленности больше. У нас нет химической промышленности. У нас нет сельского хозяйтсва современного где мы сами генетически все выводили бы. Мы не производим станки, аппаратуру, приборы, и прочее. У нас по сути нет экономики как таковой. Лет 20 точно. Все что было и потреблялось еще до конца 90-х померло и не конкурентоспособно и помещения распилили продали под офисы, магазины и прочее.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561400493.141200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7e0743bd-c263-4932-a674-481b3c3d150e",
+        "type": "message",
+        "text": "выжить на IT маловероятно. Слишком много людей. Да и законов норм нет, утекать все будет. Хотя русские одни из самых талантливых. Я до сих пор удивляюсь откуда столько умных ребят берутся при нашей системе образования в РФ.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561400538.141400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "15661021-4eb8-4557-ad41-6e71ba179e5f",
+        "type": "message",
+        "text": "кстати, про Грузию\nкак границы открыли, в ЕС хлынули 300-500 тыс человек. Половина пытается осесть как беженцы и получает отказы типа у вас норм страны и т.д. ЕС не хочет экономических беженцев больше.\n\nэто к слову что уже сейчас в Грузии всего лишь 3.5 млн ну может 3.7 млн чел. Без Абхазии и ЮО. в Армении около 2.5-2.7 млн. Но пишут больше.\n\nВ реале к 2050 году Грузия будет около 2 млн как Армения станет 1.5 млн. Это неизбежно просто. И уже не Россия поглотит излишек, а ЕС. Даже узбеки стали чаще смотреть хотя бы на Турцию чем на РФ, так как нещадно падает уровень жизни.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561400718.141600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "norma",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Новый логотип DataCamp в FB. Интересно к чему это они?",
+        "files": [
+            {
+                "id": "FKUNWMDBP",
+                "created": 1561402891,
+                "timestamp": 1561402891,
+                "name": "20190624_220124.jpg",
+                "title": "20190624_220124.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U7SFPUVQF",
+                "editable": false,
+                "size": 60806,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FKUNWMDBP\/20190624_220124.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FKUNWMDBP\/download\/20190624_220124.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 232,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 309,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_720.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 464,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_800.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1241,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_960.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 619,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKUNWMDBP-6c069f7dd1\/20190624_220124_1024.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 660,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1069,
+                "original_h": 1658,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U7SFPUVQF\/FKUNWMDBP\/20190624_220124.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FKUNWMDBP-f375c0ce07",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U7SFPUVQF",
+        "display_as_bot": false,
+        "ts": "1561402891.142600",
+        "client_msg_id": "5011c291-5307-4708-a9c6-35bd639a80c3",
+        "thread_ts": "1561402891.142600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1561478684.159800",
+        "reply_users": [
+            "U1HHX1QS3",
+            "U7SFPUVQF"
+        ],
+        "replies": [
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1561429547.153300"
+            },
+            {
+                "user": "U7SFPUVQF",
+                "ts": "1561438039.153500"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1561478684.159800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "39083f58-cb87-4693-a279-f87ad2fd4a5f",
+        "type": "message",
+        "text": "видимо поддерживают",
+        "user": "U48A8L25N",
+        "ts": "1561403000.143100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "588de0b0-f0b3-4e3e-8480-dc82ab787da1",
+        "type": "message",
+        "text": "у Якутии был шанс отсоединиться, но к ним туда быстренько дагестанцев завезли, так что теперь уже врядли. Татарстан не платит федеральные налоги, а дотации получает, нефть там низкого качества - высокосернистая, из-за него вся нефть в трубопроводе Дружба торгуется по низкой цене марки Urals - так что они тоже не особо выиграют от автономии. Ближе всех к цели была уральская республика в 90-е, даже валюту свою напечатали, но тоже не срослось, в итоге весь аппарат управления заменили",
+        "user": "UFDMALG6P",
+        "ts": "1561403138.143200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "1e7960fc-5eea-41a6-85f1-c68b98f74a25",
+        "type": "message",
+        "text": "А Казахстан кстати лидирует по запасам урана и его добыче. Давно должны все в золоте купаться и на золотых конях ездить",
+        "user": "UFDMALG6P",
+        "ts": "1561403528.143400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "35aad207-2064-4602-b1cf-9e4da2751553",
+        "type": "message",
+        "text": "уран не такой уж и дорогой)",
+        "user": "U48A8L25N",
+        "ts": "1561403593.143600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "9532b040-d66c-4e7a-9a2c-11c55c4c9841",
+        "type": "message",
+        "text": "нефть и газ больше приносит во много раз)",
+        "user": "U48A8L25N",
+        "ts": "1561403606.143800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1561403619.000000"
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "b182848e-1681-48c3-b348-ba97cd8c7ae6",
+        "type": "message",
+        "text": "да, но только когда нефть стоит 80$ все хорошо, а когда 30 то становится грустно. На цену же урана только Австралия с Канадой могут серьезно влиять, но они в такие игры не играют. А так, офис конечно у КазМунайГаз шикарнейший в центре Астаны",
+        "user": "UFDMALG6P",
+        "ts": "1561403927.144100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "699c87e3-59d7-4707-b898-aae52ebfe61c",
+        "type": "message",
+        "text": "нефть 26 лярдов, уран меньше лярда в год",
+        "user": "U48A8L25N",
+        "ts": "1561404482.144300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "aa5d82de-d420-40a8-b4c8-dc9f1a6c8960",
+        "type": "message",
+        "text": "на кривой затрат, опек+ намного левее Казахстана. Они могут держать цену ниже 10 торгуя в +, тогда добыча нефти в других странах нецелесообразна",
+        "user": "UFDMALG6P",
+        "ts": "1561405397.144600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFDMALG6P",
+            "ts": "1561405408.000000"
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7a7044dc-020e-4cfd-a1f9-deb3831e4155",
+        "type": "message",
+        "text": "<@UFDMALG6P> не могу понять причем тут якутская независимость и даги?как это связано?\nи если есть связь, то сколько надо дагов чтоб на что-то влиять?\n\nмне кажется весьма преувеличено все, ибо якутов 500 000 чел все-таки и весьма националистически настроены, с традициями, это не полумертвые народы средней полосы и поволжья.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561405412.144900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "0c03491c-8f1f-4b25-90d9-9b4154d68ebe",
+        "type": "message",
+        "text": "Казахстану надо 100 млн чел для норм жизни. Место там есть, правда воды особо нет. Но вопрос решаем через опреснение Каспия.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561405460.145100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "4f53ddff-d8f1-4067-971f-d764d4dbdc34",
+        "type": "message",
+        "text": "на прошлой работе у меня финдир был из якутии. Дагестанцы там в роли росгвардии, и они кстати тоже не полумертвые",
+        "user": "UFDMALG6P",
+        "ts": "1561405543.146300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "3327c0e3-929a-44db-a2fe-c789373268c9",
+        "type": "message",
+        "text": "надо гетеросексуалам тоже свои эмблемы, свои сообщества. Но это не примут, в этом перекос современного мира. Говорить что ты еврей можно, а если ты говоришь что другой еврей то ты антисемит. Если говоришь о себе что ты такой-то нации, то националист. Я уже перестал понимать этот мир",
+        "user": "U9ZU1CYUD",
+        "ts": "1561405565.146900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561405565.146900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1561429470.151700",
+        "reply_users": [
+            "U1HHX1QS3"
+        ],
+        "replies": [
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1561429470.151700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9583ab0a-ef28-42c1-8db3-2f8ddec45cce",
+        "type": "message",
+        "text": "<@UFDMALG6P> ну то что даги не полумертвые это понятно, но все же их не так много там.\n\nвообще, клинит этот идиотизм когда одних против других. Дагестану собой надо заняться, столько проблем, и бочка с порохом, столько народов и территориальных противоречий и амбиций. Нельзя давать себе быть шестеркой чьей-то политической игры в регионе где ты не коренной и коренное население имеет право на свое будущее. Но стравливать будут конечно, иначе как держать баланс и продолжать воровать чтоб никому дела не было, каждый занят ерундой.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561405709.147000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "a91679ca-6c2b-405c-b5a9-6f5c0c47c2a6",
+        "type": "message",
+        "text": "Ну в общем дагестанцы или чеченцы или и те и другие, не разбираюсь, \"даги\" короче:\n<https:\/\/sell-off.livejournal.com\/16183995.html>",
+        "user": "UFDMALG6P",
+        "ts": "1561405978.147200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В Якутии - закона нет, их под себя подмяли чеченцы - установив там свои порядки",
+                "title_link": "https:\/\/sell-off.livejournal.com\/16183995.html",
+                "text": "Оригинал взят у ilyavaliev в В Якутии наводят порядок суд и Кадыров Что-то интересное происходит в республике Саха (то есть, Якутия). Вся республика практически в заложниках у местной чеченской диаспоры. Но сначала я хочу рассказать об аресте бывшего заместителя главы Якутска Егора Попова. Коротко.…",
+                "fallback": "В Якутии - закона нет, их под себя подмяли чеченцы - установив там свои порядки",
+                "image_url": "http:\/\/img11.nnm.me\/2\/c\/3\/1\/5\/21b10f3d28a7b6acc8474e81291.jpg",
+                "from_url": "https:\/\/sell-off.livejournal.com\/16183995.html",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 408442,
+                "service_icon": "https:\/\/www.livejournal.com\/img\/apple-touch-icon.png?v=17026",
+                "service_name": "sell-off.livejournal.com",
+                "id": 1,
+                "original_url": "https:\/\/sell-off.livejournal.com\/16183995.html"
+            }
+        ],
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "257652f1-df7e-49bb-ab0e-0def1cb3b684",
+        "type": "message",
+        "text": "зачем им эмблемы? поддерживают угнетенных, или просто малые группы",
+        "user": "U48A8L25N",
+        "ts": "1561406100.148200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3abba304-02bf-472d-b42f-eed5309d3d8d",
+        "type": "message",
+        "text": "гетеросексуалы сюда никак не подходят",
+        "user": "U48A8L25N",
+        "ts": "1561406115.148500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a2530101-c90b-4496-8de5-657f1eaed573",
+        "type": "message",
+        "text": "кстати вроде недавно где-то был парад гетеросексуалов)",
+        "user": "U48A8L25N",
+        "ts": "1561406128.148900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1561406135.000000"
+        }
+    },
+    {
+        "client_msg_id": "fc3405d7-2a68-499b-ac61-bb94a6d99c6d",
+        "type": "message",
+        "text": "Казахстану самое время сейчас с Ираном договариваться строить канал и иметь прямой выход из каспия в индийский океан :kekeke:  Цена вопроса 10 млрд$. Тогда точно на золотых конях будут ездить все.\nО боги, какие же все-таки перспективы с дивана открываются :slava:",
+        "user": "UFDMALG6P",
+        "ts": "1561406404.149100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4785d1d6-e3ba-4fcf-a7b5-03673cf48c11",
+        "type": "message",
+        "text": ":sofa_warrior::sofa_warrior::sofa_warrior::sofa_warrior::sofa_warrior::sofa_warrior:",
+        "user": "U1HHX1QS3",
+        "ts": "1561406504.149400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1HHX1QS3",
+            "ts": "1561406511.000000"
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "0bbe302d-740f-44ef-ac84-6a96ece37e2c",
+        "type": "message",
+        "text": "надо сделать день :sofa_warrior:, с купанием в фонтанах",
+        "user": "U1HHX1QS3",
+        "ts": "1561406519.149700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1HHX1QS3",
+            "ts": "1561406554.000000"
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "744e26c6-c27b-47ff-bcd3-ca361e9d4099",
+        "type": "message",
+        "text": "с купанием в фонтанах, это соседний тред от datacamp. Поэтому кстати вдв так любят фонтаны - на солнце они дают ощущения что купаешься в радуге :rainbow: :unicorn_face:",
+        "user": "UFDMALG6P",
+        "ts": "1561406733.150200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "smekalka",
+                "users": [
+                    "U1HHX1QS3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1561407059.150500",
+        "user": "UFDMALG6P",
+        "text": "<@UFDMALG6P> set the channel topic: :sofa_warrior: :sofa_warrior: :sofa_warrior: :sofa_warrior: :sofa_warrior:",
+        "topic": ":sofa_warrior: :sofa_warrior: :sofa_warrior: :sofa_warrior: :sofa_warrior:"
+    },
+    {
+        "client_msg_id": "8127e295-a7c6-4d89-b3d2-7b6c53332de3",
+        "type": "message",
+        "text": "<@UFDMALG6P> канал нереален , смотри топографическую карту\n<https:\/\/map-rus.com\/images\/26dd%20topo.jpg>",
+        "user": "U9ZU1CYUD",
+        "ts": "1561428396.151000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U9ZU1CYUD",
+            "ts": "1561428495.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "1551x981px image",
+                "image_url": "https:\/\/map-rus.com\/images\/26dd%20topo.jpg?crc=4279328945",
+                "image_width": 1551,
+                "image_height": 981,
+                "image_bytes": 190754,
+                "from_url": "https:\/\/map-rus.com\/images\/26dd%20topo.jpg?crc=4279328945",
+                "id": 1,
+                "original_url": "https:\/\/map-rus.com\/images\/26dd%20topo.jpg?crc=4279328945"
+            }
+        ],
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "UFDMALG6P",
+                    "U70T87GMA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61D30EC5-C7F6-4BD7-972B-566C9A498A93",
+        "type": "message",
+        "text": "Есть же эмблема!  <https:\/\/m.youtube.com\/watch?v=MmXlT-VRW0U>",
+        "user": "U1HHX1QS3",
+        "ts": "1561429470.151700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The GOP vs. Trump’s Tariffs, Straight Pride in Boston &amp; A Hellish Helicopter Rescue | The Daily Show",
+                "title_link": "https:\/\/m.youtube.com\/watch?v=MmXlT-VRW0U",
+                "author_name": "The Daily Show with Trevor Noah",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCwWhs_6x42TyRM4Wstoq8HA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MmXlT-VRW0U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The GOP vs. Trump’s Tariffs, Straight Pride in Boston & A Hellish Helicopter Rescue | The Daily Show",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/MmXlT-VRW0U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/m.youtube.com\/watch?v=MmXlT-VRW0U",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/m.youtube.com\/watch?v=MmXlT-VRW0U"
+            }
+        ],
+        "thread_ts": "1561405565.146900",
+        "parent_user_id": "U9ZU1CYUD"
+    },
+    {
+        "client_msg_id": "429163FC-8FAA-474B-BC31-40ECB42E9ABF",
+        "type": "message",
+        "text": "Пытаюсь грехи замолить; говорят их жестко этот скандал подкосил; а так-то да, тут гейпарад проходил недавно, вот и красят ",
+        "user": "U1HHX1QS3",
+        "ts": "1561429547.153300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561402891.142600",
+        "parent_user_id": "U7SFPUVQF"
+    },
+    {
+        "client_msg_id": "63555294-eec3-4eae-9024-ba0f88a6c58c",
+        "type": "message",
+        "text": "А что за скандад, я просто не в курсе",
+        "user": "U7SFPUVQF",
+        "ts": "1561438039.153500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561402891.142600",
+        "parent_user_id": "U7SFPUVQF"
+    },
+    {
+        "client_msg_id": "3C8059B0-D7CD-4602-B650-414753642A94",
+        "type": "message",
+        "text": "Через Багдад и Аль Басру по устьям рек же ",
+        "user": "UFDMALG6P",
+        "ts": "1561442068.154400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "0C479A22-3538-45F0-BF8B-3A691044ADD4",
+        "type": "message",
+        "text": "Нельзя вот так просто взять и отнять надежду у Казахстана, это негуманно :kekeke: ",
+        "user": "UFDMALG6P",
+        "ts": "1561442610.155500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    }
+]

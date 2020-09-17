@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "0151ab3d-478a-45b9-aece-950dabb471b9",
+        "type": "message",
+        "text": "это уже было?\n<https:\/\/github.com\/developers-against-repressions\/case-212>",
+        "user": "U1LNBRZ29",
+        "ts": "1568887003.053800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "57f8d7537aa5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-22\/291293774966_57f8d7537aa5770070a7_72.jpg",
+            "first_name": "Maxim",
+            "real_name": "Maxim Kochurov",
+            "display_name": "ferres",
+            "team": "T040HKJE3",
+            "name": "ferres",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "developers-against-repressions\/case-212",
+                "text": "Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»",
+                "title": "developers-against-repressions\/case-212",
+                "footer": "<https:\/\/github.com\/developers-against-repressions\/case-212|developers-against-repressions\/case-212>",
+                "id": 1,
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "ts": 1568800862,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "558",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "Python",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "B9G2704KE",
+                "app_unfurl_url": "https:\/\/github.com\/developers-against-repressions\/case-212",
+                "is_app_unfurl": true
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U70T87GMA",
+                    "UDSEN1N2E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "149445d7-ba40-4271-9804-f601bafabb1b",
+        "type": "message",
+        "text": "&gt;российских\n&gt;Кто там говорил что отпустили ?\n&gt;severokoreyskie-brakoniery-\nя то как раз здоров, и трезв) а вот ты в который раз такое проделываешь, и это реально надоедает, впечатление будто вместо написанного тебе, ты видишь что-то выдуманное самим тобой и на это отвечаешь)",
+        "user": "U48A8L25N",
+        "ts": "1568903813.054400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N"
+    }
+]

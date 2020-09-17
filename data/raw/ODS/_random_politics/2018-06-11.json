@@ -1,0 +1,52 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=XvJ1TCkzLMI>",
+        "user": "U48A8L25N",
+        "ts": "1528711141.000292",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Такая прямая | RYTP",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=XvJ1TCkzLMI",
+                "author_name": "ValorMainStream",
+                "author_link": "https:\/\/www.youtube.com\/user\/ValorMainStream",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/XvJ1TCkzLMI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Такая прямая | RYTP",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/XvJ1TCkzLMI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=XvJ1TCkzLMI",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=XvJ1TCkzLMI"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joke",
+                "users": [
+                    "U70T87GMA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

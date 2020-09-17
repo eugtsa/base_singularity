@@ -1,0 +1,312 @@
+[
+    {
+        "client_msg_id": "B4B357BC-794E-4807-A779-EC7DBFB40C23",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/COVID19\/comments\/g4znbg\/at_least_11_of_tested_blood_donors_in_stockholm\/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf|https:\/\/www.reddit.com\/r\/COVID19\/comments\/g4znbg\/at_least_11_of_tested_blood_donors_in_stockholm\/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf>",
+        "user": "UJUQAF96G",
+        "ts": "1587458695.077300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3863ed0bbe84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-18\/752196205714_3863ed0bbe845ba4c09a_72.png",
+            "first_name": "Danil",
+            "real_name": "Danil",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denemmy703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "At least 11% of tested blood donors in Stockholm had Covid19 antibody as of last week.",
+                "title_link": "https:\/\/www.reddit.com\/r\/COVID19\/comments\/g4znbg\/at_least_11_of_tested_blood_donors_in_stockholm\/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+                "text": "Posted in r\/COVID19 by u\/simonsky • 4,717 points and 811 comments",
+                "fallback": "reddit: At least 11% of tested blood donors in Stockholm had Covid19 antibody as of last week.",
+                "image_url": "https:\/\/external-preview.redd.it\/Oao__d0whr10mP5a1pPrxLRgUfPSG4Odvn8LQYMZjwo.jpg?width=650&height=340.314136126&auto=webp&crop=650:340.314136126,smart&s=4317558b301cf813db5e0227013d67fc279ec968",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/COVID19\/comments\/g4znbg\/at_least_11_of_tested_blood_donors_in_stockholm\/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+                "image_bytes": 28073,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/COVID19\/comments\/g4znbg\/at_least_11_of_tested_blood_donors_in_stockholm\/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0utuB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/COVID19\/comments\/g4znbg\/at_least_11_of_tested_blood_donors_in_stockholm\/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+                                "text": "https:\/\/www.reddit.com\/r\/COVID19\/comments\/g4znbg\/at_least_11_of_tested_blood_donors_in_stockholm\/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90082323-85B4-4BD9-8E6B-9EBD977CFF8D",
+        "type": "message",
+        "text": "Почему в новостях нет этих исследований? Они говорят о том, что летальность от вируса гораздо меньше, чем считалось ",
+        "user": "UJUQAF96G",
+        "ts": "1587458752.078500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3863ed0bbe84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-18\/752196205714_3863ed0bbe845ba4c09a_72.png",
+            "first_name": "Danil",
+            "real_name": "Danil",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denemmy703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qxDFD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Почему в новостях нет этих исследований? Они говорят о том, что летальность от вируса гораздо меньше, чем считалось "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587458752.078500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1587490048.079500",
+        "reply_users": [
+            "U27HU84H4",
+            "UJUQAF96G"
+        ],
+        "replies": [
+            {
+                "user": "U27HU84H4",
+                "ts": "1587477045.078800"
+            },
+            {
+                "user": "UJUQAF96G",
+                "ts": "1587490048.079500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "16344fd2-ab10-4e00-a758-58e725eefd3e",
+        "type": "message",
+        "text": "почему этот вопрос в канале про политику, а не в <#CVD4LRULF|coronavirus> ?",
+        "user": "U27HU84H4",
+        "ts": "1587477045.078800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rqggg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "почему этот вопрос в канале про политику, а не в "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CVD4LRULF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587458752.078500",
+        "parent_user_id": "UJUQAF96G"
+    },
+    {
+        "client_msg_id": "835527DF-47D4-404C-BAA0-3B6F6FC4702E",
+        "type": "message",
+        "text": "Ок, не знал, что есть такой канал ",
+        "user": "UJUQAF96G",
+        "ts": "1587490048.079500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3863ed0bbe84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-18\/752196205714_3863ed0bbe845ba4c09a_72.png",
+            "first_name": "Danil",
+            "real_name": "Danil",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denemmy703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B23c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ок, не знал, что есть такой канал "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587458752.078500",
+        "parent_user_id": "UJUQAF96G"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1587535995.080700",
+        "user": "U316J6CT1",
+        "text": "<@U316J6CT1> has joined the channel",
+        "inviter": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "e8c476fb-3af5-46dc-967b-4ab077fb8659",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=R-xm8d-V9iQ>\n<@U316J6CT1> <@U1YJMBWVD> Тут про эффективность экономики Сталина",
+        "user": "U27HU84H4",
+        "ts": "1587536253.081100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Был ли Сталин \"эффективным менеджером\"? || Лекция Сергея Гуриева",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=R-xm8d-V9iQ",
+                "author_name": "Новая газета",
+                "author_link": "https:\/\/www.youtube.com\/user\/novayagazeta",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/R-xm8d-V9iQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Был ли Сталин \"эффективным менеджером\"? || Лекция Сергея Гуриева",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/R-xm8d-V9iQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=R-xm8d-V9iQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=R-xm8d-V9iQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Va9O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=R-xm8d-V9iQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U316J6CT1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U1YJMBWVD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Тут про эффективность экономики Сталина"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587536253.081100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1587540109.081500",
+        "reply_users": [
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "U316J6CT1",
+                "ts": "1587540109.081500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1587536257.081400",
+        "user": "U1YJMBWVD",
+        "text": "<@U1YJMBWVD> has joined the channel",
+        "inviter": "U27HU84H4"
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "client_msg_id": "4d4e6747-9e1a-41ac-85de-d950e0f1f189",
+        "type": "message",
+        "text": "Просто поражает отсутствие чувства братства у наших англо-сакских партнеров.\n\n<https:\/\/lenta.ru\/news\/2019\/06\/19\/legasow\/>",
+        "user": "U316J6CT1",
+        "ts": "1560961905.040900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Сыгравший Легасова актер удивился недовольным «Чернобылем» и напомнил о нацистах",
+                "title_link": "https:\/\/lenta.ru\/news\/2019\/06\/19\/legasow\/",
+                "text": "Британский актер Джаред Харрис прокомментировал критику представителями партии «Коммунисты России» сериала «Чернобыль», в котором сыграл роль профессора Легасова. Артист удивился, что в России переживают по поводу репутации СССР и правительства. Он сравнил это с тем, как если бы Германия защищала национал-социализм.",
+                "fallback": "Сыгравший Легасова актер удивился недовольным «Чернобылем» и напомнил о нацистах",
+                "image_url": "https:\/\/icdn.lenta.ru\/images\/2019\/06\/19\/15\/20190619153827680\/detail_9b6d45c486ebd40ee333b1d67e5fbdef.jpg",
+                "from_url": "https:\/\/lenta.ru\/news\/2019\/06\/19\/legasow\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 65353,
+                "service_icon": "https:\/\/icdn.lenta.ru\/lenta_touch.png",
+                "service_name": "lenta.ru",
+                "id": 1,
+                "original_url": "https:\/\/lenta.ru\/news\/2019\/06\/19\/legasow\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59e070a6-a731-4e62-956b-3f298a54db12",
+        "type": "message",
+        "text": "прав же",
+        "user": "U48A8L25N",
+        "ts": "1560962399.041400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "98465e8e-3958-4c88-ab26-072961d2370e",
+        "type": "message",
+        "text": "коммунисты современные в россии либо клоуны либо лицемеры законченные",
+        "user": "U48A8L25N",
+        "ts": "1560962422.041900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "communism",
+                "users": [
+                    "U710D2PPX",
+                    "U7SFPUVQF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdaa9a92-9517-464b-b6d9-ad424fb4f2a2",
+        "type": "message",
+        "text": "от коммунизма в них только название",
+        "user": "U48A8L25N",
+        "ts": "1560962431.042200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1560962453.000000"
+        }
+    },
+    {
+        "client_msg_id": "5ade5c98-0a75-4ba9-8935-c10e9ff53925",
+        "type": "message",
+        "text": "те 100% такие же как и раньше",
+        "user": "U1HHX1QS3",
+        "ts": "1560962935.042700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560962935.042700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1561272075.071200",
+        "reply_users": [
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "U316J6CT1",
+                "ts": "1561272075.071200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19ab210d-abcc-4d49-9ff7-db64d5722fc3",
+        "type": "message",
+        "text": "не",
+        "user": "U48A8L25N",
+        "ts": "1560963364.043000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e08a9f3d-ec0c-47a8-bfd8-57e0c16951e0",
+        "type": "message",
+        "text": "ты шо",
+        "user": "U48A8L25N",
+        "ts": "1560963366.043200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c7d1eaf-2a0b-43ce-89bb-da63c150b173",
+        "type": "message",
+        "text": "те были у власти",
+        "user": "U48A8L25N",
+        "ts": "1560963369.043400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ad2c4b23-4a0c-424e-b9f4-406dc075e8b0",
+        "type": "message",
+        "text": "а эти что сейчас делают",
+        "user": "U48A8L25N",
+        "ts": "1560963375.043600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c92bb1a-3200-404c-994c-74bd264a446b",
+        "type": "message",
+        "text": "Новое интересное интервью об исследованиях фокус-групп в разных городах России <https:\/\/www.youtube.com\/watch?v=cjuLRmaqiaA>",
+        "user": "U26MCSB8A",
+        "ts": "1561004215.044600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a129a02c25b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-23\/441372855269_a129a02c25b773959ad2_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew",
+            "display_name": "ambudance",
+            "team": "T040HKJE3",
+            "name": "ambudance",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Почему мы такие №3 — Анастасия Никольская: россияне осознали, что власть их боится",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=cjuLRmaqiaA",
+                "author_name": "Почему мы такие?",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC4wkyoPn2FK0NEVNP4ZCm7w",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/cjuLRmaqiaA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Почему мы такие №3 — Анастасия Никольская: россияне осознали, что власть их боится",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/cjuLRmaqiaA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=cjuLRmaqiaA",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=cjuLRmaqiaA"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0TUGHUA3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

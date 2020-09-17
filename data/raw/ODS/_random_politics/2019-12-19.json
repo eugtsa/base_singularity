@@ -1,0 +1,486 @@
+[
+    {
+        "client_msg_id": "d4cb033b-bf5c-463e-8313-3020a5c3b696",
+        "type": "message",
+        "text": "<@U06J1LG1M> где пост с дедом? Я начал смотреть, но потерли(",
+        "user": "U4SKDV2HF",
+        "ts": "1576748463.000600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d05d0759693f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-25\/423267545538_d05d0759693fd0279275_72.jpg",
+            "first_name": "Igor",
+            "real_name": "Igor Kotenkov",
+            "display_name": "stm",
+            "team": "T040HKJE3",
+            "name": "stalkermustang",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+nfnd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06J1LG1M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " где пост с дедом? Я начал смотреть, но потерли("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576748463.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1576748543.000800",
+        "reply_users": [
+            "U3KBYJQSF"
+        ],
+        "replies": [
+            {
+                "user": "U3KBYJQSF",
+                "ts": "1576748543.000800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "35be6481-caf6-41ef-889e-364b7428d2a9",
+        "type": "message",
+        "text": "ты об этом <https:\/\/www.youtube.com\/watch?v=RlKw6E4n_Xc&amp;feature=youtu.be> ?",
+        "user": "U3KBYJQSF",
+        "ts": "1576748543.000800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Большая пресс-конференция Владимира Путина 2019. Прямая трансляция",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=RlKw6E4n_Xc&amp;feature=youtu.be",
+                "author_name": "Россия 24",
+                "author_link": "https:\/\/www.youtube.com\/user\/Russia24TV",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/RlKw6E4n_Xc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Большая пресс-конференция Владимира Путина 2019. Прямая трансляция",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/RlKw6E4n_Xc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=RlKw6E4n_Xc&amp;feature=youtu.be",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=RlKw6E4n_Xc&amp;feature=youtu.be"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rTbQv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ты об этом "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=RlKw6E4n_Xc&feature=youtu.be"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576748463.000600",
+        "parent_user_id": "U4SKDV2HF",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4SKDV2HF",
+                    "UJ2JGSQ3X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e98d22b4-5c6d-4049-9caa-cefb5cbf5ceb",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/RlKw6E4n_Xc|https:\/\/youtu.be\/RlKw6E4n_Xc>",
+        "user": "U06J1LG1M",
+        "ts": "1576750390.001500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Большая пресс-конференция Владимира Путина 2019. Прямая трансляция",
+                "title_link": "https:\/\/youtu.be\/RlKw6E4n_Xc",
+                "author_name": "Россия 24",
+                "author_link": "https:\/\/www.youtube.com\/user\/Russia24TV",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/RlKw6E4n_Xc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Большая пресс-конференция Владимира Путина 2019. Прямая трансляция",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/RlKw6E4n_Xc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/RlKw6E4n_Xc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/RlKw6E4n_Xc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K7NA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/RlKw6E4n_Xc",
+                                "text": "https:\/\/youtu.be\/RlKw6E4n_Xc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576750390.001500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1576760895.003100",
+        "reply_users": [
+            "UJ2JGSQ3X",
+            "U06J1LG1M",
+            "U3KBYJQSF"
+        ],
+        "replies": [
+            {
+                "user": "UJ2JGSQ3X",
+                "ts": "1576755011.002000"
+            },
+            {
+                "user": "U06J1LG1M",
+                "ts": "1576755854.002300"
+            },
+            {
+                "user": "U3KBYJQSF",
+                "ts": "1576760895.003100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pepeg",
+                "users": [
+                    "UAG21HMV4",
+                    "U4SKDV2HF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "underage",
+                "users": [
+                    "U7KDVG6LS",
+                    "UDSEN1N2E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d42fa37f-947f-4629-8a95-09566236481a",
+        "type": "message",
+        "text": "Про ДС даже рассказывает:putin:",
+        "user": "UJ2JGSQ3X",
+        "ts": "1576755011.002000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1ed5ef7b8531",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-24\/616533640836_1ed5ef7b85313f46c87c_72.jpg",
+            "first_name": "eStatiq",
+            "real_name": "eStatiq Hikky",
+            "display_name": "hikky",
+            "team": "T040HKJE3",
+            "name": "andrey.vl.danilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ2JGSQ3X",
+            "ts": "1576755024.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Про ДС даже рассказывает"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "putin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576750390.001500",
+        "parent_user_id": "U06J1LG1M"
+    },
+    {
+        "client_msg_id": "b3162ea0-38c4-4779-b5af-a60ec5e1d7e1",
+        "type": "message",
+        "text": "что говорит?",
+        "user": "U06J1LG1M",
+        "ts": "1576755854.002300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ieU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "что говорит?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576750390.001500",
+        "parent_user_id": "U06J1LG1M"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FRJPDJNGK",
+                "created": 1576759913,
+                "timestamp": 1576759913,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06J1LG1M",
+                "editable": false,
+                "size": 496664,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FRJPDJNGK\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FRJPDJNGK\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRJPDJNGK-c3be2052b6\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRJPDJNGK-c3be2052b6\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRJPDJNGK-c3be2052b6\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 324,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRJPDJNGK-c3be2052b6\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 432,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FRJPDJNGK-c3be2052b6\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "image_exif_rotation": 1,
+                "original_w": 605,
+                "original_h": 544,
+                "thumb_tiny": "AwArADCYY\/zij\/PalH+eaPx\/WsyxD06foKY0ij2PrinltozjP5VVmYt1BGaaAmIc\/wD6hTlBAOR+lEY\/drkdvSlx7fpQ22Gwo\/H9aX8T+tM2MZN5JC9l\/wAajmnCnYhw3Qn0oSuK40yySSsoH7scGoZG5ye360+aTyWMSDIzkHP86rE\/3jVWFcnt7nGEfG3scdKuY9v0rKarltLmNVI6cZxSkgTL3asy4hkVnfjbnrmr5Y+tVLhmMkYJ4xmiI2iDlVJYksfWmdT9KfJ2+ppvY1ZIbcnBYZq3aqoUjgn6VSFSREhxj1qWUj\/\/2Q==",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U06J1LG1M\/FRJPDJNGK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FRJPDJNGK-6dccfd9735",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U06J1LG1M",
+        "display_as_bot": false,
+        "ts": "1576759916.002500",
+        "client_msg_id": "0383fc11-5593-4210-9096-721368579f81",
+        "reactions": [
+            {
+                "name": "fu",
+                "users": [
+                    "U50GQKH5J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06E1E4E6-D3EB-4AC7-8FB9-F7EF98D1B247",
+        "type": "message",
+        "text": "<@UJ2JGSQ3X> так а че говорил?",
+        "user": "U3KBYJQSF",
+        "ts": "1576760895.003100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nN\/0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJ2JGSQ3X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " так а че говорил?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576750390.001500",
+        "parent_user_id": "U06J1LG1M"
+    },
+    {
+        "client_msg_id": "AB9B0681-4307-41A6-9EB2-B7338EEA9550",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/feature\/2019\/12\/19\/u-zdaniya-fsb-na-lubyanke-otkryli-strelbu-ubity-tri-cheloveka?web_view=1&amp;preload=1|https:\/\/meduza.io\/feature\/2019\/12\/19\/u-zdaniya-fsb-na-lubyanke-otkryli-strelbu-ubity-tri-cheloveka?web_view=1&amp;preload=1>",
+        "user": "U5H055U0J",
+        "ts": "1576771879.004900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bf00847de62a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/791723789078_bf00847de62af24e7247_72.jpg",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "У здания ФСБ на Лубянке открыли стрельбу. Убиты несколько человек Материал обновляется — Meduza",
+                "title_link": "https:\/\/meduza.io\/feature\/2019\/12\/19\/u-zdaniya-fsb-na-lubyanke-otkryli-strelbu-ubity-tri-cheloveka?web_view=1&preload=1",
+                "text": "В центре Москвы у здания ФСБ произошла стрельба. Как пишет РБК со ссылкой на источники, неизвестный преступник открыл огонь из автомата Калашникова. По предварительным данным, стрельбу открыли в приемной спецслужбы, после чего нападавший выбежал на улицу и продолжил стрелять там. Как пишут «Открытые медиа» со ссылкой на источник ФСБ, изначально нападавших было трое — двое из них были убиты в приемной.",
+                "fallback": "Meduza: У здания ФСБ на Лубянке открыли стрельбу. Убиты несколько человек Материал обновляется — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1576771562\/feature\/2019\/12\/19\/u-zdaniya-fsb-na-lubyanke-otkryli-strelbu-ubity-tri-cheloveka",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/feature\/2019\/12\/19\/u-zdaniya-fsb-na-lubyanke-otkryli-strelbu-ubity-tri-cheloveka?web_view=1&preload=1",
+                "image_bytes": 324515,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/feature\/2019\/12\/19\/u-zdaniya-fsb-na-lubyanke-otkryli-strelbu-ubity-tri-cheloveka?web_view=1&amp;preload=1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V5fG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/feature\/2019\/12\/19\/u-zdaniya-fsb-na-lubyanke-otkryli-strelbu-ubity-tri-cheloveka?web_view=1&preload=1",
+                                "text": "https:\/\/meduza.io\/feature\/2019\/12\/19\/u-zdaniya-fsb-na-lubyanke-otkryli-strelbu-ubity-tri-cheloveka?web_view=1&amp;preload=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "e5ae13b9-9ecf-4398-86d2-c4d7595de1bc",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=zimvNtcQwrA>",
+        "user": "U27HU84H4",
+        "ts": "1556986276.001900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Выборы в Москве, гадание на политический интерес, полезные реформы на 5 лет: Интервью ВШТ МГУ",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=zimvNtcQwrA",
+                "author_name": "Екатерина Шульман",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCL1rJ0ROIw9V1qFeIN0ZTZQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zimvNtcQwrA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Выборы в Москве, гадание на политический интерес, полезные реформы на 5 лет: Интервью ВШТ МГУ",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/zimvNtcQwrA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=zimvNtcQwrA",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=zimvNtcQwrA"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1557001884.002100",
+        "user": "U5H0L5T98",
+        "text": "<@U5H0L5T98> set the channel purpose: Личный блог Данияра и Леонида",
+        "purpose": "Личный блог Данияра и Леонида",
+        "reactions": [
+            {
+                "name": "are_you_fucking_kidding_me",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fffffffuuuuuuuuuuuu",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N",
+                    "U1HHX1QS3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1557001884.002200",
+        "user": "U5H0L5T98",
+        "text": "<@U5H0L5T98> cleared channel topic",
+        "topic": ""
+    }
+]

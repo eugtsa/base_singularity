@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "06ac1d1b-ea7b-4661-9c9c-c34beeac2ee3",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4101853>",
+        "user": "U48A8L25N",
+        "ts": "1569174362.057800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "СМИ: WADA дало России три недели на объяснение манипуляций с данными",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4101853",
+                "text": "Подробнее на сайте",
+                "fallback": "СМИ: WADA дало России три недели на объяснение манипуляций с данными",
+                "image_url": "https:\/\/im3.kommersant.ru\/SocialPics\/4101853_26_0_391726431",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1569168825,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4101853",
+                "image_bytes": 50897,
+                "service_icon": "https:\/\/im2.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4101853"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e7ac049-cbf1-4c1f-9662-fccb7c70d8df",
+        "type": "message",
+        "text": "Кто как голосовал 12 сентября за отмену статьи 212 УК РФ, по которой осудили нашего коллегу Константина Котова:\n<http:\/\/vote.duma.gov.ru\/vote\/108721>",
+        "user": "UGTNTEBPV",
+        "ts": "1569203078.060500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569203078.060500",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1569357972.065100",
+        "reply_users": [
+            "U9ZU1CYUD",
+            "UJUQAF96G",
+            "UGTNTEBPV",
+            "UDSEN1N2E"
+        ],
+        "replies": [
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1569229059.060700"
+            },
+            {
+                "user": "UJUQAF96G",
+                "ts": "1569230006.060900"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1569244917.062000"
+            },
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1569357972.065100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UDSEN1N2E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

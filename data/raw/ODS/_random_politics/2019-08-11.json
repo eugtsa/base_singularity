@@ -1,0 +1,457 @@
+[
+    {
+        "client_msg_id": "b694753a-5ede-414a-afd4-9a6467f44830",
+        "type": "message",
+        "text": "Немцов про протесты: <https:\/\/www.youtube.com\/watch?v=7kdifEQunw8>",
+        "user": "U7CAU0GMU",
+        "ts": "1565509073.074400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Немцов о целостности страны и перекрытии дорог",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=7kdifEQunw8",
+                "author_name": "Водолей",
+                "author_link": "https:\/\/www.youtube.com\/user\/anvodoley",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/7kdifEQunw8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Немцов о целостности страны и перекрытии дорог",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/7kdifEQunw8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=7kdifEQunw8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=7kdifEQunw8"
+            }
+        ],
+        "thread_ts": "1565509073.074400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1565509532.074600",
+        "reply_users": [
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U48A8L25N",
+                "ts": "1565509532.074600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ff466e4d-40b5-412c-87a4-3ecb3b93a04c",
+        "type": "message",
+        "text": "«Демократия – это диктатура закона, а не тех, кто по должности обязан этот закон отстаивать. Думаю, нелишне напомнить: суд выносит решения именем Российской Федерации и обязан этому высокому имени соответствовать. Милиция и прокуратура должны служить закону, а не пытаться \"приватизировать\" данные им полномочия с пользой для себя. Их прямая и единственная задача – защита людей, а не ложных представлений о чести мундира и своих ведомственных интересов» ВВП",
+        "user": "U48A8L25N",
+        "ts": "1565509532.074600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565509073.074400",
+        "parent_user_id": "U7CAU0GMU"
+    },
+    {
+        "client_msg_id": "3a17a9ee-ad1f-4d8f-b567-6c148cc179c7",
+        "type": "message",
+        "text": "Такое ощущение, что протестная активность сейчас самой властью подогревается намеренно неадекватным противодействием. ХЗ зачем, спустить пар, взять буйных на карандаш, A\/B эксперимент провести.",
+        "user": "U4P10HEJV",
+        "ts": "1565532616.077600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01e472bffb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/16b01e472bffbd6cb5ddb12043221532.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ponomarchuk",
+            "display_name": "yaxen",
+            "team": "T040HKJE3",
+            "name": "yaxeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a005afe1-ceaf-485d-9b08-351367e9df4a",
+        "type": "message",
+        "text": "помоему вы переоцениваете власть, а они работают как умеют) и как решили",
+        "user": "U48A8L25N",
+        "ts": "1565532678.078400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b967bd0-4e3e-4275-b39e-99f00869e73a",
+        "type": "message",
+        "text": "с болотной же проканало, жестко пресекаем сажаем и прочее и ен выходят, а если бы просто не мешали, то народ бы дальше выходил",
+        "user": "U48A8L25N",
+        "ts": "1565532796.079700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c424f05-ac44-4b21-92d8-16df137935a1",
+        "type": "message",
+        "text": "Потому что много раз аккуратно разносили всех по автозакам и распускали без особых репрессий",
+        "user": "U4P10HEJV",
+        "ts": "1565532797.079800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01e472bffb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/16b01e472bffbd6cb5ddb12043221532.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ponomarchuk",
+            "display_name": "yaxen",
+            "team": "T040HKJE3",
+            "name": "yaxeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4P10HEJV",
+            "ts": "1565532888.000000"
+        }
+    },
+    {
+        "client_msg_id": "c7792f3c-ee44-4828-90b4-7e4d6ad7a072",
+        "type": "message",
+        "text": "как мне кажется, жестче чтобы боялись скорее, чем из каких-то расчетов\/тестов",
+        "user": "U48A8L25N",
+        "ts": "1565532927.080800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U27SUBTB9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93571822-14ab-4e24-8e55-2f1e2316c549",
+        "type": "message",
+        "text": "думаю они и стрелять спокойно будут чуть что произодйте",
+        "user": "U48A8L25N",
+        "ts": "1565532995.081300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565532995.081300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1565927358.104200",
+        "reply_users": [
+            "UM53RABL7"
+        ],
+        "replies": [
+            {
+                "user": "UM53RABL7",
+                "ts": "1565927358.104200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1eecd060-9c44-4a57-8923-a47fc79015bd",
+        "type": "message",
+        "text": "<@U5H0L5T98> <@U74DLUWUC> ля я честно не читал там весь тред",
+        "user": "U48A8L25N",
+        "ts": "1565535457.082100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ef2c783-c1d9-483c-a784-fe23955127fe",
+        "type": "message",
+        "text": "там даже мое первое сообщение по сути ответ на первое же в треде сообщение)",
+        "user": "U48A8L25N",
+        "ts": "1565535476.082600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c97a66f-f95b-4546-ab4f-b8fdb2861b63",
+        "type": "message",
+        "text": "Тред не читай \n@\nСразу отвечай",
+        "user": "U74DLUWUC",
+        "ts": "1565535724.083300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3113c826-b097-47fd-a4df-ab513a1bae98",
+        "type": "message",
+        "text": "А вообще печально, что с политотой отправляют на твой личный канал, конечно",
+        "user": "U74DLUWUC",
+        "ts": "1565535740.083900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "130c0530-580f-425b-be59-4f460892a2fc",
+        "type": "message",
+        "text": "Ничего страшного пару раз пофлудить на тему Пыни не вижу :idk:",
+        "user": "U74DLUWUC",
+        "ts": "1565535786.085000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d5d5d0e5-94d1-49eb-94dd-0edcc6c84b4a",
+        "type": "message",
+        "text": "дык я же на конкретные сообщения так сказать отвечаю а не на весь тред)",
+        "user": "U48A8L25N",
+        "ts": "1565543271.085500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ca2b925-34f0-41ef-a172-b1999fd2f460",
+        "type": "message",
+        "text": "и не личный, смотри скок народу",
+        "user": "U48A8L25N",
+        "ts": "1565543295.085900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7615ceb1-cc2a-4251-97d6-36db39c9bddc",
+        "type": "message",
+        "text": "Сюда набегают только когда в <#C040HKJF1|_random_talks> кто-то возмущается насчет политоты.",
+        "user": "U7CAU0GMU",
+        "ts": "1565544836.086800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "DA542207-B351-4EBB-AE3E-F78D3311762E",
+        "type": "message",
+        "text": "И Даня, но это у него от предков :kekeke: ",
+        "user": "U74DLUWUC",
+        "ts": "1565546003.087600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "povar",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

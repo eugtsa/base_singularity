@@ -1,0 +1,421 @@
+[
+    {
+        "client_msg_id": "4bd5b19b-97b1-4a86-a2c2-31acf04eb535",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=ThJeodYGIXo> :lul:",
+        "user": "U049HDR2Z",
+        "ts": "1585221522.001000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Илья Соболев с продолжением речи Сергея Безрукова",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ThJeodYGIXo",
+                "author_name": "Instagram Star",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCBMgfoWC3u-7RDdU33dW2UQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ThJeodYGIXo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Илья Соболев с продолжением речи Сергея Безрукова",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ThJeodYGIXo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ThJeodYGIXo",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ThJeodYGIXo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "poa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ThJeodYGIXo"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "lul"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U5KD4L5JP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N",
+                    "UKT220F7Y"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0c5696a-8b7b-4254-a747-11804eb6059d",
+        "type": "message",
+        "text": "Нашлась работа для активистов СЕРБ\n<https:\/\/tass.ru\/obschestvo\/8091653?utm_campaign=smi-serbiya-zaprosila-u-rossii-pomosch-v>",
+        "user": "UELA14HSS",
+        "ts": "1585251397.002300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f57d2c5ea770",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-04\/495013890082_f57d2c5ea770b73ea694_72.jpg",
+            "first_name": "Grigoriy",
+            "real_name": "Grigoriy Rashkov",
+            "display_name": "logogriph",
+            "team": "T040HKJE3",
+            "name": "rashkov079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2bJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Нашлась работа для активистов СЕРБ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tass.ru\/obschestvo\/8091653?utm_campaign=smi-serbiya-zaprosila-u-rossii-pomosch-v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "kolobok",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25891dac-44dc-4410-838d-3f1324789f55",
+        "type": "message",
+        "text": "<https:\/\/www.rbc.ru\/finances\/27\/03\/2020\/5e7ce4369a794723cb66f2db>\nопять гениальная многоходовочка",
+        "user": "U48A8L25N",
+        "ts": "1585258608.002700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Банки пожаловались в ЦБ на заявления клиентов о закрытии вкладов",
+                "title_link": "https:\/\/www.rbc.ru\/finances\/27\/03\/2020\/5e7ce4369a794723cb66f2db",
+                "text": "После предложения Путина взимать налог с доходов по вкладам банки столкнулись с желанием ряда клиентов закрыть депозиты. Проблем с фондированием у банков нет, но они думают, как удержать деньги граждан, в том числе за счет ставок",
+                "fallback": "РБК: Банки пожаловались в ЦБ на заявления клиентов о закрытии вкладов",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/3\/88\/755852564268883.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/finances\/27\/03\/2020\/5e7ce4369a794723cb66f2db",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 75482,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.2.36\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/finances\/27\/03\/2020\/5e7ce4369a794723cb66f2db"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2AdS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rbc.ru\/finances\/27\/03\/2020\/5e7ce4369a794723cb66f2db"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nопять гениальная многоходовочка"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c122a704-ae5b-4903-8d17-c53043a0c35b",
+        "type": "message",
+        "text": "В Москву стягивают войска. Кто-нибудь может сказать, зачем? Чем это грозит? Есть ли мысли по поводу свалить из мск подальше? <https:\/\/vesti.ua\/mir\/v-moskvu-styagivayut-bronetehniku-i-avtobusy-s-soldatami-chto-proishodit>",
+        "user": "U2TS6AQ66",
+        "ts": "1585291630.005900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ВЕСТИ",
+                "title": "В Москву стянули бронетехнику и автобусы с солдатами - что происходит | ВЕСТИ",
+                "title_link": "https:\/\/vesti.ua\/mir\/v-moskvu-styagivayut-bronetehniku-i-avtobusy-s-soldatami-chto-proishodit",
+                "text": "В Сети сообщают о чрезвычайных мерах защиты от коронавируса",
+                "fallback": "ВЕСТИ: В Москву стянули бронетехнику и автобусы с солдатами - что происходит | ВЕСТИ",
+                "image_url": "https:\/\/vesti.ua\/wp-content\/uploads\/2020\/03\/social_7503077_armiya-1-e1585231979537-800x418.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1585232045,
+                "from_url": "https:\/\/vesti.ua\/mir\/v-moskvu-styagivayut-bronetehniku-i-avtobusy-s-soldatami-chto-proishodit",
+                "image_bytes": 34256,
+                "service_icon": "https:\/\/vesti.ua\/wp-content\/themes\/vesti\/images\/pwa\/ios2\/V-Application-icon-180-Red.png",
+                "id": 1,
+                "original_url": "https:\/\/vesti.ua\/mir\/v-moskvu-styagivayut-bronetehniku-i-avtobusy-s-soldatami-chto-proishodit"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YX9C1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В Москву стягивают войска. Кто-нибудь может сказать, зачем? Чем это грозит? Есть ли мысли по поводу свалить из мск подальше? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vesti.ua\/mir\/v-moskvu-styagivayut-bronetehniku-i-avtobusy-s-soldatami-chto-proishodit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585291630.005900",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1585294328.007100",
+        "reply_users": [
+            "UACAW8UT1",
+            "U2TS6AQ66",
+            "UJGV816FM"
+        ],
+        "replies": [
+            {
+                "user": "UACAW8UT1",
+                "ts": "1585291909.006100"
+            },
+            {
+                "user": "U2TS6AQ66",
+                "ts": "1585291948.006300"
+            },
+            {
+                "user": "U2TS6AQ66",
+                "ts": "1585291952.006500"
+            },
+            {
+                "user": "UJGV816FM",
+                "ts": "1585292601.006700"
+            },
+            {
+                "user": "UACAW8UT1",
+                "ts": "1585293233.006900"
+            },
+            {
+                "user": "U2TS6AQ66",
+                "ts": "1585294328.007100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "88c1a563-765f-4744-ba0a-c47bab9ceb5e",
+        "type": "message",
+        "text": "Если хотел на длинных выходных гулять, жарить шашлыки и все такое то наверно не получится",
+        "user": "UACAW8UT1",
+        "ts": "1585291909.006100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "52512937b2f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887859246581_52512937b2f5083cd769_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Kulagin",
+            "display_name": "rekcahd",
+            "team": "T040HKJE3",
+            "name": "rekcahd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vx8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если хотел на длинных выходных гулять, жарить шашлыки и все такое то наверно не получится"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585291630.005900",
+        "parent_user_id": "U2TS6AQ66"
+    },
+    {
+        "client_msg_id": "11a6ba78-571c-4234-a0d8-3791b8ffc497",
+        "type": "message",
+        "text": "Ну, меня беспокоит только то, чтобы не было как в китае: выход по пропускам. Окна не открывать и т.д.",
+        "user": "U2TS6AQ66",
+        "ts": "1585291948.006300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ZJ2V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну, меня беспокоит только то, чтобы не было как в китае: выход по пропускам. Окна не открывать и т.д."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585291630.005900",
+        "parent_user_id": "U2TS6AQ66"
+    },
+    {
+        "client_msg_id": "eac2e9c2-ab12-4c76-954d-b317bdba299a",
+        "type": "message",
+        "text": "Этого не хочется",
+        "user": "U2TS6AQ66",
+        "ts": "1585291952.006500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oi4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Этого не хочется"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585291630.005900",
+        "parent_user_id": "U2TS6AQ66"
+    }
+]

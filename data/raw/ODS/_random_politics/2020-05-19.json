@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "a19966a6-8d07-41c0-bc6d-0a42c94be0b7",
+        "type": "message",
+        "text": "штрафы прикованному к постели инвалиды продолжают приходить тем временем:\n<https:\/\/t.me\/itsorm\/1755>",
+        "user": "U27HU84H4",
+        "ts": "1589874828.144500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "IT и СОРМ",
+                "title_link": "https:\/\/t.me\/itsorm\/1755",
+                "text": "​​Вчера все радовались, что штраф прикованному к кровати инвалиду отменили. Правда, не последовало никаких извинений (по крайней мере, публичных); объяснений, почему так произошло и почему такое больше не повторится. И что вы думаете? Женщине выписали новый штраф. А я же помню, что Собянин искренне ненавидит жителей Москвы и выстраивает все механизмы исходя из этого, чтобы они работали только на их унижение, поэтому понимал, что что-то такое случится. Вот они и сработали. А вы об этом не забывайте. Мы должны требовать просто на каждом углу: — Отмены любых цифровых ошейников; — Отставки профнепригодного преступника Эдуарда Лысенко; — Оставки Собянина.",
+                "fallback": "Telegram: IT и СОРМ",
+                "thumb_url": "https:\/\/cdn4.telesco.pe\/file\/U9TfDQOgH4OxjqCl5Dome0qFJUQuJElR4mENws2bf6AroNR9mO_69w5663A8dfuLa480xTej0O78ZoLIgbzd1QKX1gdbabKh5RAud2BS7xrwM94zJApCUYx2HJiG6JBjJN0M7TyyxqG6KhH3bYsOdLFD3zoUGyA-yFmxH3MOlapJC0wM4GeUg3gH9c4-ij78cqnO5imFcnIY3LfwLBOHYk08pX8xklFK_pSTNQOg7AtG772IA45dn7hKzrxOwJ9gBFtDrlbxPwGaa0JQ1cWSfFKQcvgJR06752A1fhibH3qIlldmb1N8FJ7xelgz-qkZDhfKbXq1p_Qjdpy5vqc0GA.jpg",
+                "from_url": "https:\/\/t.me\/itsorm\/1755",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http:\/\/telegram.org\/favicon.ico?3",
+                "id": 1,
+                "original_url": "https:\/\/t.me\/itsorm\/1755"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ltR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "штрафы прикованному к постели инвалиды продолжают приходить тем временем:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.me\/itsorm\/1755"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589822957.144300",
+        "parent_user_id": "U27HU84H4"
+    }
+]

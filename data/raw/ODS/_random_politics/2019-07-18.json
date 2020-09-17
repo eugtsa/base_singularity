@@ -1,0 +1,707 @@
+[
+    {
+        "client_msg_id": "9a4abc2d-b500-4d0b-8e49-c34bf1bceb70",
+        "type": "message",
+        "text": "лол твитор мдк забанили",
+        "user": "U48A8L25N",
+        "ts": "1563434296.292500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "are_you_fucking_kidding_me",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05111442-1364-4b03-a90d-88cbde2bfc2f",
+        "type": "message",
+        "text": "```С родителями тоже стоит проводить работу: они должны беседовать с детьми и уговаривать их прийти в православный храм.```",
+        "user": "UFDMALG6P",
+        "ts": "1563437793.292600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563402891.292100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "15c20a16-ea6c-4ddd-8aa4-e0ea8c642068",
+        "type": "message",
+        "text": "Интересно, какую альтернативу все-таки предалагают храмы перечисленным заблудшим душам",
+        "user": "UFDMALG6P",
+        "ts": "1563438187.292800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563402891.292100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "4d33c76f-46c1-4ada-9a89-0a9ef4a2f764",
+        "type": "message",
+        "text": "there is no alternatives",
+        "user": "U48A8L25N",
+        "ts": "1563439608.293100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563402891.292100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "92481c6e-47f1-466d-a7dc-21a517ae5d03",
+        "type": "message",
+        "text": "with god or with devil",
+        "user": "U48A8L25N",
+        "ts": "1563439631.293300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563402891.292100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "91a94870-0c72-4aae-8844-09eaa0b6e856",
+        "type": "message",
+        "text": "я покакал",
+        "user": "UHT0XGK1V",
+        "ts": "1563441901.293800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "adc5bf2977ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-11\/680366630466_adc5bf2977ea5b8f81ad_72.jpg",
+            "first_name": "Se",
+            "real_name": "Se",
+            "display_name": "Se",
+            "team": "T040HKJE3",
+            "name": "thisstheend",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "genious",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfd6d286-2178-433e-8f13-19a347a07f16",
+        "type": "message",
+        "text": "молодец",
+        "user": "U48A8L25N",
+        "ts": "1563443110.294000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ты притащил говно, видимо, триггернулся на слово РПЦ. Что уже тебя неплохо характеризует. А теперь пройди на сайт РПЦ и прочитай оригинальную статью и посмотри в каком ключе оценивается молодежь и в каком лиза алерт. Специально подчеркнул для мамкиных аметистов",
+        "files": [
+            {
+                "id": "FLLGZVDU6",
+                "created": 1563443206,
+                "timestamp": 1563443206,
+                "name": "lizaalert.PNG",
+                "title": "lizaalert.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UHT0XGK1V",
+                "editable": false,
+                "size": 34592,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FLLGZVDU6\/lizaalert.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FLLGZVDU6\/download\/lizaalert.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLGZVDU6-abef01c2de\/lizaalert_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLGZVDU6-abef01c2de\/lizaalert_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLGZVDU6-abef01c2de\/lizaalert_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 153,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLGZVDU6-abef01c2de\/lizaalert_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 203,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLGZVDU6-abef01c2de\/lizaalert_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "image_exif_rotation": 1,
+                "original_w": 710,
+                "original_h": 301,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UHT0XGK1V\/FLLGZVDU6\/lizaalert.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FLLGZVDU6-de309a09a0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHT0XGK1V",
+        "display_as_bot": false,
+        "ts": "1563443208.294100",
+        "client_msg_id": "754f201a-6dde-4b3d-80a7-ac8a09f7d177",
+        "thread_ts": "1563402891.292100",
+        "parent_user_id": "U48A8L25N",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "aeb3bf11-cc74-42e0-b420-17121254cba5",
+            "type": "message",
+            "text": "<https:\/\/twitter.com\/igiss\/status\/1151587231469133825?s=09>",
+            "user": "U48A8L25N",
+            "ts": "1563402891.292100",
+            "team": "T040HKJE3",
+            "attachments": [
+                {
+                    "fallback": "<https:\/\/twitter.com\/igiss|@igiss>: Давно ждал, когда РПЦ прижмёт Лизу Алерт. Если пропал человек — значит, так богу угодно. Нечего искать, лучше в храме свечу за упокой поставить. <https:\/\/pbs.twimg.com\/media\/D_tCegZW4AAnwXz.jpg>",
+                    "ts": 1563394766,
+                    "author_name": "az",
+                    "author_link": "https:\/\/twitter.com\/igiss\/status\/1151587231469133825",
+                    "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1046196198447681536\/ZI1Ls-do_normal.jpg",
+                    "author_subname": "@igiss",
+                    "text": "Давно ждал, когда РПЦ прижмёт Лизу Алерт. Если пропал человек — значит, так богу угодно. Нечего искать, лучше в храме свечу за упокой поставить. <https:\/\/pbs.twimg.com\/media\/D_tCegZW4AAnwXz.jpg>",
+                    "service_name": "twitter",
+                    "service_url": "https:\/\/twitter.com\/",
+                    "from_url": "https:\/\/twitter.com\/igiss\/status\/1151587231469133825?s=09",
+                    "image_url": "https:\/\/pbs.twimg.com\/media\/D_tCegZW4AAnwXz.jpg",
+                    "image_width": 749,
+                    "image_height": 924,
+                    "image_bytes": 102831,
+                    "id": 1,
+                    "original_url": "https:\/\/twitter.com\/igiss\/status\/1151587231469133825?s=09",
+                    "footer": "Twitter",
+                    "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+                }
+            ],
+            "thread_ts": "1563402891.292100",
+            "reply_count": 5,
+            "reply_users_count": 3,
+            "latest_reply": "1563443208.294100",
+            "reply_users": [
+                "UFDMALG6P",
+                "U48A8L25N",
+                "UHT0XGK1V"
+            ],
+            "subscribed": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UD4DJ0RDL",
+                    "U7CAU0GMU",
+                    "UHT0XGK1V"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35bcda89-7bd0-49b7-b6cf-b93a1428ce79",
+        "type": "message",
+        "text": "зачем мне туда идти?",
+        "user": "U48A8L25N",
+        "ts": "1563443305.294700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a193cfea-4922-4dfa-afca-2bec1456668b",
+        "type": "message",
+        "text": "по рекомнедации чела который сказал что покакал?)",
+        "user": "U48A8L25N",
+        "ts": "1563443318.295100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "101e11ac-9c00-4b0c-88c8-e7c4e5aac2a0",
+        "type": "message",
+        "text": "нет спс)",
+        "user": "U48A8L25N",
+        "ts": "1563443328.295500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ef0d9505-eb1b-4578-a759-9598cf4342d8",
+        "type": "message",
+        "text": "btw там все правильно написано",
+        "user": "U48A8L25N",
+        "ts": "1563443576.295800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "thread-please",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "balabol",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66a0169b-fe29-45e0-b805-5addd24cf757",
+        "type": "message",
+        "text": "дак ты толстячок обычный, это скучно",
+        "user": "UHT0XGK1V",
+        "ts": "1563444287.296800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "adc5bf2977ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-11\/680366630466_adc5bf2977ea5b8f81ad_72.jpg",
+            "first_name": "Se",
+            "real_name": "Se",
+            "display_name": "Se",
+            "team": "T040HKJE3",
+            "name": "thisstheend",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHT0XGK1V",
+            "ts": "1563444307.000000"
+        },
+        "reactions": [
+            {
+                "name": "thread-please",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d00669f5-78c1-4fa4-9967-b113369c7968",
+        "type": "message",
+        "text": "держи в курсе",
+        "user": "U48A8L25N",
+        "ts": "1563450354.297800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "ok_hand::skin-tone-6",
+                "users": [
+                    "UHT0XGK1V",
+                    "UJ8BXBM36"
+                ],
+                "count": 2
+            },
+            {
+                "name": "thread-please",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1ecec46-d395-42ca-aaaf-221e46692204",
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/v_podpolnom_reabilitatsionnom_tsentre_pod_omskom_ustraivali_boi_mezhdu_patsientami-489798\/>",
+        "user": "U48A8L25N",
+        "ts": "1563453374.298200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В подпольном реабилитационном центре под Омском устраивали бои между пациентами",
+                "title_link": "https:\/\/tvrain.ru\/news\/v_podpolnom_reabilitatsionnom_tsentre_pod_omskom_ustraivali_boi_mezhdu_patsientami-489798\/",
+                "text": "Омская полиция обнаружила подпольный реабилитационный центр для людей с зависимостями, которых удерживали там силой и избивали, сообщает региональное управление МВД. По делу о незаконном лишении свободы задержаны двое руководителей центра.",
+                "fallback": "В подпольном реабилитационном центре под Омском устраивали бои между пациентами",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/48\/97\/98\/image.png?2019_07_18_15_12_36",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1563451943,
+                "from_url": "https:\/\/tvrain.ru\/news\/v_podpolnom_reabilitatsionnom_tsentre_pod_omskom_ustraivali_boi_mezhdu_patsientami-489798\/",
+                "image_bytes": 836230,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/news\/v_podpolnom_reabilitatsionnom_tsentre_pod_omskom_ustraivali_boi_mezhdu_patsientami-489798\/"
+            }
+        ],
+        "thread_ts": "1563453374.298200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1563454730.298700",
+        "reply_users": [
+            "UHT0XGK1V"
+        ],
+        "replies": [
+            {
+                "user": "UHT0XGK1V",
+                "ts": "1563454730.298700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLLMQK4EA",
+                "created": 1563454414,
+                "timestamp": 1563454414,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U5H055U0J",
+                "editable": false,
+                "size": 74621,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FLLMQK4EA\/image_from_ios.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FLLMQK4EA\/download\/image_from_ios.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLMQK4EA-6322cb6057\/image_from_ios_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLMQK4EA-6322cb6057\/image_from_ios_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLMQK4EA-6322cb6057\/image_from_ios_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLMQK4EA-6322cb6057\/image_from_ios_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLMQK4EA-6322cb6057\/image_from_ios_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLMQK4EA-6322cb6057\/image_from_ios_720.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 480,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLMQK4EA-6322cb6057\/image_from_ios_800.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 534,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FLLMQK4EA-6322cb6057\/image_from_ios_960.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 960,
+                "thumb_960_h": 640,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 683,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U5H055U0J\/FLLMQK4EA\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FLLMQK4EA-e2b2aef6f6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U5H055U0J",
+        "display_as_bot": false,
+        "ts": "1563454416.298400",
+        "client_msg_id": "24F0A864-3A86-4DC2-897E-921A4B0BFB56",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac0168e7-1e45-449d-a0df-5f2f78aa2334",
+        "type": "message",
+        "text": "Дело Ройзмана живет",
+        "user": "UHT0XGK1V",
+        "ts": "1563454730.298700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "adc5bf2977ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-11\/680366630466_adc5bf2977ea5b8f81ad_72.jpg",
+            "first_name": "Se",
+            "real_name": "Se",
+            "display_name": "Se",
+            "team": "T040HKJE3",
+            "name": "thisstheend",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563453374.298200",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "1b47fbcf-03b0-48c4-bd93-e12914fdfcf9",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/adagamov\/status\/1151905688144285697>",
+        "user": "U48A8L25N",
+        "ts": "1563472654.299100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/adagamov|@adagamov>: 86% <https:\/\/pbs.twimg.com\/amplify_video_thumb\/1151905129425190912\/img\/7Xu7CSNlK7c2hvuC.jpg>",
+                "ts": 1563470692,
+                "author_name": "Рустем Адагамов",
+                "author_link": "https:\/\/twitter.com\/adagamov\/status\/1151905688144285697",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/853555737125158912\/tmlNGV9s_normal.jpg",
+                "author_subname": "@adagamov",
+                "text": "86%",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/adagamov\/status\/1151905688144285697",
+                "thumb_url": "https:\/\/pbs.twimg.com\/amplify_video_thumb\/1151905129425190912\/img\/7Xu7CSNlK7c2hvuC.jpg",
+                "thumb_width": 720,
+                "thumb_height": 720,
+                "video_html_width": 720,
+                "video_html_height": 720,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/amplify_video_thumb\/1151905129425190912\/img\/7Xu7CSNlK7c2hvuC.jpg\" width=\"720\" height=\"720\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1151905129425190912\/vid\/720x720\/Xrh1DiR_C3XTP4MR.mp4?tag=13\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/adagamov\/status\/1151905688144285697",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6933ea54-8421-4c6f-8497-248bae58d562",
+        "type": "message",
+        "text": "идеально",
+        "user": "U48A8L25N",
+        "ts": "1563472658.299500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563472658.299500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1563490679.299700",
+        "reply_users": [
+            "UHT0XGK1V"
+        ],
+        "replies": [
+            {
+                "user": "UHT0XGK1V",
+                "ts": "1563490679.299700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4596f982-c82a-4ea7-abd7-3179386fdaf1",
+        "type": "message",
+        "text": "Интересно долго искали поциента?",
+        "user": "UHT0XGK1V",
+        "ts": "1563490679.299700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "adc5bf2977ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-11\/680366630466_adc5bf2977ea5b8f81ad_72.jpg",
+            "first_name": "Se",
+            "real_name": "Se",
+            "display_name": "Se",
+            "team": "T040HKJE3",
+            "name": "thisstheend",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHT0XGK1V",
+            "ts": "1563490708.000000"
+        },
+        "thread_ts": "1563472658.299500",
+        "parent_user_id": "U48A8L25N"
+    }
+]

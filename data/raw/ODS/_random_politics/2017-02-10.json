@@ -1,0 +1,125 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1486720744.000018",
+        "user": "U09BY2N3X",
+        "text": "<@U09BY2N3X> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1486746713.000019",
+        "user": "U1X5E4JC9",
+        "text": "<@U1X5E4JC9> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Привет, вопросы по безопасности ИИ здесь или есть отдельный слэк?",
+        "user": "U1X5E4JC9",
+        "ts": "1486746729.000020",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfcb2709b015",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6efcb2709b0151129aa1aea501411654.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Shakirov",
+            "display_name": "vladimir_shakirov",
+            "team": "T040HKJE3",
+            "name": "vladimir_shakirov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Думаю, что Shane Legg (сооснователь DeepMind) прав, когда говорит о появлении сильного ИИ с вероятностью в 60% в период с 2017 по 2027 (и 30% в период с 2017 по 2022)",
+        "user": "U1X5E4JC9",
+        "ts": "1486746770.000021",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfcb2709b015",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6efcb2709b0151129aa1aea501411654.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Shakirov",
+            "display_name": "vladimir_shakirov",
+            "team": "T040HKJE3",
+            "name": "vladimir_shakirov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "zoidberg",
+                "users": [
+                    "U47239JRW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Его немедленно захотят скопировать себе и всячески развивать — военные, корпорации, НИИ... быстро появятся десятки тысяч неконтролируемо развивающихся агентов, каждый из которых быстро станет гораздо умнее любого человека. Какая там \"безопасность\", какие \"ограничения доступа к интернету\", когда на кону гранты, прибыль и гонка вооружений? чатботы, интернет вещей, управление экономикой с помощью ИИ. Мы просто сдадим все позиции новой форме жизни.",
+        "user": "U1X5E4JC9",
+        "ts": "1486746788.000022",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfcb2709b015",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6efcb2709b0151129aa1aea501411654.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Shakirov",
+            "display_name": "vladimir_shakirov",
+            "team": "T040HKJE3",
+            "name": "vladimir_shakirov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "И внимание вопрос -- зачем?",
+        "user": "U1X5E4JC9",
+        "ts": "1486746793.000023",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfcb2709b015",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6efcb2709b0151129aa1aea501411654.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Shakirov",
+            "display_name": "vladimir_shakirov",
+            "team": "T040HKJE3",
+            "name": "vladimir_shakirov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "И почему кто-то думает, что после этого нам будет хорошо, а не наоборот?",
+        "user": "U1X5E4JC9",
+        "ts": "1486746807.000024",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gfcb2709b015",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6efcb2709b0151129aa1aea501411654.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Shakirov",
+            "display_name": "vladimir_shakirov",
+            "team": "T040HKJE3",
+            "name": "vladimir_shakirov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

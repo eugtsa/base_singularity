@@ -1,0 +1,694 @@
+[
+    {
+        "client_msg_id": "af4a6466-0f8a-4f88-8877-e276d2f82c09",
+        "type": "message",
+        "text": "<http:\/\/interfax.ru\/world\/696486>",
+        "user": "U48A8L25N",
+        "ts": "1582532359.002000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Interfax.ru",
+                "title": "Китайские власти заявили о наличии вакцины против коронавируса",
+                "title_link": "http:\/\/interfax.ru\/world\/696486",
+                "text": "В КНР разработана вакцина, предварительно показавшая эффективность против коронавируса, сообщил в понедельник посол Китая в России Чжан Ханьхуэй.",
+                "fallback": "Interfax.ru: Китайские власти заявили о наличии вакцины против коронавируса",
+                "image_url": "https:\/\/www.interfax.ru\/aspimg\/696486.png",
+                "ts": 1582529280,
+                "from_url": "http:\/\/interfax.ru\/world\/696486",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 13243,
+                "service_icon": "https:\/\/www.interfax.ru\/touch-icon-iphone.png",
+                "id": 1,
+                "original_url": "http:\/\/interfax.ru\/world\/696486"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nrs5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/interfax.ru\/world\/696486"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae875ba4-bda7-4956-8183-c76fe03189b0",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2020\/02\/24\/mvd-zahotelo-iskat-prestupnikov-po-raduzhke-tatuirovkam-i-pohodke> :el_risitas: :yeah-sure:",
+        "user": "U049HDR2Z",
+        "ts": "1582542023.002500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "МВД захотело искать преступников по радужке, татуировкам и походке — Meduza",
+                "title_link": "https:\/\/meduza.io\/news\/2020\/02\/24\/mvd-zahotelo-iskat-prestupnikov-po-raduzhke-tatuirovkam-i-pohodke",
+                "text": "МВД работает над системой распознавания преступников и подозреваемых по голосу, радужке, татуировкам и, в перспективе, по походке. Об этом РБК сообщил глава Русского биометрического общества (участвует в разработке) Данила Николаев, информацию подтвердили в министерстве.",
+                "fallback": "Meduza: МВД захотело искать преступников по радужке, татуировкам и походке — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1582540461\/news\/2020\/02\/24\/mvd-zahotelo-iskat-prestupnikov-po-raduzhke-tatuirovkam-i-pohodke",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/news\/2020\/02\/24\/mvd-zahotelo-iskat-prestupnikov-po-raduzhke-tatuirovkam-i-pohodke",
+                "image_bytes": 52637,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/news\/2020\/02\/24\/mvd-zahotelo-iskat-prestupnikov-po-raduzhke-tatuirovkam-i-pohodke"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/news\/2020\/02\/24\/mvd-zahotelo-iskat-prestupnikov-po-raduzhke-tatuirovkam-i-pohodke"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "el_risitas"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yeah-sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5abe054-6087-411a-8447-b8bb45dd6a98",
+        "type": "message",
+        "text": "А скоро еще и по породе коня",
+        "user": "U049HDR2Z",
+        "ts": "1582542041.002900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgDC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А скоро еще и по породе коня"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c981051-fa4c-4624-aee4-66d99613d108",
+        "type": "message",
+        "text": "<https:\/\/lenta.ru\/news\/2020\/02\/24\/idlib\/>",
+        "user": "U48A8L25N",
+        "ts": "1582559735.003300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Турецкие военные погибли при авиаударе России по Идлибу",
+                "title_link": "https:\/\/lenta.ru\/news\/2020\/02\/24\/idlib\/",
+                "text": "Более 10 турецких военных погибли в сирийском Идлибе в результате авиаудара ВКС России. Об этом сообщают военный журналист Бабак Тагвей и источник в военных структурах Турции. В то же время отмечается, что среди убитых могли оказаться джихадисты. Турция вместе с сирийской оппозицией начала наступление.",
+                "fallback": "Турецкие военные погибли при авиаударе России по Идлибу",
+                "image_url": "https:\/\/icdn.lenta.ru\/images\/2020\/02\/24\/18\/20200224180721992\/detail_8649fe4c1689333ae9fcb492487cfd8b.jpg",
+                "from_url": "https:\/\/lenta.ru\/news\/2020\/02\/24\/idlib\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 85500,
+                "service_icon": "https:\/\/icdn.lenta.ru\/lenta_touch.png",
+                "service_name": "lenta.ru",
+                "id": 1,
+                "original_url": "https:\/\/lenta.ru\/news\/2020\/02\/24\/idlib\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ole4v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lenta.ru\/news\/2020\/02\/24\/idlib\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "730325f2-e33a-4727-82e9-22e21dc7d26c",
+        "type": "message",
+        "text": "ход главтурка",
+        "user": "U48A8L25N",
+        "ts": "1582559743.003800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5t+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ход главтурка"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d551342b-9cd1-4cd6-a253-a7e8e199a130",
+        "type": "message",
+        "text": "Че-то в Италии совсем худо. Коронавирус наступает.\n<https:\/\/p.dw.com\/p\/3YLBb>\nСтало стремно ехать вообще куда-либо.\n\nВообще, паритесь насчет того чтоб собираться большими толпами?\nЕхать на конференции, школы, даже просто в тур.поездки?",
+        "user": "U9ZU1CYUD",
+        "ts": "1582571511.005400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DW.COM",
+                "title": "Семь человек скончались от коронавируса в Италии | DW | 24.02.2020",
+                "title_link": "https:\/\/p.dw.com\/p\/3YLBb",
+                "text": "Число инфицированных превысило 220 человек. ВОЗ призывает международное сообщество быть готовым к \"возможной пандемии\".",
+                "fallback": "DW.COM: Семь человек скончались от коронавируса в Италии | DW | 24.02.2020",
+                "image_url": "https:\/\/www.dw.com\/image\/52489055_304.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/p.dw.com\/p\/3YLBb",
+                "image_bytes": 106312,
+                "service_icon": "https:\/\/www.dw.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/p.dw.com\/p\/3YLBb"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Че-то в Италии совсем худо. Коронавирус наступает.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/p.dw.com\/p\/3YLBb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nСтало стремно ехать вообще куда-либо.\n\nВообще, паритесь насчет того чтоб собираться большими толпами?\nЕхать на конференции, школы, даже просто в тур.поездки?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2eab3337-6c7c-4912-aaef-a691f90e9d34",
+        "type": "message",
+        "text": "да как-то слишком долго это длится",
+        "user": "U48A8L25N",
+        "ts": "1582572334.006100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zq5N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "да как-то слишком долго это длится"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582572334.006100",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1582616729.008600",
+        "reply_users": [
+            "U049HDR2Z"
+        ],
+        "replies": [
+            {
+                "user": "U049HDR2Z",
+                "ts": "1582611892.008000"
+            },
+            {
+                "user": "U049HDR2Z",
+                "ts": "1582616729.008600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e61333cd-9beb-4bf0-a1ad-05a55797e72a",
+        "type": "message",
+        "text": "поэтому успело перегореть",
+        "user": "U48A8L25N",
+        "ts": "1582572342.006500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1or0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "поэтому успело перегореть"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80389b14-9507-4fb1-b7e7-ff805be1b1b2",
+        "type": "message",
+        "text": "Интересно, зачем на жд станциях объявляют о симптомах коронавируса? Я, конечно, понимаю, что страшно. Но не настолько же!",
+        "user": "U2TS6AQ66",
+        "ts": "1582610479.007300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGq32",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Интересно, зачем на жд станциях объявляют о симптомах коронавируса? Я, конечно, понимаю, что страшно. Но не настолько же!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582610479.007300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1582610494.007400",
+        "reply_users": [
+            "U2TS6AQ66"
+        ],
+        "replies": [
+            {
+                "user": "U2TS6AQ66",
+                "ts": "1582610494.007400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2ff39869-0fd3-410e-8f9d-681dce7b417e",
+        "type": "message",
+        "text": "Регулярно слышу в электричках и на платформах",
+        "user": "U2TS6AQ66",
+        "ts": "1582610494.007400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Fdd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Регулярно слышу в электричках и на платформах"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582610479.007300",
+        "parent_user_id": "U2TS6AQ66"
+    },
+    {
+        "client_msg_id": "d0fdd4a7-091b-4271-b822-1f1818e38f3f",
+        "type": "message",
+        "text": "Чтобы от политики отвлечь, очевидно",
+        "user": "U049HDR2Z",
+        "ts": "1582611858.007900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vbbu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Чтобы от политики отвлечь, очевидно"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Когда-то твоим предкам и 240 лет было мало, чтобы перегореть",
+        "user": "U049HDR2Z",
+        "ts": "1582611892.008000",
+        "thread_ts": "1582572334.006100",
+        "root": {
+            "client_msg_id": "2eab3337-6c7c-4912-aaef-a691f90e9d34",
+            "type": "message",
+            "text": "да как-то слишком долго это длится",
+            "user": "U48A8L25N",
+            "ts": "1582572334.006100",
+            "team": "T040HKJE3",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zq5N",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "да как-то слишком долго это длится"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1582572334.006100",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1582616729.008600",
+            "reply_users": [
+                "U049HDR2Z"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMp78",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Когда-то твоим предкам и 240 лет было мало, чтобы перегореть"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8f16c8eb-852d-4ab3-b49f-c112c0a34423",
+        "reactions": [
+            {
+                "name": "wat",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c6398bd-0b15-425c-9c0f-cf545db82923",
+        "type": "message",
+        "text": "*<@U48A8L25N>* 1240–1480 гг.",
+        "user": "U049HDR2Z",
+        "ts": "1582616729.008600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cf0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U48A8L25N",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "1240–1480 гг."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582572334.006100",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

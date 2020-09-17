@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "164aeb22-0aab-4ea6-ae6f-778b7a45561c",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/mudakoff\/status\/1151084012259237890>",
+        "user": "U48A8L25N",
+        "ts": "1563278900.290100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mudakoff|@mudakoff>: Продано! А на кешбек забирай всё до Урала нахуй <https:\/\/pbs.twimg.com\/media\/D_l4zejX4AAZgKp.jpg>",
+                "ts": 1563274789,
+                "author_name": "#MDK",
+                "author_link": "https:\/\/twitter.com\/mudakoff\/status\/1151084012259237890",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/921369060994109440\/rWj-Da6M_normal.jpg",
+                "author_subname": "@mudakoff",
+                "text": "Продано! А на кешбек забирай всё до Урала нахуй <https:\/\/pbs.twimg.com\/media\/D_l4zejX4AAZgKp.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mudakoff\/status\/1151084012259237890",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/D_l4zejX4AAZgKp.jpg",
+                "image_width": 749,
+                "image_height": 1061,
+                "image_bytes": 72135,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mudakoff\/status\/1151084012259237890",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1563278900.290100",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1563303494.290500",
+        "reply_users": [
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1563303429.290300"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1563303494.290500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "parrotpoop",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69c09c2c-6b28-4849-9a83-dbff5119a959",
+        "type": "message",
+        "text": "да, Пруссия, да немцы жили, ... но, это плата за то что советских людей миллионы полегло в войне.",
+        "user": "U9ZU1CYUD",
+        "ts": "1563303429.290300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563278900.290100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "67ae59cc-b74c-4c16-9874-c5cd29720775",
+        "type": "message",
+        "text": "а даже если продавали бы, то есть опыт Аляски...сколько не придет денег, все разворуют или просрут.",
+        "user": "U9ZU1CYUD",
+        "ts": "1563303494.290500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563278900.290100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "b9847c23-4028-4499-b078-9de104bbf07c",
+        "type": "message",
+        "text": "Блэт, ты постишь первоапрельскую шутку трехлетней давности: <https:\/\/baltmore.ru\/news\/world\/27-mark-cukerberg-predlozhil-dmitriyu-medvedevu-prodat-emu-kaliningrad.html>",
+        "user": "U7CAU0GMU",
+        "ts": "1563307641.291800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Балтморе.ру — туризм в Калининградской области",
+                "title": "Марк Цукерберг предложил Дмитрию Медведеву продать ему Калининград",
+                "title_link": "https:\/\/baltmore.ru\/news\/world\/27-mark-cukerberg-predlozhil-dmitriyu-medvedevu-prodat-emu-kaliningrad.html",
+                "text": "Создатель и владелец социальной сети Фейсбук, долларовый миллиардер Марк Цукерберг, в ходе своего визита в Индийский технологический институт (Дели, Индия), выступил с неожиданным заявлением, заочно предложив председателю правительства России Дмитрию Медведеву продать ему Калининградскую",
+                "fallback": "Балтморе.ру — туризм в Калининградской области: Марк Цукерберг предложил Дмитрию Медведеву продать ему Калининград",
+                "image_url": "https:\/\/baltmore.ru\/uploads\/posts\/2017-07\/1500327513_mark-cukerberg-predlozhil-dmitriyu-medvedevu-prodat-emu-kaliningrad_2.jpg",
+                "from_url": "https:\/\/baltmore.ru\/news\/world\/27-mark-cukerberg-predlozhil-dmitriyu-medvedevu-prodat-emu-kaliningrad.html",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 126415,
+                "service_icon": "https:\/\/baltmore.ru\/templates\/baltmore\/images\/touch-icon-iphone.png",
+                "id": 1,
+                "original_url": "https:\/\/baltmore.ru\/news\/world\/27-mark-cukerberg-predlozhil-dmitriyu-medvedevu-prodat-emu-kaliningrad.html"
+            }
+        ]
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "client_msg_id": "99e124fb-e5ce-436d-8f1f-021368277c2c",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4053361>",
+        "user": "U48A8L25N",
+        "ts": "1565088437.037000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Прокуратура просит суд лишить родительских прав пришедших с ребенком на акцию 27 июля",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4053361",
+                "text": "Подробнее на сайте",
+                "fallback": "Прокуратура просит суд лишить родительских прав пришедших с ребенком на акцию 27 июля",
+                "image_url": "https:\/\/im4.kommersant.ru\/SocialPics\/4053361_26_0_520640721",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1565087201,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4053361",
+                "image_bytes": 50897,
+                "service_icon": "https:\/\/im2.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4053361"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57f5cfe5-235b-4e55-b831-7137bcc4c8fd",
+        "type": "message",
+        "text": "реальные людоеды",
+        "user": "U48A8L25N",
+        "ts": "1565088443.037400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6fcec294-2a1c-4455-91ad-62609294cdf7",
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/sudi_v_rossii_ne_nesut_otvetstvennost_za_prinjatye_reshenija_sudja_mosgorsuda_o_nestykovkah_v_dele_jashina-491037\/>",
+        "user": "U48A8L25N",
+        "ts": "1565093612.037600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "«Судьи в России не несут ответственность за принятые решения». Судья Мосгорсуда — о «нестыковках» в административном деле Яшина",
+                "title_link": "https:\/\/tvrain.ru\/news\/sudi_v_rossii_ne_nesut_otvetstvennost_za_prinjatye_reshenija_sudja_mosgorsuda_o_nestykovkah_v_dele_jashina-491037\/",
+                "text": "На апелляционном заседании в Мосгорсуде по делу об аресте независимого кандидата на выборах в Мосгордуму Ильи Яшина его адвокат указал на ошибки в материалах дела и отметил, что судьям, участвовавшим в «фабрикации дела», придется нести ответственность. Судья Анна Селиверстова ответила, что «судьи в России не несут ответственность за принятые решения». Об этом говорится на странице Яшина в фейсбуке.",
+                "fallback": "«Судьи в России не несут ответственность за принятые решения». Судья Мосгорсуда — о «нестыковках» в административном деле Яшина",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/49\/10\/37\/image.png?2019_08_06_14_58_26",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1565092349,
+                "from_url": "https:\/\/tvrain.ru\/news\/sudi_v_rossii_ne_nesut_otvetstvennost_za_prinjatye_reshenija_sudja_mosgorsuda_o_nestykovkah_v_dele_jashina-491037\/",
+                "image_bytes": 74581,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/news\/sudi_v_rossii_ne_nesut_otvetstvennost_za_prinjatye_reshenija_sudja_mosgorsuda_o_nestykovkah_v_dele_jashina-491037\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccd9f994-afaf-4192-8eef-55301fe4625b",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2019\/08\/06\/posol-ssha-v-rossii-dzhon-hantsman-podal-v-otstavku>\nНадо съездить в деревню, проветриться :slightly_smiling_face:",
+        "user": "UGTNTEBPV",
+        "ts": "1565111571.038400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1565112233.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Посол США в России Джон Хантсман подал в отставку — Meduza",
+                "title_link": "https:\/\/meduza.io\/news\/2019\/08\/06\/posol-ssha-v-rossii-dzhon-hantsman-podal-v-otstavku",
+                "text": "Посол США в РФ Джон Хантсман подал президенту США Дональду Трампу заявление об отставке с 3 октября, сообщает The Hill.",
+                "fallback": "Meduza: Посол США в России Джон Хантсман подал в отставку — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1565106309\/news\/2019\/08\/06\/posol-ssha-v-rossii-dzhon-hantsman-podal-v-otstavku",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/news\/2019\/08\/06\/posol-ssha-v-rossii-dzhon-hantsman-podal-v-otstavku",
+                "image_bytes": 55085,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/news\/2019\/08\/06\/posol-ssha-v-rossii-dzhon-hantsman-podal-v-otstavku"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bb395d5-f0d6-4d5d-ab54-cb674ce1f79a",
+        "type": "message",
+        "text": "Шота происходит",
+        "user": "U48A8L25N",
+        "ts": "1565112058.038900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d29ccfaf-a916-486f-8734-231e6729cea6",
+        "type": "message",
+        "text": "а что там за волнения в мск? Артемий Лебедев вон вроде даже отъезжает обижженый на пмж в евгопу.",
+        "user": "UHPSEES93",
+        "ts": "1565135524.041600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4774832d-5535-4edc-ae70-1ec20bd78ab3",
+        "type": "message",
+        "text": "Аж целый Артемий Лебедев, ух :kolobok:",
+        "user": "U74DLUWUC",
+        "ts": "1565148063.042100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "nail_care",
+                "users": [
+                    "UBRKXHMJB",
+                    "U27HU84H4"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

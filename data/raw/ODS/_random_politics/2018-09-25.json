@@ -1,0 +1,473 @@
+[
+    {
+        "client_msg_id": "b1d3223d-a3ca-47d7-b7cf-9a450cae8ac2",
+        "type": "message",
+        "text": "Ой, не я политатой уже себе весь ФБ засрал - тут не хочу",
+        "user": "UCFH1SSJY",
+        "ts": "1537894946.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa0493f21255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/512034543589_fa0493f212553d7f96b4_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Timofeev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ilia.timofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537469634.000100",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "8a375899-218e-4170-b666-d52013111aee",
+        "type": "message",
+        "text": "Вот вполне корректная работа <https:\/\/carnegie.ru\/2017\/03\/22\/ru-pub-68340>",
+        "user": "UCFH1SSJY",
+        "ts": "1537895140.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa0493f21255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/512034543589_fa0493f212553d7f96b4_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Timofeev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ilia.timofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Carnegie Moscow Center",
+                "title": "Сравнительная история нефтезависимых экономик конца XX — начала XXI века",
+                "title_link": "https:\/\/carnegie.ru\/2017\/03\/22\/ru-pub-68340",
+                "text": "Исследование ресурсозависимых экономик особенно актуально для России ─ страны, чья экономика и политический строй претерпели существенные изменения в связи с пролившимся на страну потоком нефтедолларов.",
+                "fallback": "Carnegie Moscow Center: Сравнительная история нефтезависимых экономик конца XX — начала XXI века",
+                "thumb_url": "https:\/\/carnegieendowment.org\/images\/article_images\/oil_report400-001.jpg",
+                "from_url": "https:\/\/carnegie.ru\/2017\/03\/22\/ru-pub-68340",
+                "thumb_width": 448,
+                "thumb_height": 640,
+                "service_icon": "https:\/\/carnegie.ru\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/carnegie.ru\/2017\/03\/22\/ru-pub-68340"
+            }
+        ],
+        "thread_ts": "1537469634.000100",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "4c9e5241-a4e1-4af0-bc52-2ca753c293ad",
+        "type": "message",
+        "text": "Вот забавный прогноз от тогоже автора <https:\/\/youtu.be\/AhhUs593bLY>",
+        "user": "UCFH1SSJY",
+        "ts": "1537895351.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa0493f21255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/512034543589_fa0493f212553d7f96b4_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Timofeev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ilia.timofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Андрей Мовчан. «Москва 2042». Лимуд 2018",
+                "title_link": "https:\/\/youtu.be\/AhhUs593bLY",
+                "author_name": "Movchans",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCxOIlErAev0pci_sTFgfA0Q",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/AhhUs593bLY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Андрей Мовчан. «Москва 2042». Лимуд 2018",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/AhhUs593bLY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/AhhUs593bLY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/AhhUs593bLY"
+            }
+        ],
+        "thread_ts": "1537469634.000100",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "7557b15b-e22e-4d60-9ba4-12eed1768c96",
+        "type": "message",
+        "text": "Если осилишь, можно обсудить :slightly_smiling_face: там еще точки зрения :slightly_smiling_face:",
+        "user": "UCFH1SSJY",
+        "ts": "1537895554.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa0493f21255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/512034543589_fa0493f212553d7f96b4_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Timofeev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ilia.timofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537469634.000100",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Я вот нашел вот такой проект: <http:\/\/datafordemocracy.org\/>\nА есть ли у нас подобная тема?\nЯ бы поучастовал с удовольствием?",
+        "user": "UCFH1SSJY",
+        "ts": "1537895878.000100",
+        "thread_ts": "1526220906.000113",
+        "root": {
+            "type": "message",
+            "text": "А какие вы знаете проекты связанные с социо-политическим контентом и ml?",
+            "user": "U7KDVG6LS",
+            "ts": "1526220906.000113",
+            "team": "T040HKJE3",
+            "thread_ts": "1526220906.000113",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1537895878.000100",
+            "reply_users": [
+                "U5H0L5T98",
+                "U80H34210",
+                "UCFH1SSJY"
+            ],
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "title": "Data for Democracy",
+                "title_link": "http:\/\/datafordemocracy.org\/",
+                "text": "Data for Democracy is a community of data people volunteering on social impact projects.",
+                "fallback": "Data for Democracy",
+                "from_url": "http:\/\/datafordemocracy.org\/",
+                "service_icon": "https:\/\/data4democracy.github.io\/datafordemocracy.org\/images\/favicon.ico",
+                "service_name": "datafordemocracy.org",
+                "id": 1,
+                "original_url": "http:\/\/datafordemocracy.org\/"
+            }
+        ],
+        "client_msg_id": "b5cf122a-775a-4b3f-acf1-64799e57a3b9"
+    },
+    {
+        "client_msg_id": "4a45528c-5a27-44ac-b371-889e7978825c",
+        "type": "message",
+        "text": "Просто тут вот 150 человек которым не все равно на политику и они умеют данные крутить. При этом явно есть и сильные ребята которые могли бы просто советами помочь и юниоры типа меня которые за возможность чего-то прикольное поделать готовы потрудиться.  Придумать прикольных проектов и начать их делать тем самым приносить пользу обществу, а не просто ужасаться херне которая происходит?\n\nЕсть идеи чего можно сделать? Я свои в коменты напишу:",
+        "user": "UCFH1SSJY",
+        "ts": "1537896827.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa0493f21255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/512034543589_fa0493f212553d7f96b4_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Timofeev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ilia.timofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537896827.000100",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1537941225.000100",
+        "reply_users": [
+            "UCFH1SSJY",
+            "U3KBYJQSF"
+        ],
+        "replies": [
+            {
+                "user": "UCFH1SSJY",
+                "ts": "1537896945.000100"
+            },
+            {
+                "user": "UCFH1SSJY",
+                "ts": "1537897178.000100"
+            },
+            {
+                "user": "UCFH1SSJY",
+                "ts": "1537897392.000100"
+            },
+            {
+                "user": "U3KBYJQSF",
+                "ts": "1537941225.000100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "abc9f85d-a0fc-4eae-902e-42501be2f31a",
+        "type": "message",
+        "text": "Детектор вброса по видео, при этом биться не за точность, а за минимальные ресурсы, что бы реально было в процессе выборов собрать ролики со всеми вбросами и не пожечь на это какие-то безумные бабки",
+        "user": "UCFH1SSJY",
+        "ts": "1537896945.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa0493f21255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/512034543589_fa0493f212553d7f96b4_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Timofeev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ilia.timofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537896827.000100",
+        "parent_user_id": "UCFH1SSJY"
+    },
+    {
+        "client_msg_id": "8c66ac76-6293-4f00-ba26-d15f0d59376d",
+        "type": "message",
+        "text": "Анализ истории свободы прессы в России.\n\t1. Придумать методу как оценивать уровень разнообразия в прессе и посмотреть как он менялся.\n\t2. Посмотреть как менялись владельцы СМИ и понять кто сейчас контролирует аудиторию",
+        "user": "UCFH1SSJY",
+        "ts": "1537897178.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa0493f21255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/512034543589_fa0493f212553d7f96b4_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Timofeev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ilia.timofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537896827.000100",
+        "parent_user_id": "UCFH1SSJY"
+    },
+    {
+        "client_msg_id": "62c3fa72-8257-4068-95e5-813d5297d449",
+        "type": "message",
+        "text": "Анализ влияния фабрики троллей:\n\t1. Как можно вычислять фабрику\n\t2. Какова доля живых комментариев под статьями в сми\n\t3. Как влияет появление и характер комментариев заказных троллей на ход дискуссии\nЗЫ: У меня есть гипотеза, что фабрика очень сильно влияет на ощущение об общественном мнение",
+        "user": "UCFH1SSJY",
+        "ts": "1537897392.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fa0493f21255",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-26\/512034543589_fa0493f212553d7f96b4_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Timofeev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ilia.timofeev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537896827.000100",
+        "parent_user_id": "UCFH1SSJY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U70T87GMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4C9794DC-5E40-4F90-9661-98CCC7842E5B",
+        "type": "message",
+        "text": "<@U06J1LG1M> вот этого можно в #org_ml4sg",
+        "user": "U3KBYJQSF",
+        "ts": "1537941225.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537896827.000100",
+        "parent_user_id": "UCFH1SSJY"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1537941229.000200",
+        "user": "U06J1LG1M",
+        "text": "<@U06J1LG1M> has joined the channel",
+        "inviter": "U3KBYJQSF"
+    },
+    {
+        "client_msg_id": "16e2f2b2-f2dd-4898-ba7d-46917586b60c",
+        "type": "message",
+        "text": "этот канал мертв",
+        "user": "U06J1LG1M",
+        "ts": "1537941399.000200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537941399.000200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1537941628.000100",
+        "reply_users": [
+            "U3KBYJQSF"
+        ],
+        "replies": [
+            {
+                "user": "U3KBYJQSF",
+                "ts": "1537941628.000100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "40fc0efb-966d-4147-a8af-ed763d105675",
+        "type": "message",
+        "text": "тут только глиномесы",
+        "user": "U06J1LG1M",
+        "ts": "1537941404.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "crab",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2488283c-9a2a-4963-9347-c0a113fcdbfa",
+        "type": "message",
+        "text": "не добавляйте меня сюда",
+        "user": "U06J1LG1M",
+        "ts": "1537941410.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c211e27f-652f-4d33-a530-48518d1b7fde",
+        "type": "message",
+        "text": "го в <#C9J1ZMNFM|_random_b>",
+        "user": "U06J1LG1M",
+        "ts": "1537941418.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0f7bbce3713",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5e0f7bbce37134d4b0a7a1fe1fc77fa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nesterov",
+            "display_name": "mephistopheies",
+            "team": "T040HKJE3",
+            "name": "mephistopheies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U8U5W7JG5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ban",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DBB31C59-180E-466A-AF22-C3668F1B57BF",
+        "type": "message",
+        "text": "Суть в том, что есть чел, который хочет делать какой-то проект, которые есть у нас и кроме того он может быть и манагером ",
+        "user": "U3KBYJQSF",
+        "ts": "1537941628.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1537941399.000200",
+        "parent_user_id": "U06J1LG1M"
+    }
+]

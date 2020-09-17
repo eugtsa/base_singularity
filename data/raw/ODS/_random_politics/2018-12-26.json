@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "f9237b1c-8bcc-43a9-892e-caa76d6833db",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Ph2NJ5FsL6Q>",
+        "user": "U7KDVG6LS",
+        "ts": "1545850386.000400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5822454d50ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-18\/257865532977_5822454d50ec3be0e4cc_72.png",
+            "first_name": "",
+            "real_name": "Alexander",
+            "display_name": "liketheother",
+            "team": "T040HKJE3",
+            "name": "iminusd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Юлия Латынина | Стань соучастником «Новой газеты»",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Ph2NJ5FsL6Q",
+                "author_name": "novayagazeta",
+                "author_link": "https:\/\/www.youtube.com\/user\/novayagazeta",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Ph2NJ5FsL6Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Юлия Латынина | Стань соучастником «Новой газеты»",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Ph2NJ5FsL6Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Ph2NJ5FsL6Q",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Ph2NJ5FsL6Q"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "UA6FTKAE4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "harold",
+                "users": [
+                    "UA6FTKAE4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

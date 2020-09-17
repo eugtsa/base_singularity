@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "35dad0ff-6dbc-4e93-8be8-5ee77d80887c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=wnj0ffH6vKQ>",
+        "user": "U88T71FBL",
+        "ts": "1555749251.000800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Технологическое Средневековье | Ekaterina Shulman | TEDxSadovoeRingWomen",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=wnj0ffH6vKQ",
+                "author_name": "TEDx Talks",
+                "author_link": "https:\/\/www.youtube.com\/user\/TEDxTalks",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wnj0ffH6vKQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Технологическое Средневековье | Ekaterina Shulman | TEDxSadovoeRingWomen",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/wnj0ffH6vKQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=wnj0ffH6vKQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=wnj0ffH6vKQ"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

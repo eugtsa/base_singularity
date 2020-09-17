@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "fc21ca5b-cbc7-4a05-ab01-924ca5013969",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Y87z3Qd4zyk>",
+        "user": "U27HU84H4",
+        "ts": "1568476937.000500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Александр Аузан \/ Особое мнение \/\/ 13.09.19",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Y87z3Qd4zyk",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Y87z3Qd4zyk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Александр Аузан \/ Особое мнение \/\/ 13.09.19",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Y87z3Qd4zyk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Y87z3Qd4zyk",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Y87z3Qd4zyk"
+            }
+        ],
+        "thread_ts": "1568476937.000500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1568536412.003000",
+        "reply_users": [
+            "U7KDVG6LS",
+            "U7CAU0GMU"
+        ],
+        "replies": [
+            {
+                "user": "U7KDVG6LS",
+                "ts": "1568492068.000700"
+            },
+            {
+                "user": "U7CAU0GMU",
+                "ts": "1568536412.003000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bd11d3ee-0462-497f-ac19-52e259f5801f",
+        "type": "message",
+        "text": "ссылка для чего? обсудить?",
+        "user": "U7KDVG6LS",
+        "ts": "1568492068.000700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5822454d50ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-18\/257865532977_5822454d50ec3be0e4cc_72.png",
+            "first_name": "",
+            "real_name": "Alexander",
+            "display_name": "liketheother",
+            "team": "T040HKJE3",
+            "name": "iminusd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568476937.000500",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "fd9594a5-4dc0-491b-bd4f-df703908f08e",
+        "type": "message",
+        "text": "<https:\/\/www.forbes.com\/sites\/zakdoffman\/2019\/09\/13\/putin-now-plans-100-facebook-instagram-and-youtube-bans-russians-warned\/>",
+        "user": "U5H055U0J",
+        "ts": "1568525805.001000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bf00847de62a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/791723789078_bf00847de62af24e7247_72.jpg",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Forbes",
+                "title": "Facebook, Instagram And YouTube Will Now Be Banned, Russians Warned",
+                "title_link": "https:\/\/www.forbes.com\/sites\/zakdoffman\/2019\/09\/13\/putin-now-plans-100-facebook-instagram-and-youtube-bans-russians-warned\/",
+                "text": "A Russian internet freedoms NGO is warning that a major change is on its way.",
+                "fallback": "Forbes: Facebook, Instagram And YouTube Will Now Be Banned, Russians Warned",
+                "image_url": "https:\/\/thumbor.forbes.com\/thumbor\/600x315\/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1166140992%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D143%26cropY2%3D2112",
+                "from_url": "https:\/\/www.forbes.com\/sites\/zakdoffman\/2019\/09\/13\/putin-now-plans-100-facebook-instagram-and-youtube-bans-russians-warned\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 23111,
+                "service_icon": "https:\/\/www.forbes.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.forbes.com\/sites\/zakdoffman\/2019\/09\/13\/putin-now-plans-100-facebook-instagram-and-youtube-bans-russians-warned\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U48A8L25N",
+                    "UGTNTEBPV",
+                    "UJUQAF96G"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

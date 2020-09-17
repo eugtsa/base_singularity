@@ -1,0 +1,118 @@
+[
+    {
+        "type": "message",
+        "text": "А вот это красивый ход от :navalny: на :habrahabr: \n\n<https:\/\/habrahabr.ru\/company\/fbk\/blog\/347312\/>",
+        "user": "U34Q3KU8H",
+        "ts": "1516935161.000165",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "IT-инфраструктура штабов Навального и сбор подписей: подготовка к сбору, сайт «Навальный 20!8»",
+                "title_link": "https:\/\/habrahabr.ru\/company\/fbk\/blog\/347312\/",
+                "text": "Cерия публикаций про сбор подписей 1. Введение, сайт «Навальный 20!8», подготовка к сбору 2. Железо и сети, видеонаблюдение 3. Жнец-2018: система для сбора...",
+                "fallback": "IT-инфраструктура штабов Навального и сбор подписей: подготовка к сбору, сайт «Навальный 20!8»",
+                "image_url": "https:\/\/habrastorage.org\/getpro\/habr\/post_images\/43f\/bba\/fee\/43fbbafee0a640b4152d8d78b8a911ba.png",
+                "from_url": "https:\/\/habrahabr.ru\/company\/fbk\/blog\/347312\/",
+                "image_width": 293,
+                "image_height": 250,
+                "image_bytes": 1315927,
+                "service_icon": "https:\/\/habrahabr.ru\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Хабрахабр",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eww",
+                "users": [
+                    "U316J6CT1",
+                    "U181T6SJV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "putin",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.znak.com\/2018-01-26\/v_socsetyah_pokazali_nelepuyu_spravku_kazanskoy_policii_kotoraya_ichet_avtora_nadpisi_vory>",
+        "user": "U48A8L25N",
+        "ts": "1516950405.000200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В соцсетях показали нелепую справку казанской полиции, которая ищет автора надписи «Воры»",
+                "title_link": "https:\/\/www.znak.com\/2018-01-26\/v_socsetyah_pokazali_nelepuyu_spravku_kazanskoy_policii_kotoraya_ichet_avtora_nadpisi_vory",
+                "text": "Полиция в Казани продолжает поиск злоумышленника, который перед визитом в город президента РФ Владимира Путина вытоптал слово воры на склоне Казанского кремля",
+                "fallback": "В соцсетях показали нелепую справку казанской полиции, которая ищет автора надписи «Воры»",
+                "image_url": "https:\/\/img.znak.com\/og118563.png",
+                "from_url": "https:\/\/www.znak.com\/2018-01-26\/v_socsetyah_pokazali_nelepuyu_spravku_kazanskoy_policii_kotoraya_ichet_avtora_nadpisi_vory",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 319177,
+                "service_icon": "https:\/\/www.znak.com\/favicon.png",
+                "service_name": "znak.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "вот это красивый ход :kolobok:",
+        "user": "U48A8L25N",
+        "ts": "1516950417.000254",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

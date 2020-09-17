@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "1e893c5f-7f8c-41f0-b619-d2d681bd0fc3",
+        "type": "message",
+        "text": "У меня такое ощущение, что в начале года, отходят от праздников и придумывают, тонну говно законов (типа такого, <https:\/\/vc.ru\/legal\/56559-sovfed-predlozhil-brat-platu-za-obyazatelnuyu-registraciyu-smartfonov-i-noutbukov-po-imei>).\nИнтересно бы посмотреть статистику какую-нить и графики зафигачить, типа \"новый год прошел - херачим налоги, ограничения, яровую, всякую муть\", летом - \"все отдыхают и в отпусках- либо законодатели тоже отдыхают и потому спокойный период\", либо \"пока все не смотрят опять дичь прет\") Кароче нужен график \"вероятность говно законов = f (время) \" :smiley:",
+        "user": "U2TP5JELS",
+        "ts": "1548405870.006200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2TP5JELS",
+            "ts": "1548405885.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "vc.ru",
+                "title": "Совфед предложил брать плату за обязательную регистрацию смартфонов и ноутбуков по IMEI — Право на vc.ru",
+                "title_link": "https:\/\/vc.ru\/legal\/56559-sovfed-predlozhil-brat-platu-za-obyazatelnuyu-registraciyu-smartfonov-i-noutbukov-po-imei",
+                "text": "Законопроект готов, но пока не внесён в Госдуму.",
+                "fallback": "vc.ru: Совфед предложил брать плату за обязательную регистрацию смартфонов и ноутбуков по IMEI — Право на vc.ru",
+                "image_url": "https:\/\/vc.ru\/cover\/tw\/c\/56559\/1548401369\/cover.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1548395184,
+                "from_url": "https:\/\/vc.ru\/legal\/56559-sovfed-predlozhil-brat-platu-za-obyazatelnuyu-registraciyu-smartfonov-i-noutbukov-po-imei",
+                "image_bytes": 86753,
+                "service_icon": "https:\/\/vc.ru\/static\/build\/vc.ru\/favicons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/vc.ru\/legal\/56559-sovfed-predlozhil-brat-platu-za-obyazatelnuyu-registraciyu-smartfonov-i-noutbukov-po-imei"
+            }
+        ],
+        "thread_ts": "1548405870.006200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1548500154.006500",
+        "reply_users": [
+            "U8720JR0U"
+        ],
+        "replies": [
+            {
+                "user": "U8720JR0U",
+                "ts": "1548500154.006500"
+            }
+        ],
+        "subscribed": false
+    }
+]

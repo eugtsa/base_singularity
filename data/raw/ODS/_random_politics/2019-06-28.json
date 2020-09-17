@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "6c73006b-df40-4f21-b082-fff874038c9d",
+        "type": "message",
+        "text": "а сочинения надо писать? А то каких-то потребителей контента выращивают",
+        "user": "UFDMALG6P",
+        "ts": "1561706891.213600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561665031.213000",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "d651a047-5c2f-4607-a3ab-8d0781915fc1",
+        "type": "message",
+        "text": "2029, встреча выпускников ЕГЭ-2019\n<https:\/\/m.youtube.com\/watch?v=VKpQgEyjNdM>",
+        "user": "UFDMALG6P",
+        "ts": "1561707452.214400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Key &amp; Peele - Awkward Conversation",
+                "title_link": "https:\/\/m.youtube.com\/watch?v=VKpQgEyjNdM",
+                "author_name": "Comedy Central",
+                "author_link": "https:\/\/www.youtube.com\/user\/comedycentral",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VKpQgEyjNdM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Key & Peele - Awkward Conversation",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VKpQgEyjNdM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/m.youtube.com\/watch?v=VKpQgEyjNdM",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/m.youtube.com\/watch?v=VKpQgEyjNdM"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U27SUBTB9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a4a3d67-4ad7-4d53-9a86-fe755617b7f2",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=W9egXjqbcCU>",
+        "user": "U27HU84H4",
+        "ts": "1561759583.215400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Трансформация потребления (начало лекции)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=W9egXjqbcCU",
+                "author_name": "Екатерина Шульман",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCL1rJ0ROIw9V1qFeIN0ZTZQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/W9egXjqbcCU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Трансформация потребления (начало лекции)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/W9egXjqbcCU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=W9egXjqbcCU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=W9egXjqbcCU"
+            }
+        ]
+    }
+]

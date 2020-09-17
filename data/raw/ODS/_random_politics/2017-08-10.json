@@ -1,0 +1,103 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1502380025.816914",
+        "user": "U6L6P415Y",
+        "text": "<@U6L6P415Y> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=RNOc0XgNJ1I&amp;feature=youtu.be>",
+        "user": "U3SKM61F0",
+        "ts": "1502381307.628619",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "630eff5ef5c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-26\/218003784290_630eff5ef5c4114945c0_72.jpg",
+            "first_name": "Anvar",
+            "real_name": "Anvar Kurmukov",
+            "display_name": "anvar",
+            "team": "T040HKJE3",
+            "name": "anvar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "НА МЕНЯ ВОЗБУЖДАЮТ УГОЛОВНОЕ ДЕЛО \/ ПРОЩАНИЕ",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=RNOc0XgNJ1I&amp;feature=youtu.be",
+                "author_name": "kamikadzedead",
+                "author_link": "https:\/\/www.youtube.com\/user\/kamikadzedead",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/RNOc0XgNJ1I\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: НА МЕНЯ ВОЗБУЖДАЮТ УГОЛОВНОЕ ДЕЛО \/ ПРОЩАНИЕ",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/RNOc0XgNJ1I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=RNOc0XgNJ1I&amp;feature=youtu.be",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "лучше бы его в больничку определили",
+        "user": "U48A8L25N",
+        "ts": "1502382827.511993",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "психованный он какой-то, вы не замечали? иногда распаляется до такой степени что кажется его удар хватит",
+        "user": "U48A8L25N",
+        "ts": "1502382918.562762",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1502382918.562762",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1502779657.000105",
+        "reply_users": [
+            "U3SKM61F0"
+        ],
+        "replies": [
+            {
+                "user": "U3SKM61F0",
+                "ts": "1502779657.000105"
+            }
+        ],
+        "subscribed": false
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "ceee9e4f-3488-4a81-affd-21a638bac39a",
+        "type": "message",
+        "text": "<https:\/\/www.znak.com\/2020-02-09\/v_moskve_na_akcii_protiv_sistemy_raspoznavaniya_lic_zaderzhany_chetyre_cheloveka>",
+        "user": "U70T87GMA",
+        "ts": "1581288314.034200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd363bd50686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7d363bd50686a9d328c3ec726d38276.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "anton",
+            "real_name": "anton petrov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "senseless",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В Москве на акции против системы распознавания лиц задержаны четыре человека",
+                "title_link": "https:\/\/www.znak.com\/2020-02-09\/v_moskve_na_akcii_protiv_sistemy_raspoznavaniya_lic_zaderzhany_chetyre_cheloveka",
+                "text": "В Москве задержаны четыре участника акции Следуй, которые использовали грим, выступая против системы распознавания лиц, активно внедряющейся в Москве в последние годы",
+                "fallback": "В Москве на акции против системы распознавания лиц задержаны четыре человека",
+                "image_url": "https:\/\/img.znak.com\/og189683.png",
+                "from_url": "https:\/\/www.znak.com\/2020-02-09\/v_moskve_na_akcii_protiv_sistemy_raspoznavaniya_lic_zaderzhany_chetyre_cheloveka",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 252328,
+                "service_icon": "https:\/\/www.znak.com\/favicon.png",
+                "service_name": "znak.com",
+                "id": 1,
+                "original_url": "https:\/\/www.znak.com\/2020-02-09\/v_moskve_na_akcii_protiv_sistemy_raspoznavaniya_lic_zaderzhany_chetyre_cheloveka"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putin",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adc87db5-ce9e-4a47-b3f4-f294d7444a5f",
+        "type": "message",
+        "text": "<https:\/\/www.mk.ru\/social\/2020\/02\/10\/vlasti-khabarovska-vvodyat-specialnyy-masochnyy-rezhim-izza-koronavirusa.html>",
+        "user": "U48A8L25N",
+        "ts": "1581293573.034600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Власти Хабаровска вводят специальный \"масочный\" режим из-за коронавируса",
+                "title_link": "https:\/\/www.mk.ru\/social\/2020\/02\/10\/vlasti-khabarovska-vvodyat-specialnyy-masochnyy-rezhim-izza-koronavirusa.html",
+                "text": "Как сообщает ИА AmurMedia, власти Хабаровска приняли решение ввести в городе с понедельника, 10 февраля, специальный \"масочный\" режим в целях предотвращения распространения опасного китайского коронавируса",
+                "fallback": "Власти Хабаровска вводят специальный \"масочный\" режим из-за коронавируса",
+                "image_url": "https:\/\/static.mk.ru\/media\/img\/mk.ru\/mkru_og_tag_1200x720.jpg",
+                "image_width": 417,
+                "image_height": 250,
+                "from_url": "https:\/\/www.mk.ru\/social\/2020\/02\/10\/vlasti-khabarovska-vvodyat-specialnyy-masochnyy-rezhim-izza-koronavirusa.html",
+                "image_bytes": 36682,
+                "service_icon": "https:\/\/static.mk.ru\/media\/img\/mk.ru\/____i-img\/apple-touch-icon.png",
+                "service_name": "mk.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.mk.ru\/social\/2020\/02\/10\/vlasti-khabarovska-vvodyat-specialnyy-masochnyy-rezhim-izza-koronavirusa.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ds3dL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mk.ru\/social\/2020\/02\/10\/vlasti-khabarovska-vvodyat-specialnyy-masochnyy-rezhim-izza-koronavirusa.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce8891dc-3802-4268-bd06-cbae51d1d0a3",
+        "type": "message",
+        "text": "<https:\/\/www.facebook.com\/100002263623924\/posts\/2768129033272524\/>",
+        "user": "U48A8L25N",
+        "ts": "1581293950.035100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Ната Стереонарта",
+                "title_link": "https:\/\/www.facebook.com\/100002263623924\/posts\/2768129033272524\/",
+                "text": "Как я попала в 1 инфекционную больницу Москвы с подозрением на коронавирус, и как Москва прекрасно готова к данной угрозе. В понедельник, 4.02.20 весь день имела контакт с приехавшими из Китая...",
+                "fallback": "Ната Стереонарта",
+                "image_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-9\/84095804_2768128819939212_2211793060906401792_n.jpg?_nc_cat=104&_nc_oc=AQkhg4vg3FchMhqhHPbLfm15wH-8y5vJ8QQfHi7iUX2BzK0kL_I2ov7J95PgaXqO4JI&_nc_ht=scontent-iad3-1.xx&oh=14d7d8c8b65e80af1376e5f2cf443cf2&oe=5EBB588D",
+                "from_url": "https:\/\/www.facebook.com\/100002263623924\/posts\/2768129033272524\/",
+                "image_width": 139,
+                "image_height": 250,
+                "image_bytes": 58601,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/100002263623924\/posts\/2768129033272524\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WHEP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/100002263623924\/posts\/2768129033272524\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

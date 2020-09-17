@@ -1,0 +1,736 @@
+[
+    {
+        "type": "message",
+        "text": "&gt;Россияне ожидают в конце 2017 году уровень инфляции в 12%. Об этом сообщает Bloomberg.\n\n&gt;В свою очередь официальный таргетинг по инфляции в России на конец текущего года составляет 4%.",
+        "user": "U48A8L25N",
+        "ts": "1499256437.633110",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": ":youknow:",
+        "user": "U48A8L25N",
+        "ts": "1499256888.777375",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Так таргетинг и инфляционные ожидания населения и не должны совпадать вроде",
+        "user": "U04725QK7",
+        "ts": "1499258460.335770",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я к тому что иинфляшка больше будет",
+        "user": "U48A8L25N",
+        "ts": "1499258692.422312",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Спасибо кэп",
+        "user": "U04725QK7",
+        "ts": "1499258998.541515",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "всегда пожалуйста",
+        "user": "U48A8L25N",
+        "ts": "1499259894.926808",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Меня почему-то радует вялость обсуждения в этом топике... )) Мож его вообще того, чтобы и соблазна не было пофлудить о политике?",
+        "user": "U13QJJR6F",
+        "ts": "1499261161.521164",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bb5e69c3d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-07\/57715878338_2bb5e69c3d9e641eea4e_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Andreev",
+            "display_name": "egor.andreev",
+            "team": "T040HKJE3",
+            "name": "egor.andreev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "нас сюда прогнали",
+        "user": "U48A8L25N",
+        "ts": "1499261933.916608",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а вы закрыть",
+        "user": "U48A8L25N",
+        "ts": "1499261938.918895",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "почему политику не пообсуждать то",
+        "user": "U48A8L25N",
+        "ts": "1499261951.925443",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "самая интересная и веселая из тем, на которые можно флудить)",
+        "user": "U48A8L25N",
+        "ts": "1499261976.938791",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "к слову проблемы не решаются замалчиванием)",
+        "user": "U48A8L25N",
+        "ts": "1499262019.960622",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "как раз диалоги лечат)",
+        "user": "U48A8L25N",
+        "ts": "1499262042.972664",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "чет кстати в сми воя не слышно по поводу предстоящего суда по сбитому самолету",
+        "user": "U48A8L25N",
+        "ts": "1499262859.414880",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а чо нидерландский суд сможет предъявить вообще нерезидентам нидерландов?",
+        "user": "U1GF4GC00",
+        "ts": "1499263118.562814",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U1GF4GC00",
+            "ts": "1499263128.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "и какой от этого суда вообще толк?",
+        "user": "U1GF4GC00",
+        "ts": "1499263135.572312",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "вот международный трибунал было бы что надо",
+        "user": "U1GF4GC00",
+        "ts": "1499263153.582209",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "он же не недерландский",
+        "user": "U48A8L25N",
+        "ts": "1499263256.644257",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я чот про нидерландский сегодня прочитал",
+        "user": "U1GF4GC00",
+        "ts": "1499263269.651833",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "может плохо прочитал",
+        "user": "U1GF4GC00",
+        "ts": "1499263277.656813",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну так в нидерландах",
+        "user": "U48A8L25N",
+        "ts": "1499263306.672990",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "просто_",
+        "user": "U48A8L25N",
+        "ts": "1499263306.673063",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а суд какой?",
+        "user": "U1GF4GC00",
+        "ts": "1499263326.684640",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "че грозит виноватым?",
+        "user": "U1GF4GC00",
+        "ts": "1499263373.710892",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1499263426.741045",
+        "user": "U1G303UTW",
+        "text": "<@U1G303UTW> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "ну сначала суд",
+        "user": "U48A8L25N",
+        "ts": "1499263451.755341",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "потом по логике если не выдадут, то может и до трибунала дойти",
+        "user": "U48A8L25N",
+        "ts": "1499263468.765244",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "написано виноватых будут судить в Нидерландах по национальному законодательству",
+        "user": "U1GF4GC00",
+        "ts": "1499263484.774653",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну фактически да",
+        "user": "U48A8L25N",
+        "ts": "1499263502.784750",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "но там другие страны будут принимать же участие",
+        "user": "U48A8L25N",
+        "ts": "1499263512.790397",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "т.е он как минимум станет сколько-нибудь *между*народным)",
+        "user": "U48A8L25N",
+        "ts": "1499263555.815792",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "много стран",
+        "user": "U1GF4GC00",
+        "ts": "1499263658.874040",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Австралия, Бельгия, Малайзия, Украина",
+        "user": "U1GF4GC00",
+        "ts": "1499263673.882521",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d32ec002505e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-09-01\/234761008545_d32ec002505e043651d0_72.jpg",
+            "first_name": "Maksym",
+            "real_name": "Maksym Sukhorukov",
+            "display_name": "msukhorukov",
+            "team": "T040HKJE3",
+            "name": "msukhorukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "по самолету кадафи же тоже был не межд суд",
+        "user": "U48A8L25N",
+        "ts": "1499263982.058668",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "санкций может еще накидают",
+        "user": "U48A8L25N",
+        "ts": "1499264150.155448",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Канал надо сделать приватным! )))",
+        "user": "U13QJJR6F",
+        "ts": "1499274108.869429",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2bb5e69c3d9e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-07-07\/57715878338_2bb5e69c3d9e641eea4e_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Andreev",
+            "display_name": "egor.andreev",
+            "team": "T040HKJE3",
+            "name": "egor.andreev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1499279437.645245",
+        "user": "U09JEC7V0",
+        "text": "<@U09JEC7V0> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1499281290.608315",
+        "user": "U1G2QPDJ6",
+        "text": "<@U1G2QPDJ6> has left the channel"
+    }
+]

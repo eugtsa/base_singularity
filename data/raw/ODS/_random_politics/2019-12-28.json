@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "0f5c7730-374e-4e26-ae35-180bbc8d5796",
+        "type": "message",
+        "text": "Очень интересное лично для меня интервью.\nОт действущего! советника президента и человека, которого можно считать \"часовым\" современной российской истории.\n<https:\/\/www.youtube.com\/watch?time_continue=2953&amp;v=by0n6m3jG8I&amp;feature=emb_title>",
+        "user": "UGTNTEBPV",
+        "ts": "1577571324.016400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1577571447.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "\"Путин уже не отмороженный кагэбешник\" - советник президента РФ Валентин Юмашев в \"Немцова.Интервью\"",
+                "title_link": "https:\/\/www.youtube.com\/watch?time_continue=2953&amp;v=by0n6m3jG8I&amp;feature=emb_title",
+                "author_name": "DW на русском",
+                "author_link": "https:\/\/www.youtube.com\/user\/deutschewellerussian",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/by0n6m3jG8I\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: \"Путин уже не отмороженный кагэбешник\" - советник президента РФ Валентин Юмашев в \"Немцова.Интервью\"",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/by0n6m3jG8I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?time_continue=2953&amp;v=by0n6m3jG8I&amp;feature=emb_title",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?time_continue=2953&amp;v=by0n6m3jG8I&amp;feature=emb_title"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruDg3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Очень интересное лично для меня интервью.\nОт действущего! советника президента и человека, которого можно считать \"часовым\" современной российской истории.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?time_continue=2953&v=by0n6m3jG8I&feature=emb_title"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

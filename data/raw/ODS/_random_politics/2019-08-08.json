@@ -1,0 +1,309 @@
+[
+    {
+        "client_msg_id": "6eb22d81-b84d-431f-a121-06fe295bf51e",
+        "type": "message",
+        "text": "Интересный ресурс для себя открыл. Давно хотел разобраться кто нарушает перемирие на Донбасе. Каждый обвиняет друг друга и до правды не докопаться.\n<https:\/\/www.osce.org\/ru\/special-monitoring-mission-to-ukraine\/427385>\nКогда мама русская, а папа украинец сложно быть на чьей либо стороне.\nЕсли верить отчёту ОБСЕ больше всех нарушает ВСУ. Но я пока глубоко не копал.",
+        "user": "UGTNTEBPV",
+        "ts": "1565256272.065000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Последние новости от Специальной мониторинговой миссии ОБСЕ в Украине на основе информации, поступившей по состоянию на 6 августа 2019 года, 19:30 | ОБСЕ",
+                "title_link": "https:\/\/www.osce.org\/ru\/special-monitoring-mission-to-ukraine\/427385",
+                "text": "Этот отчет предоставляется для СМИ и широкой общественности. Официальной версией отчета является текст на английском языке Краткое изложение СММ констатировала увеличение количества нарушений режима прекращения огня в Донецкой области и уменьшение количества таких нарушений в Луганской области по сравнению с предыдущим отчетным периодом.",
+                "fallback": "Последние новости от Специальной мониторинговой миссии ОБСЕ в Украине на основе информации, поступившей по состоянию на 6 августа 2019 года, 19:30 | ОБСЕ",
+                "from_url": "https:\/\/www.osce.org\/ru\/special-monitoring-mission-to-ukraine\/427385",
+                "service_icon": "https:\/\/www.osce.org\/favicon\/apple-icon-57x57.png",
+                "service_name": "osce.org",
+                "id": 1,
+                "original_url": "https:\/\/www.osce.org\/ru\/special-monitoring-mission-to-ukraine\/427385"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U5JR89DNF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c4cc0df-b358-4727-8036-07384601d3c2",
+        "type": "message",
+        "text": "- Почему в России ставка 12%, а в Чехии 6%?\n- Давайте послушаем музыку, которую я пишу.\n<https:\/\/www.youtube.com\/watch?v=OcY9TnlJQw0>",
+        "user": "U5H055U0J",
+        "ts": "1565265557.065800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bf00847de62a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/791723789078_bf00847de62af24e7247_72.jpg",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U5H055U0J",
+            "ts": "1565265591.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Вице-президент Сбербанка отказался отвечать на вопрос представителя КБР о высоких процентных ставках",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=OcY9TnlJQw0",
+                "author_name": "ПАТРИОТ КБР",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo11VQw3wdXuL2koYmN3LKg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/OcY9TnlJQw0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Вице-президент Сбербанка отказался отвечать на вопрос представителя КБР о высоких процентных ставках",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/OcY9TnlJQw0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=OcY9TnlJQw0",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=OcY9TnlJQw0"
+            }
+        ],
+        "thread_ts": "1565265557.065800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1565295324.067600",
+        "reply_users": [
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1565295324.067600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U7KDVG6LS",
+                    "UM53RABL7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "087f4127-dbed-49dc-aa39-a6b6066a1c6a",
+        "type": "message",
+        "text": "<https:\/\/www.newsru.com\/russia\/05aug2019\/vzlom.html>",
+        "user": "U27HU84H4",
+        "ts": "1565274161.066400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NEWSru.com",
+                "title": "СМИ: силовики используют израильскую программу для взлома смартфонов, изъятых у протестующих в Москве",
+                "title_link": "https:\/\/www.newsru.com\/russia\/05aug2019\/vzlom.html",
+                "text": "Российские полицейские пользуются технологией компании Cellebrite, которая позволяет разблокировать большинство популярных моделей смартфонов и выуживать оттуда даже удаленную информацию. По данным израильского телеканала, силовики пытаются установить, были ли массовые акции протеста скоординированы.",
+                "fallback": "NEWSru.com: СМИ: силовики используют израильскую программу для взлома смартфонов, изъятых у протестующих в Москве",
+                "image_url": "https:\/\/image.newsru.com\/v2\/01\/2019\/08\/0\/08182a8a29a4ec26d26abd50cb200a05.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "ts": 1564996764,
+                "from_url": "https:\/\/www.newsru.com\/russia\/05aug2019\/vzlom.html",
+                "image_bytes": 100466,
+                "service_icon": "https:\/\/static.newsru.com\/v2\/img\/icons\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.newsru.com\/russia\/05aug2019\/vzlom.html"
+            }
+        ],
+        "thread_ts": "1565274161.066400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1565275491.066600",
+        "reply_users": [
+            "U7KDVG6LS"
+        ],
+        "replies": [
+            {
+                "user": "U7KDVG6LS",
+                "ts": "1565275491.066600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c141f16-20fe-47f0-b704-91e6c5d22779",
+        "type": "message",
+        "text": "при условии что у тебя 4-х значный пароль состоящий из цифр",
+        "user": "U7KDVG6LS",
+        "ts": "1565275491.066600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5822454d50ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-18\/257865532977_5822454d50ec3be0e4cc_72.png",
+            "first_name": "",
+            "real_name": "Alexander",
+            "display_name": "liketheother",
+            "team": "T040HKJE3",
+            "name": "iminusd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565274161.066400",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "5801d407-31bc-4a66-82ee-6c24ee28ebea",
+        "type": "message",
+        "text": "<https:\/\/www.facebook.com\/yury.dud\/posts\/10215538506836649>",
+        "user": "U48A8L25N",
+        "ts": "1565277766.067100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Юрий Дудь",
+                "title_link": "https:\/\/www.facebook.com\/yury.dud\/posts\/10215538506836649",
+                "text": "Что чаще всего вы слышите от своих друзей, когда происходит какой-то политический шухер? Под друзьями я имею в виду и друзей настоящих, и друзей эмоциональных – тех, за кем вы следите в телеке,...",
+                "fallback": "Юрий Дудь",
+                "from_url": "https:\/\/www.facebook.com\/yury.dud\/posts\/10215538506836649",
+                "thumb_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t1.0-1\/p200x200\/36495200_10212775082272762_2727309464230166528_n.jpg?_nc_cat=1&_nc_oc=AQmeK5tGySei20oU14qhSZV_mC6JEtZ8aoKi6th6DbHLVcDVB7MzqkBWWSdTkk8Uv6E&_nc_ht=scontent-iad3-1.xx&oh=0a861bee4aebe5a8ebc894c242c983fb&oe=5DDA0BA0",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yz\/r\/KFyVIAWzntM.ico?_nc_x=Ij3Wp8lg5Kz",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/yury.dud\/posts\/10215538506836649"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d5f9f95-982d-4950-8826-054b4303e483",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=3-Bf5pvFi8U>",
+        "user": "U27HU84H4",
+        "ts": "1565284257.067400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Андрей Колесников \/ Особое мнение \/\/ 08.08.19",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=3-Bf5pvFi8U",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3-Bf5pvFi8U\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Андрей Колесников \/ Особое мнение \/\/ 08.08.19",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3-Bf5pvFi8U?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=3-Bf5pvFi8U",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=3-Bf5pvFi8U"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecdc734a-33dc-4c2a-83c2-eab09c842054",
+        "type": "message",
+        "text": "Будем слушать когда есть будет нечего",
+        "user": "U9ZU1CYUD",
+        "ts": "1565295324.067600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565265557.065800",
+        "parent_user_id": "U5H055U0J"
+    }
+]

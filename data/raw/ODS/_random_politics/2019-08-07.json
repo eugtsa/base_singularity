@@ -1,0 +1,297 @@
+[
+    {
+        "client_msg_id": "c7631f57-5176-4225-8d7c-35db29f8ca76",
+        "type": "message",
+        "text": "жду когда артемий рано или поздно отьедет в не столь отдаленные за какой-нибудь тендерчег",
+        "user": "U1HHX1QS3",
+        "ts": "1565194521.043200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pepe_kill",
+                "users": [
+                    "U27HU84H4",
+                    "UDSEN1N2E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "573f2683-e198-47f2-a737-253b790442de",
+        "type": "message",
+        "text": "ля в киргизии жара",
+        "user": "U48A8L25N",
+        "ts": "1565196903.043700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2360bf9f-112a-4f8f-bc0c-999ed78c4270",
+        "type": "message",
+        "text": "А в Москве дождь :slightly_smiling_face:",
+        "user": "UGTNTEBPV",
+        "ts": "1565197224.044100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6bc4bfa-a42e-460d-9150-4b4cad5f93b7",
+        "type": "message",
+        "text": "Что самое смешное, вся эта тема организована зачистить Москву перед реальным историческим шагом России - выборы президента\/преемника через совсем пару лет.\n\nтак сказать, репетиция перед театром, и важно было особо буйных сливки снять, может повторят в следующем году в других регионах или в москве но по другой причине. И вот аморфное стадо будет готово навеки вечные выбрать царя всея Руси (династию олигархов) этак на лет 300",
+        "user": "U9ZU1CYUD",
+        "ts": "1565212226.046200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1565212226.046200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1565216109.046300",
+        "reply_users": [
+            "UJ8BXBM36"
+        ],
+        "replies": [
+            {
+                "user": "UJ8BXBM36",
+                "ts": "1565216109.046300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Далеко не вся оппозиция побежала на эти митинги",
+        "user": "UJ8BXBM36",
+        "ts": "1565216109.046300",
+        "thread_ts": "1565212226.046200",
+        "root": {
+            "client_msg_id": "d6bc4bfa-a42e-460d-9150-4b4cad5f93b7",
+            "type": "message",
+            "text": "Что самое смешное, вся эта тема организована зачистить Москву перед реальным историческим шагом России - выборы президента\/преемника через совсем пару лет.\n\nтак сказать, репетиция перед театром, и важно было особо буйных сливки снять, может повторят в следующем году в других регионах или в москве но по другой причине. И вот аморфное стадо будет готово навеки вечные выбрать царя всея Руси (династию олигархов) этак на лет 300",
+            "user": "U9ZU1CYUD",
+            "ts": "1565212226.046200",
+            "team": "T040HKJE3",
+            "thread_ts": "1565212226.046200",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1565216109.046300",
+            "reply_users": [
+                "UJ8BXBM36"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "1f50a4c7-20ad-49a7-baac-4ab8be3e9ffe"
+    },
+    {
+        "client_msg_id": "2bd60955-55b4-471e-b83a-e310195c4e6f",
+        "type": "message",
+        "text": "параноидальная конспирология от безработного",
+        "user": "UDSEN1N2E",
+        "ts": "1565218881.046600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7ead48eb4ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/917ead48eb4ab8bcedbb454977143e60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stiv Yakovenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "stiv.yakovenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564943927.030200",
+        "parent_user_id": "U6HNJVCP2"
+    },
+    {
+        "client_msg_id": "64e45fd7-1193-434e-bace-3e619a972a61",
+        "type": "message",
+        "text": "про выборы - даешь конспирологические теории - до них 4 года",
+        "user": "UHPSEES93",
+        "ts": "1565220054.048700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1cb7f78a-0848-4e33-a3f1-8ce6b628cdea",
+        "type": "message",
+        "text": "моя теория: тут как бы финансово не опрокинули и не раздробили страну-империю опять в 3й раз до 2024. пока с крепким царем эта старая система пирамиды вполне устойчива. а как мы к царям обратно пришли смотрите \" ~агент сша~ ельцин бомбит белый дом\" :)",
+        "user": "UHPSEES93",
+        "ts": "1565221019.057200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fe9b07b0-9d8b-4f31-89c8-3add97d13a8e",
+        "type": "message",
+        "text": "кто считает Ельцин - гондон, ставим +, иначе -, любопытно.",
+        "user": "UHPSEES93",
+        "ts": "1565221126.058700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UHPSEES93",
+                    "U74DLUWUC",
+                    "U316J6CT1",
+                    "UDV2YC666",
+                    "U7CAU0GMU"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4404c042-5243-4915-a4b5-217b75b3c89f",
+        "type": "message",
+        "text": "зачитал тут про события ранних 90х, много интересного узнал. мал был тогда, не понимал физику процесса.",
+        "user": "UHPSEES93",
+        "ts": "1565221358.062300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9929a62c1a3e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589774855731_9929a62c1a3e0616a703_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Nyaga",
+            "display_name": "pavski",
+            "team": "T040HKJE3",
+            "name": "pavel.nyaga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b10fe584-e755-42e2-9b43-1fbe19ac42b7",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Wt_k5FA-HLM>",
+        "user": "U27HU84H4",
+        "ts": "1565242071.062600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "«У нас не страна, а декорация». Очень смелый финал сериала «Большая игра»",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Wt_k5FA-HLM",
+                "author_name": "SportsRuVideo",
+                "author_link": "https:\/\/www.youtube.com\/user\/SportsRuVideo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Wt_k5FA-HLM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: «У нас не страна, а декорация». Очень смелый финал сериала «Большая игра»",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/Wt_k5FA-HLM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Wt_k5FA-HLM",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Wt_k5FA-HLM"
+            }
+        ]
+    }
+]

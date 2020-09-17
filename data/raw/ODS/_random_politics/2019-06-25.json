@@ -1,0 +1,716 @@
+[
+    {
+        "client_msg_id": "45dee7bf-20e1-4305-b993-bebf4693f6be",
+        "type": "message",
+        "text": "<@UFDMALG6P> думаешь откуда в Иране такой климат, он с севера, с юга, с запада, с востока окружен высокими до 4500-6000 м высотой горами, в итоге в центральной части почти нет населения.\nТак что, шансов рыть канал нет",
+        "user": "U9ZU1CYUD",
+        "ts": "1561453914.155900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "UFDMALG6P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92500d6e-49f4-4ba1-a878-da74305560cc",
+        "type": "message",
+        "text": "<@UFDMALG6P> его можно в азербайджане и грузии рыть, там реально, высоты до 300-400 м можно как то обойти, но дорого. С моря в Азербайджан в канал и до Тбилиси а дальше там небольшое плато и вниз сразу спадает низменность.\n\nНо это очень дорого.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561453986.156200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "99ae5ea8-8796-4aa7-8b97-94a59e684273",
+        "type": "message",
+        "text": "ну большой брат Россия денежкой поможет, им тогда с черноморским флотом через босфор не плавать. Другое дело Тбилиси будет возражать, наверное",
+        "user": "UFDMALG6P",
+        "ts": "1561454561.156400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "aeeb5efb-8f1c-4ef7-a6f8-27785831ec2d",
+        "type": "message",
+        "text": "<@UFDMALG6P> если ты о плавании в Персидский залив, то у Грузия нет выхода в Каспий и пофиг на нее.\nПросто пробить канал там нереально, вот проблема.",
+        "user": "U9ZU1CYUD",
+        "ts": "1561455231.156600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561223846.063600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FKVKB53U5",
+                "created": 1561470128,
+                "timestamp": 1561470128,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U5H0L5T98",
+                "editable": false,
+                "size": 554656,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": true,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FKVKB53U5\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FKVKB53U5\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKVKB53U5-e31b5e2383\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKVKB53U5-e31b5e2383\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKVKB53U5-e31b5e2383\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 288,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKVKB53U5-e31b5e2383\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 384,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKVKB53U5-e31b5e2383\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FKVKB53U5-e31b5e2383\/image_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 577,
+                "thumb_720_h": 720,
+                "image_exif_rotation": 1,
+                "original_w": 599,
+                "original_h": 748,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U5H0L5T98\/FKVKB53U5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FKVKB53U5-72de8abae6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U5H0L5T98",
+        "display_as_bot": false,
+        "ts": "1561470135.156800",
+        "client_msg_id": "aca08485-55e0-42a2-b729-7dc39fd5798b",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b80d51b6-396a-48ce-ba5c-cf5355025973",
+        "type": "message",
+        "text": "интересно, какие заслуги у Зюганова, который насколько я помню кроме как главой партии которая не имела большинства никогда не был?\n<https:\/\/www.rbc.ru\/politics\/25\/06\/2019\/5d1114439a794777a79f55dd?from=from_main>",
+        "user": "U1HHX1QS3",
+        "ts": "1561473851.158000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Геннадий Зюганов к юбилею получит одну из высших государственных наград",
+                "title_link": "https:\/\/www.rbc.ru\/politics\/25\/06\/2019\/5d1114439a794777a79f55dd?from=from_main",
+                "text": "Лидер КПРФ к 75-летию будет награжден орденом «За заслуги перед Отечеством» IV степени, согласно информации источников РБК",
+                "fallback": "РБК: Геннадий Зюганов к юбилею получит одну из высших государственных наград",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/3\/33\/755614715001333.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/politics\/25\/06\/2019\/5d1114439a794777a79f55dd?from=from_main",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 82827,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.1.72\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/politics\/25\/06\/2019\/5d1114439a794777a79f55dd?from=from_main"
+            }
+        ],
+        "thread_ts": "1561473851.158000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1561475217.158700",
+        "reply_users": [
+            "UFDMALG6P",
+            "U1HHX1QS3"
+        ],
+        "replies": [
+            {
+                "user": "UFDMALG6P",
+                "ts": "1561474272.158200"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1561474737.158400"
+            },
+            {
+                "user": "UFDMALG6P",
+                "ts": "1561475217.158700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a7c7c452-c6f3-4fd1-ae97-fddc932a546a",
+        "type": "message",
+        "text": "самый удобный оппозиционер",
+        "user": "UFDMALG6P",
+        "ts": "1561474272.158200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561473851.158000",
+        "parent_user_id": "U1HHX1QS3",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a34b0449-a382-48b9-9d7d-291c6d06128d",
+        "type": "message",
+        "text": "Жириновский бы поспорил",
+        "user": "U1HHX1QS3",
+        "ts": "1561474737.158400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561473851.158000",
+        "parent_user_id": "U1HHX1QS3",
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "UFDMALG6P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13ddd906-0b0d-4a72-a9f7-4e8eef54c227",
+        "type": "message",
+        "text": "Жириновскому через 2 года только будет 75, так что про него тоже не забудут наверное",
+        "user": "UFDMALG6P",
+        "ts": "1561475217.158700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561473851.158000",
+        "parent_user_id": "U1HHX1QS3",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U1HHX1QS3",
+                    "U5H0L5T98"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3653d7c4-da99-4476-b46f-732006a298f3",
+        "type": "message",
+        "text": "Напутали наверное что-то :youknow:\n<https:\/\/www.rbc.ru\/rbcfreenews\/5d11fae89a7947c3146fe450>",
+        "user": "U4P10HEJV",
+        "ts": "1561478088.159400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01e472bffb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/16b01e472bffbd6cb5ddb12043221532.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ponomarchuk",
+            "display_name": "yaxen",
+            "team": "T040HKJE3",
+            "name": "yaxeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U4P10HEJV",
+            "ts": "1561478142.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Росреестр изменил данные о коттедже офицера ФСБ из расследования Голунова",
+                "title_link": "https:\/\/www.rbc.ru\/rbcfreenews\/5d11fae89a7947c3146fe450",
+                "text": "Росреестр изменил информацию о доме главы УФСБ по Москве и Московской области Алексея Дорофеева в поселке Лесная бухта у Истринского водохранилища в Подмосковье. На это обратил внимание Собеседник ...",
+                "fallback": "РБК: Росреестр изменил данные о коттедже офицера ФСБ из расследования Голунова",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/3\/53\/755614605105533.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/rbcfreenews\/5d11fae89a7947c3146fe450",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 87819,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.1.72\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/rbcfreenews\/5d11fae89a7947c3146fe450"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "nikogda-takogo-ne-bilo",
+                "users": [
+                    "UFDMALG6P",
+                    "U70T87GMA"
+                ],
+                "count": 2
+            },
+            {
+                "name": "norma",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7d24d53-f8f5-4a57-9b3e-501eae1daa5c",
+        "type": "message",
+        "text": "их CEO к работнице приставал, а они это дело старались замолчать; после сканадала авторы R-курсов и лично Hadley Wickham потребовали  выпилить их курсы оттуда, и всем советовали их забанить. Python-сообщество промолчало",
+        "user": "U1HHX1QS3",
+        "ts": "1561478684.159800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561402891.142600",
+        "parent_user_id": "U7SFPUVQF"
+    },
+    {
+        "client_msg_id": "2b158d4e-37e8-4844-ad5c-77ddde94b05c",
+        "type": "message",
+        "text": "Клим Жуков объясняет на пальцах что к чему по поводу коммунизма\n<https:\/\/www.youtube.com\/watch?v=TeD_DO8bD6c>",
+        "user": "U316J6CT1",
+        "ts": "1561479068.160800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Илья Гетман\/Клим Жуков: Народ и Путин устали друг от друга",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=TeD_DO8bD6c",
+                "author_name": "Левый Фронт",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCI28oe6VVED_XFEiwKs1ACg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/TeD_DO8bD6c\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Илья Гетман\/Клим Жуков: Народ и Путин устали друг от друга",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/TeD_DO8bD6c?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=TeD_DO8bD6c",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=TeD_DO8bD6c"
+            }
+        ],
+        "thread_ts": "1561479068.160800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1561507932.163600",
+        "reply_users": [
+            "U48A8L25N",
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "U48A8L25N",
+                "ts": "1561481786.162700"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1561507932.163600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b64821e9-df30-4ff2-a712-ccee8431ac26",
+        "type": "message",
+        "text": "Левый проект выглядит ОЧЕНЬ привлекательно!",
+        "user": "U316J6CT1",
+        "ts": "1561479327.161600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561479327.161600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1562450616.245700",
+        "reply_users": [
+            "UDSEN1N2E",
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1562442522.245300"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1562450616.245700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJ8BXBM36"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27fc5cfd-bdbb-488c-aacd-f5ed9dc59ad9",
+        "type": "message",
+        "text": "<https:\/\/pbs.twimg.com\/media\/D96BcsVW4AATZzA.png:large>",
+        "user": "U48A8L25N",
+        "ts": "1561481417.162300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "749x435px image",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/D96BcsVW4AATZzA.png:large",
+                "image_width": 749,
+                "image_height": 435,
+                "image_bytes": 61242,
+                "from_url": "https:\/\/pbs.twimg.com\/media\/D96BcsVW4AATZzA.png:large",
+                "id": 1,
+                "original_url": "https:\/\/pbs.twimg.com\/media\/D96BcsVW4AATZzA.png:large"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54b926a9-655c-4bf5-9b14-6b2b4dba7bc4",
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1561481424.162600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "дружбан пучкова :holypeka:",
+        "user": "U48A8L25N",
+        "ts": "1561481786.162700",
+        "thread_ts": "1561479068.160800",
+        "root": {
+            "client_msg_id": "2b158d4e-37e8-4844-ad5c-77ddde94b05c",
+            "type": "message",
+            "text": "Клим Жуков объясняет на пальцах что к чему по поводу коммунизма\n<https:\/\/www.youtube.com\/watch?v=TeD_DO8bD6c>",
+            "user": "U316J6CT1",
+            "ts": "1561479068.160800",
+            "team": "T040HKJE3",
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https:\/\/www.youtube.com\/",
+                    "title": "Илья Гетман\/Клим Жуков: Народ и Путин устали друг от друга",
+                    "title_link": "https:\/\/www.youtube.com\/watch?v=TeD_DO8bD6c",
+                    "author_name": "Левый Фронт",
+                    "author_link": "https:\/\/www.youtube.com\/channel\/UCI28oe6VVED_XFEiwKs1ACg",
+                    "thumb_url": "https:\/\/i.ytimg.com\/vi\/TeD_DO8bD6c\/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: Илья Гетман\/Клим Жуков: Народ и Путин устали друг от друга",
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/TeD_DO8bD6c?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 225,
+                    "from_url": "https:\/\/www.youtube.com\/watch?v=TeD_DO8bD6c",
+                    "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.youtube.com\/watch?v=TeD_DO8bD6c"
+                }
+            ],
+            "thread_ts": "1561479068.160800",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1561507932.163600",
+            "reply_users": [
+                "U48A8L25N",
+                "U316J6CT1"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "170cf541-e3af-43ed-8842-1a8dd3c87349",
+        "reactions": [
+            {
+                "name": "claps",
+                "users": [
+                    "U316J6CT1",
+                    "UDSEN1N2E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d7e6643-ad93-42e4-8009-81bc662a128c",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/mudakoff\/status\/1143481784098861058>",
+        "user": "U48A8L25N",
+        "ts": "1561482405.163200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mudakoff|@mudakoff>: Когда прямой эфир действительно прямой <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1143481729539280897\/pu\/img\/YA7WZgZjKs5Fmn1J.jpg>",
+                "ts": 1561462276,
+                "author_name": "#MDK",
+                "author_link": "https:\/\/twitter.com\/mudakoff\/status\/1143481784098861058",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/921369060994109440\/rWj-Da6M_normal.jpg",
+                "author_subname": "@mudakoff",
+                "text": "Когда прямой эфир действительно прямой",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mudakoff\/status\/1143481784098861058",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1143481729539280897\/pu\/img\/YA7WZgZjKs5Fmn1J.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1143481729539280897\/pu\/img\/YA7WZgZjKs5Fmn1J.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1143481729539280897\/pu\/vid\/1280x720\/sM2UiF4zr9n4mmSh.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mudakoff\/status\/1143481784098861058",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bed6a2a-0b8d-4ff7-92d6-cad05cc3a9d4",
+        "type": "message",
+        "text": "Аргумент",
+        "user": "U316J6CT1",
+        "ts": "1561507932.163600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561479068.160800",
+        "parent_user_id": "U316J6CT1"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "dd1ec630-e58d-4a26-aff8-7db628e75779",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=sCoICeQ1hZQ>",
+        "user": "U27HU84H4",
+        "ts": "1587305626.071400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Один \/ Майкл Наки \/\/ 18.04.20",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=sCoICeQ1hZQ",
+                "author_name": "Эхо Общество",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCBbtn1eyyPyUjqJqhR-nNlw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/sCoICeQ1hZQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Один \/ Майкл Наки \/\/ 18.04.20",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/sCoICeQ1hZQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=sCoICeQ1hZQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=sCoICeQ1hZQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rioe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=sCoICeQ1hZQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586723968.065800",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "6c3be8de-674b-4a65-9d8b-0141c2bec33d",
+        "type": "message",
+        "text": "Каких то 10 месяцев назад,  когда никто думал, когда не было ещё никакого короновируса....\n\nУшедший из МГИМО профессор Соловей: в 2020 году Россию ждет революция, общенациональный кризис и смена режима, Путин уйдет до 2024 года.Известный политолог, доктор исторических наук Валерий Соловей, покинувший по политическим причинам пост заведующего кафедрой связей с общественностью МГИМО, заявил, что в ближайшие два года Россию ждет \"масштабный общенациональный кризис, именно политический\", а еще через два года в стране сменится нынешний режим.\n\nРанее во многих своих выступлениях Валерий Соловей не раз давал прогнозы о грядущих радикальных изменениях в России и, как отмечает \"Медуза\", публикуя большое с ним интервью, вообще любое его интервью, как правило, начинается со слов \"политолог, который предсказал\", а дальше, к примеру, про протесты 2010-2012 годов...",
+        "user": "UGTNTEBPV",
+        "ts": "1587314286.072800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1587315441.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Каких то 10 месяцев назад,  когда никто думал, когда не было ещё никакого короновируса....\n\nУшедший из МГИМО профессор Соловей: в 2020 году Россию ждет революция, общенациональный кризис и смена режима, Путин уйдет до 2024 года.Известный политолог, доктор исторических наук Валерий Соловей, покинувший по политическим причинам пост заведующего кафедрой связей с общественностью МГИМО, заявил, что в ближайшие два года Россию ждет \"масштабный общенациональный кризис, именно политический\", а еще через два года в стране сменится нынешний режим.\n\nРанее во многих своих выступлениях Валерий Соловей не раз давал прогнозы о грядущих радикальных изменениях в России и, как отмечает \"Медуза\", публикуя большое с ним интервью, вообще любое его интервью, как правило, начинается со слов \"политолог, который предсказал\", а дальше, к примеру, про протесты 2010-2012 годов..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "vanga",
+                "users": [
+                    "UGTNTEBPV",
+                    "U27HU84H4",
+                    "U9JSUB8T1",
+                    "U047Z85QW",
+                    "U1TJJJZQ8",
+                    "U50GQKH5J"
+                ],
+                "count": 6
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

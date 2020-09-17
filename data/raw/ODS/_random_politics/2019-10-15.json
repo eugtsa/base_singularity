@@ -1,0 +1,1464 @@
+[
+    {
+        "client_msg_id": "9bf1e57f-8ed0-4c82-b5c3-43ec06408dae",
+        "type": "message",
+        "text": "Не я скорее имел ввиду политику самой страны, т.е Америки, это всеж журналистика америки, а не какая-то общемировая",
+        "user": "U48A8L25N",
+        "ts": "1571123622.194300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "horse",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "arrow_right",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "beeec61e-0fc7-4d73-98e8-7755b8bea3a5",
+        "type": "message",
+        "text": "в ней отражаются интересы страны, граждан и прочее",
+        "user": "U48A8L25N",
+        "ts": "1571123655.194800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6e45f471-9f40-4ef3-b20e-6d24ea01aab5",
+        "type": "message",
+        "text": "<@U7CAU0GMU> В этой статье с самого начала (с заголовка) идет подмена понятий. Подразумевается, что есть \"мы\" (все граждане России). И потом раскрывается, что к \"нам\" плохо относятся на Западе (даже не просто к нам, а к России в целом как к стране). Хотя в реальности про граждан России эти СМИ плохо не пишут, они пишут плохо о действиях российских властей в подавляющем большинстве случаев. Это осознанная политика пропаганды.",
+        "user": "U27SUBTB9",
+        "ts": "1571130128.208400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f8af4d64c68",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-24\/885377665328_1f8af4d64c68171d34d9_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Surovikov",
+            "display_name": "quadraaa",
+            "team": "T040HKJE3",
+            "name": "quadraaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27SUBTB9",
+            "ts": "1571130152.000000"
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3AG4B1N1",
+                    "UJUQAF96G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94801472-606b-4a4f-a757-0b2e4b81d711",
+        "type": "message",
+        "text": "ну тут все-таки не совсем так, они же оценивают типа как к стране относятся, какие настроения доминируют в сми одной страны по отношению к другой стране, но тут скорее сама по себе идея - манипуляция, ибо на какие-то не политические темы статей будет мало, и откуда им быть, чем интересны страны снг кому-то в сша или даже просто в мире?",
+        "user": "U48A8L25N",
+        "ts": "1571131545.213500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "65581e9c-463e-4844-a8ec-32602afae81d",
+        "type": "message",
+        "text": "У нас новости сша, если не политические будут связаны с выходом новых фильмов например, с каким-то происшествиями с известными личностями и т.п, мы интересуемся этим, они нашим не интересуются, ибо мы потребляем их культуру а не они нашу, мы им не интересны они нам интересны",
+        "user": "U48A8L25N",
+        "ts": "1571131693.215100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e86aba27-2064-4992-b79a-d35355943865",
+        "type": "message",
+        "text": "Условно говоря они центр, мы окраины) Центру интересны максимум происшествия серьезные с нами, какие-от политические темы, курьезы, и очерки о природе) А мы пристально следим за тем что происходит в центре, с культурой, модой, новинками техники и прочего",
+        "user": "U48A8L25N",
+        "ts": "1571131924.216700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571131924.216700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1571134695.220100",
+        "reply_users": [
+            "U049HDR2Z"
+        ],
+        "replies": [
+            {
+                "user": "U049HDR2Z",
+                "ts": "1571134695.220100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "522160b6-81a1-4aaf-9bd2-840cfacac0a0",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/mudakoff\/status\/1183819288320364544>",
+        "user": "U48A8L25N",
+        "ts": "1571133803.218100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mudakoff|@mudakoff>: Анатолия Чепигу (помните же Скрипалей?) заметили на свадьбе дочери генерала ГРУ в 2017 году. <https:\/\/pbs.twimg.com\/media\/EG3FXUdXkAIPRmD.jpg>",
+                "ts": 1571079487,
+                "author_name": "#MDK",
+                "author_link": "https:\/\/twitter.com\/mudakoff\/status\/1183819288320364544",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/921369060994109440\/rWj-Da6M_normal.jpg",
+                "author_subname": "@mudakoff",
+                "text": "Анатолия Чепигу (помните же Скрипалей?) заметили на свадьбе дочери генерала ГРУ в 2017 году. <https:\/\/pbs.twimg.com\/media\/EG3FXUdXkAIPRmD.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mudakoff\/status\/1183819288320364544",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EG3FXUdXkAIPRmD.jpg",
+                "image_width": 1200,
+                "image_height": 526,
+                "image_bytes": 145515,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mudakoff\/status\/1183819288320364544",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7aa10e9-af1a-4e11-8b3a-40b15e450060",
+        "type": "message",
+        "text": "интересно, почему россия не выбрала стратегию, да это наш сотрудник но ездил он в англию не для этого",
+        "user": "U48A8L25N",
+        "ts": "1571134042.219000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dd8abd5c-d1f6-4528-9035-23750a528535",
+        "type": "message",
+        "text": "ведь это более логично, а главное оспорить такое сложнее, придраться тяжелее)",
+        "user": "U48A8L25N",
+        "ts": "1571134087.219900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1571134087.219900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1571135305.220800",
+        "reply_users": [
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U48A8L25N",
+                "ts": "1571135305.220800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Пора писать \"поеду на Россию\"?",
+        "user": "U049HDR2Z",
+        "ts": "1571134695.220100",
+        "thread_ts": "1571131924.216700",
+        "root": {
+            "client_msg_id": "e86aba27-2064-4992-b79a-d35355943865",
+            "type": "message",
+            "text": "Условно говоря они центр, мы окраины) Центру интересны максимум происшествия серьезные с нами, какие-от политические темы, курьезы, и очерки о природе) А мы пристально следим за тем что происходит в центре, с культурой, модой, новинками техники и прочего",
+            "user": "U48A8L25N",
+            "ts": "1571131924.216700",
+            "team": "T040HKJE3",
+            "thread_ts": "1571131924.216700",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1571134695.220100",
+            "reply_users": [
+                "U049HDR2Z"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "17b4706d-00c6-4d45-aa1a-6944ef479907",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "я вижу только один вариант, почему так россия могла сделать, если россия знает что они сделали, но не знает есть ли этому доказательства, ну или есть какие-то свидетельства которые сложно будет опровергнуть и они будут указывать на этих людей)",
+        "user": "U48A8L25N",
+        "ts": "1571135305.220800",
+        "thread_ts": "1571134087.219900",
+        "root": {
+            "client_msg_id": "dd8abd5c-d1f6-4528-9035-23750a528535",
+            "type": "message",
+            "text": "ведь это более логично, а главное оспорить такое сложнее, придраться тяжелее)",
+            "user": "U48A8L25N",
+            "ts": "1571134087.219900",
+            "team": "T040HKJE3",
+            "thread_ts": "1571134087.219900",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1571135305.220800",
+            "reply_users": [
+                "U48A8L25N"
+            ],
+            "subscribed": false
+        },
+        "client_msg_id": "51aa2780-6302-4c4a-b11d-0110ef8b202a"
+    },
+    {
+        "client_msg_id": "82bbfe93-410b-469a-9963-d8b374c0f167",
+        "type": "message",
+        "text": "Давайте сменим тему, пока лишнего не понаписали",
+        "user": "U049HDR2Z",
+        "ts": "1571135618.221800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0785f7c-6938-4c77-b2f4-d9187ebaabd4",
+        "type": "message",
+        "text": "Считается ли аморальным сталкерить сталкера\/сталкершу?",
+        "user": "U049HDR2Z",
+        "ts": "1571135640.222500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U049HDR2Z",
+            "ts": "1571135651.000000"
+        }
+    },
+    {
+        "client_msg_id": "ef7c0b51-3f80-4bf8-8948-5b4b8ace320f",
+        "type": "message",
+        "text": "тут все просто, поскольку мораль относительна, то все зависит от того какой морали ты придерживаешься :yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1571135679.223200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4919f9c2-7f16-4b12-ba95-9d55be77bf7d",
+        "type": "message",
+        "text": "другой вопрос можно ли в нормальном обществе оправдать преследование сталкера или сталкерши",
+        "user": "U48A8L25N",
+        "ts": "1571135706.223700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "de1190ed-afe0-4501-baf2-349d2938c26e",
+        "type": "message",
+        "text": "если объяснить что он\/она опасны для общества наверное",
+        "user": "U48A8L25N",
+        "ts": "1571135761.224300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d8122040-a5f5-45e8-afbb-8b062f5b2a07",
+        "type": "message",
+        "text": "Что ты имеешь ввиду под \"нормальным обществом\", российское или еще какое-то более глобальное?",
+        "user": "U049HDR2Z",
+        "ts": "1571135804.224900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8dd12161-5197-43f4-b499-1824dbc253ff",
+        "type": "message",
+        "text": "думаю наш чатик",
+        "user": "U48A8L25N",
+        "ts": "1571135849.225200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2077762c-9e8d-4e82-bc06-75909344dda4",
+        "type": "message",
+        "text": "от такого глобального как россия и выше я далек)",
+        "user": "U48A8L25N",
+        "ts": "1571135862.225600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5ecf4f73-7ca4-45a7-a609-e5aba90e7746",
+        "type": "message",
+        "text": "Ничего, привыкнешь, как только вам интернет проведут",
+        "user": "U049HDR2Z",
+        "ts": "1571135917.226300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3518eec-61a7-49f7-93e7-5793d8db66ef",
+        "type": "message",
+        "text": "Кстати говоря, Данияр, такой мысленный эксперимент:",
+        "user": "U049HDR2Z",
+        "ts": "1571135982.226700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "54ca123f-51bf-4348-b08c-ad3842449579",
+        "type": "message",
+        "text": "Представь, что ты обучил глубинную нейронную сеть на всём наборе мировой литературы",
+        "user": "U049HDR2Z",
+        "ts": "1571136013.227300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f92c6d4a-9d3b-428e-bd5d-bffe486adb67",
+        "type": "message",
+        "text": "Какой гендерный биас будет в этой сети: в сторону сталкера или сторону сталкерши?",
+        "user": "U049HDR2Z",
+        "ts": "1571136050.228000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ed6cb3fd-c44f-44af-a370-7faa371ad6fd",
+        "type": "message",
+        "text": "Да сталкера канеш",
+        "user": "U48A8L25N",
+        "ts": "1571136168.228300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "55352cc1-dc88-4073-bd80-be69229eae2e",
+        "type": "message",
+        "text": "все-таки традиции и прошлое они как-то более мужские",
+        "user": "U48A8L25N",
+        "ts": "1571136195.228800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6fb70bf6-673e-4385-9abd-97f227e2776e",
+        "type": "message",
+        "text": "Ответ понятен. Теперь оценим subjective bias. У тебя женщина была когда-н?",
+        "user": "U049HDR2Z",
+        "ts": "1571136250.229500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c51d26c2-b3e9-4c03-930c-3caf1f9f432c",
+        "type": "message",
+        "text": "ну конечно)",
+        "user": "U48A8L25N",
+        "ts": "1571136337.229800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U049HDR2Z",
+                    "U3AG4B1N1",
+                    "U74DLUWUC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e587901c-2a3f-4e9b-8f0f-a70316bdfe25",
+        "type": "message",
+        "text": "рандом политикс, который мы заслужили",
+        "user": "U3AG4B1N1",
+        "ts": "1571137653.230600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56088cce-091d-467a-9816-0a073e10a0f8",
+        "type": "message",
+        "text": "<https:\/\/www.novayagazeta.ru\/articles\/2019\/10\/15\/82365-prigovor-tv>",
+        "user": "U48A8L25N",
+        "ts": "1571143415.231300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Новая газета - Novayagazeta.ru",
+                "title": "Приговор-ТВ",
+                "title_link": "https:\/\/www.novayagazeta.ru\/articles\/2019\/10\/15\/82365-prigovor-tv",
+                "text": "Появление в передаче Дмитрия Киселева «Вести недели» 13 октября 15-минутного сюжета о летних протестах в Москве, видимо, свидетельствует, что вопрос решен: делу по ст. 212 УК РФ о «массовых беспорядках» — все же быть. Утром 14-го это подтвердил и Следственный комитет РФ: проведены обыски еще у...",
+                "fallback": "Новая газета - Novayagazeta.ru: Приговор-ТВ",
+                "image_url": "https:\/\/static.novayagazeta.ru\/storage\/post\/82365\/column_picture-51d2389d382be643fe9de25c9bba5554.png",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1571139540,
+                "from_url": "https:\/\/www.novayagazeta.ru\/articles\/2019\/10\/15\/82365-prigovor-tv",
+                "image_bytes": 47416,
+                "service_icon": "https:\/\/www.novayagazeta.ru\/public\/fav_57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.novayagazeta.ru\/articles\/2019\/10\/15\/82365-prigovor-tv"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46013d36-b4e6-42cd-b67d-42cb108b5ec2",
+        "type": "message",
+        "text": ":true-story:",
+        "user": "U48A8L25N",
+        "ts": "1571143418.231600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "903f44aa-d214-4030-87d0-0f7b7d242d5e",
+        "type": "message",
+        "text": "подводят под статейку навального и его компанию)",
+        "user": "U48A8L25N",
+        "ts": "1571143464.232100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cdfda6c6-1576-436b-9992-941c7a31cb89",
+        "type": "message",
+        "text": "Ну, хоть дочку в Стенфорд успел отправить :pomyanem:",
+        "user": "U74DLUWUC",
+        "ts": "1571143675.233800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d906f7a3-0506-47fb-a0e4-237ac0ff5550",
+        "type": "message",
+        "text": "успеет ли сам свалить)",
+        "user": "U48A8L25N",
+        "ts": "1571143730.234100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FPDBPNUBE",
+                "created": 1571145228,
+                "timestamp": 1571145228,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U049HDR2Z",
+                "editable": false,
+                "size": 10098,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FPDBPNUBE\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FPDBPNUBE\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FPDBPNUBE-5c306d4384\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FPDBPNUBE-5c306d4384\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FPDBPNUBE-5c306d4384\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 350,
+                "thumb_360_h": 94,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FPDBPNUBE-5c306d4384\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "image_exif_rotation": 1,
+                "original_w": 350,
+                "original_h": 94,
+                "thumb_tiny": "AwAMADDQcSbsqQB6GkPndtlPKgnJFJsX0oAbiXjBX3BFGJvVPyp2xfSl2jGKAGfvfVKVN+TvKn0xTtgHagKB0FAH\/9k=",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U049HDR2Z\/FPDBPNUBE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FPDBPNUBE-dfb238dfb6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U049HDR2Z",
+        "display_as_bot": false,
+        "ts": "1571145229.234300",
+        "client_msg_id": "d5bcfdaa-9429-4758-ba72-775e1f44425f"
+    },
+    {
+        "client_msg_id": "b18225d8-a8be-4b8a-8ffc-40a3007da035",
+        "type": "message",
+        "text": "Хуль он через свой совет не решает вопрос, старый зассыха?",
+        "user": "U049HDR2Z",
+        "ts": "1571145253.234900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6db73af6-8330-4f81-b09f-5e2131981671",
+        "type": "message",
+        "text": "Так он это типа, повлиять не может, а не уходит потому что хоть кого-то сможет спасти типа",
+        "user": "U48A8L25N",
+        "ts": "1571145354.235600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a86c3288-0360-4f8f-9554-9c224bb966a4",
+        "type": "message",
+        "text": "но вообще это конечно псевдо-СПЧ",
+        "user": "U48A8L25N",
+        "ts": "1571145365.235900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88e20c7a-49a9-429f-b252-a05bd1a85b85",
+        "type": "message",
+        "text": "&gt;хоть кого-то сможет спасти типа\nСвою дачу в восточной Европе, максимум. Ты, Данияр, для российского либерального движения и то больше сделал (ничего)",
+        "user": "U049HDR2Z",
+        "ts": "1571145411.236800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0fe85c3a-0976-4310-b361-cc901a359a36",
+        "type": "message",
+        "text": "Данияр - надежда русского либерализма",
+        "user": "U3AG4B1N1",
+        "ts": "1571145701.237200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14fc320d-6f6d-43e8-bfb7-48348b36d273",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/i90che\/status\/1184058847977201666>",
+        "user": "U27HU84H4",
+        "ts": "1571163626.237500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/i90che|@i90che>: Я: Нет занятия тупее, чем приклеивать наклейки на бананы\nСледственный комитет: Hold my beer <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1184055338234007552\/pu\/img\/yCboRDZi6WZMWx6o.jpg>",
+                "ts": 1571136602,
+                "author_name": "Ярик Мудряков",
+                "author_link": "https:\/\/twitter.com\/i90che\/status\/1184058847977201666",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/865288566083026945\/Y3Y3BxPe_normal.jpg",
+                "author_subname": "@i90che",
+                "text": "Я: Нет занятия тупее, чем приклеивать наклейки на бананы\nСледственный комитет: Hold my beer",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/i90che\/status\/1184058847977201666",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1184055338234007552\/pu\/img\/yCboRDZi6WZMWx6o.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1184055338234007552\/pu\/img\/yCboRDZi6WZMWx6o.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1184055338234007552\/pu\/vid\/1280x720\/G-t3pQ3yAzs4dlJA.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/i90che\/status\/1184058847977201666",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c777bb2e-e644-44c0-b313-63ac846a8f13",
+        "type": "message",
+        "text": "скорее всего процесс обыска можно снимать, и как обычно непонятно на каком основании закрывают камеры, что скрывают",
+        "user": "U48A8L25N",
+        "ts": "1571163728.238400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2fc5f74-0b27-49b4-978a-097a7fbe0ed8",
+        "type": "message",
+        "text": "gdpr ей в хвост",
+        "user": "U4B4HJX9A",
+        "ts": "1571164330.238500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2ce2b29332d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-11\/181932821700_b2ce2b29332d0ecb327b_72.jpg",
+            "first_name": "Sergej",
+            "real_name": "Sergej Novik",
+            "display_name": "snovik",
+            "team": "T040HKJE3",
+            "name": "snovik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570723306.009900",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05bc2cfe-aac8-4fc4-a229-e2537e653d94",
+        "type": "message",
+        "text": "Леонид, что ты хотел сказать этим видео? Что законные действия сотрудников внутренних органов РФ вызывают у тебя смех?",
+        "user": "U049HDR2Z",
+        "ts": "1571164878.239500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5147999c-902d-4a96-b583-15b9a72abe26",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2019\/10\/15\/pravitelstvo-razreshit-biznesmenam-iz-sanktsionnyh-spiskov-zhit-po-osobym-zakonam>",
+        "user": "U049HDR2Z",
+        "ts": "1571166397.239700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Правительство разрешит бизнесменам из санкционных списков жить по особым законам — Meduza",
+                "title_link": "https:\/\/meduza.io\/news\/2019\/10\/15\/pravitelstvo-razreshit-biznesmenam-iz-sanktsionnyh-spiskov-zhit-po-osobym-zakonam",
+                "text": "Минфин предложил выделить российские компании и бизнесменов, попавших в санкционные списки, в особую категорию и применять к ним «специальные положения законодательства». Соответствующий документ опубликован на портале проектов нормативных актов.",
+                "fallback": "Meduza: Правительство разрешит бизнесменам из санкционных списков жить по особым законам — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1571149260\/news\/2019\/10\/15\/pravitelstvo-razreshit-biznesmenam-iz-sanktsionnyh-spiskov-zhit-po-osobym-zakonam",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/news\/2019\/10\/15\/pravitelstvo-razreshit-biznesmenam-iz-sanktsionnyh-spiskov-zhit-po-osobym-zakonam",
+                "image_bytes": 74709,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/news\/2019\/10\/15\/pravitelstvo-razreshit-biznesmenam-iz-sanktsionnyh-spiskov-zhit-po-osobym-zakonam"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "138b4bdc-9d39-4896-b00e-3f46c45abcaf",
+        "type": "message",
+        "text": "Спешите насолить США",
+        "user": "U049HDR2Z",
+        "ts": "1571166423.240200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3eff6853-9276-41fc-9ec1-6fd8387bdc6d",
+        "type": "message",
+        "text": "Это как рандом_б короч: когда все россияне плавно перетекут в санкционные списки, появятся законы 3-го, 4-го уровня и т.д. :lul:",
+        "user": "U049HDR2Z",
+        "ts": "1571166585.241400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4eb356ec-f53d-4386-8b0d-ea492817431a",
+        "type": "message",
+        "text": "или граждане первого класса, второго, третьего, и агенты госдепа)",
+        "user": "U48A8L25N",
+        "ts": "1571166737.242500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8be19919-fb5c-402b-9bdb-8b89bab21307",
+        "type": "message",
+        "text": "&gt;граждане первого класса, второго, третьего\nКул, так должно быть легче интегрироваться с индийской государственной системой (hereinafter, Индийская ССР), и заодно появится кем Зауралье заселить",
+        "user": "U049HDR2Z",
+        "ts": "1571166910.244800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U049HDR2Z",
+            "ts": "1571166969.000000"
+        },
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff75e669-f4aa-4d33-b2d3-a3aec400e22e",
+        "type": "message",
+        "text": "Может, дата саентисты из казахов и не очень, но визионеры достойные :muscle::skin-tone-2::flag-kz:",
+        "user": "U049HDR2Z",
+        "ts": "1571166944.245500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e983d6b3-52f3-4a86-8b01-4aec3c6169f7",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4126446>",
+        "user": "U48A8L25N",
+        "ts": "1571174845.246300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Взлому нет",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4126446",
+                "text": "Глава ФоРГО Константин Костин заявил “Ъ”, что проверка не выявила несанкционированного доступа к его почте",
+                "fallback": "Взлому нет",
+                "image_url": "https:\/\/im2.kommersant.ru\/SocialPics\/4126446_26_1810499_903975435",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1571169910,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4126446",
+                "image_bytes": 31058,
+                "service_icon": "https:\/\/im2.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4126446"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6722b72f-240f-4b8f-885d-314e88733438",
+        "type": "message",
+        "text": "<https:\/\/reddevol.com\/articles\/kak_zhivet_opora_putinlenda_permskiy_kray>",
+        "user": "UDSEN1N2E",
+        "ts": "1571179336.246600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7ead48eb4ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/917ead48eb4ab8bcedbb454977143e60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stiv Yakovenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "stiv.yakovenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Как живет опора Путинленда: Пермский край |         Общество |         RedDVL",
+                "title_link": "https:\/\/reddevol.com\/articles\/kak_zhivet_opora_putinlenda_permskiy_kray",
+                "text": "Базисом существующего режима в Северной Евразии являются вовсе не олигархи или высшая федеральная служилая знать, которая давным-давно обзавелась гражданствами стран агрессивного НАТО вкупе с дворцами и виллами там же. Железобетонной основой путинской вертикали выступают достаточно многочисленные слои регионального и ведомственного чиновничества и силовиков.",
+                "fallback": "Как живет опора Путинленда: Пермский край |         Общество |         RedDVL",
+                "from_url": "https:\/\/reddevol.com\/articles\/kak_zhivet_opora_putinlenda_permskiy_kray",
+                "service_icon": "https:\/\/reddevol.com\/assets\/img\/favicon\/apple-icon-57x57.png",
+                "service_name": "reddevol.com",
+                "id": 1,
+                "original_url": "https:\/\/reddevol.com\/articles\/kak_zhivet_opora_putinlenda_permskiy_kray"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hankey",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

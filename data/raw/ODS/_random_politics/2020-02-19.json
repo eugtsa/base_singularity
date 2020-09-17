@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "cfb4d0d1-62fe-4d07-a4b8-c1fd6b488afb",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/mudakoff\/status\/1230124044940402694>",
+        "user": "U48A8L25N",
+        "ts": "1582134669.048900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mudakoff|@mudakoff>: От создателей «НИКАКОГО ВИРУСА В РОССИИ НЕТ, ХВАТИТ ПАНИКОВАТЬ»\n\nПравительство Москвы разослало по всем водителям общественного транспорта разнарядку, суть которой при виде любого китайца — сразу вызывать наряд полиции <https:\/\/pbs.twimg.com\/media\/ERJHSTDXsAEWiKr.jpg>",
+                "ts": 1582119401,
+                "author_name": "#MDK",
+                "author_link": "https:\/\/twitter.com\/mudakoff\/status\/1230124044940402694",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/921369060994109440\/rWj-Da6M_normal.jpg",
+                "author_subname": "@mudakoff",
+                "text": "От создателей «НИКАКОГО ВИРУСА В РОССИИ НЕТ, ХВАТИТ ПАНИКОВАТЬ»\n\nПравительство Москвы разослало по всем водителям общественного транспорта разнарядку, суть которой при виде любого китайца — сразу вызывать наряд полиции <https:\/\/pbs.twimg.com\/media\/ERJHSTDXsAEWiKr.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mudakoff\/status\/1230124044940402694",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/ERJHSTDXsAEWiKr.jpg",
+                "image_width": 768,
+                "image_height": 1024,
+                "image_bytes": 67137,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mudakoff\/status\/1230124044940402694",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9rbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/mudakoff\/status\/1230124044940402694"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "client_msg_id": "4186db09-53de-4c38-a3d6-427e2cea0bc2",
+        "type": "message",
+        "text": "Ходил кто вчера?\n<https:\/\/twitter.com\/1_21gigawats\/status\/1150481867566661634>",
+        "user": "U7VBNMG2F",
+        "ts": "1563179297.284500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g0ecf4eee4f5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/920ecf4eee4f580b9c72339632df3661.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Lymar",
+            "display_name": "Yoptar",
+            "team": "T040HKJE3",
+            "name": "yoptar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7VBNMG2F",
+            "ts": "1563179376.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/1_21gigawats|@1_21gigawats>: Соболь убегает из ОВД. Просто ЦАРИЦА <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1150481528218161153\/pu\/img\/iqdK6Xbe8KrvEbaC.jpg>",
+                "ts": 1563131226,
+                "author_name": "Daniil Sotnikov",
+                "author_link": "https:\/\/twitter.com\/1_21gigawats\/status\/1150481867566661634",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1045575253534150656\/_8IY3bah_normal.jpg",
+                "author_subname": "@1_21gigawats",
+                "text": "Соболь убегает из ОВД. Просто ЦАРИЦА",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/1_21gigawats\/status\/1150481867566661634",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1150481528218161153\/pu\/img\/iqdK6Xbe8KrvEbaC.jpg",
+                "thumb_width": 848,
+                "thumb_height": 464,
+                "video_html_width": 848,
+                "video_html_height": 464,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1150481528218161153\/pu\/img\/iqdK6Xbe8KrvEbaC.jpg\" width=\"848\" height=\"464\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1150481528218161153\/pu\/vid\/848x464\/3sRTLVE7i214A2Cp.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/1_21gigawats\/status\/1150481867566661634",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "UGTNTEBPV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba6485d7-7bca-4b66-94de-89bb0c972d30",
+        "type": "message",
+        "text": "Там прикол с этим Габунией. Он раньше грузинскую православную церковь в прямом эфире подколол и те ему бойкот обьявили. У них церковь сильная, почти его с канала выжили. И тут он Путина обматерил. Теперь его увольнять грузинам западло: подумают что прогнулись перед Путиным. Ловкий малый, в общем. Никакой не дибил",
+        "user": "U28J6CP29",
+        "ts": "1563182564.285500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d6a6aaaca1ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-07\/432337025062_d6a6aaaca1ca5a8db337_72.jpg",
+            "first_name": "Datalove",
+            "real_name": "Datalove is not a crime",
+            "display_name": "datalove_isnt_a_crime",
+            "team": "T040HKJE3",
+            "name": "datalove_isnt_a_crime",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562958148.279500",
+        "parent_user_id": "U9ZU1CYUD"
+    },
+    {
+        "client_msg_id": "d926e7c6-e006-4057-9cc8-934737538960",
+        "type": "message",
+        "text": "Балтика, 39-ый, Winston. Зимнюю войну похоже вспомнить решили...\n```Прибалтийские гос-ва для США и Англии (Рузвельта и Черчилля) - были ничем иным, как предметом торга - и это хорошо видно по мемуарам Черчилля, признающего, между тем, разумность и адекватность действий СССР```",
+        "user": "UFDMALG6P",
+        "ts": "1563184438.285700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563106380.283700",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "client_msg_id": "15501cb9-ffb1-417d-8ebe-d1e49c6d2a6e",
+        "type": "message",
+        "text": "3 за побег пять за ~детсад~ митинг",
+        "user": "U48A8L25N",
+        "ts": "1563196973.286700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ae6450ef-0db5-4185-9328-d719960aa8b8",
+        "type": "message",
+        "text": "Ходил, но было скучно, я ушел",
+        "user": "UJ8BXBM36",
+        "ts": "1563198978.287100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "624566c1f7b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-28\/928184124678_624566c1f7b062c88e7c_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Gribul",
+            "display_name": "Datasciensyash",
+            "team": "T040HKJE3",
+            "name": "archypeshenka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1ef6fd9b-9ea2-4b95-a948-21482af81e22",
+        "type": "message",
+        "text": "да ты политактивный) не боишься на бутылку присесть?)",
+        "user": "U48A8L25N",
+        "ts": "1563201291.287500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7b800a7f-6e39-4573-8aa3-13053067e9c2",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/oldLentach\/status\/1150706744835923969>",
+        "user": "U48A8L25N",
+        "ts": "1563201519.287700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/oldLentach|@oldLentach>: Матвиенко нашла главную опасность для человечества <https:\/\/pbs.twimg.com\/media\/D_ghrtJXUAI5ApR.jpg>",
+                "ts": 1563184841,
+                "author_name": "Лентач",
+                "author_link": "https:\/\/twitter.com\/oldLentach\/status\/1150706744835923969",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1112810676605550595\/D8_OVc-i_normal.png",
+                "author_subname": "@oldLentach",
+                "text": "Матвиенко нашла главную опасность для человечества <https:\/\/pbs.twimg.com\/media\/D_ghrtJXUAI5ApR.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/oldLentach\/status\/1150706744835923969",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/D_ghrtJXUAI5ApR.jpg",
+                "image_width": 1000,
+                "image_height": 600,
+                "image_bytes": 47515,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/oldLentach\/status\/1150706744835923969",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0a1e8fa-3d48-43a6-8dfb-7a67681ca09b",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/oldLentach\/status\/1150773951779545090>",
+        "user": "U48A8L25N",
+        "ts": "1563201530.288000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/oldLentach|@oldLentach>: Матвиенко предложила школьникам перейти на кнопочные телефоны\n\n<http:\/\/lentach.media\/acf2> <https:\/\/pbs.twimg.com\/media\/D_hezRVWsAAgXAw.jpg>",
+                "ts": 1563200865,
+                "author_name": "Лентач",
+                "author_link": "https:\/\/twitter.com\/oldLentach\/status\/1150773951779545090",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1112810676605550595\/D8_OVc-i_normal.png",
+                "author_subname": "@oldLentach",
+                "text": "Матвиенко предложила школьникам перейти на кнопочные телефоны\n\n<http:\/\/lentach.media\/acf2> <https:\/\/pbs.twimg.com\/media\/D_hezRVWsAAgXAw.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/oldLentach\/status\/1150773951779545090",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/D_hezRVWsAAgXAw.jpg",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 108542,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/oldLentach\/status\/1150773951779545090",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4d5d84b-1068-4746-adfc-c6fb830c22b7",
+        "type": "message",
+        "text": "она совсем упрлс",
+        "user": "U48A8L25N",
+        "ts": "1563201535.288300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9a25f022-9ccd-47d5-b2d8-4a68a1b9f290",
+        "type": "message",
+        "text": "Организовывал акции против пенсионки у себя в городе :sunglasses:",
+        "user": "UJ8BXBM36",
+        "ts": "1563203601.288800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "624566c1f7b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-28\/928184124678_624566c1f7b062c88e7c_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Gribul",
+            "display_name": "Datasciensyash",
+            "team": "T040HKJE3",
+            "name": "archypeshenka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "763b17a5-3158-4487-90d8-8d7c09f06957",
+        "type": "message",
+        "text": "Не то что бы не боюсь, но чему быть - того не миновать...",
+        "user": "UJ8BXBM36",
+        "ts": "1563203649.289600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "624566c1f7b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-28\/928184124678_624566c1f7b062c88e7c_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Gribul",
+            "display_name": "Datasciensyash",
+            "team": "T040HKJE3",
+            "name": "archypeshenka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "141e21a8-49a8-4b98-9918-c487595af150",
+        "type": "message",
+        "text": "ля рисковый)",
+        "user": "U48A8L25N",
+        "ts": "1563203693.289800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

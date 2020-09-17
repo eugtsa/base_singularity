@@ -1,0 +1,341 @@
+[
+    {
+        "client_msg_id": "ff24963c-0d75-459f-8f66-79d5baa44b74",
+        "type": "message",
+        "text": "<https:\/\/www.proekt.media\/report\/krym-zemli-minoborony\/>",
+        "user": "U049HDR2Z",
+        "ts": "1570991737.083600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Проект.",
+                "title": "Крым не ваш",
+                "title_link": "https:\/\/www.proekt.media\/report\/krym-zemli-minoborony\/",
+                "text": "Минобороны в Крыму без всяких компенсаций отбирает у гражданских дома, участки и предприятия. «Проект» рассказывает четыре истории о людях, рискующих лишиться всего.",
+                "fallback": "Проект.: Крым не ваш",
+                "image_url": "https:\/\/proektmedia-stat.ams3.digitaloceanspaces.com\/2019\/10\/sevastopol_social.png",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1570604100,
+                "from_url": "https:\/\/www.proekt.media\/report\/krym-zemli-minoborony\/",
+                "image_bytes": 202156,
+                "id": 1,
+                "original_url": "https:\/\/www.proekt.media\/report\/krym-zemli-minoborony\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "coincidence",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "791fd3f4-d12a-473e-b115-f86ba5046280",
+        "type": "message",
+        "text": "Disclaimer: Моё мнение может не совпадать с мнением авторов публикации",
+        "user": "U049HDR2Z",
+        "ts": "1570991824.084200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sweating",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5fb3d565-00f5-4c5f-a3c4-69e296166f3b",
+        "type": "message",
+        "text": "обычное в принципе дело, они не только в крыму так делают :i_know_that_feel:",
+        "user": "U48A8L25N",
+        "ts": "1570992113.085100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b75ae719-2090-4931-ade6-0f3f15199653",
+        "type": "message",
+        "text": "Какие ваши доказательства?",
+        "user": "U049HDR2Z",
+        "ts": "1570992135.085400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "846b30d2-1ef9-453c-9cb7-1c7eed7f9b65",
+        "type": "message",
+        "text": "если нужны доказательства я просто беру свои слова обратно :smekalka:",
+        "user": "U48A8L25N",
+        "ts": "1570992480.086000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc90c4f3-9e25-473d-b2e6-8ec134605b7f",
+        "type": "message",
+        "text": "Да ладно, забей, я тебе верю. Русский русского не обманет же",
+        "user": "U049HDR2Z",
+        "ts": "1570992937.086500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U3AG4B1N1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "i_know_that_feel",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc1fd3e3-efc4-49e0-bc41-61623a8a40bd",
+        "type": "message",
+        "text": "Балять, здесь тоже сталкерами кишит что ли? :pepe_saddance:",
+        "user": "U049HDR2Z",
+        "ts": "1570993773.087300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "kolobok",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8A9D5641-7903-434C-990A-5801B6AA8FA2",
+        "type": "message",
+        "text": "Здесь все свои",
+        "user": "U3AG4B1N1",
+        "ts": "1571001712.087900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "rainbow",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59183a3f-4542-4bcc-8571-02f7ec7de111",
+        "type": "message",
+        "text": "<https:\/\/ic.pics.livejournal.com\/maxim_nm\/51556845\/5410538\/5410538_original.jpg>",
+        "user": "U48A8L25N",
+        "ts": "1571002702.088600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1042x720px image",
+                "image_url": "https:\/\/ic.pics.livejournal.com\/maxim_nm\/51556845\/5410538\/5410538_original.jpg",
+                "image_width": 1042,
+                "image_height": 720,
+                "image_bytes": 194899,
+                "from_url": "https:\/\/ic.pics.livejournal.com\/maxim_nm\/51556845\/5410538\/5410538_original.jpg",
+                "id": 1,
+                "original_url": "https:\/\/ic.pics.livejournal.com\/maxim_nm\/51556845\/5410538\/5410538_original.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88865e40-babd-4ebf-83b5-a1eb58d1b2b9",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4125068>",
+        "user": "U48A8L25N",
+        "ts": "1571012408.088900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Судья КC вынес вердикт российскому образованию",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4125068",
+                "text": "Константин Арановский поставил под сомнение ценность дипломов отечественных вузов",
+                "fallback": "Судья КC вынес вердикт российскому образованию",
+                "image_url": "https:\/\/im1.kommersant.ru\/SocialPics\/4125068_26_1809526_565023265",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1571000400,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4125068",
+                "image_bytes": 38659,
+                "service_icon": "https:\/\/im2.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4125068"
+            }
+        ]
+    }
+]

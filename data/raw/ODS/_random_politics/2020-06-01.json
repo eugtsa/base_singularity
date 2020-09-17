@@ -1,0 +1,1316 @@
+[
+    {
+        "type": "message",
+        "text": "прошу в связи с последними событиями в США признать, что я был не так уж и неправ",
+        "user": "UMQSP3DJM",
+        "ts": "1591026761.154000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "db6d79d40e8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-17\/756221290001_db6d79d40e8c796e6151_72.jpg",
+            "first_name": "",
+            "real_name": "Alexander Prokofyev",
+            "display_name": "Alexander Prokofyev",
+            "team": "T040HKJE3",
+            "name": "alexander-prokofyev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[April 17th, 2020 9:37 PM] alexander-prokofyev: а в США за неповиновение полиции примерно на 10 секунде завалили бы лицом на асфальт. или вообще завалили бы. :pepe_redneck:",
+                "ts": "1587148639.034200",
+                "author_id": "UMQSP3DJM",
+                "author_subname": "Alexander Prokofyev",
+                "channel_id": "CVD4LRULF",
+                "channel_name": "coronavirus",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "а в США за неповиновение полиции примерно на 10 секунде завалили бы лицом на асфальт. или вообще завалили бы. :pepe_redneck:",
+                "author_name": "Alexander Prokofyev",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/UMQSP3DJM",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-09-17\/756221290001_db6d79d40e8c796e6151_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/CVD4LRULF\/p1587148639034200?thread_ts=1587148463033500&cid=CVD4LRULF",
+                "is_share": true,
+                "footer": "From a thread in #coronavirus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ky3Xb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "прошу в связи с последними событиями в США признать, что я был не так уж и неправ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591026761.154000",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1591087487.165800",
+        "reply_users": [
+            "U27HU84H4",
+            "UMQSP3DJM",
+            "UGTNTEBPV"
+        ],
+        "replies": [
+            {
+                "user": "U27HU84H4",
+                "ts": "1591027102.154100"
+            },
+            {
+                "user": "UMQSP3DJM",
+                "ts": "1591027272.154400"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1591027922.154600"
+            },
+            {
+                "user": "UMQSP3DJM",
+                "ts": "1591028187.154800"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1591028386.155100"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1591087487.165800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "534d3beb-9631-497b-9ec0-0fda8989a92e",
+        "type": "message",
+        "text": "А что за события-то? И сделай mention тут тех, кто с тобой спорилб чтобы их сюда пригласило :popcornparrot:",
+        "user": "U27HU84H4",
+        "ts": "1591027102.154100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1591027177.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А что за события-то? И сделай mention тут тех, кто с тобой спорилб чтобы их сюда пригласило "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "popcornparrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591026761.154000",
+        "parent_user_id": "UMQSP3DJM"
+    },
+    {
+        "client_msg_id": "29e16c35-405b-48f6-9616-4ccf8072e350",
+        "type": "message",
+        "text": "полицейский убил при задержании человека, народ теперь бушует, видимо, накипело и не верится в справедливость",
+        "user": "UMQSP3DJM",
+        "ts": "1591027272.154400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "db6d79d40e8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-17\/756221290001_db6d79d40e8c796e6151_72.jpg",
+            "first_name": "",
+            "real_name": "Alexander Prokofyev",
+            "display_name": "Alexander Prokofyev",
+            "team": "T040HKJE3",
+            "name": "alexander-prokofyev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jp\/+C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "полицейский убил при задержании человека, народ теперь бушует, видимо, накипело и не верится в справедливость"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591026761.154000",
+        "parent_user_id": "UMQSP3DJM"
+    },
+    {
+        "client_msg_id": "317feee6-a497-4878-81ef-3df314d5c8ca",
+        "type": "message",
+        "text": "а неповиновение было или просто расправа на почве непойми чего?",
+        "user": "U27HU84H4",
+        "ts": "1591027922.154600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "а неповиновение было или просто расправа на почве непойми чего?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591026761.154000",
+        "parent_user_id": "UMQSP3DJM"
+    },
+    {
+        "client_msg_id": "87507033-ca6d-43a9-8903-8e0261f8959d",
+        "type": "message",
+        "text": "было крайнее проявление полицейской жестокости, в наличие которой почему-то не все верят",
+        "user": "UMQSP3DJM",
+        "ts": "1591028187.154800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "db6d79d40e8c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-17\/756221290001_db6d79d40e8c796e6151_72.jpg",
+            "first_name": "",
+            "real_name": "Alexander Prokofyev",
+            "display_name": "Alexander Prokofyev",
+            "team": "T040HKJE3",
+            "name": "alexander-prokofyev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UMQSP3DJM",
+            "ts": "1591028201.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BHSHw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "было крайнее проявление полицейской жестокости, в наличие которой почему-то не все верят"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591026761.154000",
+        "parent_user_id": "UMQSP3DJM"
+    },
+    {
+        "client_msg_id": "0643963c-05da-4231-ac94-cff99f9caaf0",
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/CBHH6K5HU\/p1590828891133300?thread_ts=1590695789.117600&amp;cid=CBHH6K5HU>",
+        "user": "U27HU84H4",
+        "ts": "1591028386.155100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/CBHH6K5HU\/p1590828891133300?thread_ts=1590695789.117600&amp;cid=CBHH6K5HU",
+                "fallback": "[May 30th, 2020 1:54 AM] fedorzaytsev: Я все как то не могу провести логическую цепочку. Как из протеста против полицейского произвола получился мятеж с мародерством магазинов и вандализмом? И почему это не пресекается полицией\/армией?",
+                "ts": "1590828891.133300",
+                "author_id": "U3VBQLKPU",
+                "author_subname": "Fedor Zaytsev",
+                "channel_id": "CBHH6K5HU",
+                "channel_name": "_meetings_us",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "Я все как то не могу провести логическую цепочку. Как из протеста против полицейского произвола получился мятеж с мародерством магазинов и вандализмом? И почему это не пресекается полицией\/армией?",
+                "author_name": "Fedor Zaytsev",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U3VBQLKPU",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2020-05-04\/1103787800818_84b0571376bcbd7916ef_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/opendatascience.slack.com\/archives\/CBHH6K5HU\/p1590828891133300?thread_ts=1590695789.117600&amp;cid=CBHH6K5HU",
+                "footer": "From a thread in #_meetings_us"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8wg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opendatascience.slack.com\/archives\/CBHH6K5HU\/p1590828891133300?thread_ts=1590695789.117600&cid=CBHH6K5HU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591026761.154000",
+        "parent_user_id": "UMQSP3DJM"
+    },
+    {
+        "client_msg_id": "0cbae2f1-692d-480f-a0c8-60a1bd9358e5",
+        "type": "message",
+        "text": "&gt; *За поправки к Конституции будем голосовать неделю*. Глава ЦИК Элла Памфилова предложила, чтобы голосование продлилось с 25 июня по 1 июля. На участках <https:\/\/meduza.io\/news\/2020\/06\/01\/putin-podderzhal-provedenie-golosovaniya-po-popravkam-v-konstitutsiyu-1-iyulya|будут приняты меры безопасности>: голосовать смогут не более восьми человек за час, всем выдадут маски. Проголосовать <https:\/\/meduza.io\/news\/2020\/06\/01\/kommersant-za-popravki-v-konstitutsiyu-razreshat-golosovat-dosrochno-i-na-domu-bez-uvazhitelnyh-prichin|можно будет и на дому>. 1 июля, среду, <https:\/\/meduza.io\/news\/2020\/06\/01\/den-golosovaniya-po-popravkam-v-konstitutsiyu-1-iyulya-ob-yavyat-vyhodnym|сделают выходным>. <https:\/\/meduza.io\/feature\/2020\/06\/01\/putin-naznachil-golosovanie-po-konstitutsii-na-1-iyulya-zabyli-chto-tam-za-popravki-krome-obnuleniya-napominaem|Напоминаем>, за что вообще голосуем. Главное — аннулирование сроков Путина.\nПолный :pzdc:  будет, если туда ещё очереди выстроятся (подумают и запись на посешение введут).",
+        "user": "U27HU84H4",
+        "ts": "1591030607.156600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1591030645.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMvX",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "За поправки к Конституции будем голосовать неделю",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Глава ЦИК Элла Памфилова предложила, чтобы голосование продлилось с 25 июня по 1 июля. На участках "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/news\/2020\/06\/01\/putin-podderzhal-provedenie-golosovaniya-po-popravkam-v-konstitutsiyu-1-iyulya",
+                                "text": "будут приняты меры безопасности"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": голосовать смогут не более восьми человек за час, всем выдадут маски. Проголосовать "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/news\/2020\/06\/01\/kommersant-za-popravki-v-konstitutsiyu-razreshat-golosovat-dosrochno-i-na-domu-bez-uvazhitelnyh-prichin",
+                                "text": "можно будет и на дому"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". 1 июля, среду, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/news\/2020\/06\/01\/den-golosovaniya-po-popravkam-v-konstitutsiyu-1-iyulya-ob-yavyat-vyhodnym",
+                                "text": "сделают выходным"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/feature\/2020\/06\/01\/putin-naznachil-golosovanie-po-konstitutsii-na-1-iyulya-zabyli-chto-tam-za-popravki-krome-obnuleniya-napominaem",
+                                "text": "Напоминаем"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", за что вообще голосуем. Главное — аннулирование сроков Путина."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Полный "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pzdc"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  будет, если туда ещё очереди выстроятся (подумают и запись на посешение введут)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Вот прям проникся уважением к товарищу Рогозину. :heart_eyes_cat:",
+        "files": [
+            {
+                "id": "F014L18PALV",
+                "created": 1591032937,
+                "timestamp": 1591032937,
+                "name": "Screenshot from 2020-06-01 10-34-30.png",
+                "title": "Screenshot from 2020-06-01 10-34-30.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U316J6CT1",
+                "editable": false,
+                "size": 1093146,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F014L18PALV\/screenshot_from_2020-06-01_10-34-30.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F014L18PALV\/download\/screenshot_from_2020-06-01_10-34-30.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 304,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 405,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 608,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 675,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 960,
+                "thumb_960_h": 811,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F014L18PALV-2867590065\/screenshot_from_2020-06-01_10-34-30_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 865,
+                "original_w": 1529,
+                "original_h": 1291,
+                "thumb_tiny": "AwAoADC4kciM5eTcCeAKf+J\/OnnkYpNtADc+9LuOaUKKXA9KAEDc80oIPSjA9KXFAFeO3WJnbcW3HvUmPQUxbhHJAySPan+aPQ\/lQAZpcn1NAkFG8etABk+tKp55NJvHqKXePWgCv8oyVUAnrgdaMmkooAXJoyfWkFHegBefWgEg0lFAH\/\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U316J6CT1\/F014L18PALV\/screenshot_from_2020-06-01_10-34-30.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F014L18PALV-757880f1f1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iSZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вот прям проникся уважением к товарищу Рогозину. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes_cat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U316J6CT1",
+        "display_as_bot": false,
+        "ts": "1591032986.158700",
+        "thread_ts": "1591032986.158700",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1591109368.168500",
+        "reply_users": [
+            "UNQ7YCA7R",
+            "U4DUJM693",
+            "U316J6CT1",
+            "U36Q9NJMD",
+            "U7CAU0GMU"
+        ],
+        "replies": [
+            {
+                "user": "UNQ7YCA7R",
+                "ts": "1591033426.159800"
+            },
+            {
+                "user": "U4DUJM693",
+                "ts": "1591033751.160000"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1591034054.160200"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1591035677.161900"
+            },
+            {
+                "user": "U7CAU0GMU",
+                "ts": "1591036306.163000"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1591053940.164600"
+            },
+            {
+                "user": "U7CAU0GMU",
+                "ts": "1591082354.165500"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1591109368.168500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "durka",
+                "users": [
+                    "U74DLUWUC",
+                    "U36Q9NJMD",
+                    "U5H055U0J",
+                    "U9V48C738",
+                    "U27HU84H4",
+                    "U4SKDV2HF"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33C6144A-79AA-4586-85E6-2E38ADA6552C",
+        "type": "message",
+        "text": "Справедливости ради, при Сталине Рогозина бы расстреляли ",
+        "user": "UNQ7YCA7R",
+        "ts": "1591033426.159800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g866a3b80f1b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/866a3b80f1b52f8973e181cb59e8b5eb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Askhat",
+            "real_name": "Askhat Urazbaev",
+            "display_name": "askhat",
+            "team": "T040HKJE3",
+            "name": "askhat",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mlUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Справедливости ради, при Сталине Рогозина бы расстреляли "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591032986.158700",
+        "parent_user_id": "U316J6CT1",
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N",
+                    "U4XQFC25N",
+                    "U27HU84H4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "stalin",
+                "users": [
+                    "U27HU84H4",
+                    "U36Q9NJMD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7d1c66e-09c8-4974-af3d-16b4f95aa363",
+        "type": "message",
+        "text": "он вроде удалил, ссылку можете скинуть если твит жив?",
+        "user": "U4DUJM693",
+        "ts": "1591033751.160000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9b661ea0758a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-07\/378213480998_9b661ea0758a8b1a808b_72.jpg",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Talipov",
+            "display_name": "roosh_roosh",
+            "team": "T040HKJE3",
+            "name": "roosh_roosh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uc5SH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "он вроде удалил, ссылку можете скинуть если твит жив?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591032986.158700",
+        "parent_user_id": "U316J6CT1"
+    },
+    {
+        "client_msg_id": "b600a408-5dc5-4759-a8f2-22bcbbe4251d",
+        "type": "message",
+        "text": "Удалил. :(\n\n&gt; Справедливости ради, при Сталине Рогозина бы расстреляли\nДа наверное всех бы расстреляли, один Сталин остался бы в стране. Рано умер. Эх.",
+        "user": "U316J6CT1",
+        "ts": "1591034054.160200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Huvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Удалил. :(\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Справедливости ради, при Сталине Рогозина бы расстреляли"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да наверное всех бы расстреляли, один Сталин остался бы в стране. Рано умер. Эх."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591032986.158700",
+        "parent_user_id": "U316J6CT1",
+        "reactions": [
+            {
+                "name": "brackets_sad",
+                "users": [
+                    "U4DUJM693"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "UMQSP3DJM",
+                    "U27HU84H4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aace0aec-b019-4e05-907f-461ac06719c9",
+        "type": "message",
+        "text": ":putin: :slack_call: :trump:\n• :coronavirus: \n• :musk: \n• :oil_drum: \n• саммит “группы 7”\n• военка\n<http:\/\/kremlin.ru\/events\/president\/news\/63444>",
+        "user": "U3KBYJQSF",
+        "ts": "1591035453.161500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3KBYJQSF",
+            "ts": "1591035627.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Президент России",
+                "title": "Телефонный разговор с Президентом США Дональдом Трампом",
+                "title_link": "http:\/\/kremlin.ru\/events\/president\/news\/63444",
+                "text": "По инициативе американской стороны состоялся телефонный разговор Владимира Путина с Президентом Соединённых Штатов Америки Дональдом Трампом.",
+                "fallback": "Президент России: Телефонный разговор с Президентом США Дональдом Трампом",
+                "from_url": "http:\/\/kremlin.ru\/events\/president\/news\/63444",
+                "service_icon": "http:\/\/kremlin.ru\/static\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "http:\/\/kremlin.ru\/events\/president\/news\/63444"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OZW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "putin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slack_call"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "trump"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "coronavirus"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "musk"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "oil_drum"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "саммит “группы 7”"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "военка"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/kremlin.ru\/events\/president\/news\/63444"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a5286b9-9af8-4e6f-b9e9-4e3023d6b0e2",
+        "type": "message",
+        "text": "На военных сборах многие всё так же срут в соседние дырки, это сделано в целях гигиены, ничего не поменялось.\n\nОбеспечивать длинными деньгами высокотехнологичную индустрию поздно, это уже сделал Китай и его не догнать (такие попытки заканчиваются плачевно: <https:\/\/3dnews.ru\/996516\/obankrotilsya-odin-iz-krupneyshih-hay-proektov-rossii-poluchivshiy-1-milliard-gosfinansirovaniya?from=most-commented-index>) , скорее всего нужно развивать пост-индустриальные сферы",
+        "user": "U36Q9NJMD",
+        "ts": "1591035677.161900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "3DNews - Daily Digital Digest",
+                "title": "Обанкротился один из крупнейших хай-тек проектов России, получивший $1 миллиард госфинансирования",
+                "title_link": "https:\/\/3dnews.ru\/996516\/obankrotilsya-odin-iz-krupneyshih-hay-proektov-rossii-poluchivshiy-1-milliard-gosfinansirovaniya?from=most-commented-index",
+                "text": "Один из крупнейших проектов по развитию высоких технологий в России, инициированный правительством и Советом Безопасности РФ, потерпел крушение.",
+                "fallback": "3DNews - Daily Digital Digest: Обанкротился один из крупнейших хай-тек проектов России, получивший $1 миллиард госфинансирования",
+                "image_url": "https:\/\/3dnews.ru\/assets\/external\/illustrations\/2019\/10\/30\/996516\/angs-inno-1807.jpg",
+                "from_url": "https:\/\/3dnews.ru\/996516\/obankrotilsya-odin-iz-krupneyshih-hay-proektov-rossii-poluchivshiy-1-milliard-gosfinansirovaniya?from=most-commented-index",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 249719,
+                "service_icon": "https:\/\/3dnews.ru\/assets\/3dnews_logo_color.png",
+                "id": 1,
+                "original_url": "https:\/\/3dnews.ru\/996516\/obankrotilsya-odin-iz-krupneyshih-hay-proektov-rossii-poluchivshiy-1-milliard-gosfinansirovaniya?from=most-commented-index"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ey0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "На военных сборах многие всё так же срут в соседние дырки, это сделано в целях гигиены, ничего не поменялось.\n\nОбеспечивать длинными деньгами высокотехнологичную индустрию поздно, это уже сделал Китай и его не догнать (такие попытки заканчиваются плачевно: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/3dnews.ru\/996516\/obankrotilsya-odin-iz-krupneyshih-hay-proektov-rossii-poluchivshiy-1-milliard-gosfinansirovaniya?from=most-commented-index"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") , скорее всего нужно развивать пост-индустриальные сферы"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591032986.158700",
+        "parent_user_id": "U316J6CT1",
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U7CAU0GMU",
+                    "U27HU84H4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebe75921-1100-49df-bcc4-0d001b9e889d",
+        "type": "message",
+        "text": "Раз уж все сейчас обсуждают Штаты, то вот видос, как это было в 2005-м: <https:\/\/www.youtube.com\/watch?v=IIqIgcfMUMM>. Кажись, тогда была еще большая жесть",
+        "user": "U7CAU0GMU",
+        "ts": "1591036179.162700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7CAU0GMU",
+            "ts": "1591036233.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Новый Орлеан (2005)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=IIqIgcfMUMM",
+                "author_name": "АгитПроп \/\/ Константин Сёмин",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCGnjU6KaqMOt7_TwqMPE1AQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/IIqIgcfMUMM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Новый Орлеан (2005)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/IIqIgcfMUMM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=IIqIgcfMUMM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=IIqIgcfMUMM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w4CW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Раз уж все сейчас обсуждают Штаты, то вот видос, как это было в 2005-м: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=IIqIgcfMUMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Кажись, тогда была еще большая жесть"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591036179.162700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1591054502.164900",
+        "reply_users": [
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "U316J6CT1",
+                "ts": "1591054502.164900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "87f0fa07-b8fa-41e3-8121-859fa5048c30",
+        "type": "message",
+        "text": "&gt; скорее всего нужно развивать пост-индустриальные сферы\nИнтересно, где это работает без развитой промышленности?",
+        "user": "U7CAU0GMU",
+        "ts": "1591036306.163000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oh4S",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "скорее всего нужно развивать пост-индустриальные сферы"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Интересно, где это работает без развитой промышленности?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591032986.158700",
+        "parent_user_id": "U316J6CT1",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U4DUJM693"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "475fa1c0-8646-4df9-8ab8-a791e66e0707",
+        "type": "message",
+        "text": "<@U7CAU0GMU> интересно не где это работает, а может ли это работать. Может быть я неправильно выразился, но наиболее точно то, что я хотел сказать написано в Википедии:\n&gt; На первых этапах индустриального общества, имея <https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB_(%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0)|капитал>, практически всегда можно было организовать массовое <https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE|производство> какого-либо <https:\/\/ru.wikipedia.org\/wiki\/%D0%A2%D0%BE%D0%B2%D0%B0%D1%80|товара> и занять соответствующую нишу на рынке. С развитием <https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_(%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0)|конкуренции>, особенно международной, размер капитала не гарантирует защиту от провала и банкротства. Для успеха обязательно нужна <https:\/\/ru.wikipedia.org\/wiki\/%D0%98%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D1%8F|инновация>. Капитал не может автоматически обеспечить появление <https:\/\/ru.wikipedia.org\/wiki\/%D0%9D%D0%BE%D1%83-%D1%85%D0%B0%D1%83|ноу-хау>, необходимых для экономического успеха. И наоборот, в постиндустриальных секторах экономики наличие ноу-хау позволяет легко привлечь необходимый капитал даже без наличия собственного.\n&gt; Например, нынешняя <https:\/\/ru.wikipedia.org\/wiki\/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8|IT>-индустрия развилась из мелких фирм, не имеющих существенных финансовых ресурсов, но быстро привлекших их со стороны. Причём даже мощная корпорация <https:\/\/ru.wikipedia.org\/wiki\/IBM|IBM> не смогла удержать лидерство, несмотря на сильную финансовую базу.\n&gt; Стоимость корпораций в постиндустриальном обществе обусловлена, главным образом, нематериальными активами — ноу-хау, <https:\/\/ru.wikipedia.org\/w\/index.php?title=%D0%9A%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_(%D1%82%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1|квалификацией> работников, эффективностью бизнес-структуры и т. д. Например, капитализация фирмы <https:\/\/ru.wikipedia.org\/wiki\/Microsoft|Microsoft> соответствует капитализации крупнейших добывающих компаний, хотя Microsoft имеет на порядки меньше материальных активов.\n(C) <https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE>\nЗадача определить куда нужно вкладываться, а куда нет - невыполнимая. На мой взгляд следует отдать это решение рынку через дальнейшее развитие финансовых институтов. В том числе и тем институтам, которые дают долгие дешевые деньги по типу фондовой биржи. Я не очень поддерживаю концепцию \"национальных проектов\".\nВ спрос отечественных товаров, конечно, необходимо вкладываться, но не за счет введение дополнительных пошлин для зарубежных товаров(как мы сейчас делаем). Это почти убивает возможности по производству конкурентной продукции, когда нет отечественных аналогов оборудования. Например, в Сингапуре пошлины только на алкоголь, табак, автомобили (правда, огромная куча всего запрещена, но в основном - конечная потребительская продукция и связь). У нас при импорте любого более или менее профессионального оборудования происходит ад со стороны таможни.\nНе нужно относиться к данному сообщению, как к концепции развития какой-либо страны, на деле всё в миллиард раз сложнее и не мне об этом судить.",
+        "user": "U36Q9NJMD",
+        "ts": "1591053940.164600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9yq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U7CAU0GMU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " интересно не где это работает, а может ли это работать. Может быть я неправильно выразился, но наиболее точно то, что я хотел сказать написано в Википедии:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "На первых этапах индустриального общества, имея "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB_(%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0)",
+                                "text": "капитал"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", практически всегда можно было организовать массовое "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+                                "text": "производство"
+                            },
+                            {
+                                "type": "text",
+                                "text": " какого-либо "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%A2%D0%BE%D0%B2%D0%B0%D1%80",
+                                "text": "товара"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и занять соответствующую нишу на рынке. С развитием "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_(%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0)",
+                                "text": "конкуренции"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", особенно международной, размер капитала не гарантирует защиту от провала и банкротства. Для успеха обязательно нужна "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%98%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D1%8F",
+                                "text": "инновация"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Капитал не может автоматически обеспечить появление "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9D%D0%BE%D1%83-%D1%85%D0%B0%D1%83",
+                                "text": "ноу-хау"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", необходимых для экономического успеха. И наоборот, в постиндустриальных секторах экономики наличие ноу-хау позволяет легко привлечь необходимый капитал даже без наличия собственного.\nНапример, нынешняя "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8",
+                                "text": "IT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "-индустрия развилась из мелких фирм, не имеющих существенных финансовых ресурсов, но быстро привлекших их со стороны. Причём даже мощная корпорация "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/IBM",
+                                "text": "IBM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " не смогла удержать лидерство, несмотря на сильную финансовую базу.\nСтоимость корпораций в постиндустриальном обществе обусловлена, главным образом, нематериальными активами — ноу-хау, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/w\/index.php?title=%D0%9A%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_(%D1%82%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F)&action=edit&redlink=1",
+                                "text": "квалификацией"
+                            },
+                            {
+                                "type": "text",
+                                "text": " работников, эффективностью бизнес-структуры и т. д. Например, капитализация фирмы "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/Microsoft",
+                                "text": "Microsoft"
+                            },
+                            {
+                                "type": "text",
+                                "text": " соответствует капитализации крупнейших добывающих компаний, хотя Microsoft имеет на порядки меньше материальных активов."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(C) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nЗадача определить куда нужно вкладываться, а куда нет - невыполнимая. На мой взгляд следует отдать это решение рынку через дальнейшее развитие финансовых институтов. В том числе и тем институтам, которые дают долгие дешевые деньги по типу фондовой биржи. Я не очень поддерживаю концепцию \"национальных проектов\".\nВ спрос отечественных товаров, конечно, необходимо вкладываться, но не за счет введение дополнительных пошлин для зарубежных товаров(как мы сейчас делаем). Это почти убивает возможности по производству конкурентной продукции, когда нет отечественных аналогов оборудования. Например, в Сингапуре пошлины только на алкоголь, табак, автомобили (правда, огромная куча всего запрещена, но в основном - конечная потребительская продукция и связь). У нас при импорте любого более или менее профессионального оборудования происходит ад со стороны таможни.\nНе нужно относиться к данному сообщению, как к концепции развития какой-либо страны, на деле всё в миллиард раз сложнее и не мне об этом судить."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591032986.158700",
+        "parent_user_id": "U316J6CT1"
+    },
+    {
+        "client_msg_id": "d8dba61b-e4b4-469a-882f-a229875f6375",
+        "type": "message",
+        "text": "Жестко, но то было только в Новом Орлеане",
+        "user": "U316J6CT1",
+        "ts": "1591054502.164900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "opl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Жестко, но то было только в Новом Орлеане"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591036179.162700",
+        "parent_user_id": "U7CAU0GMU"
+    }
+]

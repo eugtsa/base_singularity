@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "c5766cbe-121d-4b9b-ad78-5b2c62524e88",
+        "type": "message",
+        "text": "1) Обращает на себя внимание, как многие люди боятся, что их реакцию снимет камера. Грустно очень от этого.\n2) Было бы интересно увидеть не нарезку, а видео целиком одним кадром - тут явно только негатив выбран.\n3) Есть очень смешные моменты :joy:",
+        "user": "U27SUBTB9",
+        "ts": "1581199791.032000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1f8af4d64c68",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-24\/885377665328_1f8af4d64c68171d34d9_72.jpg",
+            "first_name": "Mikhail",
+            "real_name": "Mikhail Surovikov",
+            "display_name": "quadraaa",
+            "team": "T040HKJE3",
+            "name": "quadraaa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jNz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1) Обращает на себя внимание, как многие люди боятся, что их реакцию снимет камера. Грустно очень от этого.\n2) Было бы интересно увидеть не нарезку, а видео целиком одним кадром - тут явно только негатив выбран.\n3) Есть очень смешные моменты "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581100202.031000",
+        "parent_user_id": "U48A8L25N"
+    }
+]

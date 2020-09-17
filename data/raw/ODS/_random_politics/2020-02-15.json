@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "a1ee9c3d-0aae-4d7a-b0f7-e13b232f4695",
+        "type": "message",
+        "text": "Все, что нужно знать о перспективах экономиики в РФ( <https:\/\/www.youtube.com\/watch?v=xOaPQL2Msms&amp;feature=youtu.be&amp;fbclid=IwAR2e31S97RJqrxXcQk1rKg-flh4uxcbO8dYC-i7F4cGMkUWQFaO8JClzGqw>\nИнтересно, кстати зашло ли уже государство каким-то образом в пятерочку и допустми авито, как-то хитрожопо, также как в \"яндекс через сбербанк\".",
+        "user": "U2TP5JELS",
+        "ts": "1581790379.045000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Годовщина дела Baring Vostok",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=xOaPQL2Msms&amp;feature=youtu.be&amp;fbclid=IwAR2e31S97RJqrxXcQk1rKg-flh4uxcbO8dYC-i7F4cGMkUWQFaO8JClzGqw",
+                "author_name": "Support BVCP",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCaexePbNvLjs_x9uGXRXvpA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/xOaPQL2Msms\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Годовщина дела Baring Vostok",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/xOaPQL2Msms?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=xOaPQL2Msms&amp;feature=youtu.be&amp;fbclid=IwAR2e31S97RJqrxXcQk1rKg-flh4uxcbO8dYC-i7F4cGMkUWQFaO8JClzGqw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=xOaPQL2Msms&amp;feature=youtu.be&amp;fbclid=IwAR2e31S97RJqrxXcQk1rKg-flh4uxcbO8dYC-i7F4cGMkUWQFaO8JClzGqw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9S6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Все, что нужно знать о перспективах экономиики в РФ( "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=xOaPQL2Msms&feature=youtu.be&fbclid=IwAR2e31S97RJqrxXcQk1rKg-flh4uxcbO8dYC-i7F4cGMkUWQFaO8JClzGqw"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nИнтересно, кстати зашло ли уже государство каким-то образом в пятерочку и допустми авито, как-то хитрожопо, также как в \"яндекс через сбербанк\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581790379.045000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1581790654.045200",
+        "reply_users": [
+            "U74DLUWUC"
+        ],
+        "replies": [
+            {
+                "user": "U74DLUWUC",
+                "ts": "1581790654.045200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N",
+                    "UDSEN1N2E"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c639e13c-af6f-4a05-a542-3c316c20bd34",
+        "type": "message",
+        "text": "&gt;перспективах \n\nОксюморон, да :kekeke:",
+        "user": "U74DLUWUC",
+        "ts": "1581790654.045200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ">перспективах \n\nОксюморон, да "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kekeke"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581790379.045000",
+        "parent_user_id": "U2TP5JELS"
+    }
+]

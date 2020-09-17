@@ -1,0 +1,210 @@
+[
+    {
+        "client_msg_id": "5bd376a7-e757-4eaa-b97b-a0d558432d49",
+        "type": "message",
+        "text": "Меньше заполняемость, а выручку надо сохранить.",
+        "user": "U9ZU1CYUD",
+        "ts": "1566552815.177200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566386526.170400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "type": "message",
+        "text": "Придумано ведь уже решение",
+        "files": [
+            {
+                "id": "FMN3JRWAC",
+                "created": 1566559537,
+                "timestamp": 1566559537,
+                "name": "Screen Shot 2019-08-23 at 2.24.53 PM.png",
+                "title": "Screen Shot 2019-08-23 at 2.24.53 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFDMALG6P",
+                "editable": false,
+                "size": 2071028,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FMN3JRWAC\/screen_shot_2019-08-23_at_2.24.53_pm.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FMN3JRWAC\/download\/screen_shot_2019-08-23_at_2.24.53_pm.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 118,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 158,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 237,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 263,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 960,
+                "thumb_960_h": 315,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMN3JRWAC-48065ac35e\/screen_shot_2019-08-23_at_2.24.53_pm_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 336,
+                "image_exif_rotation": 1,
+                "original_w": 2082,
+                "original_h": 684,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UFDMALG6P\/FMN3JRWAC\/screen_shot_2019-08-23_at_2.24.53_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FMN3JRWAC-e9379dddd5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFDMALG6P",
+        "display_as_bot": false,
+        "ts": "1566559541.177500",
+        "client_msg_id": "e10a5789-cc89-4d94-8962-70e7ff76d661",
+        "thread_ts": "1566386526.170400",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "wat",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68ce16fe-d0d3-4088-abce-196f78290972",
+        "type": "message",
+        "text": "в DS люди на самом деле неразборчивые. А идти или нет - это еще Умберто эко хорошо написал. Общаться всегда стоит - а дальше уже дело ваше. Я 4 года в Риа Новости работал, и в целом горожусь своей командой и Риа в целом, на тот момент.",
+        "user": "U1HHX1QS3",
+        "ts": "1566589094.178500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566309203.151900",
+        "parent_user_id": "UGTNTEBPV",
+        "reactions": [
+            {
+                "name": "pepe_happy",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53380586-3021-4f94-81b5-991986185bd9",
+        "type": "message",
+        "text": "А потом пришел известно кто, и мы все уволились",
+        "user": "U1HHX1QS3",
+        "ts": "1566589393.179000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566309203.151900",
+        "parent_user_id": "UGTNTEBPV"
+    },
+    {
+        "type": "message",
+        "text": "и еще про спам",
+        "files": [
+            {
+                "id": "FMQT0B3QE",
+                "created": 1566589440,
+                "timestamp": 1566589440,
+                "name": "Screenshot 2019-08-23 15.42.09.png",
+                "title": "Screenshot 2019-08-23 15.42.09.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U1HHX1QS3",
+                "editable": false,
+                "size": 289214,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FMQT0B3QE\/screenshot_2019-08-23_15.42.09.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FMQT0B3QE\/download\/screenshot_2019-08-23_15.42.09.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMQT0B3QE-df92eda32d\/screenshot_2019-08-23_15.42.09_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMQT0B3QE-df92eda32d\/screenshot_2019-08-23_15.42.09_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMQT0B3QE-df92eda32d\/screenshot_2019-08-23_15.42.09_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 309,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMQT0B3QE-df92eda32d\/screenshot_2019-08-23_15.42.09_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 411,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMQT0B3QE-df92eda32d\/screenshot_2019-08-23_15.42.09_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "image_exif_rotation": 1,
+                "original_w": 574,
+                "original_h": 492,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U1HHX1QS3\/FMQT0B3QE\/screenshot_2019-08-23_15.42.09.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FMQT0B3QE-59bd5d34d4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U1HHX1QS3",
+        "display_as_bot": false,
+        "ts": "1566589442.179300",
+        "client_msg_id": "c07bc3e5-195a-4f5c-aeb4-e89b353d959b",
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

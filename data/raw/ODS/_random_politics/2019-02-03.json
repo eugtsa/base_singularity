@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFYAH7UGN",
+                "created": 1549228599,
+                "timestamp": 1549228599,
+                "name": "IMG_20190203_221438.jpg",
+                "title": "IMG_20190203_221438.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U5H0L5T98",
+                "editable": false,
+                "size": 43144,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": true,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FFYAH7UGN\/img_20190203_221438.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FFYAH7UGN\/download\/img_20190203_221438.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFYAH7UGN-8a17d585fc\/img_20190203_221438_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFYAH7UGN-8a17d585fc\/img_20190203_221438_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFYAH7UGN-8a17d585fc\/img_20190203_221438_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 347,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFYAH7UGN-8a17d585fc\/img_20190203_221438_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 462,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FFYAH7UGN-8a17d585fc\/img_20190203_221438_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "image_exif_rotation": 1,
+                "original_w": 602,
+                "original_h": 580,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U5H0L5T98\/FFYAH7UGN\/img_20190203_221438.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FFYAH7UGN-c958224857",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U5H0L5T98",
+        "display_as_bot": false,
+        "ts": "1549228601.007200",
+        "client_msg_id": "e13fee33-ea72-48a5-9bd8-4a6ed841f679",
+        "thread_ts": "1549228601.007200",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1549997523.001200",
+        "reply_users": [
+            "U316J6CT1",
+            "U5H0L5T98"
+        ],
+        "replies": [
+            {
+                "user": "U316J6CT1",
+                "ts": "1549927687.000200"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1549952237.000500"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1549971892.000800"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1549997523.001200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N",
+                    "U9ZU1CYUD",
+                    "U6Y7JA4C9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U9ZU1CYUD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

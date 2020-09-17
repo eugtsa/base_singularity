@@ -1,0 +1,316 @@
+[
+    {
+        "client_msg_id": "7a9dbfd3-c549-4b08-9f85-e8a71c402101",
+        "type": "message",
+        "text": "А кто победил? Если не союзники, то Гитлер. Твои видео это подтверждают",
+        "user": "U3AG4B1N1",
+        "ts": "1589205223.117100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3AG4B1N1",
+            "ts": "1589205232.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ol8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А кто победил? Если не союзники, то Гитлер. Твои видео это подтверждают"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589151458.115300",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "ae45985c-e5c5-4c7f-b804-30a4ebd89f17",
+        "type": "message",
+        "text": "Скоро мы узнаем что американцы первые побывали в космосе. Ну вместе с союзниками естественно.",
+        "user": "UQRRC9GCD",
+        "ts": "1589210285.117400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PxYzY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Скоро мы узнаем что американцы первые побывали в космосе. Ну вместе с союзниками естественно."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589151458.115300",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "type": "message",
+        "text": "У российской оппозиции кризис идей?",
+        "files": [
+            {
+                "id": "F013E7E4G0M",
+                "created": 1589252478,
+                "timestamp": 1589252478,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQRRC9GCD",
+                "editable": false,
+                "size": 2332390,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F013E7E4G0M\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F013E7E4G0M\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 281,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 375,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 562,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1025,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 749,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F013E7E4G0M-380cca8696\/image_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 799,
+                "thumb_1024_h": 1024,
+                "original_w": 960,
+                "original_h": 1230,
+                "thumb_tiny": "AwAwACWEnPIpCmYzg8mnYOQcEfhTJZGyVzSQD\/LUD5QwPck9aawyMdqYrt607cWA9jmnYbGAOPunil\/e+v60E0ZpCHhWVvvUMwOWKL7nmlIJIBxk0rACPDYxmgBgZSOI1z75peFH3F\/Wn7wwwWPtTWHQ+pxTGxgKN6D8aXCeo\/Om7VPXP4UbU96BEgZf735imupLHBXH1q+LSPLbocAHjBzTxbxgYCn8AaAMxYyP4k\/76FKAc44J68HNaggibjaw\/Og2kLHJUk\/U0AZJBHY\/lSc+h\/Ktf7HD\/dP\/AH0aPscPof8Avo0Af\/\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UQRRC9GCD\/F013E7E4G0M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F013E7E4G0M-073b63120d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nW2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "У российской оппозиции кризис идей?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQRRC9GCD",
+        "display_as_bot": false,
+        "ts": "1589252483.117900",
+        "client_msg_id": "eb1833ff-864a-4503-a8a1-be52153b1626",
+        "thread_ts": "1589252483.117900",
+        "reply_count": 13,
+        "reply_users_count": 4,
+        "latest_reply": "1589298408.123500",
+        "reply_users": [
+            "UQRRC9GCD",
+            "U9GUF2PN2",
+            "U3AG4B1N1",
+            "U4DUJM693"
+        ],
+        "replies": [
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1589252545.118200"
+            },
+            {
+                "user": "U9GUF2PN2",
+                "ts": "1589269832.118600"
+            },
+            {
+                "user": "U9GUF2PN2",
+                "ts": "1589269897.118800"
+            },
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1589269898.119000"
+            },
+            {
+                "user": "U9GUF2PN2",
+                "ts": "1589270053.119200"
+            },
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1589270348.119600"
+            },
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1589270495.119900"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1589271450.122300"
+            },
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1589271615.122500"
+            },
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1589272367.122700"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1589273097.122900"
+            },
+            {
+                "user": "U4DUJM693",
+                "ts": "1589283143.123200"
+            },
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1589298408.123500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "special_olympics",
+                "users": [
+                    "U9GUF2PN2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ban",
+                "users": [
+                    "U9GUF2PN2",
+                    "U2ZHRCAUB",
+                    "U21MU5ATE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfd5e132-c1dd-461a-a55f-ec908302f3f1",
+        "type": "message",
+        "text": "Откровенные подыгрывания и беспантовые картинки с президентом. <https:\/\/riafan.ru\/1275612-novaya-gazeta-nakrutila-desyatki-tysyach-golosov-svoei-sotrudnice-dlya-pobedy-v-premii-nemcova>",
+        "user": "UQRRC9GCD",
+        "ts": "1589252545.118200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Федеральное агентство новостей No.1",
+                "title": "«Новая газета» накрутила десятки тысяч голосов своей сотруднице для победы в премии Немцова",
+                "title_link": "https:\/\/riafan.ru\/1275612-novaya-gazeta-nakrutila-desyatki-tysyach-golosov-svoei-sotrudnice-dlya-pobedy-v-premii-nemcova",
+                "text": "В понедельник, 11 мая, на сайте «Новой газеты» завершилось голосование за претендентов на ежегодную премию Бориса Немцова.",
+                "fallback": "Федеральное агентство новостей No.1: «Новая газета» накрутила десятки тысяч голосов своей сотруднице для победы в премии Немцова",
+                "thumb_url": "https:\/\/static.riafan.ru\/uploads\/2020\/05\/11\/orig-15892118460eca457ee69fc4e65586f30e32d4e1bf.jpeg",
+                "from_url": "https:\/\/riafan.ru\/1275612-novaya-gazeta-nakrutila-desyatki-tysyach-golosov-svoei-sotrudnice-dlya-pobedy-v-premii-nemcova",
+                "thumb_width": 1240,
+                "thumb_height": 698,
+                "service_icon": "https:\/\/riafan.ru\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/riafan.ru\/1275612-novaya-gazeta-nakrutila-desyatki-tysyach-golosov-svoei-sotrudnice-dlya-pobedy-v-premii-nemcova"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Откровенные подыгрывания и беспантовые картинки с президентом. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/riafan.ru\/1275612-novaya-gazeta-nakrutila-desyatki-tysyach-golosov-svoei-sotrudnice-dlya-pobedy-v-premii-nemcova"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD",
+        "reactions": [
+            {
+                "name": "grammar",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

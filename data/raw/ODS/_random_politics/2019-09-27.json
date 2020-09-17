@@ -1,0 +1,162 @@
+[
+    {
+        "client_msg_id": "359651d6-577c-4daa-bca1-873cb11a54d3",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/feature\/2019\/09\/27\/gosduma-potrebovala-priznat-deutsche-welle-inostrannym-agentom-v-materialah-izdaniya-nashli-opravdanie-ekstremizma-i-prizyvy-k-mitingam>",
+        "user": "UGTNTEBPV",
+        "ts": "1569592443.066800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Госдума потребовала признать Deutsche Welle «иностранным агентом». В материалах издания нашли оправдание экстремизма и призывы к митингам — Meduza",
+                "title_link": "https:\/\/meduza.io\/feature\/2019\/09\/27\/gosduma-potrebovala-priznat-deutsche-welle-inostrannym-agentom-v-materialah-izdaniya-nashli-opravdanie-ekstremizma-i-prizyvy-k-mitingam",
+                "text": "Комиссия Госдумы по расследованию вмешательства во внутренние дела России считает, что немецкая телерадиокомпания Deutsche Welle нарушила ряд российских законов.",
+                "fallback": "Meduza: Госдума потребовала признать Deutsche Welle «иностранным агентом». В материалах издания нашли оправдание экстремизма и призывы к митингам — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1569589229\/feature\/2019\/09\/27\/gosduma-potrebovala-priznat-deutsche-welle-inostrannym-agentom-v-materialah-izdaniya-nashli-opravdanie-ekstremizma-i-prizyvy-k-mitingam",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/feature\/2019\/09\/27\/gosduma-potrebovala-priznat-deutsche-welle-inostrannym-agentom-v-materialah-izdaniya-nashli-opravdanie-ekstremizma-i-prizyvy-k-mitingam",
+                "image_bytes": 484153,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/feature\/2019\/09\/27\/gosduma-potrebovala-priznat-deutsche-welle-inostrannym-agentom-v-materialah-izdaniya-nashli-opravdanie-ekstremizma-i-prizyvy-k-mitingam"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f51350eb-8e58-4b91-99ad-c1190c8fb5ed",
+        "type": "message",
+        "text": "<https:\/\/www.dw.com\/ru\/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F\/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA\/s-40684034>",
+        "user": "UGTNTEBPV",
+        "ts": "1569596214.067100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DW.COM",
+                "title": "\"Заповедник\" - сатирическое шоу DW: итоги недели с юмором | DW",
+                "title_link": "https:\/\/www.dw.com\/ru\/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F\/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA\/s-40684034",
+                "text": "Сатира от DW: Волк, Заяц и Ворона живут в лесу где-то между Россией, Украиной и Евросоюзом, смотрят телевизор и обсуждают новости",
+                "fallback": "DW.COM: \"Заповедник\" - сатирическое шоу DW: итоги недели с юмором | DW",
+                "from_url": "https:\/\/www.dw.com\/ru\/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F\/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA\/s-40684034",
+                "service_icon": "https:\/\/www.dw.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.dw.com\/ru\/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F\/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA\/s-40684034"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b01982e-8cf8-474b-940d-89bbf9d35d1a",
+        "type": "message",
+        "text": "Возможно, этот курс подойдет для тех, кто хочет начать изучать :python:  или :r: :\n\n<https:\/\/transparency.org.ru\/projects\/antikorruptsionnoe-obrazovanie\/otkryt-nabor-na-mezhdunarodnuyu-programmu-po-rabote-s-otkrytymi-dannymi.html?fbclid=IwAR1ZZ0dHbIEtvbxRoSl-v3ek4OIlvHFuUnwyMppuxl3jjE27Oslmy-aRTmE>",
+        "user": "U70T87GMA",
+        "ts": "1569600987.068500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd363bd50686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7d363bd50686a9d328c3ec726d38276.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "anton",
+            "real_name": "anton petrov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "senseless",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U70T87GMA",
+            "ts": "1569601136.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Центр ТИ-Р",
+                "title": "Открыт набор на международную программу по работе с открытыми данными",
+                "title_link": "https:\/\/transparency.org.ru\/projects\/antikorruptsionnoe-obrazovanie\/otkryt-nabor-na-mezhdunarodnuyu-programmu-po-rabote-s-otkrytymi-dannymi.html?fbclid=IwAR1ZZ0dHbIEtvbxRoSl-v3ek4OIlvHFuUnwyMppuxl3jjE27Oslmy-aRTmE",
+                "text": "«Трансперенси» и Sunlight Foundation (США) запускают совместную образовательную программу Technology for Integrity. Программа посвящена практическим аспектам работы с открытыми данными и ориентирована на российских и американских журналистов-...",
+                "fallback": "Центр ТИ-Р: Открыт набор на международную программу по работе с открытыми данными",
+                "image_url": "http:\/\/transparency.org.ru\/upload\/iblock\/995\/open_data.jpg",
+                "from_url": "https:\/\/transparency.org.ru\/projects\/antikorruptsionnoe-obrazovanie\/otkryt-nabor-na-mezhdunarodnuyu-programmu-po-rabote-s-otkrytymi-dannymi.html?fbclid=IwAR1ZZ0dHbIEtvbxRoSl-v3ek4OIlvHFuUnwyMppuxl3jjE27Oslmy-aRTmE",
+                "image_width": 661,
+                "image_height": 250,
+                "image_bytes": 119894,
+                "service_icon": "https:\/\/transparency.org.ru\/apple-touch-icon.png?v=M4or9kENxJ",
+                "id": 1,
+                "original_url": "https:\/\/transparency.org.ru\/projects\/antikorruptsionnoe-obrazovanie\/otkryt-nabor-na-mezhdunarodnuyu-programmu-po-rabote-s-otkrytymi-dannymi.html?fbclid=IwAR1ZZ0dHbIEtvbxRoSl-v3ek4OIlvHFuUnwyMppuxl3jjE27Oslmy-aRTmE"
+            }
+        ],
+        "thread_ts": "1569600987.068500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569601061.068700",
+        "reply_users": [
+            "U70T87GMA"
+        ],
+        "replies": [
+            {
+                "user": "U70T87GMA",
+                "ts": "1569601061.068700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a8b063f6-715c-45b4-a354-f25fe8fac0f3",
+        "type": "message",
+        "text": "может в <#C04DP7BUY|edu_courses> или <#CJ6UPQ3FZ|ml4sg> перепостить?",
+        "user": "U70T87GMA",
+        "ts": "1569601061.068700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd363bd50686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7d363bd50686a9d328c3ec726d38276.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "anton",
+            "real_name": "anton petrov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "senseless",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569600987.068500",
+        "parent_user_id": "U70T87GMA",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UGTNTEBPV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

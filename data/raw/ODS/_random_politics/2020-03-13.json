@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "cb1ddd68-27e8-4b73-9016-decb477ed6d4",
+        "type": "message",
+        "text": ":slightly_smiling_face:Все предрешено",
+        "user": "UHGV9TMEZ",
+        "ts": "1584089911.222900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "54985a840d04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-13\/890761007282_54985a840d04e6fb2cb3_72.png",
+            "first_name": "Philip",
+            "real_name": "Philip Konokhov",
+            "display_name": "Efy",
+            "team": "T040HKJE3",
+            "name": "philipkonokhov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dp0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Все предрешено"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01003R4X2B",
+                "created": 1584094934,
+                "timestamp": 1584094934,
+                "name": "getfvid_87502165_477331383150004_4608883091695853652_n.mp4",
+                "title": "getfvid_87502165_477331383150004_4608883091695853652_n.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U5H055U0J",
+                "editable": false,
+                "size": 190370,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01003R4X2B\/getfvid_87502165_477331383150004_4608883091695853652_n.mp4?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01003R4X2B\/download\/getfvid_87502165_477331383150004_4608883091695853652_n.mp4?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01003R4X2B-f14072ad0c\/getfvid_87502165_477331383150004_4608883091695853652_n_thumb_video.jpeg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U5H055U0J\/F01003R4X2B\/getfvid_87502165_477331383150004_4608883091695853652_n.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F01003R4X2B-291bb08de4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U5H055U0J",
+        "display_as_bot": false,
+        "ts": "1584094938.223100",
+        "client_msg_id": "2a5336a3-4cfa-4afe-b149-0d2785f930ac",
+        "reactions": [
+            {
+                "name": "feelsweirdman",
+                "users": [
+                    "U48A8L25N",
+                    "UKTQ3DJV7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B503DE76-D762-41FD-B10E-85CBD33C53DC",
+        "type": "message",
+        "text": " <https:\/\/youtu.be\/Pw9qVLDMQ_w|https:\/\/youtu.be\/Pw9qVLDMQ_w>",
+        "user": "UFUKQMV5K",
+        "ts": "1584113999.223700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g8a91a2a07c5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/108a91a2a07c545511a5b00252d64020.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Leonid An",
+            "display_name": "Pharmakon",
+            "team": "T040HKJE3",
+            "name": "linguist.5113",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Гриль, специальный соус сыр, огурцы, салат и лук, все на булочке с кунжутом – добавить в Конституцию",
+                "title_link": "https:\/\/youtu.be\/Pw9qVLDMQ_w",
+                "author_name": "Видео дня",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCIU47nLqTCflsNmkCniPjzA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Pw9qVLDMQ_w\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Гриль, специальный соус сыр, огурцы, салат и лук, все на булочке с кунжутом – добавить в Конституцию",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/Pw9qVLDMQ_w?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/Pw9qVLDMQ_w",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/Pw9qVLDMQ_w"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cBj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/Pw9qVLDMQ_w",
+                                "text": "https:\/\/youtu.be\/Pw9qVLDMQ_w"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

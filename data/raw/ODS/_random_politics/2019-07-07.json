@@ -1,0 +1,228 @@
+[
+    {
+        "client_msg_id": "27d279b7-066d-4261-acdd-f6ac3b1ec229",
+        "type": "message",
+        "text": "слышали что там грузинское тв про путина и его маму сказало? :yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1562536942.246500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U74DLUWUC",
+                    "U48A8L25N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pomyanem",
+                "users": [
+                    "U74DLUWUC",
+                    "U5H0L5T98"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "713ac34e-6e8a-4c54-b7de-7c4ea65a0a70",
+        "type": "message",
+        "text": "интересный моральный парадокс, как много людей сейчас осуждают грузина за слова о матери путина, но при этом не осуждают путина за дела в отношении многих матерей)",
+        "user": "U48A8L25N",
+        "ts": "1562538536.248000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1562538536.248000",
+        "reply_count": 26,
+        "reply_users_count": 2,
+        "latest_reply": "1562662726.265600",
+        "reply_users": [
+            "U5H0L5T98",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562571579.251700"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562605801.258100"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562605839.258300"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562608080.259900"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562608677.260100"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562608682.260300"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562608709.260500"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562608715.260700"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562660866.262200"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662075.262400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662174.262600"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662185.262800"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562662212.263000"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662217.263200"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662228.263400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662235.263600"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562662237.263800"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662267.264000"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562662277.264200"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562662301.264400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662309.264600"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662384.264800"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1562662539.265000"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662648.265200"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662655.265400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1562662726.265600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wat",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccd88f68-3063-4a24-8cd4-e62e51403bd1",
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1562538613.248300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6b0c577f-75de-4fa8-9efe-48f39c966885",
+        "type": "message",
+        "text": "а что сказали-то? а то я как-то выпал",
+        "user": "U88T71FBL",
+        "ts": "1562550737.248700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]
