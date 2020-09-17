@@ -13,9 +13,17 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 └── README.md          - this document
 ```
 
-# Where to start
+# How to start
 
-- check out ipywidgets demo in `notebooks/1_ipywidgets_demo.ipynb`
+- install singularity: https://sylabs.io/guides/3.0/user-guide/installation.html#install-the-debian-ubuntu-package-using-apt
+
+- pull singularity image: `$ singularity pull shub://`
+
+- start jupyter lab from singularity container, run in terminal: `singularity exec eugtsa-base_singularity-master-latest.simg jupyter lab`
+
+- copy link from terminal and 
+
+- check out ipywidgets demo in `notebooks/ipywidgets/1_Widjgets Basics.ipynb`
 
 # Singularity
 
