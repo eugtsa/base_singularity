@@ -1,0 +1,126 @@
+[
+    {
+        "type": "message",
+        "text": "Го апнем чтоль. Какое у Вас отношение к Сингапуру и к Ли Куан Ю в частности?\nКак страна с режимом, даже чуть более авторитарным, чем сейчас в России, на всем протяжении смогла сделать такое экономическое чудо?",
+        "user": "U36Q9NJMD",
+        "ts": "1496011641.703763",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496011641.703763",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1496012247.731232",
+        "reply_users": [
+            "U36Q9NJMD"
+        ],
+        "replies": [
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1496011772.709900"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1496012049.722105"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1496012247.731232"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Уникальность Ли Куан Ю заключалась в том, что диктаторы во второй период своего правления начинают откат назад, ревизию того, что они делали в первую половину своего срока.\n\nПодробнее на РБК:\n<http:\/\/www.rbc.ru\/ins\/politics\/23\/03\/2015\/550ff3569a79473e26caaee0>",
+        "user": "U36Q9NJMD",
+        "ts": "1496011772.709900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Государство – это он: как Ли Куан Ю создал процветающий Сингапур",
+                "title_link": "http:\/\/www.rbc.ru\/ins\/politics\/23\/03\/2015\/550ff3569a79473e26caaee0",
+                "text": "23 марта в Сингапуре на 92-м году жизни скончался его основатель — Ли Куан Ю. За четверть века ему жесткими методами удалось превратить лишенный ресурсов небольшой остров в одно из самых процветающих государств мира",
+                "fallback": "РБК: Государство – это он: как Ли Куан Ю создал процветающий Сингапур",
+                "image_url": "http:\/\/s0.rbk.ru\/v6_top_pics\/resized\/1440xH\/media\/img\/4\/94\/754271122547944.jpg",
+                "from_url": "http:\/\/www.rbc.ru\/ins\/politics\/23\/03\/2015\/550ff3569a79473e26caaee0",
+                "image_width": 404,
+                "image_height": 250,
+                "image_bytes": 48156,
+                "service_icon": "http:\/\/s.rbk.ru\/v7_top_static\/common\/common-7.1.57-1\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1496011641.703763",
+        "parent_user_id": "U36Q9NJMD"
+    },
+    {
+        "type": "message",
+        "text": "\"Неизбежность наказания — первый сдерживающий коррупцию фактор. Второй фактор — это зарплаты, которые должны соответствовать рыночному уровню. Мы ориентируемся на доходы десяти процентов самых высокооплачиваемых людей, поскольку если наши чиновники не входят в самый высокооплачиваемый слой, то зачем они правительству?\"",
+        "user": "U36Q9NJMD",
+        "ts": "1496012049.722105",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496011641.703763",
+        "parent_user_id": "U36Q9NJMD"
+    },
+    {
+        "type": "message",
+        "text": "\"Каждый год умирает больше русских, чем рождается, потому что у людей нет веры в будущее. Вот американцы оптимистичны, но если твоя жизнь тяжела, и лишь на короткий момент, когда повышаются цены на нефть, она улучшается, у вас другой взгляд на будущее.\"",
+        "user": "U36Q9NJMD",
+        "ts": "1496012247.731232",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1496011641.703763",
+        "parent_user_id": "U36Q9NJMD"
+    }
+]

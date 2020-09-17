@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "249397c8-9673-431c-bf08-347ff2fa4dd0",
+        "type": "message",
+        "text": "<https:\/\/imgur.com\/zIDOiHU>",
+        "user": "U48A8L25N",
+        "ts": "1572073570.005900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Imgur",
+                "title_link": "https:\/\/imgur.com\/zIDOiHU",
+                "text": "Post with 0 votes and 3 views.",
+                "fallback": "Imgur",
+                "image_url": "https:\/\/i.imgur.com\/zIDOiHU.jpg",
+                "image_width": 167,
+                "image_height": 250,
+                "from_url": "https:\/\/imgur.com\/zIDOiHU",
+                "image_bytes": 54079,
+                "service_icon": "http:\/\/s.imgur.com\/images\/favicon-152.png",
+                "service_name": "imgur.com",
+                "id": 1,
+                "original_url": "https:\/\/imgur.com\/zIDOiHU"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41ff0240-80ef-4125-9d38-f9a12ae9aff6",
+        "type": "message",
+        "text": "вот смотрите откуда это пошло с запретом месенджеров",
+        "user": "U48A8L25N",
+        "ts": "1572073590.006500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

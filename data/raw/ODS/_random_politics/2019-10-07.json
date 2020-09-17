@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "f80ab9a3-f760-4de6-a325-2014d5fc01c1",
+        "type": "message",
+        "text": "<https:\/\/www.dw.com\/ru\/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F\/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA\/s-40684034>",
+        "user": "UGTNTEBPV",
+        "ts": "1570467738.079200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DW.COM",
+                "title": "\"Заповедник\" - сатирическое шоу DW: итоги недели с юмором | DW",
+                "title_link": "https:\/\/www.dw.com\/ru\/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F\/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA\/s-40684034",
+                "text": "Сатира от DW: Волк, Заяц и Ворона живут в лесу где-то между Россией, Украиной и Евросоюзом, смотрят телевизор и обсуждают новости",
+                "fallback": "DW.COM: \"Заповедник\" - сатирическое шоу DW: итоги недели с юмором | DW",
+                "from_url": "https:\/\/www.dw.com\/ru\/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F\/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA\/s-40684034",
+                "service_icon": "https:\/\/www.dw.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.dw.com\/ru\/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F\/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA\/s-40684034"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48003b7b-937a-4033-aeb7-8407a69122a0",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=HbkfEo3sonw>",
+        "user": "U27HU84H4",
+        "ts": "1570483352.079500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Отношение к делу Устинова \/\/ Слияние с Беларусью \/\/ Вклады с отрицательной доходностью",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=HbkfEo3sonw",
+                "author_name": "MyGap",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCCROBQj3rdGNc-E_aMpbV_A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/HbkfEo3sonw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Отношение к делу Устинова \/\/ Слияние с Беларусью \/\/ Вклады с отрицательной доходностью",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/HbkfEo3sonw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=HbkfEo3sonw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=HbkfEo3sonw"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "putin",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

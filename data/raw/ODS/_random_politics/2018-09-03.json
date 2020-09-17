@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "B6834B9B-ACB9-4EA8-962B-1A01025B3860",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/novaya_gazeta\/status\/1036508765166731265?s=21>\nподдержите, эти ребята работают для общего блага. ",
+        "user": "U7KDVG6LS",
+        "ts": "1535962111.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5822454d50ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-18\/257865532977_5822454d50ec3be0e4cc_72.png",
+            "first_name": "",
+            "real_name": "Alexander",
+            "display_name": "liketheother",
+            "team": "T040HKJE3",
+            "name": "iminusd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/novaya_gazeta|@novaya_gazeta>: Сегодня мы хотим сказать четыре важных слова: «Стань соучастником «Новой газеты»!\n<http:\/\/www.novayagazeta.ru\/donate?utm_source=novaya&amp;utm_medium=tw&amp;utm_campaign=donate>",
+                "ts": 1535957921,
+                "author_name": "Новая Газета",
+                "author_link": "https:\/\/twitter.com\/novaya_gazeta\/status\/1036508765166731265",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/979800474009460736\/0et_eQ5F_normal.jpg",
+                "author_subname": "@novaya_gazeta",
+                "text": "Сегодня мы хотим сказать четыре важных слова: «Стань соучастником «Новой газеты»!\n<http:\/\/www.novayagazeta.ru\/donate?utm_source=novaya&amp;utm_medium=tw&amp;utm_campaign=donate>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/novaya_gazeta\/status\/1036508765166731265?s=21",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/novaya_gazeta\/status\/1036508765166731265?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

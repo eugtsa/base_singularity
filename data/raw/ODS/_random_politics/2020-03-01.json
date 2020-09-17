@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "4a8c6414-fc41-4e89-8b5a-4eb66bb2accc",
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/sunday_express_ssha_vydali_predvaritelnyj_order_na_arest_olega_tinkova-503825\/>",
+        "user": "U48A8L25N",
+        "ts": "1583133362.024300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Sunday Express: США выдали предварительный ордер на арест Олега Тинькова",
+                "title_link": "https:\/\/tvrain.ru\/news\/sunday_express_ssha_vydali_predvaritelnyj_order_na_arest_olega_tinkova-503825\/",
+                "text": "Американская прокуратура выдала предварительный ордер на арест бизнесмена Олега Тинькова по делу об уклонении от уплаты налогов, которое рассматривается в суде Лондона, сообщает британский таблоид Sunday Express, не указывая источники информации.",
+                "fallback": "Sunday Express: США выдали предварительный ордер на арест Олега Тинькова",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/50\/38\/25\/image.png?2020_03_02_08_37_00",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1583127416,
+                "from_url": "https:\/\/tvrain.ru\/news\/sunday_express_ssha_vydali_predvaritelnyj_order_na_arest_olega_tinkova-503825\/",
+                "image_bytes": 1008275,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/news\/sunday_express_ssha_vydali_predvaritelnyj_order_na_arest_olega_tinkova-503825\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xh2=s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tvrain.ru\/news\/sunday_express_ssha_vydali_predvaritelnyj_order_na_arest_olega_tinkova-503825\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tinkoff",
+                "users": [
+                    "U4DUJM693",
+                    "UELA14HSS",
+                    "UAH9H0R17"
+                ],
+                "count": 3
+            },
+            {
+                "name": "povorot",
+                "users": [
+                    "U2TP5JELS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "loh",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,414 @@
+[
+    {
+        "client_msg_id": "ba1c4ea7-b233-4f05-9f4d-d2c4c611b44f",
+        "type": "message",
+        "text": "&gt; уволиться сейчас для политика, мне кажется это жирный крестик на политической карьере\nТолько если карьера политика зависит напрямую от мнения граждан (иногда тех, которые его выбирали), но в реалиях РФ карьера политика зависит от мнения ровно одного гражданина.\nИ, к слову, так было и при СССР, по-видимому. Ходит байка (то есть я не искал источники для подтверждения кто это был), что в Перестройку какое-то подобие \"новогоднего обращения\" записывали главнокомандующие видов войск (или родов, не силен в военной терминологии) и телевизионщики что-то ему сказали про мнение народа или солдат, а он ответил, что ему важно только мнение того, кто поставил его на должность и может снять - Министра обороны.",
+        "user": "U27HU84H4",
+        "ts": "1585916324.045100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1585916589.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SH5O",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "уволиться сейчас для политика, мне кажется это жирный крестик на политической карьере"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Только если карьера политика зависит напрямую от мнения граждан (иногда тех, которые его выбирали), но в реалиях РФ карьера политика зависит от мнения ровно одного гражданина.\nИ, к слову, так было и при СССР, по-видимому. Ходит байка (то есть я не искал источники для подтверждения кто это был), что в Перестройку какое-то подобие \"новогоднего обращения\" записывали главнокомандующие видов войск (или родов, не силен в военной терминологии) и телевизионщики что-то ему сказали про мнение народа или солдат, а он ответил, что ему важно только мнение того, кто поставил его на должность и может снять - Министра обороны."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585869488.043400",
+        "parent_user_id": "UACAW8UT1"
+    },
+    {
+        "client_msg_id": "b5e57e3c-010b-47e3-b461-3b1e20190532",
+        "type": "message",
+        "text": "<https:\/\/www.rbc.ru\/economics\/03\/04\/2020\/5e8766099a794723a8097c72>",
+        "user": "U48A8L25N",
+        "ts": "1585934246.045900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Путин заявил о готовности сократить добычу нефти вместе с ОПЕК+ и США",
+                "title_link": "https:\/\/www.rbc.ru\/economics\/03\/04\/2020\/5e8766099a794723a8097c72",
+                "text": "Президент заявил о готовности «по-партнерски» сократить добычу примерно на 10 млн барр.\/сутки",
+                "fallback": "РБК: Путин заявил о готовности сократить добычу нефти вместе с ОПЕК+ и США",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/6\/10\/755859324472106.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/economics\/03\/04\/2020\/5e8766099a794723a8097c72",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 79294,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.2.37\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/economics\/03\/04\/2020\/5e8766099a794723a8097c72"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rbc.ru\/economics\/03\/04\/2020\/5e8766099a794723a8097c72"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5485879-68c3-4035-ad9f-956b5929fc4d",
+        "type": "message",
+        "text": "многоходовочка все",
+        "user": "U48A8L25N",
+        "ts": "1585934251.046300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "giquv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "многоходовочка все"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b01dd1f-21ea-4866-a479-70f2a605f90d",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/MrMaaay\/status\/1246003477458890753>",
+        "user": "U48A8L25N",
+        "ts": "1585935483.047300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/MrMaaay|@MrMaaay>: Бюджетники тоже плачут.\n\nВ «Прямой эфир» ТВК дозвонилась жительница Красноярска, работающая медсестрой в краевом медучреждении. \n\nОна рассказала, что ей снизят выплату за мартовские и апрельские «выходные без потери зарплаты», объявленные Путиным. Ее выплата составит 7200 рублей <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1245998352518402048\/pu\/img\/t7fuItSsetFpQ2n0.jpg>",
+                "ts": 1585905353,
+                "author_name": "A.C.A.B.",
+                "author_link": "https:\/\/twitter.com\/MrMaaay\/status\/1246003477458890753",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1155197372307259392\/NDCH-jT8_normal.jpg",
+                "author_subname": "@MrMaaay",
+                "text": "Бюджетники тоже плачут.\n\nВ «Прямой эфир» ТВК дозвонилась жительница Красноярска, работающая медсестрой в краевом медучреждении. \n\nОна рассказала, что ей снизят выплату за мартовские и апрельские «выходные без потери зарплаты», объявленные Путиным. Ее выплата составит 7200 рублей",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/MrMaaay\/status\/1246003477458890753",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1245998352518402048\/pu\/img\/t7fuItSsetFpQ2n0.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1245998352518402048\/pu\/img\/t7fuItSsetFpQ2n0.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1245998352518402048\/pu\/vid\/1280x720\/QGcUwQpsbvBVPZAt.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/MrMaaay\/status\/1246003477458890753",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "shw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/MrMaaay\/status\/1246003477458890753"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66edcf75-118f-4d34-84d5-1b7498823dc4",
+        "type": "message",
+        "text": "<https:\/\/pandemicbigbrother.online\/ru\/>",
+        "user": "U27HU84H4",
+        "ts": "1585944737.047600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Pandemic Big Brother",
+                "title_link": "https:\/\/pandemicbigbrother.online\/ru\/",
+                "text": "The pandemic gives new opportunities to Big Brother. We collect the information about restrictions of digital rights around the world. These restrictions must be lifted after the threat of coronavirus is gone.",
+                "fallback": "Pandemic Big Brother",
+                "image_url": "https:\/\/pandemicbigbrother.online\/static\/core\/img\/preview.png?v=2",
+                "from_url": "https:\/\/pandemicbigbrother.online\/ru\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 568243,
+                "service_icon": "https:\/\/pandemicbigbrother.online\/static\/core\/img\/covid.png?v=2",
+                "service_name": "pandemicbigbrother.online",
+                "id": 1,
+                "original_url": "https:\/\/pandemicbigbrother.online\/ru\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S45",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pandemicbigbrother.online\/ru\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bigbrother",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9553c04e-bc3f-4717-b432-91df4cb48db8",
+        "type": "message",
+        "text": "<https:\/\/2x2tv.ru\/blog\/old-and-insane\/>",
+        "user": "U27HU84H4",
+        "ts": "1585946116.047900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Телеканал 2x2",
+                "title": "10 игр, в которых дед едет кукухой",
+                "title_link": "https:\/\/2x2tv.ru\/blog\/old-and-insane\/",
+                "text": "В одной из наших карантинных статей составили список игр, в которых рассудок персонажа преклонного возраста отправляется в дальнюю дорогу.",
+                "fallback": "Телеканал 2x2: 10 игр, в которых дед едет кукухой",
+                "image_url": "https:\/\/2x2tv.ru\/upload\/iblock\/84b\/84b5389cd87bf2ccc7d9bb14442ad9cb.jpg",
+                "image_width": 479,
+                "image_height": 250,
+                "ts": 1585933600,
+                "from_url": "https:\/\/2x2tv.ru\/blog\/old-and-insane\/",
+                "image_bytes": 78274,
+                "service_icon": "https:\/\/2x2tv.ru\/images\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/2x2tv.ru\/blog\/old-and-insane\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EtI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/2x2tv.ru\/blog\/old-and-insane\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0cfb5af-b48f-46a5-82b4-792aca1d8b5e",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=lHgmDtaa6wM>",
+        "user": "U27HU84H4",
+        "ts": "1585952577.048200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Навальный: Путин должен уйти на карантин",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=lHgmDtaa6wM",
+                "author_name": "Навальный LIVE",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCgxTPTFbIbCWfTR9I2-5SeQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/lHgmDtaa6wM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Навальный: Путин должен уйти на карантин",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/lHgmDtaa6wM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=lHgmDtaa6wM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=lHgmDtaa6wM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZmphH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=lHgmDtaa6wM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "kolobok",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

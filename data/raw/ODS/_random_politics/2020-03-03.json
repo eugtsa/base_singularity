@@ -1,0 +1,176 @@
+[
+    {
+        "client_msg_id": "07e705ff-c7a5-44ce-90c7-e6770ed69c29",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2020\/03\/03\/nasha-strana-nasha-konstitutsiya-nashe-reshenie-tsik-vybral-slogan-golosovaniya-po-popravkam-v-konstitutsiyu> :el_risitas:",
+        "user": "U049HDR2Z",
+        "ts": "1583224325.030900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U049HDR2Z",
+            "ts": "1583224331.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yAw=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/news\/2020\/03\/03\/nasha-strana-nasha-konstitutsiya-nashe-reshenie-tsik-vybral-slogan-golosovaniya-po-popravkam-v-konstitutsiyu"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "el_risitas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33d76ae5-6e61-48d2-89a3-e8eeb01805ce",
+        "type": "message",
+        "text": "У Навального счета заблокировали, а вообще ему грех жаловаться. На других политических оппонентов Пу бомбы сбрасывает, а тут всего то счета заблокировали.\n<https:\/\/navalny.com\/p\/6305\/>",
+        "user": "UGTNTEBPV",
+        "ts": "1583240702.032800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Алексей Навальный",
+                "title": "Он снова стучит ножками. И теперь ворует деньги у моих родителей и детей",
+                "title_link": "https:\/\/navalny.com\/p\/6305\/",
+                "text": "Сижу вчера спокойно в офисе. Никого не трогаю. Смотрю материалы очередного расследования. Тут пишет жена: у меня все счета и карточки заблокированы, денег нет. Везде стоит «минус 75 миллионов рублей». Ты случайно никому не задолжал 75 миллионов?",
+                "fallback": "Алексей Навальный: Он снова стучит ножками. И теперь ворует деньги у моих родителей и детей",
+                "image_url": "https:\/\/st.navalny.com\/media\/sharing\/85469b533b894201a92a390ffb982107_be8uQX8.jpg",
+                "from_url": "https:\/\/navalny.com\/p\/6305\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 532779,
+                "service_icon": "https:\/\/navalny.com\/touch-icon-iphone.png",
+                "id": 1,
+                "original_url": "https:\/\/navalny.com\/p\/6305\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "У Навального счета заблокировали, а вообще ему грех жаловаться. На других политических оппонентов Пу бомбы сбрасывает, а тут всего то счета заблокировали.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/navalny.com\/p\/6305\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "217c6b0a-37a2-4a7a-bd1e-268aa01a37e9",
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/deputat_gosdumy_rasskazal_o_poseschenii_roddoma_v_arhangelskoj_oblasti_kotoryj_zakryli_dva_goda_nazad-503982\/>",
+        "user": "U48A8L25N",
+        "ts": "1583307080.033100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Депутат Госдумы рассказал о посещении роддома в Архангельской области, который закрыли два года назад",
+                "title_link": "https:\/\/tvrain.ru\/news\/deputat_gosdumy_rasskazal_o_poseschenii_roddoma_v_arhangelskoj_oblasti_kotoryj_zakryli_dva_goda_nazad-503982\/",
+                "text": "Депутат Госдумы от Архангельской области, член «Единой России» Дмитрий Юрков написал на своей странице во «ВКонтакте» о том, что посетил роддом в Каргополе и передал «новоиспеченным мамочкам» подарки для новорожденных. Однако родильное отделение в каргопольской больнице закрыли в 2018 году.",
+                "fallback": "Депутат Госдумы рассказал о посещении роддома в Архангельской области, который закрыли два года назад",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/50\/39\/82\/image.png?2020_03_04_10_10_48",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1583305844,
+                "from_url": "https:\/\/tvrain.ru\/news\/deputat_gosdumy_rasskazal_o_poseschenii_roddoma_v_arhangelskoj_oblasti_kotoryj_zakryli_dva_goda_nazad-503982\/",
+                "image_bytes": 713727,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/news\/deputat_gosdumy_rasskazal_o_poseschenii_roddoma_v_arhangelskoj_oblasti_kotoryj_zakryli_dva_goda_nazad-503982\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFH1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tvrain.ru\/news\/deputat_gosdumy_rasskazal_o_poseschenii_roddoma_v_arhangelskoj_oblasti_kotoryj_zakryli_dva_goda_nazad-503982\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

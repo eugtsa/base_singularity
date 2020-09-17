@@ -1,0 +1,478 @@
+[
+    {
+        "client_msg_id": "5da19e47-2ec6-4a44-b207-f9ea0b505542",
+        "type": "message",
+        "text": "то, что мертво умереть не может (ц)",
+        "user": "U2TP5JELS",
+        "ts": "1584345539.231000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hrK9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "то, что мертво умереть не может (ц)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584345539.231000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584418839.235800",
+        "reply_users": [
+            "UDSEN1N2E"
+        ],
+        "replies": [
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1584418839.235800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "87105821-6a49-404a-a8cd-c8a8d8852e1a",
+        "type": "message",
+        "text": "Да, правое, но не правовое",
+        "user": "UJUQAF96G",
+        "ts": "1584346809.231400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3863ed0bbe84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-18\/752196205714_3863ed0bbe845ba4c09a_72.png",
+            "first_name": "Danil",
+            "real_name": "Danil",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denemmy703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+dQQG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да, правое, но не правовое"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584298082.225500",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "246ea64b-a36d-47f2-86b5-6634a44412fe",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=nGeMlozNQsE>\n\n<https:\/\/www.youtube.com\/watch?v=MN74T1aNinY>",
+        "user": "U27HU84H4",
+        "ts": "1584382321.234200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Задержания на протесте против внесения поправок в Конституцию",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=nGeMlozNQsE",
+                "author_name": "Настоящее Время. DIGITAL",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCztZRXyQNaQuJZtS0GM95Zw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/nGeMlozNQsE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Задержания на протесте против внесения поправок в Конституцию",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/nGeMlozNQsE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=nGeMlozNQsE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=nGeMlozNQsE"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Интерактив, силовики задержали 23 человека во время пикетов против поправок в Конституцию",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=MN74T1aNinY",
+                "author_name": "Серебряный Дождь",
+                "author_link": "https:\/\/www.youtube.com\/user\/wwwsilverru",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MN74T1aNinY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Интерактив, силовики задержали 23 человека во время пикетов против поправок в Конституцию",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/MN74T1aNinY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=MN74T1aNinY",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=MN74T1aNinY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0QB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=nGeMlozNQsE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=MN74T1aNinY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19fc1ad3-f32a-4a6e-abad-e25cd52c143e",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=wULhyhBSIcw>",
+        "user": "U27HU84H4",
+        "ts": "1584385136.234600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Стрелок \/ Инициативы Росгварии \/\/ 16.03.20",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=wULhyhBSIcw",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wULhyhBSIcw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Стрелок \/ Инициативы Росгварии \/\/ 16.03.20",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/wULhyhBSIcw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=wULhyhBSIcw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=wULhyhBSIcw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=wULhyhBSIcw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb6e5b5e-ef43-44be-aa74-09c3caf3a514",
+        "type": "message",
+        "text": "<https:\/\/www.forbes.ru\/biznes\/394893-mesto-biznesa-do-2036-goda-kakoy-signal-poslal-putin-v-intervyu-tass>",
+        "user": "U27HU84H4",
+        "ts": "1584392592.235300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Forbes.ru",
+                "title": "Место бизнеса до 2036 года: какой сигнал послал Путин в интервью ТАСС | Бизнес | Forbes.ru",
+                "title_link": "https:\/\/www.forbes.ru\/biznes\/394893-mesto-biznesa-do-2036-goda-kakoy-signal-poslal-putin-v-intervyu-tass",
+                "text": "Перераспределением денег в государстве должны заниматься крупные госкомпании, а дело малого бизнеса — обслуживать их интересы. Это главное, что должны услышать предприниматели из последнего интервью Владимира Путина, считает эксперт Московского центра Карнеги Андрей Колесников.",
+                "fallback": "Forbes.ru: Место бизнеса до 2036 года: какой сигнал послал Путин в интервью ТАСС | Бизнес | Forbes.ru",
+                "image_url": "https:\/\/cdn.forbes.ru\/files\/sn-image\/394893_667937.jpeg",
+                "ts": 1584252061,
+                "from_url": "https:\/\/www.forbes.ru\/biznes\/394893-mesto-biznesa-do-2036-goda-kakoy-signal-poslal-putin-v-intervyu-tass",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 169224,
+                "service_icon": "https:\/\/www.forbes.ru\/themes\/forbes\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.forbes.ru\/biznes\/394893-mesto-biznesa-do-2036-goda-kakoy-signal-poslal-putin-v-intervyu-tass"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l3l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.forbes.ru\/biznes\/394893-mesto-biznesa-do-2036-goda-kakoy-signal-poslal-putin-v-intervyu-tass"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b3be46b-26c6-4c71-80b2-a2971d10c6b2",
+        "type": "message",
+        "text": "<https:\/\/www.forbes.ru\/newsroom\/obshchestvo\/395145-bloomberg-kreml-nachal-obsuzhdat-perenos-golosovaniya-po-konstitucii>",
+        "user": "U27HU84H4",
+        "ts": "1584392685.235600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Forbes.ru",
+                "title": "Bloomberg: Кремль начал обсуждать перенос голосования по конституции | Общество | Forbes.ru",
+                "title_link": "https:\/\/www.forbes.ru\/newsroom\/obshchestvo\/395145-bloomberg-kreml-nachal-obsuzhdat-perenos-golosovaniya-po-konstitucii",
+                "text": "Кремль задумался о переносе голосования по поправкам в конституцию с апреля на июнь из-за коронавируса, сообщили источники Bloomberg. Ранее о том, что голосование могут отложить на несколько месяцев, писали «Открытые медиа» и «Медуза», но Кремль эту информацию опроверг",
+                "fallback": "Forbes.ru: Bloomberg: Кремль начал обсуждать перенос голосования по конституции | Общество | Forbes.ru",
+                "image_url": "https:\/\/cdn.forbes.ru\/files\/sn-image\/395145_669001.jpeg",
+                "ts": 1584390360,
+                "from_url": "https:\/\/www.forbes.ru\/newsroom\/obshchestvo\/395145-bloomberg-kreml-nachal-obsuzhdat-perenos-golosovaniya-po-konstitucii",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 68948,
+                "service_icon": "https:\/\/www.forbes.ru\/themes\/forbes\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.forbes.ru\/newsroom\/obshchestvo\/395145-bloomberg-kreml-nachal-obsuzhdat-perenos-golosovaniya-po-konstitucii"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKXWI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.forbes.ru\/newsroom\/obshchestvo\/395145-bloomberg-kreml-nachal-obsuzhdat-perenos-golosovaniya-po-konstitucii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N",
+                    "U9ZU1CYUD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30934173-d284-46a4-a6ff-4492aa42387b",
+        "type": "message",
+        "text": ":(",
+        "user": "UDSEN1N2E",
+        "ts": "1584418839.235800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7ead48eb4ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/917ead48eb4ab8bcedbb454977143e60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stiv Yakovenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "stiv.yakovenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8x+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584345539.231000",
+        "parent_user_id": "U2TP5JELS"
+    },
+    {
+        "client_msg_id": "94e1eecf-e258-4708-ab53-b59cc17140aa",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2020\/03\/17\/sberbank-dogovorilsya-s-fsin-o-privlechenii-k-rabote-osuzhdennyh> :el_risitas:",
+        "user": "U049HDR2Z",
+        "ts": "1584427641.236200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U049HDR2Z",
+            "ts": "1584435662.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=DQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/news\/2020\/03\/17\/sberbank-dogovorilsya-s-fsin-o-privlechenii-k-rabote-osuzhdennyh"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "el_risitas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

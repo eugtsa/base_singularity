@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "871682cc-3fdb-4f68-9088-daa893003628",
+        "type": "message",
+        "text": "Очень понятный советский мульт (10 мин):\n<https:\/\/www.youtube.com\/watch?v=W6RajcFEsTA>",
+        "user": "U316J6CT1",
+        "ts": "1590353960.147700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "СКОРАЯ ПОМОЩЬ (1949) советский мультфильм",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=W6RajcFEsTA",
+                "author_name": "ЛЮБИМЫЕ МУЛЬТИКИ",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCHWGzNE-39u23vAX9QbCdMA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/W6RajcFEsTA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: СКОРАЯ ПОМОЩЬ (1949) советский мультфильм",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/W6RajcFEsTA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=W6RajcFEsTA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=W6RajcFEsTA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oes",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Очень понятный советский мульт (10 мин):\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=W6RajcFEsTA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,356 @@
+[
+    {
+        "client_msg_id": "d3029347-8702-4992-9efc-fb099e4230e0",
+        "type": "message",
+        "text": "<https:\/\/t.me\/taxidigest\/646>",
+        "user": "U27HU84H4",
+        "ts": "1589638587.131100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Telegram",
+                "title": "taxidigest - дайджест о такси",
+                "title_link": "https:\/\/t.me\/taxidigest\/646",
+                "text": "По ситуации <https:\/\/t.me\/taxidigest\/644> и <https:\/\/t.me\/itsorm\/1739> с передачей данных сервисов такси в Дептранс Москвы. Возник интересный казус: сервисы такси, которые уже передают данные в Дептранс, передают эти данные в незащищенном виде. Что вероятно нарушает требования статьи 19 152-ФЗ 2006 года \"О персональных данных\", если персональные данные передавались: \"Оператор при обработке персональных данных обязан принимать необходимые правовые, организационные и технические меры или обеспечивать их принятие для защиты персональных данных от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, предоставления, распространения персональных данных, а также от иных неправомерных действий в отношении персональных данных.\" и нарушает требования статьи 11 22-ФЗ 2009 года \"Защита информации о средствах навигации и об объектах навигационной деятельности от неправомерного доступа, уничтожения, модифицирования, блокирования, копирования, предоставления, распространения, а также от…",
+                "fallback": "Telegram: taxidigest - дайджест о такси",
+                "thumb_url": "https:\/\/cdn4.telesco.pe\/file\/eLGIGB2hqrfTkyXKlu3DusdABAVX9Ytb8Odg4YQj5Y1N-7EdowGlAEZNlyDeKcbrShTWhfxJiAtSs4vfBAZRa5oNHWC5jWgt3G7PZZ0T5cKtZ_ol-lTWJp_niSoYQTafZimAORXFbZQWYVe0NR6XLFNF5-G5StUWCrLZcueQjhnY5NGjEYkhT8SbYylhlGwj4f5nCM8SfqnCw9WrVf1Z_EG98j1213--jLkF6eCgnMzEn8Gwf86A3Fh0zkPCPaEyJ3oVHyzVDxb5t4Yevi6m7uZK3LRwxPmRXMvfV1KNtlkwT5-G8nDk8hZmtFxn-UYSi-ujiBJ9Y4xRuHrbBmc_Fg.jpg",
+                "from_url": "https:\/\/t.me\/taxidigest\/646",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "service_icon": "http:\/\/telegram.org\/favicon.ico?3",
+                "id": 1,
+                "original_url": "https:\/\/t.me\/taxidigest\/646"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p=jz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.me\/taxidigest\/646"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa80972c-33f1-41d7-8ee8-cf131334bd12",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Fnfpw7ffcm8>",
+        "user": "UQRRC9GCD",
+        "ts": "1589657857.131300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Их адрес - Советский Союз? В эфире НВТ ВрИО Президента СССР Тараскин С.В.",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Fnfpw7ffcm8",
+                "author_name": "Правовед ТВ",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC5_NvOmf7Lhs7wQM1L8tVBg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Fnfpw7ffcm8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Их адрес - Советский Союз? В эфире НВТ ВрИО Президента СССР Тараскин С.В.",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Fnfpw7ffcm8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Fnfpw7ffcm8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Fnfpw7ffcm8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VG+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Fnfpw7ffcm8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589485362.130400",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "3800d6f4-6fe4-48dd-9838-a05026c5b949",
+        "type": "message",
+        "text": "Ну 48 минут разбора же :wink: и все в негативе на Гуриева. Смотри с любой точки",
+        "user": "U28J6CP29",
+        "ts": "1589664645.131600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d6a6aaaca1ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-07\/432337025062_d6a6aaaca1ca5a8db337_72.jpg",
+            "first_name": "Datalove",
+            "real_name": "Datalove is not a crime",
+            "display_name": "datalove_isnt_a_crime",
+            "team": "T040HKJE3",
+            "name": "datalove_isnt_a_crime",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U28J6CP29",
+            "ts": "1589664666.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/6IG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну 48 минут разбора же "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            },
+                            {
+                                "type": "text",
+                                "text": " и все в негативе на Гуриева. Смотри с любой точки"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574593412.020500",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "0abfa38c-f2c2-4593-850f-64a21000e304",
+        "type": "message",
+        "text": "вот я и потыкал весь ролик - выдергивает из контекста любую фразу и начинает нести какую-то мало связанную с Гуриевым отсебятину (даже может не отсебятину, а альтернативщину, которую в более связном виде можно послушать у Хазина). Ну Гуриев не для аудитории, этого непонятного комментатора вещает... ну всем не угодишь.\nпример. Гуриев в процессе обсуждения предсказательной способности экономики как науки выбрал фразу, что \"одно из достижений экономики, что кризис предсказать невозможно\", дальше идет углубление в смысл этой фразы, в смысл слова \"достижение\", возможно даже. А ведущий из \"<https:\/\/www.youtube.com\/channel\/UCu5t06DmBN47DJ9K0MM-DBg|психология спекулянта 4traders>\" только одну эту фразу и обсасывает на 36-37 минуте.  И в оригинальном интервью дискуссия была на ту же тему в общем. И тут и без всяких комментаторов видно, что можно разделить слушателей \"по этому вопросу\" на минимум два лагеря - тех кто \"знает свою дозу\" или границы применяемых методов  и тех кто готов с шашкой наголо браться за неразрешимые этими методами задачи и давать далекоидущие обещания и прогнозы. Гуриев это часто говорит, в чуть более глубоком виде в интервью на канале c выпускниками МФТИ: на тайминге 52:36 <https:\/\/youtu.be\/L93gEPuWOpU?t=3156> в конце ответа на вопрос про прогнозы и прогнозистов.",
+        "user": "U27HU84H4",
+        "ts": "1589667977.131900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1589667992.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Сергей Гуриев: «Перспективы российской и мировой экономики»",
+                "title_link": "https:\/\/youtu.be\/L93gEPuWOpU?t=3156",
+                "author_name": "МФТИ — Физтех",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCGJzpMyR6xRGN05hR_VpKGg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/L93gEPuWOpU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Сергей Гуриев: «Перспективы российской и мировой экономики»",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/L93gEPuWOpU?start=3156&feature=oembed&start=3156&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/L93gEPuWOpU?t=3156",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/youtu.be\/L93gEPuWOpU?t=3156"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R7z2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "вот я и потыкал весь ролик - выдергивает из контекста любую фразу и начинает нести какую-то мало связанную с Гуриевым отсебятину (даже может не отсебятину, а альтернативщину, которую в более связном виде можно послушать у Хазина). Ну Гуриев не для аудитории, этого непонятного комментатора вещает... ну всем не угодишь.\nпример. Гуриев в процессе обсуждения предсказательной способности экономики как науки выбрал фразу, что \"одно из достижений экономики, что кризис предсказать невозможно\", дальше идет углубление в смысл этой фразы, в смысл слова \"достижение\", возможно даже. А ведущий из \""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/channel\/UCu5t06DmBN47DJ9K0MM-DBg",
+                                "text": "психология спекулянта 4traders"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" только одну эту фразу и обсасывает на 36-37 минуте.  И в оригинальном интервью дискуссия была на ту же тему в общем. И тут и без всяких комментаторов видно, что можно разделить слушателей \"по этому вопросу\" на минимум два лагеря - тех кто \"знает свою дозу\" или границы применяемых методов  и тех кто готов с шашкой наголо браться за неразрешимые этими методами задачи и давать далекоидущие обещания и прогнозы. Гуриев это часто говорит, в чуть более глубоком виде в интервью на канале c выпускниками МФТИ: на тайминге 52:36 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/L93gEPuWOpU?t=3156"
+                            },
+                            {
+                                "type": "text",
+                                "text": " в конце ответа на вопрос про прогнозы и прогнозистов."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574593412.020500",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "b7bde181-e671-425b-afa0-0c24a0b3f791",
+        "type": "message",
+        "text": "Плохой сигнал - канал, который посматривал эту неделю. Контент более чем достойный.\n\nВот выпуск сентября 2017го года, который я посмотрел прошлым воскресеньем, после Дня Победы:\n<https:\/\/youtu.be\/Z7JxId0eefA>\n\nДосмотрел до конца. Я прослезился.\n\nВот сильный момент про поздравление ветеранов (минут ~7-10)\n<https:\/\/youtu.be\/Z7JxId0eefA?t=1132>",
+        "user": "U316J6CT1",
+        "ts": "1589696148.136400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U316J6CT1",
+            "ts": "1589696167.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Страсти по Георгию. Битва символов и смыслов",
+                "title_link": "https:\/\/youtu.be\/Z7JxId0eefA?t=1132",
+                "author_name": "Плохой сигнал",
+                "author_link": "https:\/\/www.youtube.com\/user\/tubushow",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Z7JxId0eefA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Страсти по Георгию. Битва символов и смыслов",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Z7JxId0eefA?start=1132&feature=oembed&start=1132&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/Z7JxId0eefA?t=1132",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/youtu.be\/Z7JxId0eefA?t=1132"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfGx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Плохой сигнал - канал, который посматривал эту неделю. Контент более чем достойный.\n\nВот выпуск сентября 2017го года, который я посмотрел прошлым воскресеньем, после Дня Победы:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/Z7JxId0eefA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nДосмотрел до конца. Я прослезился.\n\nВот сильный момент про поздравление ветеранов (минут ~7-10)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/Z7JxId0eefA?t=1132"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589696148.136400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589729264.136900",
+        "reply_users": [
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "U316J6CT1",
+                "ts": "1589729264.136900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tldr",
+                "users": [
+                    "U7VBNMG2F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "vatnik",
+                "users": [
+                    "UAG21HMV4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

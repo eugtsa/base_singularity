@@ -1,0 +1,438 @@
+[
+    {
+        "client_msg_id": "9316bb0c-76bc-4b29-b45e-c49e2e8d367c",
+        "type": "message",
+        "text": "<https:\/\/www.znak.com\/2019-09-16\/v_buryatii_sotrudnik_rosgvardii_prizval_kolleg_ne_zaderzhivat_mirnyh_mitinguyuchih>",
+        "user": "U48A8L25N",
+        "ts": "1568631465.005800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В Бурятии сотрудник Росгвардии призвал коллег не задерживать мирных митингующих",
+                "title_link": "https:\/\/www.znak.com\/2019-09-16\/v_buryatii_sotrudnik_rosgvardii_prizval_kolleg_ne_zaderzhivat_mirnyh_mitinguyuchih",
+                "text": "В Бурятии сотрудник Росгвардии записал видеообращение к коллегам, в котором призвал не выполнять заведомо преступных приказов и не задерживать участников мирных акций протеста",
+                "fallback": "В Бурятии сотрудник Росгвардии призвал коллег не задерживать мирных митингующих",
+                "image_url": "https:\/\/img.znak.com\/og176079.png",
+                "from_url": "https:\/\/www.znak.com\/2019-09-16\/v_buryatii_sotrudnik_rosgvardii_prizval_kolleg_ne_zaderzhivat_mirnyh_mitinguyuchih",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 183916,
+                "service_icon": "https:\/\/www.znak.com\/favicon.png",
+                "service_name": "znak.com",
+                "id": 1,
+                "original_url": "https:\/\/www.znak.com\/2019-09-16\/v_buryatii_sotrudnik_rosgvardii_prizval_kolleg_ne_zaderzhivat_mirnyh_mitinguyuchih"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d340c9d4-27f8-49f9-aad9-e22faacf8354",
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1568631468.006100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6c722c21-a904-4d93-9372-97f2f2a87628",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/feature\/2019\/09\/16\/aktera-pavla-ustinova-prigovorili-k-trem-s-polovinoy-godam-za-aktsiyu-3-avgusta-posle-ego-zaderzhaniya-rosgvardeets-pozhalovalsya-na-vyvih?utm_source=website&amp;utm_medium=push&amp;utm_campaign=browser_news>",
+        "user": "U48A8L25N",
+        "ts": "1568631617.006300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Актера Павла Устинова приговорили к трем с половиной годам за акцию 3 августа. После его задержания росгвардеец пожаловался на вывих — Meduza",
+                "title_link": "https:\/\/meduza.io\/feature\/2019\/09\/16\/aktera-pavla-ustinova-prigovorili-k-trem-s-polovinoy-godam-za-aktsiyu-3-avgusta-posle-ego-zaderzhaniya-rosgvardeets-pozhalovalsya-na-vyvih?utm_source=website&utm_medium=push&utm_campaign=browser_news",
+                "text": "Судья Тверского суда Москвы Алексей Криворучко приговорил начинающего актера Павла Устинова к трем годам и шести месяцам колонии общего режима по обвинению в нападении на бойца Росгвардии на акции 3 августа. Прокурор просила дать Устинову шесть лет.",
+                "fallback": "Meduza: Актера Павла Устинова приговорили к трем с половиной годам за акцию 3 августа. После его задержания росгвардеец пожаловался на вывих — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1568628108\/feature\/2019\/09\/16\/aktera-pavla-ustinova-prigovorili-k-trem-s-polovinoy-godam-za-aktsiyu-3-avgusta-posle-ego-zaderzhaniya-rosgvardeets-pozhalovalsya-na-vyvih",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/feature\/2019\/09\/16\/aktera-pavla-ustinova-prigovorili-k-trem-s-polovinoy-godam-za-aktsiyu-3-avgusta-posle-ego-zaderzhaniya-rosgvardeets-pozhalovalsya-na-vyvih?utm_source=website&utm_medium=push&utm_campaign=browser_news",
+                "image_bytes": 367496,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/feature\/2019\/09\/16\/aktera-pavla-ustinova-prigovorili-k-trem-s-polovinoy-godam-za-aktsiyu-3-avgusta-posle-ego-zaderzhaniya-rosgvardeets-pozhalovalsya-na-vyvih?utm_source=website&amp;utm_medium=push&amp;utm_campaign=browser_news"
+            }
+        ],
+        "thread_ts": "1568631617.006300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1568633945.007800",
+        "reply_users": [
+            "U3AG4B1N1",
+            "UBRKXHMJB",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1568631643.006500"
+            },
+            {
+                "user": "UBRKXHMJB",
+                "ts": "1568633449.007600"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568633945.007800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f959c36b-cfec-4f02-a51a-27bfea1d1714",
+        "type": "message",
+        "text": "перегибы на местах. Владимир Владимирович во всём разберётся",
+        "user": "U3AG4B1N1",
+        "ts": "1568631643.006500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568631617.006300",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4427f6a8-4a4e-4310-bf96-0c2d847f9b09",
+        "type": "message",
+        "text": "&gt; В Москве мужчину, ударившего полицейского ножом, приговорили к полутора годам колонии\n&gt; Кирилла Жукова, прикоснувшегося к шлему росгвардейца, посадили на три года.",
+        "user": "U48A8L25N",
+        "ts": "1568632743.007200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568632743.007200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568636862.008500",
+        "reply_users": [
+            "U5H0L5T98"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1568636862.008500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U3AG4B1N1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "i_know_that_feel",
+                "users": [
+                    "U3AG4B1N1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b0239a7-47e6-4e50-9844-809a83919200",
+        "type": "message",
+        "text": "Владимир Владимирович ни о чём не знал!",
+        "user": "UBRKXHMJB",
+        "ts": "1568633449.007600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de59d1f494ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-10\/597490261649_de59d1f494ad69f0a2c2_72.jpg",
+            "first_name": "Daniil",
+            "real_name": "Daniil Barysevich",
+            "display_name": "devvindan",
+            "team": "T040HKJE3",
+            "name": "devvindan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568631617.006300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "95f4efbe-72cb-49ec-8860-bf91bc28fb15",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/adagamov\/status\/1172451809182593024>",
+        "user": "U48A8L25N",
+        "ts": "1568633945.007800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/adagamov|@adagamov>: И еще раз видео с атакой на Аксенова. Здесь хорошо видно, как бандит, набросившийся на него, сам не удержался на ногах и подвернул себе руку (или что там у него заболело). <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1172451699384037376\/pu\/img\/UR17RNol8XpkCY90.jpg>",
+                "ts": 1568369269,
+                "author_name": "Roustem Adagamov",
+                "author_link": "https:\/\/twitter.com\/adagamov\/status\/1172451809182593024",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/853555737125158912\/tmlNGV9s_normal.jpg",
+                "author_subname": "@adagamov",
+                "text": "И еще раз видео с атакой на Аксенова. Здесь хорошо видно, как бандит, набросившийся на него, сам не удержался на ногах и подвернул себе руку (или что там у него заболело).",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/adagamov\/status\/1172451809182593024",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1172451699384037376\/pu\/img\/UR17RNol8XpkCY90.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1172451699384037376\/pu\/img\/UR17RNol8XpkCY90.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1172451699384037376\/pu\/vid\/1280x720\/Xuh0vWYFqolWFJeS.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/adagamov\/status\/1172451809182593024",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1568631617.006300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "d46af362-7166-41d1-8408-9a49cb09047b",
+        "type": "message",
+        "text": "<https:\/\/www.forbes.ru\/obshchestvo\/383555-zasluga-artemiya-lebedeva-i-divannyh-patriotov-pochemu-materi-beslana-zakryli>",
+        "user": "U48A8L25N",
+        "ts": "1568636440.008300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Forbes.ru",
+                "title": "Заслуга Артемия Лебедева и диванных патриотов: почему «Матери Беслана» закрыли счет для пожертвований | Общество | Forbes.ru",
+                "title_link": "https:\/\/www.forbes.ru\/obshchestvo\/383555-zasluga-artemiya-lebedeva-i-divannyh-patriotov-pochemu-materi-beslana-zakryli",
+                "text": "Многие спрашивают меня, почему общественный комитет «Матери Беслана» закрыл счет для сбора пожертвований. Так вышло, что я оказалась причастной к этой истории, и теперь мне приходится отвечать на эти вопросы.",
+                "fallback": "Forbes.ru: Заслуга Артемия Лебедева и диванных патриотов: почему «Матери Беслана» закрыли счет для пожертвований | Общество | Forbes.ru",
+                "image_url": "https:\/\/cdn.forbes.ru\/files\/sn-image\/383555_574115.jpeg",
+                "ts": 1568445853,
+                "from_url": "https:\/\/www.forbes.ru\/obshchestvo\/383555-zasluga-artemiya-lebedeva-i-divannyh-patriotov-pochemu-materi-beslana-zakryli",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 209300,
+                "service_icon": "https:\/\/www.forbes.ru\/themes\/forbes\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.forbes.ru\/obshchestvo\/383555-zasluga-artemiya-lebedeva-i-divannyh-patriotov-pochemu-materi-beslana-zakryli"
+            }
+        ],
+        "thread_ts": "1568636440.008300",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1568730367.024400",
+        "reply_users": [
+            "U7H91LHAA"
+        ],
+        "replies": [
+            {
+                "user": "U7H91LHAA",
+                "ts": "1568729107.024200"
+            },
+            {
+                "user": "U7H91LHAA",
+                "ts": "1568730367.024400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bee686aa-7fd5-4456-a06f-e287bbb8713e",
+        "type": "message",
+        "text": "Какие же они мерзкие.",
+        "user": "U5H0L5T98",
+        "ts": "1568636862.008500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568632743.007200",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "coincidence",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de1026d0-bae3-432a-9dfa-76dfa66e899e",
+        "type": "message",
+        "text": "Сегодня встречался со знакомой, которая на первом курсе вступила в Коммунистическую Партию Беларуси. Так как средний возраст там порядка 70 лет, она одна среди толпы пенсионеров. Недавно они ездили на какое-то парт собрание в соседний город (80 километров) и арендовали маршрутку. За время поездки (пока заодно собирали членов партии по дачам) они успели сделать 4 остановки (кроме дач!), каждый раз деды накрывали поляну с водкой и колбаской. С ней им как-то сначала было неловко пить (хотя 18 есть, все дела), так что какой-то дед купил ей мороженое. В одной руке рюмка водки, а в другой мороженое. И каждый тост, конечно же, за Ленина и в этом духе. А какая-то бабушка после 5 минут знакомства уже предлагала переехать к ней. Вот это я понимаю, душевная партия :dushevnost:",
+        "user": "UBRKXHMJB",
+        "ts": "1568657693.013700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "de59d1f494ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-10\/597490261649_de59d1f494ad69f0a2c2_72.jpg",
+            "first_name": "Daniil",
+            "real_name": "Daniil Barysevich",
+            "display_name": "devvindan",
+            "team": "T040HKJE3",
+            "name": "devvindan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UBRKXHMJB",
+            "ts": "1568657735.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UGTNTEBPV",
+                    "UCFT73AGM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N",
+                    "UCFT73AGM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ussr",
+                "users": [
+                    "U5H0L5T98",
+                    "U27SUBTB9",
+                    "UCFT73AGM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U27SUBTB9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

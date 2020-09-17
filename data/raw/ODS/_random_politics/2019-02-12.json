@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "85acb2b9-0d46-4afc-953f-b1c51435e5bf",
+        "type": "message",
+        "text": "а как же Саратов и Новосибирск?",
+        "user": "U316J6CT1",
+        "ts": "1549971892.000800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1549228601.007200",
+        "parent_user_id": "U5H0L5T98",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U5H0L5T98",
+                    "U48A8L25N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15cce96e-1d4d-4b5b-a511-90b85ce93a42",
+        "type": "message",
+        "text": "А что со спросом на образование в России?",
+        "user": "U316J6CT1",
+        "ts": "1549997523.001200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1549228601.007200",
+        "parent_user_id": "U5H0L5T98"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/zen.yandex.ru\/media\/id\/5abd64098c8be385c3353b45\/neironnaia-set-rasschitala-realnyi-procent-oppozicii-v-rossii-5acf504c9b403c9b7e0db09e>",
+        "user": "U26MCSB8A",
+        "ts": "1523900925.000223",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a129a02c25b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-23\/441372855269_a129a02c25b773959ad2_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew",
+            "display_name": "ambudance",
+            "team": "T040HKJE3",
+            "name": "ambudance",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Яндекс Дзен | Платформа для авторов, издателей и брендов",
+                "title": "Нейронная сеть рассчитала реальный процент оппозиции в России",
+                "title_link": "https:\/\/zen.yandex.ru\/media\/id\/5abd64098c8be385c3353b45\/neironnaia-set-rasschitala-realnyi-procent-oppozicii-v-rossii-5acf504c9b403c9b7e0db09e",
+                "text": "Что точнее - нейросеть или соцопросы?",
+                "fallback": "Яндекс Дзен | Платформа для авторов, издателей и брендов: Нейронная сеть рассчитала реальный процент оппозиции в России",
+                "image_url": "https:\/\/avatars.mds.yandex.net\/get-zen_doc\/26916\/pub_5ad3e4da12499200b615b64e_5ad3e4da12499200b615b64f\/orig",
+                "from_url": "https:\/\/zen.yandex.ru\/media\/id\/5abd64098c8be385c3353b45\/neironnaia-set-rasschitala-realnyi-procent-oppozicii-v-rossii-5acf504c9b403c9b7e0db09e",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 988552,
+                "service_icon": "http:\/\/yastatic.net\/zen-logos\/files\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/zen.yandex.ru\/media\/id\/5abd64098c8be385c3353b45\/neironnaia-set-rasschitala-realnyi-procent-oppozicii-v-rossii-5acf504c9b403c9b7e0db09e"
+            }
+        ],
+        "thread_ts": "1523900925.000223",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1524083207.000034",
+        "reply_users": [
+            "U70T87GMA",
+            "U11C2B2V8"
+        ],
+        "replies": [
+            {
+                "user": "U70T87GMA",
+                "ts": "1523908204.000280"
+            },
+            {
+                "user": "U11C2B2V8",
+                "ts": "1524083207.000034"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U48A8L25N",
+                    "U70T87GMA",
+                    "U1LNBRZ29",
+                    "U2ZLY7GKG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "yandex",
+                "users": [
+                    "U70T87GMA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "facepalm",
+                "users": [
+                    "U11C2B2V8",
+                    "U2F96NMPF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "470f341f-c185-453f-8a94-beda1725dc4d",
+        "type": "message",
+        "text": "Интересно было бы отсортировать своих друзей по степени консервативности. И свои группы-сообщества по среднему показателю.",
+        "user": "U70T87GMA",
+        "ts": "1523908204.000280",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gd363bd50686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b7d363bd50686a9d328c3ec726d38276.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "anton",
+            "real_name": "anton petrov",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "senseless",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1523900925.000223",
+        "parent_user_id": "U26MCSB8A"
+    }
+]

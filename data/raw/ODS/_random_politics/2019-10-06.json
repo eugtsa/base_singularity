@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "c932296d-1201-4f1b-828c-24a36d435675",
+        "type": "message",
+        "text": "Три несвязанные между собой события.\n\n<https:\/\/www.youtube.com\/watch?v=QVPKHxf53R8>\n\n<https:\/\/tsargrad.tv\/news\/bez-fokusov-s-putinam-prezidentmenjaet-pravitelstvo-chtoby-zastavit-rabotat-istochnik_219893>\n\n<https:\/\/www.rbc.ru\/politics\/07\/10\/2019\/5d9a61e59a794770cd19cafa?utm_source=yxnews&amp;utm_medium=desktop&amp;utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews>",
+        "user": "UGTNTEBPV",
+        "ts": "1570403080.078700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Путин: слюнтяй не может быть президентом России",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=QVPKHxf53R8",
+                "author_name": "СЕГОДНЯ",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCRHhScZmH-SfBin8tbTixPA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/QVPKHxf53R8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Путин: слюнтяй не может быть президентом России",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/QVPKHxf53R8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=QVPKHxf53R8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=QVPKHxf53R8"
+            },
+            {
+                "service_name": "Царьград",
+                "title": "\"Без фокусов\" с Путиным: президент меняет правительство, чтобы заставить работать - источник",
+                "title_link": "https:\/\/tsargrad.tv\/news\/bez-fokusov-s-putinam-prezidentmenjaet-pravitelstvo-chtoby-zastavit-rabotat-istochnik_219893",
+                "text": "Президент, по словам источника, меняет правительство, чтобы заставить работать. Большая реформа случится уже в октябре. Таким образом, исполнять задачи придется \"без фокусов\".",
+                "fallback": "Царьград: \"Без фокусов\" с Путиным: президент меняет правительство, чтобы заставить работать - источник",
+                "image_url": "https:\/\/img.tsargrad.tv\/cache\/5\/9\/1_20191002_gaf_rk70_019.jpg\/w1056h594fill.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1570085700,
+                "from_url": "https:\/\/tsargrad.tv\/news\/bez-fokusov-s-putinam-prezidentmenjaet-pravitelstvo-chtoby-zastavit-rabotat-istochnik_219893",
+                "image_bytes": 98705,
+                "service_icon": "https:\/\/tsargrad.tv\/favicons\/apple-touch-icon-57x57.png?v3",
+                "id": 2,
+                "original_url": "https:\/\/tsargrad.tv\/news\/bez-fokusov-s-putinam-prezidentmenjaet-pravitelstvo-chtoby-zastavit-rabotat-istochnik_219893"
+            },
+            {
+                "service_name": "РБК",
+                "title": "Появилось видео похода Путина и Шойгу за грибами в тайгу",
+                "title_link": "https:\/\/www.rbc.ru\/politics\/07\/10\/2019\/5d9a61e59a794770cd19cafa?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews",
+                "text": "В канун своего 67-летия российский президент побывал в сибирской тайге, где, по словам Дмитрия Пескова, наслаждался природой. Компанию Владимиру Путину составил Сергей Шойгу",
+                "fallback": "РБК: Появилось видео похода Путина и Шойгу за грибами в тайгу",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/5\/70\/755703990868705.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/politics\/07\/10\/2019\/5d9a61e59a794770cd19cafa?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 68831,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.1.125\/images\/apple-touch-icon-60x60.png",
+                "id": 3,
+                "original_url": "https:\/\/www.rbc.ru\/politics\/07\/10\/2019\/5d9a61e59a794770cd19cafa?utm_source=yxnews&amp;utm_medium=desktop&amp;utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66ba9220-b88d-4214-ae46-fcff8dcaebe7",
+        "type": "message",
+        "text": ":facepalm:",
+        "user": "U48A8L25N",
+        "ts": "1570429359.079000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

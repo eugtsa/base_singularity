@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "6261752d-ab4c-409c-8e74-2f2399c26b59",
+        "type": "message",
+        "text": "Вывод очевиден - берешь с собой на улицу - взвешивай точнее",
+        "user": "UFDMALG6P",
+        "ts": "1560325870.028700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560293148.027900",
+        "parent_user_id": "U4P10HEJV"
+    },
+    {
+        "client_msg_id": "2c392023-6935-49a5-9c79-7d3a615c1c0e",
+        "type": "message",
+        "text": "А если недовес или вообще забыл, то добрые люди помогут",
+        "user": "U4P10HEJV",
+        "ts": "1560326095.028900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01e472bffb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/16b01e472bffbd6cb5ddb12043221532.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ponomarchuk",
+            "display_name": "yaxen",
+            "team": "T040HKJE3",
+            "name": "yaxeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560293148.027900",
+        "parent_user_id": "U4P10HEJV",
+        "reactions": [
+            {
+                "name": "dushevnost",
+                "users": [
+                    "UFDMALG6P",
+                    "U5H055U0J",
+                    "UGECJNQ7J",
+                    "U7KDVG6LS",
+                    "UC7F3KJ7P"
+                ],
+                "count": 5
+            },
+            {
+                "name": "el_risitas",
+                "users": [
+                    "UGECJNQ7J",
+                    "UDSEN1N2E",
+                    "U7KDVG6LS",
+                    "UC7F3KJ7P",
+                    "U1HHX1QS3"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,630 @@
+[
+    {
+        "client_msg_id": "7bab26a9-ae7a-47e6-b32d-0ecfea43294d",
+        "type": "message",
+        "text": "Наконец то дождался,\n<https:\/\/www.levada.ru\/2020\/05\/06\/odobrenie-institutov-vlasti-i-doverie-politikam\/>\nПо результатам телефонного опроса -10 п.п. у :putin:\nНоовость опубликовала \"Ведомости\", но щас там ошибка 404.\n<https:\/\/www.vedomosti.ru\/politics\/news\/2020\/05\/06\/829651-levada-tsentr>\nЦензура.",
+        "user": "UGTNTEBPV",
+        "ts": "1588769380.105600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1588770440.000000"
+        },
+        "attachments": [
+            {
+                "title": "Одобрение институтов власти и доверие политикам",
+                "title_link": "https:\/\/www.levada.ru\/2020\/05\/06\/odobrenie-institutov-vlasti-i-doverie-politikam\/",
+                "text": "В апреле 2020 г. уровень одобрения деятельности президента составил 59%. Лев Гудков о динамике одобрения основных институтов власти и доверия к ним.",
+                "fallback": "Одобрение институтов власти и доверие политикам",
+                "image_url": "https:\/\/www.levada.ru\/cp\/wp-content\/uploads\/2015\/07\/cropped-canstockphoto0615505.jpg",
+                "from_url": "https:\/\/www.levada.ru\/2020\/05\/06\/odobrenie-institutov-vlasti-i-doverie-politikam\/",
+                "image_width": 1000,
+                "image_height": 249,
+                "image_bytes": 125106,
+                "service_name": "levada.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.levada.ru\/2020\/05\/06\/odobrenie-institutov-vlasti-i-doverie-politikam\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yW\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Наконец то дождался,\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.levada.ru\/2020\/05\/06\/odobrenie-institutov-vlasti-i-doverie-politikam\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nПо результатам телефонного опроса -10 п.п. у "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "putin"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nНоовость опубликовала \"Ведомости\", но щас там ошибка 404.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vedomosti.ru\/politics\/news\/2020\/05\/06\/829651-levada-tsentr"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nЦензура."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588769380.105600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1588771877.106800",
+        "reply_users": [
+            "U7166RP99",
+            "UGTNTEBPV"
+        ],
+        "replies": [
+            {
+                "user": "U7166RP99",
+                "ts": "1588771284.106600"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1588771877.106800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "small",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a62b825-f551-4512-a3a6-7c776272b5d2",
+        "type": "message",
+        "text": "Тут стоить добавить что реальный рейтинг отражает таблица 4, а все, что выше - это прямые наводящие вопросы . Можно было бы сформулировать вопрос наоборот:\" согласны ли вы, что путину пора на пенсию?\". Я бы с удовольствием взглянул на результаты такого опроса. Но, боюсь, Леваде пришлось бы закрыться",
+        "user": "U7166RP99",
+        "ts": "1588771284.106600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gada60109e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7ada60109e28b89cce896b631d779a2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Dmitrii",
+            "real_name": "Dmitrii",
+            "display_name": "dmitrii",
+            "team": "T040HKJE3",
+            "name": "dimytr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QYk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Тут стоить добавить что реальный рейтинг отражает таблица 4, а все, что выше - это прямые наводящие вопросы . Можно было бы сформулировать вопрос наоборот:\" согласны ли вы, что путину пора на пенсию?\". Я бы с удовольствием взглянул на результаты такого опроса. Но, боюсь, Леваде пришлось бы закрыться"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588769380.105600",
+        "parent_user_id": "UGTNTEBPV"
+    },
+    {
+        "client_msg_id": "bcb8507b-d3b7-46d9-a8a7-7aca229131fb",
+        "type": "message",
+        "text": "ВЦИОМ держит оборону. Уж май настал а опросов всё нет.",
+        "user": "UGTNTEBPV",
+        "ts": "1588771877.106800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1588771992.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZtJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ВЦИОМ держит оборону. Уж май настал а опросов всё нет."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588769380.105600",
+        "parent_user_id": "UGTNTEBPV"
+    },
+    {
+        "client_msg_id": "a81ccbc0-94d0-4d87-b19c-90891304302e",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/IS--33bZ84A> И это в стране победившей демократии!",
+        "user": "UQRRC9GCD",
+        "ts": "1588792393.107800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQRRC9GCD",
+            "ts": "1588792426.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Политика черт побери что он несет",
+                "title_link": "https:\/\/youtu.be\/IS--33bZ84A",
+                "author_name": "Виктор Венков",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCRJ69dExLfni5q8mcfucGdQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/IS--33bZ84A\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Политика черт побери что он несет",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/IS--33bZ84A?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/IS--33bZ84A",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/IS--33bZ84A"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gUGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/IS--33bZ84A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " И это в стране победившей демократии!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588792393.107800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1588811667.110200",
+        "reply_users": [
+            "U9GUF2PN2"
+        ],
+        "replies": [
+            {
+                "user": "U9GUF2PN2",
+                "ts": "1588811667.110200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0134M9P1QV",
+                "created": 1588792567,
+                "timestamp": 1588792567,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQRRC9GCD",
+                "editable": false,
+                "size": 202506,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F0134M9P1QV\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F0134M9P1QV\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134M9P1QV-85a61dcbf3\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134M9P1QV-85a61dcbf3\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134M9P1QV-85a61dcbf3\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 145,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134M9P1QV-85a61dcbf3\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 194,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134M9P1QV-85a61dcbf3\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134M9P1QV-85a61dcbf3\/image_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 291,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134M9P1QV-85a61dcbf3\/image_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 323,
+                "original_w": 832,
+                "original_h": 336,
+                "thumb_tiny": "AwATADC2qt5p5XYR68j8KftH9\/8AlQMk9P0FJ8390\/kKAJBsx1Wj5P8AZpm0gdP0FGOORk\/7ooAf8n+zVZPN+0PnaYsflU2D7\/8AfIowewI49BQA0cjkD8qX8Bz7Ui9B9KKRAceg\/KjA9B+VLRQFwB29MD8KC7YPNIaQ9DQB\/9k=",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UQRRC9GCD\/F0134M9P1QV\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F0134M9P1QV-a28d674146",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UQRRC9GCD",
+        "display_as_bot": false,
+        "ts": "1588792569.108100",
+        "client_msg_id": "fcf89bfb-448c-4a2f-88b5-a2de97f66472",
+        "thread_ts": "1588522719.103200",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "65eaf1c5-aa58-48bc-b894-b1295eb4988e",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/B5Lakaamab8>",
+        "user": "UQRRC9GCD",
+        "ts": "1588792713.108500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Ребят, давайте раскошеливайтесь! (с) Навальный",
+                "title_link": "https:\/\/youtu.be\/B5Lakaamab8",
+                "author_name": "Леся Титова",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCoGb44YewRyqvHlI8YJvRYQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/B5Lakaamab8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Ребят, давайте раскошеливайтесь! (с) Навальный",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/B5Lakaamab8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/B5Lakaamab8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/B5Lakaamab8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n0+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/B5Lakaamab8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588184083.098300",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0134MHSB3P",
+                "created": 1588792777,
+                "timestamp": 1588792777,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQRRC9GCD",
+                "editable": false,
+                "size": 509975,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F0134MHSB3P\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F0134MHSB3P\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134MHSB3P-939941dac8\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134MHSB3P-939941dac8\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134MHSB3P-939941dac8\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 352,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134MHSB3P-939941dac8\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 469,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0134MHSB3P-939941dac8\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "original_w": 523,
+                "original_h": 511,
+                "thumb_tiny": "AwAuADCwghESbo1ZioJyKjk2jpGgB\/2RTh\/q4v8AcFNk7fWglvUi2p6D8qfGY1+9Gjj6c1OCTCuwx5xzuqOXPlru27snpj+lAxxeDjbAp+opGMLQviNUcKSOKbCoZeVB+pxSOAAcKR8rZ59qBkg\/1UX+4KbKMAU7\/llD\/uCmSfcGfWgh7jAM0EYGaTnmg9KBiqOBRjAb\/dP8qaOgpR\/F\/ut\/KgZMR+5h\/wBymSfdpRdRLGsbK2VGMjFRSXCMMAN+NAmtbhnrQeRTFkT+LcB7CpVntgPuSE+poHYaoLYCgk+wqXyXWN3YYGw9\/alF7GowocD6Cke8WRGQb\/mGBkCgZ\/\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UQRRC9GCD\/F0134MHSB3P\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F0134MHSB3P-ee9f2bf38c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UQRRC9GCD",
+        "display_as_bot": false,
+        "ts": "1588792780.108800",
+        "client_msg_id": "aa87179a-98bf-4ffc-aa57-73cb59b782fb",
+        "thread_ts": "1588167697.096500",
+        "parent_user_id": "UELA14HSS"
+    },
+    {
+        "type": "message",
+        "text": "Врать это свойство оппозиции",
+        "files": [
+            {
+                "id": "F012RB9036K",
+                "created": 1588792877,
+                "timestamp": 1588792877,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQRRC9GCD",
+                "editable": false,
+                "size": 997111,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F012RB9036K\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F012RB9036K\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F012RB9036K-0df51ce45c\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F012RB9036K-0df51ce45c\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F012RB9036K-0df51ce45c\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 295,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F012RB9036K-0df51ce45c\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 393,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F012RB9036K-0df51ce45c\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "original_w": 710,
+                "original_h": 582,
+                "thumb_tiny": "AwAnADC08qJw7gH0qncTJJINhyB1NRsTLcySLnBOAQM0oUMpACsR1x8tIaJoZM8ZB4p1xM0SALwT3x0qi\/7s5XcG9CKnSZ5oijKDgjBo2DdksFySwV3LA9Se1WJB+63A5HqKpFWYYAAx1NWFkJjKkjt06UxMzTlJCFbOD1FTq2FwxDfWoFwOtSggYYdiKAHpGQ\/KFSeAPSgAIWVXIx3A5NXmxIcqfwqrPGi4dHG49VAoGIpwuSMepY0ecp+XdkkfQClQIRl2DfhTv3RHAH5UySq8EsQBYcfWkHIxVy9\/1X4iqa0hlpZfkx3FVy3X3p69KjPSgAKAnJ60+KIluOB3pD96poP4vpQB\/9k=",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UQRRC9GCD\/F012RB9036K\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F012RB9036K-7b9bc38e3a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Clv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Врать это свойство оппозиции"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQRRC9GCD",
+        "display_as_bot": false,
+        "ts": "1588792879.109200",
+        "edited": {
+            "user": "UQRRC9GCD",
+            "ts": "1588792909.000000"
+        },
+        "client_msg_id": "dcb1448c-a819-4469-8715-6d11cd51dec0",
+        "thread_ts": "1588100417.094000",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01363F4D2N",
+                "created": 1588792925,
+                "timestamp": 1588792925,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQRRC9GCD",
+                "editable": false,
+                "size": 1883575,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01363F4D2N\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F01363F4D2N\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F01363F4D2N-434e7850c9\/image_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1280,
+                "original_h": 720,
+                "thumb_tiny": "AwAbADBs6bYlXHWmAcYHX3qdzl0+ho60NgkRCN2HRfzIpMFWwwI\/HIqdfypsueABmkMiWPc7DOO9PjiaRMg\/mKYG2yN9OaWKQIOWwKpMlodIRG6lj1GKVXVskEnFJMAwXPNQAAZxSaGiYTrkYBzSGb94nykcmoYv9Yn4VbIHoKEFylOQZnwD71GjDdyeKnnAABA5qLaNhOKYj\/\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UQRRC9GCD\/F01363F4D2N\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F01363F4D2N-d740bf1a11",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UQRRC9GCD",
+        "display_as_bot": false,
+        "ts": "1588792929.109800",
+        "client_msg_id": "25c8da70-7415-44b8-8111-f91124950b6a",
+        "thread_ts": "1588100417.094000",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "e9d5c421-8b13-4744-9b36-ef963968fd4f",
+        "type": "message",
+        "text": "Да, сначала кажется, что он свои собственные мысли излагает, а потом оказывается - озвучивает политику партии.\nТак фразы из контекста и вырываются.",
+        "user": "U9GUF2PN2",
+        "ts": "1588811667.110200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fd11b8abf2f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-18\/506521810976_fd11b8abf2f7e1bc9471_72.jpg",
+            "first_name": "Kostya",
+            "real_name": "Kostya Atarik",
+            "display_name": "kastus",
+            "team": "T040HKJE3",
+            "name": "kostya.atarik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ViD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Да, сначала кажется, что он свои собственные мысли излагает, а потом оказывается - озвучивает политику партии.\nТак фразы из контекста и вырываются."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588792393.107800",
+        "parent_user_id": "UQRRC9GCD",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UQRRC9GCD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

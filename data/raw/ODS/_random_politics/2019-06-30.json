@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "B1B711DA-89B7-42B1-8301-7D29AEB2A244",
+        "type": "message",
+        "text": "<https:\/\/thebell.io\/vy-videli-moj-tvit-tramp-vstretilsya-s-kim-chen-ynom-v-tretij-raz\/?amp&amp;__twitter_impression=true>",
+        "user": "U3KBYJQSF",
+        "ts": "1561894326.222400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Bell",
+                "title": "«Вы видели мой твит?»: Трамп встретился с Ким Чен Ыном в третий раз — The Bell",
+                "title_link": "https:\/\/thebell.io\/vy-videli-moj-tvit-tramp-vstretilsya-s-kim-chen-ynom-v-tretij-raz\/?amp&__twitter_impression=true",
+                "text": "Президент США Дональд Трамп встретился с главой КНДР Ким Чен Ыном в демилитаризованной зоне между Северной и Южной Кореей. Встреча была недолгой и в присутствии президента Южной Кореи Мун Чжэ Ина — все пожали друг другу руки, пересекли демаркационную линию и провели переговоры длиною в 15 минут. О встрече договаривались очень быстро — еще в …",
+                "fallback": "The Bell: «Вы видели мой твит?»: Трамп встретился с Ким Чен Ыном в третий раз — The Bell",
+                "image_url": "https:\/\/thebell.io\/wp-content\/uploads\/2018\/06\/tramp-i-kim.jpg",
+                "image_width": 359,
+                "image_height": 250,
+                "ts": 1561887825,
+                "from_url": "https:\/\/thebell.io\/vy-videli-moj-tvit-tramp-vstretilsya-s-kim-chen-ynom-v-tretij-raz\/?amp&__twitter_impression=true",
+                "image_bytes": 137769,
+                "service_icon": "https:\/\/thebell.io\/wp-content\/themes\/thebell\/images\/icons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/thebell.io\/vy-videli-moj-tvit-tramp-vstretilsya-s-kim-chen-ynom-v-tretij-raz\/?amp&amp;__twitter_impression=true"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ac6b5e4-d6ae-447a-9b2b-f2c0b32edc57",
+        "type": "message",
+        "text": "Очень интересное и живое интервью с цифрами и терминами. В первый раз вижу приятные, добрые, душевные комментарии на ютубе.\n<https:\/\/www.youtube.com\/watch?v=4yOvjTe7AfU>",
+        "user": "U316J6CT1",
+        "ts": "1561954305.229900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Это — ограбление! Олег Комолов о России и капитализме \/\/ По-живому",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=4yOvjTe7AfU",
+                "author_name": "Константин Сёмин",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC2qoLqo8RuV4P_88yhHCZIg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4yOvjTe7AfU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Это — ограбление! Олег Комолов о России и капитализме \/\/ По-живому",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/4yOvjTe7AfU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=4yOvjTe7AfU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=4yOvjTe7AfU"
+            }
+        ],
+        "thread_ts": "1561954305.229900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1562149510.238800",
+        "reply_users": [
+            "UDV2YC666"
+        ],
+        "replies": [
+            {
+                "user": "UDV2YC666",
+                "ts": "1562149510.238800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "UDV2YC666"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

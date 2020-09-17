@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=J-Wt1-sy3z4>",
+        "user": "U27HU84H4",
+        "ts": "1520864214.000693",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Запись в наблюдатели. Последний звонок",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=J-Wt1-sy3z4",
+                "author_name": "Алексей Навальный",
+                "author_link": "https:\/\/www.youtube.com\/user\/NavalnyRu",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/J-Wt1-sy3z4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Запись в наблюдатели. Последний звонок",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/J-Wt1-sy3z4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=J-Wt1-sy3z4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1520864214.000693",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1520894213.000415",
+        "reply_users": [
+            "U6YDWF4UB",
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U6YDWF4UB",
+                "ts": "1520889569.000080"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1520894213.000415"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Шария выложи для контраста :kekeke:",
+        "user": "U6YDWF4UB",
+        "ts": "1520889569.000080",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gffb554413ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/afffb554413ef6077a9a20ee09dd24b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "mormaks",
+            "real_name": "mormaks",
+            "display_name": "mormaks",
+            "team": "T040HKJE3",
+            "name": "mormaks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520864214.000693",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "type": "message",
+        "text": "выложи, кто же тебе мешает :kekeke:",
+        "user": "U27HU84H4",
+        "ts": "1520894213.000415",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520864214.000693",
+        "parent_user_id": "U27HU84H4"
+    }
+]

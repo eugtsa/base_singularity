@@ -1,0 +1,730 @@
+[
+    {
+        "client_msg_id": "3cdc6746-c15f-46aa-8e6a-0d127bb172eb",
+        "type": "message",
+        "text": "<@UQRRC9GCD>, нет такого организма с единым разумом \"Российская Оппозиция\". Есть отдельные люди. И если одному из них нравится творчество Антона Лапенко и он сделал коллаж по теме, то это не значит, что у кого-то кризис идей.",
+        "user": "U9GUF2PN2",
+        "ts": "1589269832.118600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fd11b8abf2f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-18\/506521810976_fd11b8abf2f7e1bc9471_72.jpg",
+            "first_name": "Kostya",
+            "real_name": "Kostya Atarik",
+            "display_name": "kastus",
+            "team": "T040HKJE3",
+            "name": "kostya.atarik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQRRC9GCD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", нет такого организма с единым разумом \"Российская Оппозиция\". Есть отдельные люди. И если одному из них нравится творчество Антона Лапенко и он сделал коллаж по теме, то это не значит, что у кого-то кризис идей."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "20f09d64-2075-491c-9310-9c61284f1d0f",
+        "type": "message",
+        "text": "Скорее всё сообщество одс наблюдает кризис идей у вас",
+        "user": "U9GUF2PN2",
+        "ts": "1589269897.118800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fd11b8abf2f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-18\/506521810976_fd11b8abf2f7e1bc9471_72.jpg",
+            "first_name": "Kostya",
+            "real_name": "Kostya Atarik",
+            "display_name": "kastus",
+            "team": "T040HKJE3",
+            "name": "kostya.atarik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0L8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Скорее всё сообщество одс наблюдает кризис идей у вас"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "f5bb85b8-b5d4-459f-b2e7-c22d8b746955",
+        "type": "message",
+        "text": "Есть те, кто этих людей выводит на демонстрации. Просто люди не соберуться одновременно в одном и том же месте. Нужно чтобы кто-то это организовал. Революция требует финансовых затрат и хорошей организации.",
+        "user": "UQRRC9GCD",
+        "ts": "1589269898.119000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NhK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Есть те, кто этих людей выводит на демонстрации. Просто люди не соберуться одновременно в одном и том же месте. Нужно чтобы кто-то это организовал. Революция требует финансовых затрат и хорошей организации."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "89d190bb-cd9a-4c2b-80b0-c3b54742d4c0",
+        "type": "message",
+        "text": "<@UQRRC9GCD> как вы переходите от непонравившейся вам картинки к идеям революции и её финансирования?",
+        "user": "U9GUF2PN2",
+        "ts": "1589270053.119200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "fd11b8abf2f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-18\/506521810976_fd11b8abf2f7e1bc9471_72.jpg",
+            "first_name": "Kostya",
+            "real_name": "Kostya Atarik",
+            "display_name": "kastus",
+            "team": "T040HKJE3",
+            "name": "kostya.atarik",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfI1=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQRRC9GCD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " как вы переходите от непонравившейся вам картинки к идеям революции и её финансирования?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "68f68b95-f77d-4fee-b807-a5c154504e22",
+        "type": "message",
+        "text": "Вы думаете это все в России бесплатно делается? Все эти картинки и организация митингов требуют финансовых затрат.\nЭто обычный обыватель не задумывается кто рисовал эту картинку а мы то знаем что картинка сама себя не нарисует.",
+        "user": "UQRRC9GCD",
+        "ts": "1589270348.119600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQRRC9GCD",
+            "ts": "1589270404.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вы думаете это все в России бесплатно делается? Все эти картинки и организация митингов требуют финансовых затрат.\nЭто обычный обыватель не задумывается кто рисовал эту картинку а мы то знаем что картинка сама себя не нарисует."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD",
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U1TJJJZQ8",
+                    "U2ZHRCAUB",
+                    "UKT220F7Y",
+                    "UK181SL1H"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Думаете кто содержит все эти каналы на ютубе. А ведь есть еще куча информационных ресурсов. Статьи нужно писать, картинки рисовать.",
+        "files": [
+            {
+                "id": "F0145QCE08Y",
+                "created": 1589270491,
+                "timestamp": 1589270491,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQRRC9GCD",
+                "editable": false,
+                "size": 1616734,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F0145QCE08Y\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F0145QCE08Y\/download\/image.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0145QCE08Y-75c28d0a19\/image_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0145QCE08Y-75c28d0a19\/image_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0145QCE08Y-75c28d0a19\/image_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 298,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0145QCE08Y-75c28d0a19\/image_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 397,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0145QCE08Y-75c28d0a19\/image_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0145QCE08Y-75c28d0a19\/image_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 595,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0145QCE08Y-75c28d0a19\/image_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 661,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F0145QCE08Y-75c28d0a19\/image_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 960,
+                "thumb_960_h": 793,
+                "original_w": 1003,
+                "original_h": 829,
+                "thumb_tiny": "AwAnADB62T7iSwHXHFKlm+\/JYdMd6Pskxbh\/zzSC0n3ffGPcmgAFi46MBn605bOTnLDpimizlJz5nbvmlS0mDZ3AD8aAEFlJnO8fiKWKydXDFh1HagWk3mFtwwc+tOitZAwZnOQemTjFADPskzMfnPTuxoFpOST5h6Y5Y0gtrgty5H0c04W9yT9\/jHdjQAC2n3ZD9sck0gtJicmQ9PU0C3uCf9Yf++jSrBcbvv8AGP7xoYCC1uCc+Z27k0sdtOJQxfjuCTSrBcZOXOMf3jRFBOHBLcDr8xoARYrkvxJnjoWNIIrknh\/\/AB41bj+\/+FLH940AUxDck8SH6bjSxxXBJJlOP941aj+9+FEfQ0AVkjuDIp38ZyRuNXqij61LQB\/\/2Q==",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UQRRC9GCD\/F0145QCE08Y\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F0145QCE08Y-c60c333887",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k92x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Думаете кто содержит все эти каналы на ютубе. А ведь есть еще куча информационных ресурсов. Статьи нужно писать, картинки рисовать."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQRRC9GCD",
+        "display_as_bot": false,
+        "ts": "1589270495.119900",
+        "client_msg_id": "c57d5544-0ed7-465d-88d2-c2abb43dfb53",
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD",
+        "reactions": [
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U3AG4B1N1",
+                    "U7H91LHAA",
+                    "U74DLUWUC",
+                    "UKT220F7Y"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0CB6090E-1E4D-415A-87D8-7F574DFE6B7A",
+        "type": "message",
+        "text": "<@UQRRC9GCD> а как думаете, кто спонсирует ОДС? Я пока подозреваю Роснефть или Ходорковского. Нужно же время это все тратить, статьи писать и картинки рисовать. ",
+        "user": "U3AG4B1N1",
+        "ts": "1589271450.122300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "68l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQRRC9GCD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " а как думаете, кто спонсирует ОДС? Я пока подозреваю Роснефть или Ходорковского. Нужно же время это все тратить, статьи писать и картинки рисовать. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U049HDR2Z",
+                    "UQ9UCJT0T"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad6d583d-2079-40d6-be1f-4f2fc50277ff",
+        "type": "message",
+        "text": "Сомневаюсь что Ходорковский. На него это не похоже. Вот Роснефть возможно сейчас в России огромные деньги вкладываются в развитие новых технологий. Лучше бы в одс сложились чем в картинки про Путина.",
+        "user": "UQRRC9GCD",
+        "ts": "1589271615.122500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Сомневаюсь что Ходорковский. На него это не похоже. Вот Роснефть возможно сейчас в России огромные деньги вкладываются в развитие новых технологий. Лучше бы в одс сложились чем в картинки про Путина."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "3425cbb5-b566-413d-b0bf-870bafdf44d1",
+        "type": "message",
+        "text": "У Ходарковского есть любимчики Навальный и Соболь. Он в революцию охотнее вкладывается чем в новые технологии. Такая уж у нас оппозиция.",
+        "user": "UQRRC9GCD",
+        "ts": "1589272367.122700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQRl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "У Ходарковского есть любимчики Навальный и Соболь. Он в революцию охотнее вкладывается чем в новые технологии. Такая уж у нас оппозиция."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "29b2e9a9-aaa6-4080-842c-4e89ba62996d",
+        "type": "message",
+        "text": "Тогда жду транша от Роснефти, а то за бесплатно тут пишу",
+        "user": "U3AG4B1N1",
+        "ts": "1589273097.122900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4=Gid",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Тогда жду транша от Роснефти, а то за бесплатно тут пишу"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "f660800e-a669-4ce0-9e2d-d1a4f8de477a",
+        "type": "message",
+        "text": "```Вы думаете это все в России бесплатно делается? Все эти картинки и организация митингов требуют финансовых затрат.```\n<@UQRRC9GCD> А вы то? Вы то за деньги это все здесь пишете?)",
+        "user": "U4DUJM693",
+        "ts": "1589283143.123200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9b661ea0758a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-07\/378213480998_9b661ea0758a8b1a808b_72.jpg",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Talipov",
+            "display_name": "roosh_roosh",
+            "team": "T040HKJE3",
+            "name": "roosh_roosh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tdyF\/",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вы думаете это все в России бесплатно делается? Все эти картинки и организация митингов требуют финансовых затрат."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQRRC9GCD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " А вы то? Вы то за деньги это все здесь пишете?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "32aed2d3-c839-43e1-bcf3-a65a6b387b77",
+        "type": "message",
+        "text": "Если бы. Все ради науки.",
+        "user": "UQRRC9GCD",
+        "ts": "1589298408.123500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "63b9d0213997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-02\/932126734564_63b9d0213997c2b5b4d3_72.jpg",
+            "first_name": "Кривошлыков",
+            "real_name": "Кривошлыков Евгений",
+            "display_name": "mpak",
+            "team": "T040HKJE3",
+            "name": "ods.ai007",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2voVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Если бы. Все ради науки."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589252483.117900",
+        "parent_user_id": "UQRRC9GCD"
+    },
+    {
+        "client_msg_id": "f3d103fd-9015-4da9-bd63-f8d779573020",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=EA26h_EqqRQ> - оказывается религиозные активисты умудрились вернуть во второе чтение закон о регистре граждан\n<https:\/\/zhiznonline.ru\/2020\/04\/18\/rossiyan-pronumeruyut\/>\n<https:\/\/sozd.duma.gov.ru\/bill\/759897-7>\nно такое ощущение, что вернули, поправили и отправили опять на третье чтение :pepe_sad:",
+        "user": "U27HU84H4",
+        "ts": "1589314484.125600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1589314870.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Статус \/ Екатерина Шульман \/ Сезон 3. Выпуск  33 \/\/ 12.05.20  @Екатерина Шульман",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=EA26h_EqqRQ",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/EA26h_EqqRQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Статус \/ Екатерина Шульман \/ Сезон 3. Выпуск  33 \/\/ 12.05.20  @Екатерина Шульман",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/EA26h_EqqRQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=EA26h_EqqRQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=EA26h_EqqRQ"
+            },
+            {
+                "service_name": "ЖизньОнлайн",
+                "title": "Россиян пронумеруют",
+                "title_link": "https:\/\/zhiznonline.ru\/2020\/04\/18\/rossiyan-pronumeruyut\/",
+                "text": "Комитет по информационной политике, информационным технологиям и связи в четверг рекомендовал к принятию во втором чтении законопроект о создании в России единого регистра сведений о населении. Проект, внесенный правительством в мае и принятый в первом чтении в сентябре, требует, чтобы Федеральна",
+                "fallback": "ЖизньОнлайн: Россиян пронумеруют",
+                "image_url": "https:\/\/zhiznonline.ru\/wp-content\/uploads\/2020\/04\/1-527.jpg",
+                "ts": 1587201340,
+                "from_url": "https:\/\/zhiznonline.ru\/2020\/04\/18\/rossiyan-pronumeruyut\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 90399,
+                "service_icon": "https:\/\/zhiznonline.ru\/wp-content\/uploads\/2018\/09\/cropped-mail-email-e-mail-at-internet-hd-png-73189-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/zhiznonline.ru\/2020\/04\/18\/rossiyan-pronumeruyut\/"
+            },
+            {
+                "title": "№759897-7 Законопроект :: Система обеспечения законодательной деятельности",
+                "title_link": "https:\/\/sozd.duma.gov.ru\/bill\/759897-7",
+                "text": "Информационный ресурс Государственной Думы. Здесь собрана информация о рассмотрении законопроектов и проектов постановлений Государственной Думы",
+                "fallback": "№759897-7 Законопроект :: Система обеспечения законодательной деятельности",
+                "from_url": "https:\/\/sozd.duma.gov.ru\/bill\/759897-7",
+                "service_icon": "https:\/\/sozd.duma.gov.ru\/bundles\/sozdsozd\/img\/favicon.ico",
+                "service_name": "sozd.duma.gov.ru",
+                "id": 3,
+                "original_url": "https:\/\/sozd.duma.gov.ru\/bill\/759897-7"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "izNaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=EA26h_EqqRQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - оказывается религиозные активисты умудрились вернуть во второе чтение закон о регистре граждан\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zhiznonline.ru\/2020\/04\/18\/rossiyan-pronumeruyut\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sozd.duma.gov.ru\/bill\/759897-7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nно такое ощущение, что вернули, поправили и отправили опять на третье чтение "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pepe_sad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589314484.125600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1589452088.127300",
+        "reply_users": [
+            "U1TJJJZQ8",
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U1TJJJZQ8",
+                "ts": "1589412887.126600"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1589437066.126900"
+            },
+            {
+                "user": "U1TJJJZQ8",
+                "ts": "1589452088.127300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U70TZK6Q3",
+                    "U1TJJJZQ8",
+                    "U1X40T58U"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

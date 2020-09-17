@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "3fa10ef4-afd1-4237-8292-d591cebeb724",
+        "type": "message",
+        "text": "дичь какая-то у этого нестора, аля все хорошее сделали мы, а все плохое это уже были не мы) и главное аргументов никаких не приводится для разделения, тупа вот товарищи просто делим историю как нам удобно а подбираем примеры на шару)",
+        "user": "U48A8L25N",
+        "ts": "1550146586.006000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1550146586.006000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1550211037.006600",
+        "reply_users": [
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U27HU84H4",
+                "ts": "1550211037.006600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3856685e-947f-4472-8bb9-4ba716e50a4d",
+        "type": "message",
+        "text": "\"Россиян будут штрафовать за ожирение\n\nРоспотребнадзор изучает опыт других стран по борьбе с ожирением, размышляя о введении штрафов для полных россиян. Особенное внимание ведомства привлекла Япония, граждане которой в обязательном порядке замеряют свою талию. В стране действует «Метабо-закон», согласно которому проверке ежегодно подвергаются все граждане в возрасте от 40 до 75 лет.\n\nМужчин с талией больше 90 сантиметров и женщин с талией больше 80 сантиметров ждут ограничения, включающие обязательные консультации у специалистов. Если будет выявлено, что некая компания не заботится о здоровье сотрудников, ее ждет штраф до 19 миллионов долларов.\n\nПонравился главе Роспотребнадзора и опыт Новой Зеландии: для получения гражданства этой страны следует предоставить справку о том, что индекс массы тела не превышает 35.\"\n\n<@U34Q3KU8H>, нам пора срочно сбрасывать",
+        "user": "U316J6CT1",
+        "ts": "1550203949.006300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U316J6CT1",
+            "ts": "1550203972.000000"
+        },
+        "thread_ts": "1550203949.006300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1550341364.011700",
+        "reply_users": [
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1550341364.011700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "weight_lifter",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "acceb59a-0bd1-4153-a4a9-7ea824d0e3f5",
+        "type": "message",
+        "text": "Да! Так подо всех копнуть можно. Кто сверял открытые даннфе росстата и выводы Зубаревич по ним? Кто проверял исходные данные Мовчана (и вообще его выбор источников) и сделанные из них выводы на логичность какую-будь? Аналогично про Шульман, Хазина и остальных.",
+        "user": "U27HU84H4",
+        "ts": "1550211037.006600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1550146586.006000",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "23de26bd-823f-435f-be93-eec57561ee38",
+        "type": "message",
+        "text": "Как-то источники ненадёжные ))) Но я не готов к этому, однозначно не готов.",
+        "user": "U88T71FBL",
+        "ts": "1550215134.007500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U88T71FBL",
+            "ts": "1550215153.000000"
+        }
+    },
+    {
+        "client_msg_id": "a6613b5d-b167-459a-aec7-57aecf1d10c5",
+        "type": "message",
+        "text": "У афинского стратега Алкивиада была собака, удивительно красивая, которая обошлась ему в семьдесят мин, и он приказал отрубить ей хвост, служивший животному главным украшением. Друзья были недовольны его поступком и рассказывали Алкивиаду, что все жалеют собаку и бранят хозяина, но тот лишь улыбнулся в ответ и сказал: \"Что же, все складывается так, как я хочу. А хочу я, чтобы афиняне болтали именно об этом, — иначе как бы они не сказали обо мне чего–нибудь похуже! (с) с просторов интернета",
+        "user": "U7KDVG6LS",
+        "ts": "1550216157.011200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5822454d50ec",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-18\/257865532977_5822454d50ec3be0e4cc_72.png",
+            "first_name": "",
+            "real_name": "Alexander",
+            "display_name": "liketheother",
+            "team": "T040HKJE3",
+            "name": "iminusd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smekalka",
+                "users": [
+                    "U27SUBTB9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "438ea699-df28-432d-be60-29c3fdc94691",
+        "type": "message",
+        "text": "<https:\/\/www.vesti.ru\/doc.html?id=3171628>",
+        "user": "U48A8L25N",
+        "ts": "1563988269.001700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "vesti.ru",
+                "title": "Малайзия: черными ящиками сбитого MH17 пытались завладеть США и Украина",
+                "title_link": "https:\/\/www.vesti.ru\/doc.html?id=3171628",
+                "text": "Малазийским военным пришлось провести целую спецоперацию для того, что добраться до черных ящиков рейса MH17 раньше ФБР. Эти данные озвучил в своем фильме-расследовании голландский журналист Макс ван дер Верффа, который сумел поговорить с малайзийским полковником Мохамадом Сакри. Именно он руководил расследованием катастрофы в Донбассе",
+                "fallback": "vesti.ru: Малайзия: черными ящиками сбитого MH17 пытались завладеть США и Украина",
+                "thumb_url": "https:\/\/cdn-st1.rtr-vesti.ru\/p\/xw_1161183.jpg",
+                "from_url": "https:\/\/www.vesti.ru\/doc.html?id=3171628",
+                "thumb_width": 720,
+                "thumb_height": 409,
+                "service_icon": "https:\/\/www.vesti.ru\/i\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.vesti.ru\/doc.html?id=3171628"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04adbe31-ac6e-4294-a966-ca5df0a4e0c7",
+        "type": "message",
+        "text": "ору с соответсвия содержания статьи заголовку)",
+        "user": "U48A8L25N",
+        "ts": "1563988283.002300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

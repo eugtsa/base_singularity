@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "ce94d8ec-71b7-43da-ae07-699c890df6ef",
+        "type": "message",
+        "text": "вдидали чо?\n<https:\/\/twitter.com\/_sagesharp_\/status\/1042769399596437504>\nговорят что если \"совет LGBTQ+\" будут проводить такую же политику против тех на кого покажут пальцем, то части контрибьюшена должны будут полностью выпиливаться из линукса что ударит и по линкусу, и по андроиду, и по IoT, и вообще по многим подруктам",
+        "user": "U1MBE50E6",
+        "ts": "1537679283.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e2ce0287ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/582665447206_f7e2ce0287ed3e6052fc_72.png",
+            "first_name": "Андрей",
+            "real_name": "Андрей Змеул",
+            "display_name": "akinory",
+            "team": "T040HKJE3",
+            "name": "akinory",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/_sagesharp_|@_sagesharp_>: The new Code of Conduct explicitly says discrimination and harassment on  the basis of sex or gender is not allowed. One Linux Foundation Technical Advisory Board member who did not  sign off on the patch is Ted Tso, who is a rape apologist: <http:\/\/geekfeminism.wikia.com\/wiki\/Rape_apology_on_LCA_mailing_list>",
+                "ts": 1537450573,
+                "author_name": "Sage Sharp",
+                "author_link": "https:\/\/twitter.com\/_sagesharp_\/status\/1042769399596437504",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1037715017632628736\/4PSzGdjr_normal.jpg",
+                "author_subname": "@_sagesharp_",
+                "text": "The new Code of Conduct explicitly says discrimination and harassment on  the basis of sex or gender is not allowed. One Linux Foundation Technical Advisory Board member who did not  sign off on the patch is Ted Tso, who is a rape apologist: <http:\/\/geekfeminism.wikia.com\/wiki\/Rape_apology_on_LCA_mailing_list>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/_sagesharp_\/status\/1042769399596437504",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/_sagesharp_\/status\/1042769399596437504",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1537679283.000100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1537679403.000100",
+        "reply_users": [
+            "U1MBE50E6"
+        ],
+        "replies": [
+            {
+                "user": "U1MBE50E6",
+                "ts": "1537679403.000100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bombanoolo",
+                "users": [
+                    "UA6FTKAE4",
+                    "U74DLUWUC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "522a1c6e-970a-4ea7-8e91-319997b790c2",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/derpboi\/status\/1043463505104523265>",
+        "user": "U1MBE50E6",
+        "ts": "1537679403.000100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f7e2ce0287ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-19\/582665447206_f7e2ce0287ed3e6052fc_72.png",
+            "first_name": "Андрей",
+            "real_name": "Андрей Змеул",
+            "display_name": "akinory",
+            "team": "T040HKJE3",
+            "name": "akinory",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/derpboi|@derpboi>: Охуенная история  - ебанашки ныли, что CoC им нужен для того, чтобы привлечь женщин в IT, стоило его внедрить, сразу начали его использовать, чтобы выпиздить неугодных им. Не верьте гнидам, когда они заводят свою шарманку про \"respect and compassion\", их эндгейм - власть. <https:\/\/twitter.com\/senko\/status\/1043448054458671108>",
+                "ts": 1537616060,
+                "author_name": "fat manga butts 🍑",
+                "author_link": "https:\/\/twitter.com\/derpboi\/status\/1043463505104523265",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/843966439920979969\/Moc_r7DA_normal.jpg",
+                "author_subname": "@derpboi",
+                "text": "Охуенная история  - ебанашки ныли, что CoC им нужен для того, чтобы привлечь женщин в IT, стоило его внедрить, сразу начали его использовать, чтобы выпиздить неугодных им. Не верьте гнидам, когда они заводят свою шарманку про \"respect and compassion\", их эндгейм - власть. <https:\/\/twitter.com\/senko\/status\/1043448054458671108>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/derpboi\/status\/1043463505104523265",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/derpboi\/status\/1043463505104523265",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "fallback": "<https:\/\/twitter.com\/senko|@senko>: Похоже, SJW уничтожили Linux <https:\/\/lulz.com\/linux-devs-threaten-killswitch-coc-controversy-1252\/>",
+                "ts": 1537612377,
+                "author_name": "Pavel Senko",
+                "author_link": "https:\/\/twitter.com\/senko\/status\/1043448054458671108",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/378800000373886951\/f9db298c97f8df93aa409a065a5c71a0_normal.jpeg",
+                "author_subname": "@senko",
+                "text": "Похоже, SJW уничтожили Linux <https:\/\/lulz.com\/linux-devs-threaten-killswitch-coc-controversy-1252\/>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/senko\/status\/1043448054458671108",
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1537679283.000100",
+        "parent_user_id": "U1MBE50E6"
+    }
+]

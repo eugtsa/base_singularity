@@ -1,0 +1,675 @@
+[
+    {
+        "type": "message",
+        "text": "Вот непонятно, что после того, как бадяга с вирусом закончится, будет - размазывание власти по разным структурам или же то, что каждый чиновник будет вводить локальные ЧС, ситуации повышенной готовности и т. п.",
+        "user": "U27HU84H4",
+        "ts": "1585760720.033300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[April 1st, 2020 7:35 PM] daniyarel: А вот они и стрелочки, от всегда неуиноватого рафика к правительству <https:\/\/ria.ru\/20200401\/1569461836.html>",
+                "ts": "1585758948.128900",
+                "author_id": "U48A8L25N",
+                "author_subname": "Данияр Елеусизов",
+                "channel_id": "CVD4LRULF",
+                "channel_name": "coronavirus",
+                "is_msg_unfurl": true,
+                "text": "А вот они и стрелочки, от всегда неуиноватого рафика к правительству <https:\/\/ria.ru\/20200401\/1569461836.html>",
+                "author_name": "Данияр Елеусизов",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U48A8L25N",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/CVD4LRULF\/p1585758948128900",
+                "is_share": true,
+                "footer": "Posted in #coronavirus"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPzFQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вот непонятно, что после того, как бадяга с вирусом закончится, будет - размазывание власти по разным структурам или же то, что каждый чиновник будет вводить локальные ЧС, ситуации повышенной готовности и т. п."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585760720.033300",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1585762965.034200",
+        "reply_users": [
+            "U48A8L25N",
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U48A8L25N",
+                "ts": "1585761207.033400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1585761222.033600"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1585762839.033800"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1585762912.034000"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1585762965.034200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5fd3a4c8-cd1b-4a23-8661-0860d43b0130",
+        "type": "message",
+        "text": "ну сначала правительство скажет чето, типа: там где необходимо - нужно вводить, а потом руководители регионов как решат, как-то так",
+        "user": "U48A8L25N",
+        "ts": "1585761207.033400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zrnq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ну сначала правительство скажет чето, типа: там где необходимо - нужно вводить, а потом руководители регионов как решат, как-то так"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585760720.033300",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "79ce1452-5c9d-41b2-8b15-8ee4323eb6ce",
+        "type": "message",
+        "text": "если еще на кого-то не переложат, типа каждый закрывает свой город)",
+        "user": "U48A8L25N",
+        "ts": "1585761222.033600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDPBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "если еще на кого-то не переложат, типа каждый закрывает свой город)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585760720.033300",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "7931280e-a46f-44e1-8d88-96bbb6df07b2",
+        "type": "message",
+        "text": "Я так понял, что раньше, до этих поправок, режимы ЧС и ПГ были только для госорганов занятых в них или устранении, а теперь там вписали, что порядки ввденные должны соблюдать все граждане и организации :disappointed:\nкаждый чих и люди становятся что-то должны",
+        "user": "U27HU84H4",
+        "ts": "1585762839.033800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я так понял, что раньше, до этих поправок, режимы ЧС и ПГ были только для госорганов занятых в них или устранении, а теперь там вписали, что порядки ввденные должны соблюдать все граждане и организации "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nкаждый чих и люди становятся что-то должны"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585760720.033300",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "ace130a6-a426-4991-965f-f80bd89888b0",
+        "type": "message",
+        "text": "возможно",
+        "user": "U48A8L25N",
+        "ts": "1585762912.034000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iFAxC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "возможно"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585760720.033300",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "fa414560-fc4c-42cb-a49d-31da7b05e76b",
+        "type": "message",
+        "text": "<http:\/\/publication.pravo.gov.ru\/Document\/View\/0001202004010072?index=4&amp;rangeSize=1> вот здесь как раз про это вроде",
+        "user": "U27HU84H4",
+        "ts": "1585762965.034200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Федеральный закон от 01.04.2020 № 98-ФЗ ∙ Официальное опубликование правовых актов ∙ Официальный интернет-портал правовой информации",
+                "title_link": "http:\/\/publication.pravo.gov.ru\/Document\/View\/0001202004010072?index=4&rangeSize=1",
+                "text": "Федеральный закон от 01.04.2020 № 98-ФЗ \"О внесении изменений в отдельные законодательные акты Российской Федерации по вопросам предупреждения и ликвидации чрезвычайных ситуаций\"",
+                "fallback": "Федеральный закон от 01.04.2020 № 98-ФЗ ∙ Официальное опубликование правовых актов ∙ Официальный интернет-портал правовой информации",
+                "from_url": "http:\/\/publication.pravo.gov.ru\/Document\/View\/0001202004010072?index=4&rangeSize=1",
+                "service_icon": "http:\/\/publication.pravo.gov.ru\/Content\/themes\/Main\/favicon\/favicon-57.png",
+                "service_name": "publication.pravo.gov.ru",
+                "id": 1,
+                "original_url": "http:\/\/publication.pravo.gov.ru\/Document\/View\/0001202004010072?index=4&amp;rangeSize=1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/nE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/publication.pravo.gov.ru\/Document\/View\/0001202004010072?index=4&rangeSize=1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " вот здесь как раз про это вроде"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585760720.033300",
+        "parent_user_id": "U27HU84H4",
+        "reactions": [
+            {
+                "name": "slozhna",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e66f3fcf-b736-4287-8740-d8c957bb752a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=OTIc-pWm-C0>",
+        "user": "UGTNTEBPV",
+        "ts": "1585763012.034600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Песня о двадцати годах Путина у власти – \"Заповедник\", выпуск 116, сюжет 3",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=OTIc-pWm-C0",
+                "author_name": "Заповедник",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCdd-_anGfzFr1V8sCcffj1Q",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/OTIc-pWm-C0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Песня о двадцати годах Путина у власти – \"Заповедник\", выпуск 116, сюжет 3",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/OTIc-pWm-C0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=OTIc-pWm-C0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=OTIc-pWm-C0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPGbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=OTIc-pWm-C0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "povar",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ff31ffd-07e3-4523-b28f-67bbc9bbbac2",
+        "type": "message",
+        "text": "<https:\/\/www.rbc.ru\/business\/01\/04\/2020\/5e84b01a9a794778972c3df8>",
+        "user": "U48A8L25N",
+        "ts": "1585765068.035000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Экспортная цена российской нефти стала отрицательной",
+                "title_link": "https:\/\/www.rbc.ru\/business\/01\/04\/2020\/5e84b01a9a794778972c3df8",
+                "text": "Расчетная цена на российскую нефть Urals стала отрицательной. В течение двух дней расходы на доставку до портов, налоги и другие затраты превысили стоимость продажи сорта в портах Европы",
+                "fallback": "РБК: Экспортная цена российской нефти стала отрицательной",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/6\/95\/755857642004956.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/business\/01\/04\/2020\/5e84b01a9a794778972c3df8",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 68417,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.2.36\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/business\/01\/04\/2020\/5e84b01a9a794778972c3df8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOWtu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rbc.ru\/business\/01\/04\/2020\/5e84b01a9a794778972c3df8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585765068.035000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585773427.036500",
+        "reply_users": [
+            "U9GUF2PN2"
+        ],
+        "replies": [
+            {
+                "user": "U9GUF2PN2",
+                "ts": "1585773427.036500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "54facd9a-72e8-4c2a-805b-4b2553edf0ed",
+        "type": "message",
+        "text": "продолжение многоходовочки)",
+        "user": "U48A8L25N",
+        "ts": "1585765078.035500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3xO+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "продолжение многоходовочки)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "petushara",
+                "users": [
+                    "U74DLUWUC",
+                    "U049HDR2Z"
+                ],
+                "count": 2
+            },
+            {
+                "name": "good-enough",
+                "users": [
+                    "U2TP5JELS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60ccf55c-20fe-44f7-bd70-9b8bb64bd801",
+        "type": "message",
+        "text": "Все - \"так плохо, что даже хорошо\")",
+        "user": "U2TP5JELS",
+        "ts": "1585770635.036300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Все - \"так плохо, что даже хорошо\")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010VQC797U",
+                "created": 1585773424,
+                "timestamp": 1585773424,
+                "name": "stonks.mp4",
+                "title": "stonks.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U9GUF2PN2",
+                "editable": false,
+                "size": 117149,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F010VQC797U\/stonks.mp4?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F010VQC797U\/download\/stonks.mp4?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F010VQC797U-09c91be684\/stonks_thumb_video.jpeg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U9GUF2PN2\/F010VQC797U\/stonks.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F010VQC797U-cebd67e4d7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U9GUF2PN2",
+        "display_as_bot": false,
+        "ts": "1585773427.036500",
+        "client_msg_id": "98a66955-519a-4448-b5c5-878683ab1851",
+        "thread_ts": "1585765068.035000",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "5d8eaae9-48b8-47b1-bfc2-d6bb1942e5bc",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=kffX2yxrSJE> после этой \"второй мировой для миллениалов\" будет новый альянс победителей и может зародиться совет эпидемиологической безопасности. заодно расцвет биотехнологической\/биоинформационной \"гонки вооружений\"",
+        "user": "U27HU84H4",
+        "ts": "1585777818.038500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Вторая мировая для миллениалов: Разговор с Voice of America",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kffX2yxrSJE",
+                "author_name": "Екатерина Шульман",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCL1rJ0ROIw9V1qFeIN0ZTZQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kffX2yxrSJE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Вторая мировая для миллениалов: Разговор с Voice of America",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kffX2yxrSJE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kffX2yxrSJE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=kffX2yxrSJE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ojnX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=kffX2yxrSJE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " после этой \"второй мировой для миллениалов\" будет новый альянс победителей и может зародиться совет эпидемиологической безопасности. заодно расцвет биотехнологической\/биоинформационной \"гонки вооружений\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "leonid",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smekalka",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

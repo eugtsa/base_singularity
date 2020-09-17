@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "text": "&gt; Но после просмотра ДМБ придется еще 2 года перекантовываться\n\nНе то ты в том кино увидел! Филомофию надо было, а не мирские детали.\n\nНу и сходил бы на годик сейчас, дело то житейское. Год не десять.",
+        "user": "U34Q3KU8H",
+        "ts": "1520098958.000021",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519970905.000190",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Филомофия обычной части то меня и задела. А если ракеты делать - наверное как-раз на лет десять, а я еще в Париже не был..",
+        "user": "U316J6CT1",
+        "ts": "1520104979.000116",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519970905.000190",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Сейчас задача в отличии от прошлых выборов собрать явку. Т.е. год назад или на прошлых выборах царя этому не уделяли внимание, а сейчас всеми силами заманить людей на участок.",
+        "user": "U8U5W7JG5",
+        "ts": "1520135096.000013",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520135096.000013",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1520170452.000110",
+        "reply_users": [
+            "U27HU84H4",
+            "U8U5W7JG5"
+        ],
+        "replies": [
+            {
+                "user": "U27HU84H4",
+                "ts": "1520158203.000050"
+            },
+            {
+                "user": "U8U5W7JG5",
+                "ts": "1520160618.000046"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1520167477.000081"
+            },
+            {
+                "user": "U8U5W7JG5",
+                "ts": "1520168925.000099"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1520169731.000002"
+            },
+            {
+                "user": "U8U5W7JG5",
+                "ts": "1520170452.000110"
+            }
+        ],
+        "subscribed": false
+    }
+]

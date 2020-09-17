@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "abb80dbc-6c46-4013-9b45-a6fb8fa7fafd",
+        "type": "message",
+        "text": "<https:\/\/openmedia.io\/om_tv\/rossiya-vyrvalas-v-lidery-po-chislu-sverxbogatyx\/>",
+        "user": "U48A8L25N",
+        "ts": "1583575176.041200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Россия вырвалась в лидеры по числу сверхбогатых",
+                "title_link": "https:\/\/openmedia.io\/om_tv\/rossiya-vyrvalas-v-lidery-po-chislu-sverxbogatyx\/",
+                "text": "Сетевое издание про политику, экономику, науку и культуру",
+                "fallback": "Россия вырвалась в лидеры по числу сверхбогатых",
+                "image_url": "https:\/\/openmedia.io\/files\/2020\/03\/Россия_вырвалась_в_лидеры_по_числу.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/openmedia.io\/om_tv\/rossiya-vyrvalas-v-lidery-po-chislu-sverxbogatyx\/",
+                "image_bytes": 728189,
+                "service_icon": "https:\/\/openmedia.io\/template\/themes\/om-child\/assets\/images\/favicons\/apple-icon-57x57.png",
+                "service_name": "openmedia.io",
+                "id": 1,
+                "original_url": "https:\/\/openmedia.io\/om_tv\/rossiya-vyrvalas-v-lidery-po-chislu-sverxbogatyx\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hSaTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openmedia.io\/om_tv\/rossiya-vyrvalas-v-lidery-po-chislu-sverxbogatyx\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

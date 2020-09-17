@@ -1,0 +1,284 @@
+[
+    {
+        "client_msg_id": "7ed36bf1-7ef1-4de8-af74-b2aeea4f85d3",
+        "type": "message",
+        "text": "<https:\/\/www.finanz.ru\/novosti\/aktsii\/vyezdnye-gruppy-mid-i-mvd-nachnut-vozvrashchat-na-rodinu-rossiyan-emigrantov-1028887137>",
+        "user": "U48A8L25N",
+        "ts": "1581937206.046100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1581941032.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YbxQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.finanz.ru\/novosti\/aktsii\/vyezdnye-gruppy-mid-i-mvd-nachnut-vozvrashchat-na-rodinu-rossiyan-emigrantov-1028887137"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1581937206.046100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1581939528.046600",
+        "reply_users": [
+            "UFUKQMV5K"
+        ],
+        "replies": [
+            {
+                "user": "UFUKQMV5K",
+                "ts": "1581939528.046600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Интересное превью, конечно. ",
+        "files": [
+            {
+                "id": "FU5LCBK4N",
+                "created": 1581939516,
+                "timestamp": 1581939516,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFUKQMV5K",
+                "editable": false,
+                "size": 191155,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FU5LCBK4N\/image_from_ios.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FU5LCBK4N\/download\/image_from_ios.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 260,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 347,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_720.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 520,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_800.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1107,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_960.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 693,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FU5LCBK4N-7ed100891b\/image_from_ios_1024.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 740,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1046,
+                "original_h": 1448,
+                "thumb_tiny": "AwAwACKlRxSgnHU\/nQQCaYhMikJFOIFNOMcUAJRRRSGSL0\/+vS8f5NIv3aXNADWOD\/8AXpN3t+tPJx1P600lTQA3PtSfhRRQBKgB2j5iTngUAFuASCPSkRsfnUwEYYfOMA9jQBEYixBU5B9TTHAVsA5x1qWV1Ee1Wyag7UAFFFFAH\/\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UFUKQMV5K\/FU5LCBK4N\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FU5LCBK4N-a7fd6fc759",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q8gmE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Интересное превью, конечно. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UFUKQMV5K",
+        "display_as_bot": false,
+        "ts": "1581939528.046600",
+        "client_msg_id": "08EAECBF-518C-4BC2-B380-5754A4AFF977",
+        "thread_ts": "1581937206.046100",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f90c5f2-6a93-45f9-939c-454c93089745",
+        "type": "message",
+        "text": "<https:\/\/novayagazeta.ru\/news\/2020\/02\/17\/159143-prokuratura-izvinilas-za-presledovanie-pensionera-sergeya-zaruby-u-nego-proshel-obysk-s-avtomatchikami-iz-za-nadbavki-k-pensii-v-1-5-tysyachi-rubley> (edited) \n\n&gt; В марте прошлого года в квартире Сергея Зарубы прошел обыск, в котором участвовали трое сотрудников полиции и семеро бойцов Росгвардии, в том числе — вооруженных автоматами. Силовики поставили пенсионера лицом к стене и начали искать в квартире разрешительные документы на спил двух берез, росших во дворе дома, в котором проживает семья пенсионера.\n&gt; После обыска Сергея Зарубу доставили в отдел полиции «Советский», где ему предъявили обвинение в незаконном получении надбавки к пенсии в размере 1,5 тысяч рублей\n",
+        "user": "U48A8L25N",
+        "ts": "1581960195.047300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1581960200.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72eN5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/novayagazeta.ru\/news\/2020\/02\/17\/159143-prokuratura-izvinilas-za-presledovanie-pensionera-sergeya-zaruby-u-nego-proshel-obysk-s-avtomatchikami-iz-za-nadbavki-k-pensii-v-1-5-tysyachi-rubley"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (edited) \n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В марте прошлого года в квартире Сергея Зарубы прошел обыск, в котором участвовали трое сотрудников полиции и семеро бойцов Росгвардии, в том числе — вооруженных автоматами. Силовики поставили пенсионера лицом к стене и начали искать в квартире разрешительные документы на спил двух берез, росших во дворе дома, в котором проживает семья пенсионера."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "После обыска Сергея Зарубу доставили в отдел полиции «Советский», где ему предъявили обвинение в незаконном получении надбавки к пенсии в размере 1,5 тысяч рублей"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c121a6c3-c51e-4d64-9794-1c8c601e7615",
+        "type": "message",
+        "text": "интересно пишет\n<https:\/\/mbk-news.appspot.com\/sences\/belorusskaya-goryac\/>",
+        "user": "U48A8L25N",
+        "ts": "1581960959.047800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Белорусская горячка. Владимир Пастухов об истории одной конституционной утопии",
+                "title_link": "https:\/\/mbk-news.appspot.com\/sences\/belorusskaya-goryac\/",
+                "text": "В Кремле убеждены в том, что руководство Белоруссии находится под мощным прессингом собственных «народных масс», которые только и живут ожиданием скорой интеграции и связанных с нею крупных и мелких «поблажек». А раз так, то этому руководству можно выкручивать руки.",
+                "fallback": "Белорусская горячка. Владимир Пастухов об истории одной конституционной утопии",
+                "image_url": "https:\/\/d1kpvlz9lpj3fl.cloudfront.net\/files\/share_imgs\/1581953023_147707.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/mbk-news.appspot.com\/sences\/belorusskaya-goryac\/",
+                "image_bytes": 984609,
+                "service_icon": "https:\/\/mbk-news.appspot.com\/favicon\/apple-touch-icon-152x152.png",
+                "service_name": "МБХ медиа",
+                "id": 1,
+                "original_url": "https:\/\/mbk-news.appspot.com\/sences\/belorusskaya-goryac\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "интересно пишет\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mbk-news.appspot.com\/sences\/belorusskaya-goryac\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

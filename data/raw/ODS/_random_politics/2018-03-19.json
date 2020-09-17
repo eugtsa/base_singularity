@@ -1,0 +1,366 @@
+[
+    {
+        "client_msg_id": "8A1DFBCB-D78D-415B-A0FD-D6DD833BF878",
+        "type": "message",
+        "text": "Сколько там у пыни? Получилось у кириенко 70\/70 организовать?",
+        "user": "U04725QK7",
+        "ts": "1521443281.000032",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521443281.000032",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1521472770.000027",
+        "reply_users": [
+            "U8U5W7JG5",
+            "U04725QK7",
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "U8U5W7JG5",
+                "ts": "1521443591.000174"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1521443618.000268"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1521443634.000225"
+            },
+            {
+                "user": "U8U5W7JG5",
+                "ts": "1521443722.000137"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1521472770.000027"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "67 явка \/ 76,67 % голосов",
+        "user": "U8U5W7JG5",
+        "ts": "1521443591.000174",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521443281.000032",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "client_msg_id": "CB11D096-C99C-4D76-B54D-F42ECF319ABD",
+        "type": "message",
+        "text": "Так и думал, что до 70 явку не дотянут. Перегнули они в последние пару недель",
+        "user": "U04725QK7",
+        "ts": "1521443618.000268",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521443281.000032",
+        "parent_user_id": "U04725QK7",
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84B3653E-8F9E-48A3-A81C-80FBB56E004E",
+        "type": "message",
+        "text": "Спс",
+        "user": "U04725QK7",
+        "ts": "1521443634.000225",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521443281.000032",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "67 близко к 70. поэтому можно сказать план выполнен. согласно сайту навального после 18 часов явка пошла выше чем они на местах считали. до этого времени все сходилось.",
+        "user": "U8U5W7JG5",
+        "ts": "1521443722.000137",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521443281.000032",
+        "parent_user_id": "U04725QK7",
+        "reactions": [
+            {
+                "name": "chicken",
+                "users": [
+                    "U6YDWF4UB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=vPmq4lIhTmg>",
+        "user": "U26MCSB8A",
+        "ts": "1521471685.000743",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a129a02c25b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-23\/441372855269_a129a02c25b773959ad2_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew",
+            "display_name": "ambudance",
+            "team": "T040HKJE3",
+            "name": "ambudance",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Еще 6 лет Путина | 6 More Years of Putin",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=vPmq4lIhTmg",
+                "author_name": "egor zhgun",
+                "author_link": "https:\/\/www.youtube.com\/user\/egorzhgun",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vPmq4lIhTmg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Еще 6 лет Путина | 6 More Years of Putin",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vPmq4lIhTmg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=vPmq4lIhTmg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Очень жаль!",
+        "user": "U316J6CT1",
+        "ts": "1521472770.000027",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1521443281.000032",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=OZoyoNFCWf4>",
+        "user": "U27HU84H4",
+        "ts": "1521474375.000839",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Ложь Путина на послании 2018",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=OZoyoNFCWf4",
+                "author_name": "Ложь путинского режима",
+                "author_link": "https:\/\/www.youtube.com\/user\/leonidmart",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/OZoyoNFCWf4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Ложь Путина на послании 2018",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/OZoyoNFCWf4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=OZoyoNFCWf4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/ura.news\/news\/1052327428>",
+        "user": "U6YDWF4UB",
+        "ts": "1521497215.000114",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gffb554413ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/afffb554413ef6077a9a20ee09dd24b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "mormaks",
+            "real_name": "mormaks",
+            "display_name": "mormaks",
+            "team": "T040HKJE3",
+            "name": "mormaks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Наблюдатели от штаба Навального фальсифицировали вброс бюллетеней на выборах в Иркутске",
+                "title_link": "https:\/\/ura.news\/news\/1052327428",
+                "text": "ВИДЕО, ФОТО",
+                "fallback": "Наблюдатели от штаба Навального фальсифицировали вброс бюллетеней на выборах в Иркутске",
+                "image_url": "https:\/\/s.ura.news\/images\/news\/upload\/smm\/2018\/03\/18\/facebook_29ab045f6d26829766848c546050ace9.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/ura.news\/news\/1052327428",
+                "image_bytes": 534168,
+                "service_icon": "https:\/\/ura.news\/apple-touch-icon.png",
+                "service_name": "ura.news",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "637202FA-004D-4697-9818-BC541563FB68",
+        "type": "message",
+        "text": "Согласен <@U316J6CT1> , это полный фэйспалм, они уже с ума посходили) то подделывают удостоверения наблюдателей, то имитируют вбросы, то клевещут на других безосновательно) :trollface_peeking: ",
+        "user": "U6YDWF4UB",
+        "ts": "1521499518.000345",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gffb554413ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/afffb554413ef6077a9a20ee09dd24b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "mormaks",
+            "real_name": "mormaks",
+            "display_name": "mormaks",
+            "team": "T040HKJE3",
+            "name": "mormaks",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6YDWF4UB",
+            "ts": "1521499682.000000"
+        },
+        "reactions": [
+            {
+                "name": "harold",
+                "users": [
+                    "U5UF22N95"
+                ],
+                "count": 1
+            },
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U5H0L5T98",
+                    "U34Q3KU8H"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tnx",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

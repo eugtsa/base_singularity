@@ -1,0 +1,22 @@
+[
+    {
+        "type": "message",
+        "text": "и такой канал оказывается есть",
+        "user": "U5H055U0J",
+        "ts": "1512421475.000315",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bf00847de62a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/791723789078_bf00847de62af24e7247_72.jpg",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

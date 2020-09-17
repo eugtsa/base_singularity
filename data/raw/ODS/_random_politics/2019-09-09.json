@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "0e11ab81-13d2-4ef5-8d9f-d3be70c75427",
+        "type": "message",
+        "text": "Запасаемся попкорном.\n<https:\/\/meduza.io\/news\/2019\/09\/09\/prokuror-moskvy-podal-isk-k-navalnomu-i-drugim-oppozitsioneram>",
+        "user": "UGTNTEBPV",
+        "ts": "1568026289.091300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Прокурор Москвы подал иск к Навальному и другим оппозиционерам — Meduza",
+                "title_link": "https:\/\/meduza.io\/news\/2019\/09\/09\/prokuror-moskvy-podal-isk-k-navalnomu-i-drugim-oppozitsioneram",
+                "text": "Прокурор Москвы подал иск к основателю Фонда борьбы с коррупцией Алексею Навальному и еще семи оппозиционерам, сообщается в карточке иска. Первым на это обратило внимание издание «МБХ медиа».",
+                "fallback": "Meduza: Прокурор Москвы подал иск к Навальному и другим оппозиционерам — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1568024353\/news\/2019\/09\/09\/prokuror-moskvy-podal-isk-k-navalnomu-i-drugim-oppozitsioneram",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/news\/2019\/09\/09\/prokuror-moskvy-podal-isk-k-navalnomu-i-drugim-oppozitsioneram",
+                "image_bytes": 67184,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/news\/2019\/09\/09\/prokuror-moskvy-podal-isk-k-navalnomu-i-drugim-oppozitsioneram"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wat",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

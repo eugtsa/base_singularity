@@ -1,0 +1,210 @@
+[
+    {
+        "client_msg_id": "be936857-b46d-4130-97df-b798e8dac8cc",
+        "type": "message",
+        "text": "<https:\/\/www.rbc.ru\/politics\/24\/09\/2019\/5d89ccc99a79473dbae1c30e>",
+        "user": "U48A8L25N",
+        "ts": "1569314033.063100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "США не пустили на Генассамблею ООН 10 членов российской делегации",
+                "title_link": "https:\/\/www.rbc.ru\/politics\/24\/09\/2019\/5d89ccc99a79473dbae1c30e",
+                "text": "Глава комитета по международным делам Совета Федерации Константин Косачев заявил, что не получил визу для участия в Генассамблее ООН в Нью-Йорке. Об этом сообщает РИА Новости . Сложившуюся ...",
+                "fallback": "РБК: США не пустили на Генассамблею ООН 10 членов российской делегации",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/8\/68\/755693122203688.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/politics\/24\/09\/2019\/5d89ccc99a79473dbae1c30e",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 80084,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.1.114\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/politics\/24\/09\/2019\/5d89ccc99a79473dbae1c30e"
+            }
+        ],
+        "thread_ts": "1569314033.063100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1569315040.063300",
+        "reply_users": [
+            "U5H0L5T98"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1569315040.063300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59a5bd5e-1f4e-442d-bb92-614e0e19b9fc",
+        "type": "message",
+        "text": "Да Слуцкого вообще нужно изолировать.",
+        "user": "U5H0L5T98",
+        "ts": "1569315040.063300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569314033.063100",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c44bc3f-e5f0-45e0-bd43-635614d0defe",
+        "type": "message",
+        "text": "<https:\/\/www.znak.com\/2019-09-24\/dmitriy_peskov_obyasnil_studentam_vshe_chto_rossiyskie_siloviki_luchshe_amerikanskih>",
+        "user": "U48A8L25N",
+        "ts": "1569316934.063700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Дмитрий Песков объяснил студентам ВШЭ, что российские силовики лучше американских",
+                "title_link": "https:\/\/www.znak.com\/2019-09-24\/dmitriy_peskov_obyasnil_studentam_vshe_chto_rossiyskie_siloviki_luchshe_amerikanskih",
+                "text": "Пресс-секретарь президента РФ Дмитрий Песков на встрече со студентами Высшей школы экономики рассуждал о том, что в США и Канаде силовики реагировали бы на протесты, подобные московским, гораздо жестче",
+                "fallback": "Дмитрий Песков объяснил студентам ВШЭ, что российские силовики лучше американских",
+                "image_url": "https:\/\/img.znak.com\/og176902.png",
+                "from_url": "https:\/\/www.znak.com\/2019-09-24\/dmitriy_peskov_obyasnil_studentam_vshe_chto_rossiyskie_siloviki_luchshe_amerikanskih",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 265748,
+                "service_icon": "https:\/\/www.znak.com\/favicon.png",
+                "service_name": "znak.com",
+                "id": 1,
+                "original_url": "https:\/\/www.znak.com\/2019-09-24\/dmitriy_peskov_obyasnil_studentam_vshe_chto_rossiyskie_siloviki_luchshe_amerikanskih"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5cb33b2a-a842-4859-8d8e-d09c608d7609",
+        "type": "message",
+        "text": "ахахах",
+        "user": "U48A8L25N",
+        "ts": "1569316948.064100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "51ab6c0d-6522-4625-95fe-2612ab45d2cf",
+        "type": "message",
+        "text": "а потом еще говорят, что это мол не правительство такое, это просто какие-то не очень умные челики сами по себе такое распространяют, или что по тв это не сверху спущено, а на тв услужливо сами выдумали",
+        "user": "U48A8L25N",
+        "ts": "1569317339.064500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ea9cf14-b740-404b-b007-bc5c20b26222",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2019\/09\/24\/roskomnadzor-ob-yavil-o-nachale-montazha-oborudovaniya-dlya-izolyatsii-runeta-v-sluchae-ugrozy>",
+        "user": "U48A8L25N",
+        "ts": "1569326984.064900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "718ac9c4-f751-48dc-b928-7937b2565996",
+        "type": "message",
+        "text": "решение приняли в АП, какая разница кто как голосовал",
+        "user": "UDSEN1N2E",
+        "ts": "1569357972.065100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7ead48eb4ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/917ead48eb4ab8bcedbb454977143e60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stiv Yakovenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "stiv.yakovenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569203078.060500",
+        "parent_user_id": "UGTNTEBPV"
+    }
+]

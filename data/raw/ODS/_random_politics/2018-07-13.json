@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "8e23ee5e-40dc-4b25-b1ce-970148b25f28",
+        "type": "message",
+        "text": ":coolstorybob:",
+        "user": "U48A8L25N",
+        "ts": "1531505167.000249",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U8U5W7JG5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

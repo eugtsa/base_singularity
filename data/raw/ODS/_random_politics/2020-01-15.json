@@ -1,0 +1,1142 @@
+[
+    {
+        "type": "message",
+        "text": "Послание Президента Федеральному Собранию по годам",
+        "files": [
+            {
+                "id": "FSD4ERUL9",
+                "created": 1579092890,
+                "timestamp": 1579092890,
+                "name": "final.png",
+                "title": "final.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U8720JR0U",
+                "editable": false,
+                "size": 471201,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FSD4ERUL9\/final.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FSD4ERUL9\/download\/final.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 240,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 320,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 480,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1200,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 640,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FSD4ERUL9-41525bfac5\/final_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 683,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1000,
+                "original_h": 1500,
+                "thumb_tiny": "AwAwACDTNQktng4\/CpjURGScgU0A3L9j+lKpbcMntyMUY7ACgDDCmDJTUbHHPFSGoWUk9RSQAobPJUj1xzSjIYAtn8KaN4ONw\/Khdwdc45HPJpoGWD0qCQnDYPPap6iMeWzk0kBF+8BDEnp2oCuZkbkjHJp5gBGMsPxoWHawO5jj1qk0gZ\/\/2Q==",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U8720JR0U\/FSD4ERUL9\/final.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FSD4ERUL9-f44fc09788",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Послание Президента Федеральному Собранию по годам"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U8720JR0U",
+        "display_as_bot": false,
+        "ts": "1579092901.001700",
+        "client_msg_id": "f19b1f9f-3a44-4ace-a047-4c5d96848134",
+        "thread_ts": "1579092901.001700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1579638970.002100",
+        "reply_users": [
+            "U4DUJM693",
+            "U8720JR0U",
+            "U1D9AM7SN",
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "U4DUJM693",
+                "ts": "1579093820.002300"
+            },
+            {
+                "user": "U8720JR0U",
+                "ts": "1579093839.002500"
+            },
+            {
+                "user": "U1D9AM7SN",
+                "ts": "1579097510.003300"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1579638970.002100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "krasivo",
+                "users": [
+                    "U7VBNMG2F",
+                    "U7CAU0GMU",
+                    "UELA14HSS",
+                    "U27SUBTB9"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c31a517-22d7-41e8-9cde-6fbaa253645a",
+        "type": "message",
+        "text": "Красным Медведев выделен?",
+        "user": "U4DUJM693",
+        "ts": "1579093820.002300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9b661ea0758a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-07\/378213480998_9b661ea0758a8b1a808b_72.jpg",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Talipov",
+            "display_name": "roosh_roosh",
+            "team": "T040HKJE3",
+            "name": "roosh_roosh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BYl8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Красным Медведев выделен?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579092901.001700",
+        "parent_user_id": "U8720JR0U"
+    },
+    {
+        "client_msg_id": "cf93c9d4-8c90-4513-b489-cd33e87970a8",
+        "type": "message",
+        "text": "Ага",
+        "user": "U8720JR0U",
+        "ts": "1579093839.002500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "5eb225e34f95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-17\/301038075030_5eb225e34f95bd6a8340_72.jpg",
+            "first_name": "Sergey",
+            "real_name": "Sergey Ustyantsev",
+            "display_name": "schokoro",
+            "team": "T040HKJE3",
+            "name": "ustyantsev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3S0H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ага"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579092901.001700",
+        "parent_user_id": "U8720JR0U"
+    },
+    {
+        "client_msg_id": "7730222b-1a75-4a79-a9a1-75b64c215da6",
+        "type": "message",
+        "text": "Вангую, что кружок либо красный, либо синий :thi:",
+        "user": "U1D9AM7SN",
+        "ts": "1579097510.003300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb4f42468f65",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/efb4f42468f65602f6ad929ee4ac03ef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Gronsky",
+            "display_name": "tft700",
+            "team": "T040HKJE3",
+            "name": "tft700",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifL1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вангую, что кружок либо красный, либо синий "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579092901.001700",
+        "parent_user_id": "U8720JR0U",
+        "reactions": [
+            {
+                "name": "smekalka",
+                "users": [
+                    "U4DUJM693"
+                ],
+                "count": 1
+            },
+            {
+                "name": "notbad",
+                "users": [
+                    "U8720JR0U"
+                ],
+                "count": 1
+            },
+            {
+                "name": "povar",
+                "users": [
+                    "U8720JR0U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a16f0844-ab18-4981-b53c-70ec18bf77af",
+        "type": "message",
+        "text": "<http:\/\/kremlin.ru\/events\/president\/news\/62582>",
+        "user": "U3KBYJQSF",
+        "ts": "1579098591.003600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Президент России",
+                "title": "Послание Президента Федеральному Собранию",
+                "title_link": "http:\/\/kremlin.ru\/events\/president\/news\/62582",
+                "text": "Владимир Путин обратился с Посланием к Федеральному Собранию. Церемония оглашения прошла в Москве, в Центральном выставочном зале «Манеж».",
+                "fallback": "Президент России: Послание Президента Федеральному Собранию",
+                "image_url": "http:\/\/static.kremlin.ru\/media\/events\/photos\/big\/MKENq2tfseALJ3tCexdSGLmVGepIAtz4.jpg",
+                "image_width": 405,
+                "image_height": 250,
+                "from_url": "http:\/\/kremlin.ru\/events\/president\/news\/62582",
+                "image_bytes": 129751,
+                "service_icon": "http:\/\/kremlin.ru\/static\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "http:\/\/kremlin.ru\/events\/president\/news\/62582"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A2g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/kremlin.ru\/events\/president\/news\/62582"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579098591.003600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1579099897.006100",
+        "reply_users": [
+            "U3KBYJQSF",
+            "U2TS6AQ66"
+        ],
+        "replies": [
+            {
+                "user": "U3KBYJQSF",
+                "ts": "1579098791.003800"
+            },
+            {
+                "user": "U2TS6AQ66",
+                "ts": "1579099877.005900"
+            },
+            {
+                "user": "U2TS6AQ66",
+                "ts": "1579099897.006100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "pepe_clown",
+                "users": [
+                    "UAG21HMV4",
+                    "U50GQKH5J",
+                    "UC7DFDJUA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "091159a1-86b1-4ee9-bdf7-955f4bdcb57d",
+        "type": "message",
+        "text": "вот тут tl;dr что предложил :putin: :muscle:\n<https:\/\/tvrain.ru\/teleshow\/notes\/putin-501012\/?from=incut_wide>",
+        "user": "U3KBYJQSF",
+        "ts": "1579098791.003800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0c4b07b79e7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-17\/580600025335_0c4b07b79e7ca2acaab7_72.jpg",
+            "first_name": "viktor",
+            "real_name": "viktor trokhymenko",
+            "display_name": "vtrokhymenko",
+            "team": "T040HKJE3",
+            "name": "vtrokhymenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3KBYJQSF",
+            "ts": "1579098974.000000"
+        },
+        "attachments": [
+            {
+                "title": "Послание Путина: изменение Конституции, материнский капитал за первого ребенка, горячие обеды в школах",
+                "title_link": "https:\/\/tvrain.ru\/teleshow\/notes\/putin-501012\/?from=incut_wide",
+                "text": "15 января президент России Владимир Путин выступил с ежегодным посланием Федеральному собранию. Основную часть он посвятил социальным проблемам — демографии и бедности. Президент, в частности, предложил выдавать материнский капитал за первого ребенка и ввести выплаты для малоимущих родителей. Но главное было в конце послания — пакет поправок в Конституцию, который вынесут на голосование. Выступление Путина должны были показывать на фасадах московских зданий, но трансляция сорвалась.",
+                "fallback": "Послание Путина: изменение Конституции, материнский капитал за первого ребенка, горячие обеды в школах",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/50\/10\/12\/image.png?2020_01_15_16_01_25",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1579087698,
+                "from_url": "https:\/\/tvrain.ru\/teleshow\/notes\/putin-501012\/?from=incut_wide",
+                "image_bytes": 977042,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/teleshow\/notes\/putin-501012\/?from=incut_wide"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLOmE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "вот тут tl;dr что предложил "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "putin"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tvrain.ru\/teleshow\/notes\/putin-501012\/?from=incut_wide"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579098591.003600",
+        "parent_user_id": "U3KBYJQSF"
+    },
+    {
+        "client_msg_id": "83a81c63-5f8d-4a03-afc8-68983ee38ff4",
+        "type": "message",
+        "text": "_В целях обеспечения безопасности и большей стабильности, Республика будет реорганизована нами в первую Галактическую Империю, во имя сохранности и во имя блага общества!»_",
+        "user": "U3UB29PTJ",
+        "ts": "1579099074.004700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3a52ddce2a24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-11\/313519961077_3a52ddce2a248b0a8cb4_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Ryndin",
+            "display_name": "iryndin",
+            "team": "T040HKJE3",
+            "name": "iryndin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GhZyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В целях обеспечения безопасности и большей стабильности, Республика будет реорганизована нами в первую Галактическую Империю, во имя сохранности и во имя блага общества!»",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U50GQKH5J",
+                    "U27HU84H4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "balashikha",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "darth-vader",
+                "users": [
+                    "U8720JR0U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91d525ce-8039-4e60-80c3-a253cd2e5e40",
+        "type": "message",
+        "text": "\"Запрет на двойное гражданство\nПутин предложил запретить иметь иностранное гражданство или вид на жительство депутатам, главам субъектов, председателю правительства, его замам, федеральным министрам, судьям и так далее. Кроме того, предлагается закрепить требование к президенту о постоянном проживании в России в течение 25 лет, а также отсутствии иностранного гражданства.\"\n\nПо-моему неплохо",
+        "user": "U2TS6AQ66",
+        "ts": "1579099877.005900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "22Iy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Запрет на двойное гражданство\nПутин предложил запретить иметь иностранное гражданство или вид на жительство депутатам, главам субъектов, председателю правительства, его замам, федеральным министрам, судьям и так далее. Кроме того, предлагается закрепить требование к президенту о постоянном проживании в России в течение 25 лет, а также отсутствии иностранного гражданства.\"\n\nПо-моему неплохо"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579098591.003600",
+        "parent_user_id": "U3KBYJQSF"
+    },
+    {
+        "client_msg_id": "3933b6fd-9905-4f16-9700-b0bac897565c",
+        "type": "message",
+        "text": "\"Минимальная зарплата не должна быть ниже прожиточного минимума\" -- тоже",
+        "user": "U2TS6AQ66",
+        "ts": "1579099897.006100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Минимальная зарплата не должна быть ниже прожиточного минимума\" -- тоже"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579098591.003600",
+        "parent_user_id": "U3KBYJQSF"
+    },
+    {
+        "client_msg_id": "ea553921-ef89-4508-9096-b8a010e74fe0",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/msvetov\/status\/1217465624559046663>",
+        "user": "U2TS6AQ66",
+        "ts": "1579102816.007000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "07f4a2fffcb2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-29\/812945792736_07f4a2fffcb2f418e2fd_72.jpg",
+            "first_name": "Egor",
+            "real_name": "Egor Urvanov",
+            "display_name": "hedgehogues",
+            "team": "T040HKJE3",
+            "name": "hedgehogues",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/msvetov|@msvetov>: Регнум подтверждает, Рамзан Кадыров временно сложил обязанности президента Чечни. <https:\/\/regnum.ru\/news\/2830271> Это заявка на кресло премьера.",
+                "ts": 1579101398,
+                "author_name": "Mikhail Svetov",
+                "author_link": "https:\/\/twitter.com\/msvetov\/status\/1217465624559046663",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/831808954208489474\/sihymfuu_normal.jpg",
+                "author_subname": "@msvetov",
+                "text": "Регнум подтверждает, Рамзан Кадыров временно сложил обязанности президента Чечни. <https:\/\/regnum.ru\/news\/2830271> Это заявка на кресло премьера.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/msvetov\/status\/1217465624559046663",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/msvetov\/status\/1217465624559046663",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODXI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/msvetov\/status\/1217465624559046663"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579102816.007000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1579106145.007400",
+        "reply_users": [
+            "UJ2JGSQ3X",
+            "U5H055U0J"
+        ],
+        "replies": [
+            {
+                "user": "UJ2JGSQ3X",
+                "ts": "1579103957.007200"
+            },
+            {
+                "user": "U5H055U0J",
+                "ts": "1579106145.007400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fake_news",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52e792fa-9155-4039-9923-96cea13c9f17",
+        "type": "message",
+        "text": "Это уже будет перебор для большинства населения. Хотя интересно посмотреть в % одобрении народом КРА",
+        "user": "UJ2JGSQ3X",
+        "ts": "1579103957.007200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1ed5ef7b8531",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-24\/616533640836_1ed5ef7b85313f46c87c_72.jpg",
+            "first_name": "eStatiq",
+            "real_name": "eStatiq Hikky",
+            "display_name": "hikky",
+            "team": "T040HKJE3",
+            "name": "andrey.vl.danilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ac1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Это уже будет перебор для большинства населения. Хотя интересно посмотреть в % одобрении народом КРА"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579102816.007000",
+        "parent_user_id": "U2TS6AQ66"
+    },
+    {
+        "client_msg_id": "3DCB29FE-F588-428C-8694-F17CA6DC2055",
+        "type": "message",
+        "text": "Мишустин же",
+        "user": "U5H055U0J",
+        "ts": "1579106145.007400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bf00847de62a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/791723789078_bf00847de62af24e7247_72.jpg",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sew",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Мишустин же"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579102816.007000",
+        "parent_user_id": "U2TS6AQ66"
+    },
+    {
+        "client_msg_id": "b2242fb5-3ecf-4e9e-a102-bff6befa9eb3",
+        "type": "message",
+        "text": "А чего никто новости не обсуждает ?) Я вот не могу понять что твориться, толи они совсем там охерели, толи наоборот зассали)\nя про:\n<https:\/\/meduza.io\/feature\/2020\/01\/15\/konstitutsiyu-reformirovat-materinskiy-kapital-davat-za-pervogo-rebenka>\nи\n<https:\/\/meduza.io\/live\/2020\/01\/15\/putin-predlozhil-perepisat-konstitutsiyu-pravitelstvo-rossii-podalo-v-otstavku-hronika>",
+        "user": "U2TP5JELS",
+        "ts": "1579107451.008800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Путин объявил о радикальной конституционной реформе. Краткий пересказ речи, с которой он обратился к Федеральному собранию — Meduza",
+                "title_link": "https:\/\/meduza.io\/feature\/2020\/01\/15\/konstitutsiyu-reformirovat-materinskiy-kapital-davat-za-pervogo-rebenka",
+                "text": "Избираться президентом России смогут люди, которые прожили в стране не меньше 25 лет и никогда не имели иностранного гражданства или вида на жительство. Главы регионов РФ, члены парламента, правительства и судьи тоже не должны иметь документы, позволяющие постоянно жить на территории другого государства. Норму о том, что один и тот же человек не может занимать пост президента больше двух сроков подряд, можно изменить. Премьер-министра, его заместителей и министров должна утверждать Госдума. Президент не сможет отклонять утвержденные Госдумой кандидатуры, но сможет увольнять премьера, его замов и министров. При назначении глав силовых органов и региональных прокуроров президент обязан будет советоваться с Советом Федерации. По поводу всех этих поправок надо провести всенародное голосование. ",
+                "fallback": "Meduza: Путин объявил о радикальной конституционной реформе. Краткий пересказ речи, с которой он обратился к Федеральному собранию — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1579094669\/feature\/2020\/01\/15\/konstitutsiyu-reformirovat-materinskiy-kapital-davat-za-pervogo-rebenka",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/feature\/2020\/01\/15\/konstitutsiyu-reformirovat-materinskiy-kapital-davat-za-pervogo-rebenka",
+                "image_bytes": 439293,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/feature\/2020\/01\/15\/konstitutsiyu-reformirovat-materinskiy-kapital-davat-za-pervogo-rebenka"
+            },
+            {
+                "service_name": "Meduza",
+                "title": "Путин предложил переписать Конституцию. Правительство России подало в отставку. Хроника — Meduza",
+                "title_link": "https:\/\/meduza.io\/live\/2020\/01\/15\/putin-predlozhil-perepisat-konstitutsiyu-pravitelstvo-rossii-podalo-v-otstavku-hronika",
+                "text": ".",
+                "fallback": "Meduza: Путин предложил переписать Конституцию. Правительство России подало в отставку. Хроника — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1579105114\/live\/2020\/01\/15\/putin-predlozhil-perepisat-konstitutsiyu-pravitelstvo-rossii-podalo-v-otstavku-hronika",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/live\/2020\/01\/15\/putin-predlozhil-perepisat-konstitutsiyu-pravitelstvo-rossii-podalo-v-otstavku-hronika",
+                "image_bytes": 491667,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 2,
+                "original_url": "https:\/\/meduza.io\/live\/2020\/01\/15\/putin-predlozhil-perepisat-konstitutsiyu-pravitelstvo-rossii-podalo-v-otstavku-hronika"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "titc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А чего никто новости не обсуждает ?) Я вот не могу понять что твориться, толи они совсем там охерели, толи наоборот зассали)\nя про:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/feature\/2020\/01\/15\/konstitutsiyu-reformirovat-materinskiy-kapital-davat-za-pervogo-rebenka"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nи\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/live\/2020\/01\/15\/putin-predlozhil-perepisat-konstitutsiyu-pravitelstvo-rossii-podalo-v-otstavku-hronika"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579107451.008800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1579152253.012400",
+        "reply_users": [
+            "UAG21HMV4",
+            "UDSEN1N2E",
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "UAG21HMV4",
+                "ts": "1579108589.009100"
+            },
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1579141802.012100"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1579152253.012400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "32eba604-3d37-48fb-a82e-8228ea3997c2",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/nVpPyq1i5j8|https:\/\/youtu.be\/nVpPyq1i5j8>",
+        "user": "UAG21HMV4",
+        "ts": "1579108589.009100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Станислав Белковский \/ #дайДудя \/\/ 15.01.20",
+                "title_link": "https:\/\/youtu.be\/nVpPyq1i5j8",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/nVpPyq1i5j8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Станислав Белковский \/ #дайДудя \/\/ 15.01.20",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/nVpPyq1i5j8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/nVpPyq1i5j8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/nVpPyq1i5j8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0bYVO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/nVpPyq1i5j8",
+                                "text": "https:\/\/youtu.be\/nVpPyq1i5j8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579107451.008800",
+        "parent_user_id": "U2TP5JELS",
+        "reactions": [
+            {
+                "name": "holypeka",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51402cab-b1c0-4b56-a480-b49d89580e0a",
+        "type": "message",
+        "text": "Может кому-то пригодится\n<https:\/\/www.superjob.ru\/vakansii\/predsedatel-pravitelstva-rossijskoj-federacii-33366707.html>",
+        "user": "UFDMALG6P",
+        "ts": "1579123065.011600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Superjob.ru",
+                "title": "Вакансия Председатель Правительства Российской Федерации в Москве, работа в компании Российская Федерация, полный рабочий день",
+                "title_link": "https:\/\/www.superjob.ru\/vakansii\/predsedatel-pravitelstva-rossijskoj-federacii-33366707.html",
+                "text": "Вакансия Председатель Правительства Российской Федерации в компании Российская Федерация, зарплата по договорённости.",
+                "fallback": "Superjob.ru: Вакансия Председатель Правительства Российской Федерации в Москве, работа в компании Российская Федерация, полный рабочий день",
+                "image_url": "http:\/\/img.superjob.ru\/img\/share_logo_green_salary_1200x630.png",
+                "from_url": "https:\/\/www.superjob.ru\/vakansii\/predsedatel-pravitelstva-rossijskoj-federacii-33366707.html",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 61870,
+                "service_icon": "https:\/\/www.superjob.ru\/fstc\/desktop\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.superjob.ru\/vakansii\/predsedatel-pravitelstva-rossijskoj-federacii-33366707.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Может кому-то пригодится\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.superjob.ru\/vakansii\/predsedatel-pravitelstva-rossijskoj-federacii-33366707.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579123065.011600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1579222133.020800",
+        "reply_users": [
+            "U1D9AM7SN",
+            "U2TS6AQ66",
+            "UGTNTEBPV"
+        ],
+        "replies": [
+            {
+                "user": "U1D9AM7SN",
+                "ts": "1579123823.011800"
+            },
+            {
+                "user": "U2TS6AQ66",
+                "ts": "1579163604.012900"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1579222133.020800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1D9AM7SN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8663b69b-0cd0-4c9e-866a-af2203f14d7f",
+        "type": "message",
+        "text": "Это в <#CEAT9QS01|_jobs_hr> , не забудьте ознакомиться с правилами канала и указать вилку.",
+        "user": "U1D9AM7SN",
+        "ts": "1579123823.011800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb4f42468f65",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/efb4f42468f65602f6ad929ee4ac03ef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Dmitry",
+            "real_name": "Dmitry Gronsky",
+            "display_name": "tft700",
+            "team": "T040HKJE3",
+            "name": "tft700",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1579123065.011600",
+        "parent_user_id": "UFDMALG6P"
+    },
+    {
+        "client_msg_id": "6db3f358-0ab7-4372-8b77-62555b97d08d",
+        "type": "message",
+        "text": "Ну так а чего обсуждать-то. Будет путин над президентом, переназначать его будет карманная дума. Легитимизация монархической диктатуры.",
+        "user": "UDSEN1N2E",
+        "ts": "1579141802.012100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g7ead48eb4ab",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/917ead48eb4ab8bcedbb454977143e60.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "Stiv Yakovenko",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "stiv.yakovenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bF5pG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ну так а чего обсуждать-то. Будет путин над президентом, переназначать его будет карманная дума. Легитимизация монархической диктатуры."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579107451.008800",
+        "parent_user_id": "U2TP5JELS"
+    },
+    {
+        "client_msg_id": "8d4d3085-1529-42fd-ba25-892d43365b56",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=hQYPClFUfEU>",
+        "user": "U27HU84H4",
+        "ts": "1579152253.012400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Послание президента, отставка правительства: Комментарий \"Настоящему времени\"",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=hQYPClFUfEU",
+                "author_name": "Екатерина Шульман",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCL1rJ0ROIw9V1qFeIN0ZTZQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/hQYPClFUfEU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Послание президента, отставка правительства: Комментарий \"Настоящему времени\"",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/hQYPClFUfEU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=hQYPClFUfEU",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=hQYPClFUfEU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Erde4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=hQYPClFUfEU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579107451.008800",
+        "parent_user_id": "U2TP5JELS"
+    }
+]

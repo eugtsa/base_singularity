@@ -1,0 +1,334 @@
+[
+    {
+        "type": "message",
+        "text": "раз уж тут политота процветает, может быть, вам будет даже интересно пройти опрос. Заполните, пожалуйста, анкетку, кому не лень:full_moon_with_face:\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScjlynUyhylPmTvBgoQRRXa5m3-ICQ0TNh85w--0x4O1xO9lQ\/viewform>",
+        "user": "U2NGPL50W",
+        "ts": "1519556372.000033",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cd2009ea5f17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-15\/363883754260_cd2009ea5f17d16308f7_72.jpg",
+            "first_name": "ierrkah",
+            "real_name": "ierrkah",
+            "display_name": "ira_krylova",
+            "team": "T040HKJE3",
+            "name": "ira_krylova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2NGPL50W",
+            "ts": "1519556384.000000"
+        },
+        "thread_ts": "1519556372.000033",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1519560354.000093",
+        "reply_users": [
+            "U2NGPL50W",
+            "U48A8L25N",
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U2NGPL50W",
+                "ts": "1519556394.000092"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1519557080.000004"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1519557101.000057"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1519557642.000063"
+            },
+            {
+                "user": "U2NGPL50W",
+                "ts": "1519558232.000022"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1519560354.000093"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "блин как её сделать превьюшкой",
+        "user": "U2NGPL50W",
+        "ts": "1519556394.000092",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cd2009ea5f17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-15\/363883754260_cd2009ea5f17d16308f7_72.jpg",
+            "first_name": "ierrkah",
+            "real_name": "ierrkah",
+            "display_name": "ira_krylova",
+            "team": "T040HKJE3",
+            "name": "ira_krylova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519556372.000033",
+        "parent_user_id": "U2NGPL50W"
+    },
+    {
+        "type": "message",
+        "text": "там еще один должен быть предварительный вопрос, гражданин ли вы рфии",
+        "user": "U48A8L25N",
+        "ts": "1519557080.000004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519556372.000033",
+        "parent_user_id": "U2NGPL50W"
+    },
+    {
+        "type": "message",
+        "text": "после эдита превьюкой не получится)",
+        "user": "U48A8L25N",
+        "ts": "1519557101.000057",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519556372.000033",
+        "parent_user_id": "U2NGPL50W"
+    },
+    {
+        "type": "message",
+        "text": "Эта анкета для обитателей Северной Пальмиры же!",
+        "user": "U27HU84H4",
+        "ts": "1519557642.000063",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519556372.000033",
+        "parent_user_id": "U2NGPL50W"
+    },
+    {
+        "type": "message",
+        "text": "чёёёрт, забыла уточнить &gt;.&lt;\nНу, если найдутся такие...",
+        "user": "U2NGPL50W",
+        "ts": "1519558232.000022",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "cd2009ea5f17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-15\/363883754260_cd2009ea5f17d16308f7_72.jpg",
+            "first_name": "ierrkah",
+            "real_name": "ierrkah",
+            "display_name": "ira_krylova",
+            "team": "T040HKJE3",
+            "name": "ira_krylova",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519556372.000033",
+        "parent_user_id": "U2NGPL50W",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ох уж эти петербуржцы считают что они одни",
+        "user": "U48A8L25N",
+        "ts": "1519560354.000093",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519556372.000033",
+        "parent_user_id": "U2NGPL50W",
+        "reactions": [
+            {
+                "name": "default-city",
+                "users": [
+                    "U27HU84H4",
+                    "U8313GG7M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7089e8b-7562-4eef-b772-9af817f7808d",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/Pf2eK9rej40>",
+        "user": "U27HU84H4",
+        "ts": "1519627813.000168",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Девушка круто обломала парня. 18+",
+                "title_link": "https:\/\/youtu.be\/Pf2eK9rej40",
+                "author_name": "РОСВИДЕО",
+                "author_link": "https:\/\/www.youtube.com\/user\/soundtradepro",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Pf2eK9rej40\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Девушка круто обломала парня. 18+",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Pf2eK9rej40?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/Pf2eK9rej40",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1519627813.000168",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1519630118.000055",
+        "reply_users": [
+            "U3VBQLKPU",
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U3VBQLKPU",
+                "ts": "1519628497.000223"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1519630118.000055"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Я на выборы никогда не ходил, но в этот раз точно пойду за Грудинина голосовать. Кандидат от народа! :trollface_peeking:",
+        "user": "U3VBQLKPU",
+        "ts": "1519628497.000223",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "84b0571376bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-04\/1103787800818_84b0571376bcbd7916ef_72.jpg",
+            "first_name": "Fedor",
+            "real_name": "Fedor Zaytsev",
+            "display_name": "fedorzaytsev",
+            "team": "T040HKJE3",
+            "name": "fedorzaytsev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519627813.000168",
+        "parent_user_id": "U27HU84H4",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "terminator",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57cc4f6b-a741-4680-84ed-81625071ff8a",
+        "type": "message",
+        "text": "Молодец! Взрослым станешь!",
+        "user": "U27HU84H4",
+        "ts": "1519630118.000055",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1519627813.000168",
+        "parent_user_id": "U27HU84H4"
+    }
+]

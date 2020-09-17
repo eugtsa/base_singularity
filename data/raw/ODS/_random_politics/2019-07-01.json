@@ -1,0 +1,243 @@
+[
+    {
+        "client_msg_id": "f81ff716-e888-41d3-a063-41cbc0ff404c",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/feature\/2019\/07\/01\/kto-vladeet-moskovskimi-kladbischami>",
+        "user": "U74DLUWUC",
+        "ts": "1561994192.230600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Кто владеет московскими кладбищами Как столичный ритуальный рынок заняли ставропольские бизнесмены — и при чем тут ФСБ. Расследование Ивана Голунова — Meduza",
+                "title_link": "https:\/\/meduza.io\/feature\/2019\/07\/01\/kto-vladeet-moskovskimi-kladbischami",
+                "text": "В мае 2016 года на Хованском кладбище в Москве произошла массовая драка. В конфликте, который сопровождался перестрелкой, участвовали от 200 до 400 человек; трое погибли. Это событие завершило передел московского рынка ритуальных услуг: вместо выходцев из подмосковных Химок, чьи попытки закрепиться в столице привели к столкновению на Хованском, во главе практически всех кладбищ Москвы встали бизнесмены со Ставрополья, связанные со столичным управлением ФСБ. Корреспондент отдела расследований «Медузы» Иван Голунов рассказывает, откуда взялись новые выгодополучатели московского похоронного рынка — и кто может стоять за их появлением. Расследование готовилось несколько месяцев. После ареста Голунова в июне 2019 года к работе над его текстом подключились журналисты из ведущих российских изданий — Forbes, The Bell, «Ведомостей», «Новой газеты», РБК, «Русской службы Би-би-си» и «Фонтанки».",
+                "fallback": "Meduza: Кто владеет московскими кладбищами Как столичный ритуальный рынок заняли ставропольские бизнесмены — и при чем тут ФСБ. Расследование Ивана Голунова — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1561994058\/feature\/2019\/07\/01\/kto-vladeet-moskovskimi-kladbischami",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/feature\/2019\/07\/01\/kto-vladeet-moskovskimi-kladbischami",
+                "image_bytes": 649073,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/feature\/2019\/07\/01\/kto-vladeet-moskovskimi-kladbischami"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5578595-acd0-4d31-abb2-cc4558f4da22",
+        "type": "message",
+        "text": "ля, от тебя не ожидал",
+        "user": "U48A8L25N",
+        "ts": "1561997996.231000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "kekeke",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93b6b9fa-e578-421c-948b-aca3bca83633",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/adagamov\/status\/1145671068197249024>",
+        "user": "U48A8L25N",
+        "ts": "1561998632.231300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1561998643.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/adagamov|@adagamov>: Возмущенная женщина из Иркутска пишет: «Ответьте мне, какое вы имеете отношение к этим людям, которые приносили помощь? Почему вы наглым образом присвоили себе гуманитарную помощь от народа? Какого хрена вы припечатали свой несчастный логотип на это всё?! Это не ваша помощь!!!» <https:\/\/pbs.twimg.com\/media\/D-Y8gi6XUAEFlb0.jpg>",
+                "ts": 1561984242,
+                "author_name": "Рустем Адагамов",
+                "author_link": "https:\/\/twitter.com\/adagamov\/status\/1145671068197249024",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/853555737125158912\/tmlNGV9s_normal.jpg",
+                "author_subname": "@adagamov",
+                "text": "Возмущенная женщина из Иркутска пишет: «Ответьте мне, какое вы имеете отношение к этим людям, которые приносили помощь? Почему вы наглым образом присвоили себе гуманитарную помощь от народа? Какого хрена вы припечатали свой несчастный логотип на это всё?! Это не ваша помощь!!!» <https:\/\/pbs.twimg.com\/media\/D-Y8gi6XUAEFlb0.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/adagamov\/status\/1145671068197249024",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/D-Y8gi6XUAEFlb0.jpg",
+                "image_width": 960,
+                "image_height": 1200,
+                "image_bytes": 224369,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/adagamov\/status\/1145671068197249024",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22017ef6-66d0-47bd-9842-33ee87e34d12",
+        "type": "message",
+        "text": "ор, люди собирают помощь, а ер клеит на помощь свой логотип)",
+        "user": "U48A8L25N",
+        "ts": "1561998693.232100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5E0590F8-089E-484A-A973-7A06B13F0152",
+        "type": "message",
+        "text": "Надо туда значит торты из говна ложить. На одном заводе в Башкирии так делали с готовой продукцией",
+        "user": "UFDMALG6P",
+        "ts": "1561998935.233000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84c12a83-9933-4ccf-ae6c-ec7a536f6261",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/mudakoff\/status\/1145637869706448896>",
+        "user": "U48A8L25N",
+        "ts": "1561999234.233300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mudakoff|@mudakoff>: В Гонконге у протестующих взгорело, что власти не слышат их требований, и они начали штурм Законодательного совета. \n\nРеспект пацанам, которые не терпилоиды <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1145637827125960704\/pu\/img\/kKYbutjgr8uI9v1R.jpg>",
+                "ts": 1561976327,
+                "author_name": "#MDK",
+                "author_link": "https:\/\/twitter.com\/mudakoff\/status\/1145637869706448896",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/921369060994109440\/rWj-Da6M_normal.jpg",
+                "author_subname": "@mudakoff",
+                "text": "В Гонконге у протестующих взгорело, что власти не слышат их требований, и они начали штурм Законодательного совета. \n\nРеспект пацанам, которые не терпилоиды",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mudakoff\/status\/1145637869706448896",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1145637827125960704\/pu\/img\/kKYbutjgr8uI9v1R.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1145637827125960704\/pu\/img\/kKYbutjgr8uI9v1R.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1145637827125960704\/pu\/vid\/1280x720\/H1qJhlmZd5BsI3_z.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mudakoff\/status\/1145637869706448896",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8001aad-4a0e-4da3-805b-5cb856813b3c",
+        "type": "message",
+        "text": "&gt;MDK \n\nЭх, Даня",
+        "user": "U74DLUWUC",
+        "ts": "1561999393.234100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

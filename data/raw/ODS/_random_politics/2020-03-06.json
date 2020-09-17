@@ -1,0 +1,496 @@
+[
+    {
+        "client_msg_id": "1298d920-2846-4437-b5ef-ac473801a311",
+        "type": "message",
+        "text": "<https:\/\/zona.media\/article\/2020\/03\/05\/isolation>",
+        "user": "U48A8L25N",
+        "ts": "1583491272.036500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Медиазона",
+                "title": "Отлов в карантин. Как мэрия Москвы пытается остановить эпидемию коронавируса с помощью слежки и полиции",
+                "title_link": "https:\/\/zona.media\/article\/2020\/03\/05\/isolation",
+                "text": "​Власти Москвы объявили, что вводят в городе «режим повышенной готовности» из-за эпидемии коронавируса. «Медиазона» выяс...",
+                "fallback": "Медиазона: Отлов в карантин. Как мэрия Москвы пытается остановить эпидемию коронавируса с помощью слежки и полиции",
+                "image_url": "https:\/\/s3.zona.media\/entry\/ceaa2d6336ce0d215530b115574519a7_1400x850",
+                "image_width": 412,
+                "image_height": 250,
+                "from_url": "https:\/\/zona.media\/article\/2020\/03\/05\/isolation",
+                "image_bytes": 371172,
+                "service_icon": "https:\/\/zona.media\/s\/favicon\/mz\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/zona.media\/article\/2020\/03\/05\/isolation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pTGr3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zona.media\/article\/2020\/03\/05\/isolation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "104aab2a-ebd1-4f5d-b28b-60547ac687cc",
+        "type": "message",
+        "text": "&gt; Глава ВОЗ в связи с COVID19: мы призываем ЛИДЕРОВ всех стран СРОЧНО, МАСШТАБНО и РЕШИТЕЛЬНО мобилизовать ВСЮ государственную машину - органы безопасности, дипломатию, финансовый, торговый сектора, информацион ресурсы - не только министерство здравоохранения - на борьбу с вирусом",
+        "user": "U48A8L25N",
+        "ts": "1583492594.037100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dzWFM",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Глава ВОЗ в связи с COVID19: мы призываем ЛИДЕРОВ всех стран СРОЧНО, МАСШТАБНО и РЕШИТЕЛЬНО мобилизовать ВСЮ государственную машину - органы безопасности, дипломатию, финансовый, торговый сектора, информацион ресурсы - не только министерство здравоохранения - на борьбу с вирусом"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c97b527c-5b57-4425-b1b4-de044f6f9a95",
+        "type": "message",
+        "text": "&gt; «Ведомости»: из поправок в Конституцию уберут запрет на владение иностранной недвижимостью для чиновников и депутатов, потому что тогда десяткам «слуг народа» придётся отказаться от неё или уйти со своих постов",
+        "user": "U48A8L25N",
+        "ts": "1583492763.037500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lJ6T",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "«Ведомости»: из поправок в Конституцию уберут запрет на владение иностранной недвижимостью для чиновников и депутатов, потому что тогда десяткам «слуг народа» придётся отказаться от неё или уйти со своих постов"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "petushara",
+                "users": [
+                    "U7CAU0GMU",
+                    "U1TJJJZQ8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4ca6729-f9b5-4a2e-b2fb-8b4ba3c97fb1",
+        "type": "message",
+        "text": "&gt; В России зафиксировано еще шесть новых случаев заражения коронавирусом. Об этом сообщает «Интерфакс» со ссылкой на оперативный штаб.\n&gt; Пять из них в Москве, один — в Нижнем Новгороде.",
+        "user": "U48A8L25N",
+        "ts": "1583499326.038000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yQ4p",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "В России зафиксировано еще шесть новых случаев заражения коронавирусом. Об этом сообщает «Интерфакс» со ссылкой на оперативный штаб.\nПять из них в Москве, один — в Нижнем Новгороде."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbdf2d37-b0e0-4931-9067-6d0600368d57",
+        "type": "message",
+        "text": "<https:\/\/www.yaplakal.com\/forum3\/topic2080205.html>",
+        "user": "U48A8L25N",
+        "ts": "1583519952.038400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Yaplakal.com — информационно-развлекательное сообщество",
+                "title": "В Курске выбрали \"Красу полиции-2020\" - ЯПлакалъ",
+                "title_link": "https:\/\/www.yaplakal.com\/forum3\/topic2080205.html",
+                "text": "Традиционно в преддверии 8 марта в УМВД по Курской области проходит конкурс среди сотрудниц. Выбирают самую сильную, профессионально грамотную и красивую сотрудницу органов внутренних дел. Главное ограничение - возраст менее 30 лет. Участницам предстояло...",
+                "fallback": "Yaplakal.com — информационно-развлекательное сообщество: В Курске выбрали \"Красу полиции-2020\" - ЯПлакалъ",
+                "image_url": "https:\/\/s00.yaplakal.com\/pics\/pics_original\/9\/6\/6\/14063669.jpg",
+                "from_url": "https:\/\/www.yaplakal.com\/forum3\/topic2080205.html",
+                "image_width": 167,
+                "image_height": 250,
+                "image_bytes": 119098,
+                "service_icon": "https:\/\/www.yaplakal.com\/html\/ico\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.yaplakal.com\/forum3\/topic2080205.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.yaplakal.com\/forum3\/topic2080205.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6c36f5d-8867-4293-8b15-4ba4caf30477",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=dEOav_yD378>",
+        "user": "U27HU84H4",
+        "ts": "1583523042.038900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Как зарабатывают на коронавирусе",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=dEOav_yD378",
+                "author_name": "Алексей Навальный",
+                "author_link": "https:\/\/www.youtube.com\/user\/NavalnyRu",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dEOav_yD378\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Как зарабатывают на коронавирусе",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/dEOav_yD378?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=dEOav_yD378",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=dEOav_yD378"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0H\/O3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=dEOav_yD378"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "be-a-man",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cac1c974-f191-4579-adf8-82b862aca8d1",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=eVGtgVEfZVg>",
+        "user": "U48A8L25N",
+        "ts": "1583526700.039600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Россияне и чиновники о поправках в Конституцию | Политика.Козлов",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=eVGtgVEfZVg",
+                "author_name": "BBC News - Русская служба",
+                "author_link": "https:\/\/www.youtube.com\/user\/BBCRussian",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/eVGtgVEfZVg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Россияне и чиновники о поправках в Конституцию | Политика.Козлов",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/eVGtgVEfZVg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=eVGtgVEfZVg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=eVGtgVEfZVg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=tFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=eVGtgVEfZVg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wtf",
+                "users": [
+                    "U27HU84H4",
+                    "U2TP5JELS"
+                ],
+                "count": 2
+            },
+            {
+                "name": "harold",
+                "users": [
+                    "U27HU84H4",
+                    "U1TJJJZQ8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "zebra_face",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbf237cf-4f5d-43b7-a336-7351df58034e",
+        "type": "message",
+        "text": "адовый видос)",
+        "user": "U48A8L25N",
+        "ts": "1583526704.040000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ms1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "адовый видос)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f96c5ad4-267c-43bf-8e4c-6797aeb30fce",
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/teleshow\/fishman_vechernee_shou\/mh17-504177\/>",
+        "user": "U48A8L25N",
+        "ts": "1583527325.040500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "В Гааге начинается суд по делу о сбитом «Боинге». Что грозит России?",
+                "title_link": "https:\/\/tvrain.ru\/teleshow\/fishman_vechernee_shou\/mh17-504177\/",
+                "text": "9 марта, в понедельник, в Гааге начинается судебный процесс по делу о «Боинге» (рейс MH17), сбитом над Донбассом почти шесть лет назад — 17 июля 2014 года. Москва уже всячески дала понять, что не признает никакие результаты ни расследования, ни самого суда, в которых ответственность за эту ужасную трагедию будет возложена на Россию и конкретных российских граждан. МИД уже в пятницу, 6 марта, заявил, что правительство Нидерландов давит на суд в Гааге. В общем, Москва смотрит на этот суд исключительно как на информационную кампанию, которую надо постараться не проиграть. Валерия Ратникова — о судебном процессе, который вот-вот начнется.",
+                "fallback": "В Гааге начинается суд по делу о сбитом «Боинге». Что грозит России?",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/50\/41\/77\/image.png?2020_03_06_22_36_52",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1583519411,
+                "from_url": "https:\/\/tvrain.ru\/teleshow\/fishman_vechernee_shou\/mh17-504177\/",
+                "image_bytes": 1462591,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/teleshow\/fishman_vechernee_shou\/mh17-504177\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Bq8Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tvrain.ru\/teleshow\/fishman_vechernee_shou\/mh17-504177\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

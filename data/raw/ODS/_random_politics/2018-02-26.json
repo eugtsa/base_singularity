@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.novayagazeta.ru\/articles\/2018\/02\/26\/75605-synki-otechestva>",
+        "user": "U48A8L25N",
+        "ts": "1519633835.000298",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Новая газета - Novayagazeta.ru",
+                "title": "Сынки Отечества",
+                "title_link": "https:\/\/www.novayagazeta.ru\/articles\/2018\/02\/26\/75605-synki-otechestva",
+                "text": "«Новая газета» рассказывает удивительную историю одного несостоявшегося, стратегически важного для страны, импортозамещения и других проектов в военной сфере детей генерала ФСБ Сергея Беседы и человека, которого вице-премьер Рогозин называл в твиттере «племянником», а после запроса журналистов...",
+                "fallback": "Новая газета - Novayagazeta.ru: Сынки Отечества",
+                "image_url": "https:\/\/static.novayagazeta.ru\/storage\/post\/75605\/regular_social_image-d94873bf565871e9700590c3b82f4a2f.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1519592820,
+                "from_url": "https:\/\/www.novayagazeta.ru\/articles\/2018\/02\/26\/75605-synki-otechestva",
+                "image_bytes": 202446,
+                "service_icon": "https:\/\/www.novayagazeta.ru\/public\/fav_57.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bombanoolo",
+                "users": [
+                    "U04725QK7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1519633842.000102",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/life.ru\/t\/%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B8\/1092711\/nikto_svobody_slova_vam_nie_daval_dotsient_dvfu_poobieshchala_studientam_riepriessii>",
+        "user": "U48A8L25N",
+        "ts": "1519641587.000181",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Life.ru",
+                "title": "\"Никто свободы слова вам не давал!\" Доцент ДВФУ пообещала студентам репрессии",
+                "title_link": "https:\/\/life.ru\/t\/%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B8\/1092711\/nikto_svobody_slova_vam_nie_daval_dotsient_dvfu_poobieshchala_studientam_riepriessii",
+                "text": "Преподавателя кафедры лингвистики и межкультурной коммуникации ДВФУ Юлию Григорьеву из Владивостока привели в бешенство комментарии студентов, которые были недовольны составленным ею расписанием.",
+                "fallback": "Life.ru: \"Никто свободы слова вам не давал!\" Доцент ДВФУ пообещала студентам репрессии",
+                "image_url": "https:\/\/static.life.ru\/posts\/2018\/02\/1092711\/gr\/north\/3cdb530d18d9a222de9f36b3ee3b095c__1200x630.jpg",
+                "ts": 1519637760,
+                "from_url": "https:\/\/life.ru\/t\/%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B8\/1092711\/nikto_svobody_slova_vam_nie_daval_dotsient_dvfu_poobieshchala_studientam_riepriessii",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 82791,
+                "service_icon": "https:\/\/life.ru\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    }
+]

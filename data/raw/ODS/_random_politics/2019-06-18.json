@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "5acdc2f4-bc6d-43d6-9cc5-90ecab1909d9",
+        "type": "message",
+        "text": "Шутить про цифры мы не бросим?",
+        "user": "U710D2PPX",
+        "ts": "1560844807.038900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ce9e0718690f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-03-21\/333561279941_ce9e0718690f168f51a8_72.jpg",
+            "first_name": "Даниил",
+            "real_name": "Даниил Потапов",
+            "display_name": "sharthZ23",
+            "team": "T040HKJE3",
+            "name": "sharthz23",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560828963.038700",
+        "parent_user_id": "U7H91LHAA",
+        "reactions": [
+            {
+                "name": "povar",
+                "users": [
+                    "U7SFPUVQF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c409b85-6801-4a48-89b2-d0d46b68bb43",
+        "type": "message",
+        "text": "ну все не все",
+        "user": "U48A8L25N",
+        "ts": "1560844918.039200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560796625.037600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "ea544d1d-2aeb-46d4-b6e7-3f5834456220",
+        "type": "message",
+        "text": "но например ютуб в россии скорее всего кешируется",
+        "user": "U48A8L25N",
+        "ts": "1560844930.039400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560796625.037600",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "2f190a3d-f081-4ac9-9fa6-b2eb3e29bc91",
+        "type": "message",
+        "text": "у нас в казахстане по крайней мере кешируется казахстан совместно с гуглом построили такой центр в казахстане",
+        "user": "U48A8L25N",
+        "ts": "1560844999.039600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560796625.037600",
+        "parent_user_id": "U48A8L25N"
+    }
+]

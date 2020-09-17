@@ -1,0 +1,527 @@
+[
+    {
+        "client_msg_id": "d5a161c5-f142-4477-93ab-eb8b1bd1db14",
+        "type": "message",
+        "text": "<https:\/\/pbs.twimg.com\/media\/ESp1dIHXYAEeyRC?format=jpg&amp;name=small>",
+        "user": "U48A8L25N",
+        "ts": "1583743570.042600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "680x473px image",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/ESp1dIHXYAEeyRC?format=jpg&name=small",
+                "image_width": 680,
+                "image_height": 473,
+                "image_bytes": 14167,
+                "from_url": "https:\/\/pbs.twimg.com\/media\/ESp1dIHXYAEeyRC?format=jpg&name=small",
+                "id": 1,
+                "original_url": "https:\/\/pbs.twimg.com\/media\/ESp1dIHXYAEeyRC?format=jpg&amp;name=small"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wly1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pbs.twimg.com\/media\/ESp1dIHXYAEeyRC?format=jpg&name=small"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "petushara",
+                "users": [
+                    "U7CAU0GMU",
+                    "U1TJJJZQ8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "UEBC73WP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "783e697a-63ce-49b0-87bc-e3e8fc09809a",
+        "type": "message",
+        "text": "С победой!",
+        "user": "U48A8L25N",
+        "ts": "1583743578.042900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "С победой!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "petushara",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36383b2c-60d9-4a90-a9d7-b3e0e3e2bddd",
+        "type": "message",
+        "text": "Роснефть -22,45% ? Сечин новый чемпион по стрельбе в ногу?",
+        "user": "UELA14HSS",
+        "ts": "1583748196.044600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f57d2c5ea770",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-04\/495013890082_f57d2c5ea770b73ea694_72.jpg",
+            "first_name": "Grigoriy",
+            "real_name": "Grigoriy Rashkov",
+            "display_name": "logogriph",
+            "team": "T040HKJE3",
+            "name": "rashkov079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b2UJF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Роснефть -22,45% ? Сечин новый чемпион по стрельбе в ногу?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583748196.044600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1583752573.045700",
+        "reply_users": [
+            "U5H055U0J"
+        ],
+        "replies": [
+            {
+                "user": "U5H055U0J",
+                "ts": "1583752573.045700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cad5fe78-775d-4e9e-ba55-af61b2f554b1",
+        "type": "message",
+        "text": "<https:\/\/www.interfax.ru\/business\/698279>",
+        "user": "U48A8L25N",
+        "ts": "1583751105.045400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Interfax.ru",
+                "title": "Акции российских компаний обрушились на Лондонской бирже",
+                "title_link": "https:\/\/www.interfax.ru\/business\/698279",
+                "text": "Акции российских компаний на Лондонской фондовой бирже в понедельник обрушились из-за обвала нефтяных цен.",
+                "fallback": "Interfax.ru: Акции российских компаний обрушились на Лондонской бирже",
+                "image_url": "https:\/\/www.interfax.ru\/aspimg\/698279.png",
+                "ts": 1583748240,
+                "from_url": "https:\/\/www.interfax.ru\/business\/698279",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 13104,
+                "service_icon": "https:\/\/www.interfax.ru\/touch-icon-iphone.png",
+                "id": 1,
+                "original_url": "https:\/\/www.interfax.ru\/business\/698279"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6HMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.interfax.ru\/business\/698279"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slow",
+                "users": [
+                    "UELA14HSS",
+                    "UEBC73WP7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecac79dc-9dea-4889-afa9-18c9021c5b18",
+        "type": "message",
+        "text": "может он до этого валютой закупился",
+        "user": "U5H055U0J",
+        "ts": "1583752573.045700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "bf00847de62a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/791723789078_bf00847de62af24e7247_72.jpg",
+            "first_name": "Astemir",
+            "real_name": "Astemir Boziev",
+            "display_name": "Nart",
+            "team": "T040HKJE3",
+            "name": "nart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgcx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "может он до этого валютой закупился"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583748196.044600",
+        "parent_user_id": "UELA14HSS"
+    },
+    {
+        "client_msg_id": "4f443c7c-3645-408e-890a-b4b416bcebce",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/news\/2020\/03\/09\/amerikanskie-rynki-otkrylis-obvalom-torgi-priostanovleny>\nхе хе  трампочкину будет сложно переизбраться.",
+        "user": "UGTNTEBPV",
+        "ts": "1583762123.046300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1583762541.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Американские рынки открылись обвалом. Торги приостановлены — Meduza",
+                "title_link": "https:\/\/meduza.io\/news\/2020\/03\/09\/amerikanskie-rynki-otkrylis-obvalom-torgi-priostanovleny",
+                "text": "Рынки в США открылись обвалом, передает Bloomberg. Индекс S&amp;P 500 в первые минуты упал на 6,9%, Dow Jones на 7%.",
+                "fallback": "Meduza: Американские рынки открылись обвалом. Торги приостановлены — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1583761655\/news\/2020\/03\/09\/amerikanskie-rynki-otkrylis-obvalom-torgi-priostanovleny",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/news\/2020\/03\/09\/amerikanskie-rynki-otkrylis-obvalom-torgi-priostanovleny",
+                "image_bytes": 46469,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/news\/2020\/03\/09\/amerikanskie-rynki-otkrylis-obvalom-torgi-priostanovleny"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AoGir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meduza.io\/news\/2020\/03\/09\/amerikanskie-rynki-otkrylis-obvalom-torgi-priostanovleny"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nхе хе  трампочкину будет сложно переизбраться."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583762123.046300",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1583843046.056300",
+        "reply_users": [
+            "UELA14HSS",
+            "UGTNTEBPV"
+        ],
+        "replies": [
+            {
+                "user": "UELA14HSS",
+                "ts": "1583765720.046600"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1583765979.046800"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1583770677.047100"
+            },
+            {
+                "user": "UELA14HSS",
+                "ts": "1583842828.055700"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1583842959.056100"
+            },
+            {
+                "user": "UELA14HSS",
+                "ts": "1583843046.056300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "749343f2-d604-4e17-bb76-976fcf881e76",
+        "type": "message",
+        "text": "Спишет на врагов с Востока",
+        "user": "UELA14HSS",
+        "ts": "1583765720.046600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "f57d2c5ea770",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-04\/495013890082_f57d2c5ea770b73ea694_72.jpg",
+            "first_name": "Grigoriy",
+            "real_name": "Grigoriy Rashkov",
+            "display_name": "logogriph",
+            "team": "T040HKJE3",
+            "name": "rashkov079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WyN\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Спишет на врагов с Востока"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583762123.046300",
+        "parent_user_id": "UGTNTEBPV"
+    },
+    {
+        "client_msg_id": "c23d023a-bf16-47ae-a899-51556aa8f3cb",
+        "type": "message",
+        "text": "Списать то он спишет, но там не Россия и там ему не спишут. Там такое не прокатит. Ты либо можешь что-то предъявить в качестве успеха своих 4х лет, либо иди нах.",
+        "user": "UGTNTEBPV",
+        "ts": "1583765979.046800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iFIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Списать то он спишет, но там не Россия и там ему не спишут. Там такое не прокатит. Ты либо можешь что-то предъявить в качестве успеха своих 4х лет, либо иди нах."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583762123.046300",
+        "parent_user_id": "UGTNTEBPV",
+        "reactions": [
+            {
+                "name": "epta",
+                "users": [
+                    "UELA14HSS",
+                    "UJ8BXBM36"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4afee321-1b37-4df8-9f3a-b853f9cf6062",
+        "type": "message",
+        "text": "ну вот, уже обвинил, только не врагов с востока, а Саудитов и нас. <https:\/\/tass.ru\/ekonomika\/7930521?utm_source=yxnews&amp;utm_medium=desktop&amp;utm_referrer=https:%2F%2Fyandex.ru%2Fnews>\nБиржевой индекс это не приговор ещё для него.",
+        "user": "UGTNTEBPV",
+        "ts": "1583770677.047100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ТАСС",
+                "title": "Трамп обвинил в падениях рынков Россию, Саудовскую Аравию и \"лживые СМИ\"",
+                "title_link": "https:\/\/tass.ru\/ekonomika\/7930521?utm_source=yxnews&utm_medium=desktop&utm_referrer=https:%2F%2Fyandex.ru%2Fnews",
+                "text": "При этом американский лидер отметил, что для потребителей хорошим в этой ситуации является падение цен на бензин",
+                "fallback": "ТАСС: Трамп обвинил в падениях рынков Россию, Саудовскую Аравию и \"лживые СМИ\"",
+                "image_url": "https:\/\/phototass3.cdnvideo.ru\/width\/1200_4ce85301\/tass\/m2\/uploads\/i\/20200309\/5421731.jpg",
+                "from_url": "https:\/\/tass.ru\/ekonomika\/7930521?utm_source=yxnews&utm_medium=desktop&utm_referrer=https:%2F%2Fyandex.ru%2Fnews",
+                "image_width": 393,
+                "image_height": 250,
+                "image_bytes": 85607,
+                "service_icon": "https:\/\/tass.ru\/img\/blocks\/common\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/tass.ru\/ekonomika\/7930521?utm_source=yxnews&amp;utm_medium=desktop&amp;utm_referrer=https:%2F%2Fyandex.ru%2Fnews"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LfJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ну вот, уже обвинил, только не врагов с востока, а Саудитов и нас. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tass.ru\/ekonomika\/7930521?utm_source=yxnews&utm_medium=desktop&utm_referrer=https:%2F%2Fyandex.ru%2Fnews"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nБиржевой индекс это не приговор ещё для него."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583762123.046300",
+        "parent_user_id": "UGTNTEBPV"
+    }
+]

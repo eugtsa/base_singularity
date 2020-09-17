@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "c8a8d9e6-e3fb-47d8-a24a-1d48b80d5c04",
+        "type": "message",
+        "text": "А кто-то из охранителей утверждал, что Дуров провел ICO потому как лег под SEC и дал доступ АНБ к переписке в телеграме. Прям интересно, как они нынешние события обьясняют",
+        "user": "U28J6CP29",
+        "ts": "1572784588.008300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d6a6aaaca1ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-07\/432337025062_d6a6aaaca1ca5a8db337_72.jpg",
+            "first_name": "Datalove",
+            "real_name": "Datalove is not a crime",
+            "display_name": "datalove_isnt_a_crime",
+            "team": "T040HKJE3",
+            "name": "datalove_isnt_a_crime",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570902954.081700",
+        "parent_user_id": "U48A8L25N"
+    }
+]

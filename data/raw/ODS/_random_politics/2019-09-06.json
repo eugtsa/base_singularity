@@ -1,0 +1,673 @@
+[
+    {
+        "client_msg_id": "7f65075d-b9a2-4691-be45-8b1b4ba8d04c",
+        "type": "message",
+        "text": "Это уже мусолили полгода назад. Острова не отдали, зато сотрудничество продвигается.",
+        "user": "U7CAU0GMU",
+        "ts": "1567754200.058900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4c42880-05dc-4bc5-a3ae-893f8d4bc1f5",
+        "type": "message",
+        "text": "<https:\/\/echo.msk.ru\/news\/2496311-echo.html>",
+        "user": "U48A8L25N",
+        "ts": "1567757294.059300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Эхо Москвы",
+                "title": "Рашкин: Правительство готовит новый этап пенсионной реформы, в ходе которой собираются увеличить пенсионный возраст",
+                "title_link": "https:\/\/echo.msk.ru\/news\/2496311-echo.html",
+                "text": "Депутат Госдумы от КПРФ Валерий Рашкин сказал «Эху», что возможно уже создана рабочая группа по этому вопросу…",
+                "fallback": "Эхо Москвы: Рашкин: Правительство готовит новый этап пенсионной реформы, в ходе которой собираются увеличить пенсионный возраст",
+                "image_url": "http:\/\/cdn.echo.msk.ru\/att\/cards\/large\/2496311.png",
+                "from_url": "https:\/\/echo.msk.ru\/news\/2496311-echo.html",
+                "image_width": 499,
+                "image_height": 250,
+                "image_bytes": 82381,
+                "service_icon": "https:\/\/echo.msk.ru\/favicon.ico?echo",
+                "id": 1,
+                "original_url": "https:\/\/echo.msk.ru\/news\/2496311-echo.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "370c83b4-d0e5-421f-9210-b75853b7bf44",
+        "type": "message",
+        "text": "никогда же такого не было, и вот опять",
+        "user": "U48A8L25N",
+        "ts": "1567757301.059700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c520161-833f-43a5-a17a-1df16ea707fd",
+        "type": "message",
+        "text": "<https:\/\/www.business-gazeta.ru\/article\/437774>",
+        "user": "UFDMALG6P",
+        "ts": "1567770022.060300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "БИЗНЕС Online",
+                "title": "Собянин заявил, что без Москвы регионы «окунутся в нищету»",
+                "title_link": "https:\/\/www.business-gazeta.ru\/article\/437774",
+                "text": "Утверждение, что Москву кормят другие регионы, неверное. Об&amp;nbsp;этом заявил мэр Москвы Сергей Собянин. Он&amp;nbsp;отметил, что ситуация обратная и&amp;nbsp;поступающие от&amp;nbsp;столицы деньги помогают выравнивать бюджеты субъектов&amp;nbsp;РФ.",
+                "fallback": "БИЗНЕС Online: Собянин заявил, что без Москвы регионы «окунутся в нищету»",
+                "image_url": "https:\/\/cdn3.business-gazeta.ru\/files\/news\/c2\/437774.jpg",
+                "from_url": "https:\/\/www.business-gazeta.ru\/article\/437774",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 72687,
+                "service_icon": "https:\/\/www.business-gazeta.ru\/static\/img\/logo_64.png",
+                "id": 1,
+                "original_url": "https:\/\/www.business-gazeta.ru\/article\/437774"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N",
+                    "U710D2PPX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U74DLUWUC",
+                    "U3AG4B1N1",
+                    "U5H055U0J"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cdfc98c-f44a-41c1-9929-a2b70bd2b304",
+        "type": "message",
+        "text": "Как человек из одного из самых дальних регионов скажу так, в общем, конечно, глубоко пох на Москву, тут важна сама система перераспределения налогов, по которй из муницыпальных бюджетов уходит &gt; 80% собранных денег в федереальный бюджет, и никогда не возвращается. А такая централизация финансов, типичный признак слобо развитой страны и экономики. в МСК ~ 10% населения и нормальная такая доля бизнеса и финансов (доля может различаться в зависимости от источников). Это печально",
+        "user": "U88T71FBL",
+        "ts": "1567775539.064900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "reply_count": 13,
+        "reply_users_count": 6,
+        "latest_reply": "1567810478.074600",
+        "reply_users": [
+            "U74DLUWUC",
+            "U88T71FBL",
+            "UFDMALG6P",
+            "U5H0L5T98",
+            "U7CAU0GMU",
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "U74DLUWUC",
+                "ts": "1567775710.066300"
+            },
+            {
+                "user": "U88T71FBL",
+                "ts": "1567776527.066500"
+            },
+            {
+                "user": "UFDMALG6P",
+                "ts": "1567776926.066800"
+            },
+            {
+                "user": "U88T71FBL",
+                "ts": "1567777643.067200"
+            },
+            {
+                "user": "U74DLUWUC",
+                "ts": "1567777734.067400"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1567779681.067700"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1567780540.067900"
+            },
+            {
+                "user": "UFDMALG6P",
+                "ts": "1567786602.070100"
+            },
+            {
+                "user": "U74DLUWUC",
+                "ts": "1567786783.070300"
+            },
+            {
+                "user": "U7CAU0GMU",
+                "ts": "1567786996.070500"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1567810200.074200"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1567810379.074400"
+            },
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1567810478.074600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3AG4B1N1",
+                    "UCFT73AGM",
+                    "U5H0L5T98"
+                ],
+                "count": 3
+            },
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U3AG4B1N1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5c8f56b-b8fa-48dd-a615-9b42788e3133",
+        "type": "message",
+        "text": "&gt;тут важна сама система перераспределения налогов, по которй из муницыпальных бюджетов уходит &gt; 80% собранных денег в федереальный бюджет, и никогда не возвращается\n\nЭто будет проблемой на Сахалине каком-нибудь. бОльшая часть регионов в глубоком дефиците живет. И они от изменения распределения налогов ничего не получат.\nТолько почему повелитель оленей упускает тот факт, что по сути это пылесос, от которого больше вреда, а не донор - :idk:",
+        "user": "U74DLUWUC",
+        "ts": "1567775710.066300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "ab5d7c48-0949-4538-bb68-a9c4ebb7109a",
+        "type": "message",
+        "text": "Не располагаю цифрами по нлогам по регионам, но если бы у меня отбирали 80% дохода, я бы не мог позволить себе аренду жилья, еду и одежду, что сделало бы меня глубоко дефицитным персонажем, а так вроде норм, даже могу сходить в кино и кафе и принести пользу экономике.\nА если говорить в общем, в РФ ОЧЕНЬ МАЛО людей. мы не можем создать внутренние рынки. На нашу площадь нас бы ~ 500кк (примерно, расчёты не делал, возможно больше), тогда да, тогда, тогда у нас были бы рынки, не было столь жесткой централизации, это бы позволило нам сформировать под десяток экономических центров (это не точно, но точно больше 1, как сейчас).\nПовелитель оленей мог бы так и жить, как донор (у нас как-то так повелось, что за счет ресурсного богатства, основные доноры на севере, а не МСК, которая получает налоги за счет регистрации юр лиц этих северных доноров). В общем сочетания ресурсной географии, демографии и нашего законодательства дает весьма и весьма сложное сочетание обстоятельств.",
+        "user": "U88T71FBL",
+        "ts": "1567776527.066500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U88T71FBL",
+            "ts": "1567776557.000000"
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "type": "message",
+        "text": "просто все основные потребители бюджета в остальных регионах, вот и получается, что мск вынуждена их кормить, иначе они окунутся в нищету",
+        "files": [
+            {
+                "id": "FN39LQ83A",
+                "created": 1567776923,
+                "timestamp": 1567776923,
+                "name": "Screen Shot 2019-09-06 at 4.31.11 PM.png",
+                "title": "Screen Shot 2019-09-06 at 4.31.11 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFDMALG6P",
+                "editable": false,
+                "size": 506828,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FN39LQ83A\/screen_shot_2019-09-06_at_4.31.11_pm.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FN39LQ83A\/download\/screen_shot_2019-09-06_at_4.31.11_pm.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 175,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 233,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 350,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 389,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 960,
+                "thumb_960_h": 467,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FN39LQ83A-6ce781626a\/screen_shot_2019-09-06_at_4.31.11_pm_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 498,
+                "image_exif_rotation": 1,
+                "original_w": 1662,
+                "original_h": 808,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UFDMALG6P\/FN39LQ83A\/screen_shot_2019-09-06_at_4.31.11_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FN39LQ83A-43ebd00b5b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFDMALG6P",
+        "display_as_bot": false,
+        "ts": "1567776926.066800",
+        "client_msg_id": "46877d64-9ca2-4825-9d82-3e80f80fcb51",
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "1ed97d3d-c40b-4d7e-874f-794f15ba754a",
+        "type": "message",
+        "text": "Ты опять же опирируешь тем что есть, а это не про то что я писал.",
+        "user": "U88T71FBL",
+        "ts": "1567777643.067200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "de0eb2de-f549-4fe4-a56d-874ab2ed0bdc",
+        "type": "message",
+        "text": "&gt;от и получается, что мск вынуждена их кормить\n\nТакими темпами вся РФ скоро сожмется до размеров Москвы (как минимум по населению). Так что и кормить не надо будет :kekeke:",
+        "user": "U74DLUWUC",
+        "ts": "1567777734.067400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "1d2e46aa-895d-426c-afc9-7e4403af748e",
+        "type": "message",
+        "text": "Нахер Москву.",
+        "user": "U5H0L5T98",
+        "ts": "1567779681.067700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL",
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N",
+                    "U88T71FBL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4ab8de6-e43c-4d81-bae8-eebdb1c0b057",
+        "type": "message",
+        "text": "*знаю очень интеллектуально.",
+        "user": "U5H0L5T98",
+        "ts": "1567780540.067900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "4E5D743F-E87D-461E-8D66-A8B3F2B8549E",
+        "type": "message",
+        "text": "Забавно что Собянин сам недавно понаехал из регионов, которые купаются в щедрых дотациях из мск. Самопожертвование прямо какое-то ",
+        "user": "UFDMALG6P",
+        "ts": "1567786602.070100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "ff965b2d-b07a-46a7-b5b6-93887dfbbfd5",
+        "type": "message",
+        "text": "&gt;Нахер Москву.\n\nВоронеж круче, согласен :true-story:",
+        "user": "U74DLUWUC",
+        "ts": "1567786783.070300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "b7c96fe8-a78b-4bf8-abcd-818271b9b73b",
+        "type": "message",
+        "text": "&gt; Забавно что Собянин сам недавно понаехал из регионов, которые купаются в щедрых дотациях из мск. Самопожертвование прямо какое-то\nЭто ХМАО у нас дотационный? :indeed:",
+        "user": "U7CAU0GMU",
+        "ts": "1567786996.070500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "6d299916-3988-456e-9684-d648e2163309",
+        "type": "message",
+        "text": "32:37 тайминг - обрати внимание на примету времени. Вот теперь люди с таким же мышлением управляют страной",
+        "user": "U27HU84H4",
+        "ts": "1567791800.070800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567707775.052200",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7c68d793-0b72-401b-a57a-207225e51be7",
+        "type": "message",
+        "text": "&gt; Московские власти опубликовали заказ на разработку системы видеонаблюдения для массовых мероприятий с прицелом на распознавание лиц в толпе. Всё для вашей безопасности. \n\nПредлагаю всем, кто будет заниматься разработкой этого, выдавать :ban: в одээсике при наличие оного за то что он непорядочный человек",
+        "user": "UJ8BXBM36",
+        "ts": "1567795488.073800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "624566c1f7b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-28\/928184124678_624566c1f7b062c88e7c_72.jpg",
+            "first_name": "Artem",
+            "real_name": "Artem Gribul",
+            "display_name": "Datasciensyash",
+            "team": "T040HKJE3",
+            "name": "archypeshenka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "adolf",
+                "users": [
+                    "UBRKXHMJB",
+                    "U7CAU0GMU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UGTNTEBPV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ololosh",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d7669a1-d723-4f1f-8420-841a9e272150",
+        "type": "message",
+        "text": "Пох на Москву тоже.",
+        "user": "U9ZU1CYUD",
+        "ts": "1567810200.074200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "caab94f5-e81c-4a91-8018-90bc214b3162",
+        "type": "message",
+        "text": "Москва продолжатель Золотой Орды.\n\nБыли вспышки цивилизации в 19 веке и чуток в 1960-1970-х.",
+        "user": "U9ZU1CYUD",
+        "ts": "1567810379.074400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    },
+    {
+        "client_msg_id": "8de89932-a785-480e-9762-e67d3f5a3e7d",
+        "type": "message",
+        "text": "Надо столицу перенести в Сибирь допустим Омск, сделать разделение чтоб Владивосток, Екатеринбург, Санкт-Петербург, Ростов были бы локальными столицами и часть власти там. Где то судебная, где то ещё что. И так далее",
+        "user": "U9ZU1CYUD",
+        "ts": "1567810478.074600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1567775539.064900",
+        "parent_user_id": "U88T71FBL"
+    }
+]

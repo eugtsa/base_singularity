@@ -1,0 +1,883 @@
+[
+    {
+        "client_msg_id": "f3acffb8-aa4b-486a-9b55-e62ae5ea02e9",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4006501>",
+        "user": "U4P10HEJV",
+        "ts": "1561115148.048200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01e472bffb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/16b01e472bffbd6cb5ddb12043221532.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ponomarchuk",
+            "display_name": "yaxen",
+            "team": "T040HKJE3",
+            "name": "yaxeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Reuters: Трамп пригрозил Ирану «неизбежным нападением»",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4006501",
+                "text": "Подробнее на сайте",
+                "fallback": "Reuters: Трамп пригрозил Ирану «неизбежным нападением»",
+                "image_url": "https:\/\/im8.kommersant.ru\/SocialPics\/4006501_26_0_765434651",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1561109129,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4006501",
+                "image_bytes": 50897,
+                "service_icon": "https:\/\/im2.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4006501"
+            }
+        ],
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "55e0c43a-dd01-4ddc-8c8b-3a75b361bfbd",
+        "type": "message",
+        "text": "<https:\/\/www.yavlinsky.ru\/article\/left-line\/>",
+        "user": "U48A8L25N",
+        "ts": "1561115559.048600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Григорий Явлинский",
+                "title": "Прямая линия налево | Григорий Явлинский",
+                "title_link": "https:\/\/www.yavlinsky.ru\/article\/left-line\/",
+                "text": "Цель очередной прямой линии Путина — создание светлой в целом картины и решение важных для Кремля имиджевых задач.",
+                "fallback": "Григорий Явлинский: Прямая линия налево | Григорий Явлинский",
+                "image_url": "https:\/\/www.yavlinsky.ru\/wp-content\/uploads\/2019\/06\/left1.jpg",
+                "image_width": 347,
+                "image_height": 250,
+                "from_url": "https:\/\/www.yavlinsky.ru\/article\/left-line\/",
+                "image_bytes": 31367,
+                "service_icon": "https:\/\/www.yavlinsky.ru\/wp-content\/themes\/ya\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.yavlinsky.ru\/article\/left-line\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "577474ad-9789-4091-9644-d039727d5cec",
+        "type": "message",
+        "text": "явлинский интересно пишет про прямую линию",
+        "user": "U48A8L25N",
+        "ts": "1561115569.049000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e059643f-42ef-4aa1-b668-a26e8fca7470",
+        "type": "message",
+        "text": "Явлинскому самому итоги пора подводить, с внуками сидеть, мемуары готовить. А не писать про прямые линии и тем более в президенты баллотироваться",
+        "user": "U7SFPUVQF",
+        "ts": "1561117036.050700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "9156656a3964",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-30\/263383269569_9156656a3964153a17ea_72.jpg",
+            "first_name": "Semyonsinchenko",
+            "real_name": "Semyonsinchenko",
+            "display_name": "sem",
+            "team": "T040HKJE3",
+            "name": "semyonsinchenko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_minus_sign",
+                "users": [
+                    "U7VBNMG2F",
+                    "U1HHX1QS3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U7KDVG6LS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6669428c-1e41-44f9-9793-48443c222c6c",
+        "type": "message",
+        "text": "пофиг ,главное написал правильно)",
+        "user": "U48A8L25N",
+        "ts": "1561117804.051300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561117804.051300",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1561123608.054100",
+        "reply_users": [
+            "U4P10HEJV",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U4P10HEJV",
+                "ts": "1561119322.051400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1561121324.052400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1561121329.052600"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1561121338.052800"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1561121342.053000"
+            },
+            {
+                "user": "U4P10HEJV",
+                "ts": "1561123608.054100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "15034dff-c2bd-4ac5-aedc-30d8abd6c563",
+        "type": "message",
+        "text": "Явлинский правильно для своей аудитории, а Путин для своей, win-win",
+        "user": "U4P10HEJV",
+        "ts": "1561119322.051400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01e472bffb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/16b01e472bffbd6cb5ddb12043221532.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ponomarchuk",
+            "display_name": "yaxen",
+            "team": "T040HKJE3",
+            "name": "yaxeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561117804.051300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "d7967bcc-7f8a-4a04-a484-46fd8b804735",
+        "type": "message",
+        "text": "<https:\/\/echo.msk.ru\/blog\/openmedia\/2449671-echo\/>",
+        "user": "U48A8L25N",
+        "ts": "1561121300.051800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Эхо Москвы",
+                "title": "Блоги \/ Открытые медиа: В чем Путин ошибся на «Прямой линии 2019»",
+                "title_link": "https:\/\/echo.msk.ru\/blog\/openmedia\/2449671-echo\/",
+                "text": "Эксперт «Открытых медиа» насчитал 17 ошибок и неточностей в выступлении президента на «Прямой линии» 20 июня. Оно длилось четыре часа с лишним, так что Владимир Путин оказался точнее, чем обычно…",
+                "fallback": "Эхо Москвы: Блоги \/ Открытые медиа: В чем Путин ошибся на «Прямой линии 2019»",
+                "image_url": "https:\/\/cdn.echo.msk.ru\/files\/3116431.jpg",
+                "from_url": "https:\/\/echo.msk.ru\/blog\/openmedia\/2449671-echo\/",
+                "image_width": 405,
+                "image_height": 250,
+                "image_bytes": 12015,
+                "service_icon": "https:\/\/echo.msk.ru\/favicon.ico?echo",
+                "id": 1,
+                "original_url": "https:\/\/echo.msk.ru\/blog\/openmedia\/2449671-echo\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "302dc0b3-0e32-45c3-814c-b82900534156",
+        "type": "message",
+        "text": ":notbad:",
+        "user": "U48A8L25N",
+        "ts": "1561121307.052300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "511b09db-892e-4e5e-a5b1-a94f077fa11e",
+        "type": "message",
+        "text": "почему для соей",
+        "user": "U48A8L25N",
+        "ts": "1561121324.052400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561117804.051300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "d3ac3242-1d14-4190-94b3-47e274a0d38a",
+        "type": "message",
+        "text": "разве он не правильно оценивает",
+        "user": "U48A8L25N",
+        "ts": "1561121329.052600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561117804.051300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "ac08abcb-5f0a-4167-947d-c7d5e75e085f",
+        "type": "message",
+        "text": "на что ориентируется владимир владимирович",
+        "user": "U48A8L25N",
+        "ts": "1561121338.052800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561117804.051300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "a9d97ad1-27d2-48e0-8525-8d74c98790a7",
+        "type": "message",
+        "text": "с этой прямой линией)",
+        "user": "U48A8L25N",
+        "ts": "1561121342.053000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561117804.051300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "c536856e-7d45-4b60-b1b9-5549f766fcdf",
+        "type": "message",
+        "text": "как можно сбить RQ-4 с потолком 20 километорв?",
+        "user": "UFDMALG6P",
+        "ts": "1561122691.053200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "337c8e7c-a436-4131-8f24-6f5200f05e9c",
+        "type": "message",
+        "text": "Мало ли на какой высоте он летел",
+        "user": "U4P10HEJV",
+        "ts": "1561122776.053400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01e472bffb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/16b01e472bffbd6cb5ddb12043221532.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ponomarchuk",
+            "display_name": "yaxen",
+            "team": "T040HKJE3",
+            "name": "yaxeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "4a2de3ba-e8b5-4d19-960d-202ff0d66d8a",
+        "type": "message",
+        "text": "там такой апарат",
+        "user": "U48A8L25N",
+        "ts": "1561123254.053600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "dfacd56c-7bba-49fc-abdd-b5ae715db9f1",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/adagamov\/status\/1141953581349834752>",
+        "user": "U48A8L25N",
+        "ts": "1561123255.053800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/adagamov|@adagamov>: Серьезная машина и очень дорогая. Пишут, что несколько лет назад НАТО закупило пять таких комплексов по контракту стоимостью $1,7 млрд. <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1141953007858401280\/pu\/img\/HuIR99hY5yicoBEc.jpg>",
+                "ts": 1561097924,
+                "author_name": "Рустем Адагамов",
+                "author_link": "https:\/\/twitter.com\/adagamov\/status\/1141953581349834752",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/853555737125158912\/tmlNGV9s_normal.jpg",
+                "author_subname": "@adagamov",
+                "text": "Серьезная машина и очень дорогая. Пишут, что несколько лет назад НАТО закупило пять таких комплексов по контракту стоимостью $1,7 млрд.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/adagamov\/status\/1141953581349834752",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1141953007858401280\/pu\/img\/HuIR99hY5yicoBEc.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1141953007858401280\/pu\/img\/HuIR99hY5yicoBEc.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1141953007858401280\/pu\/vid\/1280x720\/-Xur-s9hMyFNusE9.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/adagamov\/status\/1141953581349834752",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "e589e93b-6706-46aa-ba91-03f6f322ffa2",
+        "type": "message",
+        "text": "правильно конечно, я так и сказал",
+        "user": "U4P10HEJV",
+        "ts": "1561123608.054100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gb01e472bffb",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/16b01e472bffbd6cb5ddb12043221532.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Alexander",
+            "real_name": "Alexander Ponomarchuk",
+            "display_name": "yaxen",
+            "team": "T040HKJE3",
+            "name": "yaxeen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561117804.051300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "59b08253-bb85-4162-8deb-536e43193a67",
+        "type": "message",
+        "text": "Ну если не летал MQ-1 с потолком 8 км, значит разница, на какой высоте лететь, все-таки была",
+        "user": "UFDMALG6P",
+        "ts": "1561123644.054300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "039b3b81-9816-487a-aeaa-22ef7e021cad",
+        "type": "message",
+        "text": "А если лететь на машине, преимущество которой именно в потолке, на бреющем полете, так это провокация",
+        "user": "UFDMALG6P",
+        "ts": "1561124535.054500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "b55f79ae-0f90-480b-bb52-89a8e3782c75",
+        "type": "message",
+        "text": ":sofa_warrior:",
+        "user": "U1HHX1QS3",
+        "ts": "1561127629.054700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "ab99dc61-f481-460e-8bc2-32a054767bad",
+        "type": "message",
+        "text": "Зря ругаете диваны, с них виднее. Диваны развивают \"вертолетное видение\", в тот момент, когда у экспертов глаз замылен",
+        "user": "UFDMALG6P",
+        "ts": "1561129089.054900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "1e35797a-eb18-4850-9400-ac0165833e50",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=kZu5iDTtNg0>",
+        "user": "U1HHX1QS3",
+        "ts": "1561129325.055100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "LA-Z Rider Couch Gag From Guest Animator Steve Cutts | Season 27 | THE SIMPSONS",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kZu5iDTtNg0",
+                "author_name": "Animation on FOX",
+                "author_link": "https:\/\/www.youtube.com\/user\/ANIMATIONonFOX",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kZu5iDTtNg0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: LA-Z Rider Couch Gag From Guest Animator Steve Cutts | Season 27 | THE SIMPSONS",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kZu5iDTtNg0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kZu5iDTtNg0",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=kZu5iDTtNg0"
+            }
+        ],
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "c230eabc-7a1d-45be-9bf9-10bec8c76d2f",
+        "type": "message",
+        "text": "У меня как раз такая модель дивана кстати",
+        "user": "UFDMALG6P",
+        "ts": "1561129666.055400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0e14b4ae950f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-15\/523099381632_0e14b4ae950f349f95fd_72.png",
+            "first_name": "Ruslan",
+            "real_name": "Ruslan Shvetsov",
+            "display_name": "shvetsovrsh",
+            "team": "T040HKJE3",
+            "name": "abcde14",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "196d535c-2172-479b-8e2c-e2b853911ddd",
+        "type": "message",
+        "text": ":muscle::skin-tone-5:",
+        "user": "U1HHX1QS3",
+        "ts": "1561131125.055600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g3c320496bb1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/013c320496bb12a3f08430d8d4b8e60c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Philipp",
+            "real_name": "Philipp Kats",
+            "display_name": "cityfish",
+            "team": "T040HKJE3",
+            "name": "cityfish",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1560506485.031000",
+        "parent_user_id": "U1HHX1QS3"
+    },
+    {
+        "client_msg_id": "63cc2230-db24-4326-b203-7c422ae539a1",
+        "type": "message",
+        "text": "Лучше спрашивать так, в чем не ошибся Путин?",
+        "user": "U5H0L5T98",
+        "ts": "1561146016.056400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561146016.056400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1561159789.057900",
+        "reply_users": [
+            "U9ZU1CYUD"
+        ],
+        "replies": [
+            {
+                "user": "U9ZU1CYUD",
+                "ts": "1561159789.057900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "477956d0-7d8a-42f8-abb4-984fc212d186",
+        "type": "message",
+        "text": "в том что схавают)",
+        "user": "U48A8L25N",
+        "ts": "1561148832.056600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f6e965f5-b499-46ba-9c40-c809c6f14bcf",
+        "type": "message",
+        "text": "там кстати :putout: запретил полеты в грузию)",
+        "user": "U48A8L25N",
+        "ts": "1561148855.057000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "72d91113-4d0f-4e0f-9124-169608de0b74",
+        "type": "message",
+        "text": "типа опасно там, хотя никаких инцидентов подобных не было",
+        "user": "U48A8L25N",
+        "ts": "1561148877.057500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "279a71d3-ca1a-4911-8722-116665d56aac",
+        "type": "message",
+        "text": "Он никогда не ошибается ))) 20 лет, 0 ошибок",
+        "user": "U9ZU1CYUD",
+        "ts": "1561159789.057900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561146016.056400",
+        "parent_user_id": "U5H0L5T98",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03d4497b-4547-4941-8ad3-7e83d351d76b",
+        "type": "message",
+        "text": "Не, ну а нахуй нам в Грузию если там нас не ждут? Типа фак раша и раша сакс. По мне это не приятно.",
+        "user": "U5H0L5T98",
+        "ts": "1561184049.059600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1561184049.059600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1561248328.070800",
+        "reply_users": [
+            "U5H055U0J",
+            "U5H0L5T98",
+            "U1HHX1QS3"
+        ],
+        "replies": [
+            {
+                "user": "U5H055U0J",
+                "ts": "1561197857.060000"
+            },
+            {
+                "user": "U5H0L5T98",
+                "ts": "1561198714.060300"
+            },
+            {
+                "user": "U1HHX1QS3",
+                "ts": "1561248328.070800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U7CAU0GMU",
+                    "U70ULMUEP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

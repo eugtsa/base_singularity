@@ -1,0 +1,372 @@
+[
+    {
+        "type": "message",
+        "text": "Чему вместо этого уделяли внимание \n&gt; год назад\nи чему \n&gt; на прошлых выборах царя\n(в 2012 году)?",
+        "user": "U27HU84H4",
+        "ts": "1520158203.000050",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1520158228.000000"
+        },
+        "thread_ts": "1520135096.000013",
+        "parent_user_id": "U8U5W7JG5"
+    },
+    {
+        "type": "message",
+        "text": "явке. на локальных выборах явка была очень маленькая.",
+        "user": "U8U5W7JG5",
+        "ts": "1520160618.000046",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520135096.000013",
+        "parent_user_id": "U8U5W7JG5"
+    },
+    {
+        "client_msg_id": "e7df84ea-f1bf-4a49-805c-3d4ec478f05a",
+        "type": "message",
+        "text": "<https:\/\/theins.ru\/confession\/91372>",
+        "user": "U4U5DNNPJ",
+        "ts": "1520161220.000071",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b92114437601",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-01\/563630723984_b921144376010abc541d_72.jpg",
+            "first_name": "nikt",
+            "real_name": "nikt",
+            "display_name": "nikt",
+            "team": "T040HKJE3",
+            "name": "nikt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "A 2816x1900px image",
+                "image_url": "https:\/\/theins.ru\/wp-content\/uploads\/2018\/02\/passazhirskij-samolyot-Aeroflota-v-nebe.jpg",
+                "from_url": "https:\/\/theins.ru\/confession\/91372",
+                "image_width": 371,
+                "image_height": 250,
+                "image_bytes": 738166,
+                "service_icon": "http:\/\/theins.ru\/wp-content\/uploads\/2014\/06\/favicon.ico",
+                "service_name": "theins.ru",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1520161220.000071",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1520171071.000073",
+        "reply_users": [
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U27HU84H4",
+                "ts": "1520171071.000073"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7578E96F-DEF7-45C8-8AB0-A18F5B78F498",
+        "type": "message",
+        "text": "Зачем нужна явка? ",
+        "user": "U04725QK7",
+        "ts": "1520164727.000016",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Я правильно понимаю твое изначальное высказывание в свете этого ответа, что и сейчас и раньше стояла задача собрать явку?",
+        "user": "U27HU84H4",
+        "ts": "1520167477.000081",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520135096.000013",
+        "parent_user_id": "U8U5W7JG5"
+    },
+    {
+        "type": "message",
+        "text": "нет. раньше наявку не обращали внимание. а вот сейчас нужна именно явками всеми способами",
+        "user": "U8U5W7JG5",
+        "ts": "1520168925.000099",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520135096.000013",
+        "parent_user_id": "U8U5W7JG5"
+    },
+    {
+        "type": "message",
+        "text": "самому интересно. может художникам проще будет, идей по этому поводу нет.",
+        "user": "U8U5W7JG5",
+        "ts": "1520169545.000059",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Тогда я переформулирую вопрос. Если на явку не обращали внимание раньше, то обращали на что-то другое. На что именно, по твоему мнению, обращали внимание \n&gt; год назад\nи на что конкретно обращали внимание\n&gt; на прошлых выборах царя\n(в 2012 году)?",
+        "user": "U27HU84H4",
+        "ts": "1520169731.000002",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520135096.000013",
+        "parent_user_id": "U8U5W7JG5"
+    },
+    {
+        "client_msg_id": "37FA74F3-B79D-4CD6-8610-D8AB67399122",
+        "type": "message",
+        "text": "Читал мнение, что команда путина хочет обеспечить ему «честную» победу. Тип вся страна голосовала, кандидаты шли лоб в лоб и тут Владимир Владимирович в самом конце вырвался вперед",
+        "user": "U04725QK7",
+        "ts": "1520169814.000026",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "может и так. Кандидатов то нет по факту толковых. будет как и раньше в 1 тур с существенным отрывом. даже если вся граждане придут.",
+        "user": "U8U5W7JG5",
+        "ts": "1520170017.000017",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ни на что. в моем регион в прошлом году были выборы губернатора. явка была 54,73%. т.е. очень многие не пришли. не было объявлений, рекламы как сейчас. ну кто пришел, тот пришел. а сейчас именно зовут на участок. В МСК где-то попадалось на участках хотят на онкологию роверять. видим чтобы народ заманить.",
+        "user": "U8U5W7JG5",
+        "ts": "1520170452.000110",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520135096.000013",
+        "parent_user_id": "U8U5W7JG5"
+    },
+    {
+        "type": "message",
+        "text": "Екатерина Шульман про явку (в январе на радиостанции Эхо Москвы):\n<https:\/\/echo.msk.ru\/programs\/status\/2129418-echo\/>\nВыдержки:\n\n&gt;В 99-м году были выборы парламентские, в 2000-м – президентские. Явка соотносилась как почти 62% и 68,6%. В 2003-м, в 2004-м году на парламентских явка была 55%, на президентских – 64%. 7-й, 8-й годы – обратите внимание на эту пару – это были парламентские выборы думские и выборы президентские, выборы Медведева, скажем, то есть там, где президент Путин не баллотировался. Там явка была 63,7% и 69,8%, почти 70%. Забегая вперед, скажу, что это была самая высокая явка на президентских выборах, начиная с 2000-го года. К вопросу о том, что все очень сильно бегут голосовать за Путина. Когда он в выборах не участвовал, явка была выше, что бы это ни значило.\n\n&gt; 11-й и 12-й год, Дума, президент: 60% и 65%.\n\n&gt; Мы с вами видим, что разница между президентскими выборами и парламентскими составляет приблизительно 7 процентных пунктов. Вот 61% плюс 7%, где-то 68%. Соответственно в 11-м, 12-м году было 60% и почти 66%. Вот эти самые 6-7 пунктов и отделяют парламентские выборы от президентских.\n\n&gt; Что касается рисования, тут я ссылаюсь на данные Сергея Шпилькина, одного из известнейших наших специалистов по электоральной статистике. Он говорит, что если мы возьмем парламентские выборы 16-го года, то мы там увидим два типа избирательный участков, то, что он называет двумя Россиями: Россия-1 и Россия-2.\n\n&gt; Россия-1 – это Россия городов центральных областей и, соответственно, низкой явки. Там на парламентских выборах средняя явка была 39%. И вторая Россия, Россия-2 – это Россия сельской местности, регионов электоральных аномалий и национальных Республик. Ну, регионы электоральных аномалий – это, например, в прошлой электоральной кампании это был, например, Саратов. Но в основном это село и обобщенный Кавказ. Там явка была на уровне 70%.\n\n&gt; Что касается соотношений этих двух Россией — России-1 и России-2, – Россия— 1 гораздо больше. Она приблизительно 85 миллионов человек, Россия два приблизительно 25 миллионов человек. При этом в России-2 высокая явка, сверхвысокий результат за нужную партию, за нужного кандидата. Она дает значительный вклад в финальные результаты. При этом Россия-1, которая не очень фальсифицирует явку и не очень фальсифицирует голоса, она больше. Отметим это как положительный момент.\n\n&gt; Если держать в голове то парламентское соотношение между парламентской и президентской явкой, о котором мы только что сказали, то если в России-1 эта явка была около 39-40% то для того, чтобы ее натянуть даже выше 50%, нужно очень сильно стараться, потому что, естественным путем она будет 48% — что-нибудь такое. Это, еще раз повторю, данные Шпилькина. В России-2 можно нарисовать любую явку, но тоже 100% там рисовать как-то стыдно.\n\n&gt; Что следует из всех этих расчетов? Если вы не знаете, куда применить свои гражданские таланты, не знаете, за кого голосовать и голосовать ли вам вообще, есть один совершенно беспроигрышный сценарий поведения, как принести пользу Родине и реализовать свои способности: запишитесь наблюдателями.\n\nЕкатерина Шульман про явку (в феврале на радиостанции Эхо Москвы):\n<https:\/\/echo.msk.ru\/programs\/status\/2146746-echo\/>\nВыдержки:\n\n&gt; в накручивании явки центральная власть обычно не заинтересована.\n\n&gt; На парламентских выборах некоторые элементы сушки мы тоже наблюдали. Явка у нас была, напомним, на уровне 48%.\n\n&gt; Если у нас было 48% на парламентских выборах, то приблизительно 55% реалистично ожидать у нас на выборах президентских. Тем не менее, для президентских выборов это, конечно, низковато.",
+        "user": "U27HU84H4",
+        "ts": "1520170684.000031",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1520170760.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "О родной город как обычно)",
+        "user": "U8U5W7JG5",
+        "ts": "1520170889.000031",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "8dbec1e81e81",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-06\/496902204242_8dbec1e81e81e46cb565_72.jpg",
+            "first_name": "Denis",
+            "real_name": "Denis Gorynin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denis.gorynin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В карьер это надо, когда появится обсуждение вакансии датасайентиста в аэрофлот.",
+        "user": "U27HU84H4",
+        "ts": "1520171071.000073",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520161220.000071",
+        "parent_user_id": "U4U5DNNPJ",
+        "reactions": [
+            {
+                "name": "notbad",
+                "users": [
+                    "U04725QK7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Вот ещё выдержка от Шульман)\n&gt;Мы можем видеть некоторую агитацию-заявку. И об этом мы говорили с вами неделю назад – о том, какими немудрящими, но весьма действенными административными методами за эту явку государственная машина борется. Не за абы какую явку, не просто много народу нагнать. Потому что, например, посредством всяких будоражащих население референдумов решено эту явку не поднимать, потому что неизвестно еще, кто взбудоражится и придет. А вот правильный, надежный и хороший электорат, он должен прийти и его, собственно, и призывают приходить. То есть приходите-приходите, а как голосовать, вы сами знаете, чего вам объяснять, чай не первый раз, не маленькие. А вот какой-то такой, собственно говоря, агитационной кампании или чего-то еще, кого-то будирования лучше даже не производить.",
+        "user": "U0RV376MC",
+        "ts": "1520176708.000116",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "explodyparrot",
+                "users": [
+                    "U8U5W7JG5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

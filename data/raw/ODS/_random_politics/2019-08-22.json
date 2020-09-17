@@ -1,0 +1,283 @@
+[
+    {
+        "client_msg_id": "2344f1f0-83d7-43be-b9ed-03cc8f3c82d0",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Nj-IcmO09no>",
+        "user": "U27HU84H4",
+        "ts": "1566502031.175000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Виктор Шендерович \/ Особое мнение \/\/ 22.08.19",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Nj-IcmO09no",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Nj-IcmO09no\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Виктор Шендерович \/ Особое мнение \/\/ 22.08.19",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Nj-IcmO09no?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Nj-IcmO09no",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Nj-IcmO09no"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Вы только посмотрите как расцвели украинки при Зеленском",
+        "files": [
+            {
+                "id": "FMPB30N23",
+                "created": 1566507398,
+                "timestamp": 1566507398,
+                "name": "Screenshot_2019-08-22-13-23-39-068_com.android.chrome.png",
+                "title": "Screenshot_2019-08-22-13-23-39-068_com.android.chrome.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UBRKXHMJB",
+                "editable": false,
+                "size": 1186256,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FMPB30N23\/screenshot_2019-08-22-13-23-39-068_com.android.chrome.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FMPB30N23\/download\/screenshot_2019-08-22-13-23-39-068_com.android.chrome.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMPB30N23-ba2963aa91\/screenshot_2019-08-22-13-23-39-068_com.android.chrome_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 720,
+                "original_h": 1280,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/UBRKXHMJB\/FMPB30N23\/screenshot_2019-08-22-13-23-39-068_com.android.chrome.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FMPB30N23-1068c438b3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UBRKXHMJB",
+        "display_as_bot": false,
+        "ts": "1566507398.175800",
+        "client_msg_id": "20891727-0abf-4ffa-b69c-d4763f41092a",
+        "thread_ts": "1566507398.175800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1566512229.176200",
+        "reply_users": [
+            "U9GUF2PN2"
+        ],
+        "replies": [
+            {
+                "user": "U9GUF2PN2",
+                "ts": "1566512229.176200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "zoomer",
+                "users": [
+                    "UBRKXHMJB"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yellow_heart",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "blue_heart",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FMA47RSE6",
+                "created": 1566512227,
+                "timestamp": 1566512227,
+                "name": "1566512095340.jpg",
+                "title": "1566512095340.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U9GUF2PN2",
+                "editable": false,
+                "size": 68316,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FMA47RSE6\/1566512095340.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FMA47RSE6\/download\/1566512095340.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_720.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_800.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_960.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FMA47RSE6-7911280192\/1566512095340_1024.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 684,
+                "original_h": 1216,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U9GUF2PN2\/FMA47RSE6\/1566512095340.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FMA47RSE6-ead5004140",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U9GUF2PN2",
+        "display_as_bot": false,
+        "ts": "1566512229.176200",
+        "client_msg_id": "fc2835cf-55a5-4116-b13d-eddfc77801d2",
+        "thread_ts": "1566507398.175800",
+        "parent_user_id": "UBRKXHMJB",
+        "reactions": [
+            {
+                "name": "eww",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1e8d8a8-335f-4d6b-9b9e-cee836531ef5",
+        "type": "message",
+        "text": "Обсуждать не хочу. Кто всё понял ставим плюс.\n<https:\/\/www.unian.net\/world\/10659621-atlantic-council-zapad-dolzhen-deystvovat-bystro-chtoby-pomoch-ukraine.html>\n&gt;Одним из крупнейших провалов последних пяти лет стала приватизация. В &gt;государственной собственности Украины до сих пор 3350 компаний. 100 наиболее &gt;ценных должны быть приватизированы очень осторожно. Их корпоративное &gt;управление нужно улучшить. Но остальные 3250 фирм или их руины должны быть &gt;проданы с аукциона как можно скорее. ЕБРР, Всемирный банк, USAID должны &gt;осторожно помочь советами в проведении этого процесса.",
+        "user": "UGTNTEBPV",
+        "ts": "1566512593.176700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGTNTEBPV",
+            "ts": "1566514211.000000"
+        },
+        "attachments": [
+            {
+                "title": "Atlantic Council: Запад должен действовать быстро, чтобы помочь Украине",
+                "title_link": "https:\/\/www.unian.net\/world\/10659621-atlantic-council-zapad-dolzhen-deystvovat-bystro-chtoby-pomoch-ukraine.html",
+                "text": "Киев получил большой шанс для реформ, и западные институты должны сыграть большую роль в том, чтобы добиться успешных изменений.",
+                "fallback": "Atlantic Council: Запад должен действовать быстро, чтобы помочь Украине",
+                "image_url": "https:\/\/images.unian.net\/photos\/2017_09\/thumb_files\/1000_545_1505915859-7367.jpg?1",
+                "from_url": "https:\/\/www.unian.net\/world\/10659621-atlantic-council-zapad-dolzhen-deystvovat-bystro-chtoby-pomoch-ukraine.html",
+                "image_width": 459,
+                "image_height": 250,
+                "image_bytes": 51916,
+                "service_icon": "https:\/\/www.unian.net\/images\/apple-touch-icon.png",
+                "service_name": "УНИАН",
+                "id": 1,
+                "original_url": "https:\/\/www.unian.net\/world\/10659621-atlantic-council-zapad-dolzhen-deystvovat-bystro-chtoby-pomoch-ukraine.html"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "UGTNTEBPV",
+                    "U1HHX1QS3",
+                    "U48A8L25N"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

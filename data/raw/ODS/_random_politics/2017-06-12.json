@@ -1,0 +1,1759 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497302524.248873",
+        "user": "U040HKJE7",
+        "text": "<@U040HKJE7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "желающие реинкарнировать треш-угар-политоту - hellcome :feelsgood:",
+        "user": "U040HKJE7",
+        "ts": "1497302547.255478",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "badger",
+                "users": [
+                    "U36Q9NJMD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tumbleweed",
+                "users": [
+                    "U36Q9NJMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497302673.291392",
+        "user": "U34Q3KU8H",
+        "text": "<@U34Q3KU8H> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U06J1LG1M> поговаривают, сегодня в оффлайне 250+ банов раздали :feelsgood:",
+        "user": "U040HKJE7",
+        "ts": "1497302682.293810",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497302685.294788",
+        "user": "U06J1LG1M",
+        "text": "<@U06J1LG1M> has joined the channel",
+        "inviter": "U040HKJE7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1497302699.298698",
+        "user": "U06J1LG1M",
+        "text": "<@U06J1LG1M> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Поговаривают, что нижняя граница сильно выше",
+        "user": "U36Q9NJMD",
+        "ts": "1497302714.302833",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1497302734.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "А вообще, я не слежу за всей ситуацией. Какой tldr событий в Москве сегодня?\n\n<@U06J1LG1M> не уходи от нас :slightly_smiling_face:",
+        "user": "U34Q3KU8H",
+        "ts": "1497302730.307769",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "я понял tldr что все прошлись, покричали, прошли до автозаков и разошлись. всем насрать :good-enough:",
+        "user": "U040HKJE7",
+        "ts": "1497302792.325347",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Но вообще весело было)",
+        "user": "U0RV376MC",
+        "ts": "1497302828.335714",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А численная оценка участвующих, классовая, возростная, основные лозунги и прочий exploratory analysis где посмотреть?",
+        "user": "U34Q3KU8H",
+        "ts": "1497302832.336646",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "И вообще кто туда ходил из чатика?",
+        "user": "U34Q3KU8H",
+        "ts": "1497302840.338868",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U280W3LSK",
+                    "U0RV376MC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "И кого забрали?",
+        "user": "U34Q3KU8H",
+        "ts": "1497302848.341544",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Анализа пока нет подробного, мало времени прошло",
+        "user": "U0RV376MC",
+        "ts": "1497302921.361598",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Тем более, что в Москве сложная ситуация получилась",
+        "user": "U0RV376MC",
+        "ts": "1497302931.364512",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Рассказывай про ситуацию :slightly_smiling_face:",
+        "user": "U34Q3KU8H",
+        "ts": "1497302945.368203",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Там было много тысяч людей, но их подробили на много частей ОМОН и другие силовые структуры",
+        "user": "U0RV376MC",
+        "ts": "1497303003.384233",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Непонятно, нафига перенесли на Тверскую. Смешивались митингующие и прохожие, там были какие-то общественно-увеселительные мероприятия.",
+        "user": "U280W3LSK",
+        "ts": "1497303046.396482",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c1e68f0f73c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-12\/397058458324_c1e68f0f73c9157d14eb_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Posobin",
+            "display_name": "posobin",
+            "team": "T040HKJE3",
+            "name": "passick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303046.396482",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1497303815.596023",
+        "reply_users": [
+            "U36Q9NJMD",
+            "U280W3LSK"
+        ],
+        "replies": [
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497303121.417541"
+            },
+            {
+                "user": "U280W3LSK",
+                "ts": "1497303398.490575"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497303815.596023"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Началось всё у рамок, где пропускали на Тверскую, было много людей внутри и много людей снаружи, тут и поделили на 2 большие части",
+        "user": "U0RV376MC",
+        "ts": "1497303056.399292",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну вообще люди сами по себе не мешали мероприятиям, например, есть видос, где чуваки в доспехах дерутся на мечах под крики \"Путин - вор!\"",
+        "user": "U0RV376MC",
+        "ts": "1497303108.413957",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U34Q3KU8H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "passick: всё по теории игр",
+        "user": "U36Q9NJMD",
+        "ts": "1497303121.417541",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303046.396482",
+        "parent_user_id": "U280W3LSK"
+    },
+    {
+        "type": "message",
+        "text": "Мешал больше ОМОН, который всех разгонял и разделял толпу стенами из себя",
+        "user": "U0RV376MC",
+        "ts": "1497303161.428614",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Насчёт возрастного состава - там были далеко не одни студенты и школьники, причём было видно, что старшее поколение именно на митинг пришло",
+        "user": "U0RV376MC",
+        "ts": "1497303235.448257",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "А народ пришел потому что он за что-то или потому что он против чего-то?",
+        "user": "U34Q3KU8H",
+        "ts": "1497303284.461347",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Заявлялся как митинг против коррупции.",
+        "user": "U280W3LSK",
+        "ts": "1497303307.467259",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c1e68f0f73c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-12\/397058458324_c1e68f0f73c9157d14eb_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Posobin",
+            "display_name": "posobin",
+            "team": "T040HKJE3",
+            "name": "passick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U280W3LSK",
+            "ts": "1497303313.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну по сути лозунги были именно против текущей власти, хотя \"Свободу Навальному!\" тоже кричали",
+        "user": "U0RV376MC",
+        "ts": "1497303346.477491",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "На тему коррупции, никто не помнит ссылку на исследование, в котором говорится что коррупция в развитых странах это плохо, а в развивающихся - не всегда?",
+        "user": "U34Q3KU8H",
+        "ts": "1497303380.486225",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303380.486225",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1497308473.564181",
+        "reply_users": [
+            "U36Q9NJMD",
+            "U34Q3KU8H"
+        ],
+        "replies": [
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497303536.525715"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497303558.531468"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497303576.535961"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497303684.563279"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497307987.477196"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497308473.564181"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U36Q9NJMD",
+                    "U0RV376MC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "pronkin_alexey: ?",
+        "user": "U280W3LSK",
+        "ts": "1497303398.490575",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c1e68f0f73c9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-07-12\/397058458324_c1e68f0f73c9157d14eb_72.jpg",
+            "first_name": "Gleb",
+            "real_name": "Gleb Posobin",
+            "display_name": "posobin",
+            "team": "T040HKJE3",
+            "name": "passick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U280W3LSK",
+            "ts": "1497303458.000000"
+        },
+        "thread_ts": "1497303046.396482",
+        "parent_user_id": "U280W3LSK"
+    },
+    {
+        "type": "message",
+        "text": "есть классическая регрессионная формула: на один украденный рубль - десять проебанных",
+        "user": "U040HKJE7",
+        "ts": "1497303425.497516",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303425.497516",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1497310425.885579",
+        "reply_users": [
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U48A8L25N",
+                "ts": "1497310272.861959"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1497310425.885579"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1497310425.885579"
+    },
+    {
+        "type": "message",
+        "text": "учитывая что коррупция - только симптом неэффективностей в принятии решений, лечить его и ставить его в центре своей политической кампании - както излишне декоративно",
+        "user": "U040HKJE7",
+        "ts": "1497303468.508421",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U34Q3KU8H",
+                    "U280W3LSK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ternaus: там есть несколько условий, когда не плохо. В России они не соблюдаются, но была возможность их сделать. И об этом говорили. Я помню, как Сонин и Гуриев писали о том, что они говорили об этом в администрацию президента, но получили ясный отказ и нежелание переходить",
+        "user": "U36Q9NJMD",
+        "ts": "1497303536.525715",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303380.486225",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Коррупция это не только про кражу денег, насколько я понимаю",
+        "user": "U0RV376MC",
+        "ts": "1497303538.526172",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Детали?",
+        "user": "U34Q3KU8H",
+        "ts": "1497303558.531468",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303380.486225",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "ternaus: есть выше, я кидал ссылку",
+        "user": "U36Q9NJMD",
+        "ts": "1497303576.535961",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303380.486225",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "\"Российские власти неоднократно получали такие же рекомендации, но каждый раз отказывались им следовать, констатирует Гуриев. ​\"\n\nПодробнее на РБК:\n<http:\/\/www.rbc.ru\/ins\/politics\/23\/03\/2015\/550ff3569a79473e26caaee0>",
+        "user": "U36Q9NJMD",
+        "ts": "1497303684.563279",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Государство – это он: как Ли Куан Ю создал процветающий Сингапур",
+                "title_link": "http:\/\/www.rbc.ru\/ins\/politics\/23\/03\/2015\/550ff3569a79473e26caaee0",
+                "text": "23 марта в Сингапуре на 92-м году жизни скончался его основатель — Ли Куан Ю. За четверть века ему жесткими методами удалось превратить лишенный ресурсов небольшой остров в одно из самых процветающих государств мира",
+                "fallback": "РБК: Государство – это он: как Ли Куан Ю создал процветающий Сингапур",
+                "image_url": "http:\/\/s0.rbk.ru\/v6_top_pics\/resized\/1440xH\/media\/img\/4\/94\/754271122547944.jpg",
+                "from_url": "http:\/\/www.rbc.ru\/ins\/politics\/23\/03\/2015\/550ff3569a79473e26caaee0",
+                "image_width": 404,
+                "image_height": 250,
+                "image_bytes": 48156,
+                "service_icon": "http:\/\/s.rbk.ru\/v8_top_static\/common\/common-8.3.24\/images\/apple-touch-icon.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1497303380.486225",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "passick: переносить митинг - доминирующая стратегия для Навального. ",
+        "user": "U36Q9NJMD",
+        "ts": "1497303815.596023",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303046.396482",
+        "parent_user_id": "U280W3LSK"
+    },
+    {
+        "type": "message",
+        "text": "А про что еще?",
+        "user": "U34Q3KU8H",
+        "ts": "1497304126.673235",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Коррупция это злоупотребление полномочиями",
+        "user": "U0RV376MC",
+        "ts": "1497304157.680940",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497304174.685000",
+        "user": "U3QFSLMJ6",
+        "text": "<@U3QFSLMJ6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "То есть когда студентки к профессору подкатывают - это они его в коррупцию вгоняют своим поведением?",
+        "user": "U34Q3KU8H",
+        "ts": "1497304215.695077",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Если он им в итоге завышает, то да)",
+        "user": "U0RV376MC",
+        "ts": "1497304236.700266",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ну полностью от неё не избавиться, это понятно\nНо идея в том, чтобы этого не делали высшие должностные лица",
+        "user": "U0RV376MC",
+        "ts": "1497304271.708540",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "В штатах с этим, кстати, строго. Если спалят - вылетишь на раз два. Поэтому все шифруются.",
+        "user": "U34Q3KU8H",
+        "ts": "1497304277.709974",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "reply_count": 14,
+        "reply_users_count": 3,
+        "latest_reply": "1497309985.815329",
+        "reply_users": [
+            "U36Q9NJMD",
+            "U34Q3KU8H",
+            "U1CE1LVD3"
+        ],
+        "replies": [
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497304322.721545"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497304375.734062"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497304476.757937"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497304523.769223"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497304592.785769"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497304702.812372"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497304747.823555"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497304795.835058"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497304860.852169"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497304876.856321"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497305061.900664"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497305722.045042"
+            },
+            {
+                "user": "U34Q3KU8H",
+                "ts": "1497306175.137914"
+            },
+            {
+                "user": "U1CE1LVD3",
+                "ts": "1497309985.815329"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "Профессор вылетит?)",
+        "user": "U0RV376MC",
+        "ts": "1497304319.720784",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b01c4c901ee6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-23\/618019255735_b01c4c901ee6d452199c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Fritzler",
+            "display_name": "Fritz",
+            "team": "T040HKJE3",
+            "name": "fritz449",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304319.720784",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1497310687.926380",
+        "reply_users": [
+            "U36Q9NJMD",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497304329.723012"
+            },
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1497304354.729221"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1497310687.926380"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "ternaus: всегда было интересно как оно)",
+        "user": "U36Q9NJMD",
+        "ts": "1497304322.721545",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "fritz449: да",
+        "user": "U36Q9NJMD",
+        "ts": "1497304329.723012",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304319.720784",
+        "parent_user_id": "U0RV376MC"
+    },
+    {
+        "type": "message",
+        "text": "ага. Sexual Harrassment называется.",
+        "user": "U34Q3KU8H",
+        "ts": "1497304343.726468",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "fritz449: у нас тоже вылетит, если ВУЗ адекватный",
+        "user": "U36Q9NJMD",
+        "ts": "1497304354.729221",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304319.720784",
+        "parent_user_id": "U0RV376MC"
+    },
+    {
+        "type": "message",
+        "text": "Нормально. Студентки они же :fire:",
+        "user": "U34Q3KU8H",
+        "ts": "1497304375.734062",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "ternaus: хех. Такое вообще нигде не поощряется. И многие мои знакомые преподы, к которым подкатывают бегут от этого.",
+        "user": "U36Q9NJMD",
+        "ts": "1497304476.757937",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1497304630.000000"
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Какой блондинки?",
+        "user": "U34Q3KU8H",
+        "ts": "1497304523.769223",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "которая: \"У меня к вам есть вопросы, как с вами можно связаться и можно ли вам ночью написать?\" \n\nСимпатичная девушка, я бы пообщался, но там по временным рамкам ничего не оформить было даже при наличии желания.",
+        "user": "U34Q3KU8H",
+        "ts": "1497304592.785769",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U34Q3KU8H",
+            "ts": "1497304668.000000"
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U36Q9NJMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Не будем. Хз, очень скользкая тема. Потому что действительно есть отношения подчинения. Не очевидно, плохо это или хорошо. PS. Если все только за зачёты, то очевидно, что плохо",
+        "user": "U36Q9NJMD",
+        "ts": "1497304702.812372",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1497304735.000000"
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Подкручивать оценки тем с кем спишь - плохо. Как ни крути плохо, даже если эта оценка ничего не значит.",
+        "user": "U34Q3KU8H",
+        "ts": "1497304747.823555",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U34Q3KU8H",
+            "ts": "1497304769.000000"
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Это да. Но можно и не подкручивать. Порицается даже если препод не связан с группой, где учится студентка",
+        "user": "U36Q9NJMD",
+        "ts": "1497304795.835058",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "А вот в штатах с этим проще - нет подчиненно начальственных связей - всем побоку и это правильно.",
+        "user": "U34Q3KU8H",
+        "ts": "1497304860.852169",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Хм",
+        "user": "U36Q9NJMD",
+        "ts": "1497304876.856321",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Да и вообще я обеими руками за общение людей вне их стандартных social circles.\n\nИ именно поэтому я за то, чтобы воинская повинность была обязательной и чтобы обучение в универах было как-то простимулировано. Вот просто чтобы народ который бы никогда не встретился в силу разной географии и социального статуса мог встретится, общаться друг с другом, плодится и прочее.",
+        "user": "U34Q3KU8H",
+        "ts": "1497305061.900664",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Как воинская повинность связана с размножением?) ",
+        "user": "U36Q9NJMD",
+        "ts": "1497305722.045042",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Никак :slightly_smiling_face:\n\nЭто скорее, что двое служат, причем один из фермеров - другой из рокфеллеров, к одному сестра приехала навестить и опа - счастливая семья в будущем, ну или норм секс в настоящем :slightly_smiling_face:\n\nКак то уже ближе к дембелю, к одному моему приятелю приехала подруга, и его сестра. Нас с ним под это дело в увальнение отпустили. Мы погуляли, выпилии, но денег было мало - мы лоханулись и взяли одну комнату с двумя кроватями. Мой приятель со своей подругой как свет погас перестали чего-то стеснятся, а вот с его сестрой дело дальше поцелуев не зашло, она очень некомфортно себя чувствовала заниматься сексом в одной комнате с братом.\n\nНо пообщались норм. \n\nОни оба с Нижнего Новгорода, а я с Питера. И фиг бы мы когда-нибудь встретились, если бы не армия.",
+        "user": "U34Q3KU8H",
+        "ts": "1497306175.137914",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H",
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Копировать опыт Сингапура в Россию в режиме Карго Култа вообще не вариант.",
+        "user": "U34Q3KU8H",
+        "ts": "1497307987.477196",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3cd7afe2fdb1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-14\/154186989044_3cd7afe2fdb14eb8125e_72.jpg",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Iglovikov",
+            "display_name": "ternaus",
+            "team": "T040HKJE3",
+            "name": "ternaus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303380.486225",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "Да не. Не копировать, понятно, что масштабы не те.  Ученые просто пытаются выделить общее(например, независимость СМИ), когда авторитарные режимы смогли добиться устойчивого экономического роста. Если хочется что-то легкое и приятное на эту тему почитать, то часто рекомендованная книга в <#C040HKJF1|_random_flood> \"why nations fail\" очень подходит.",
+        "user": "U36Q9NJMD",
+        "ts": "1497308473.564181",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1497308591.000000"
+        },
+        "thread_ts": "1497303380.486225",
+        "parent_user_id": "U34Q3KU8H",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U0MEP6PT2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ну, мое мнение: нехорошо получилось, люди, которые просто хотели детей выгулять (отбросим тематику, что есть много других мест и поводов) получили злой ОМОН и выкрики \"Путин вор\". Я сам не поехал с пацаненком, так как вчера вычитал, что товарищ хочет народ на Тверскую гнать, но  знакомые уже пожаловались, что попортили праздник людям.",
+        "user": "U43QVTY49",
+        "ts": "1497308966.649400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e478d3302d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1046324740519_e478d3302d4c1bc1bf52_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Myagkikh",
+            "display_name": "pavel_myagkikh",
+            "team": "T040HKJE3",
+            "name": "pavel_myagkikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497309818.788816",
+        "user": "U1CE1LVD3",
+        "text": "<@U1CE1LVD3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "теперь политика в рандом флуде, а рандом флуд в политике :)",
+        "user": "U1CE1LVD3",
+        "ts": "1497309985.815329",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "04dcb9fa8d7c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-12-03\/112854867879_04dcb9fa8d7cb41529bc_72.jpg",
+            "first_name": "Aleksandr",
+            "real_name": "Aleksandr Mikhailov",
+            "display_name": "sashamn",
+            "team": "T040HKJE3",
+            "name": "sashamn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304277.709974",
+        "parent_user_id": "U34Q3KU8H"
+    },
+    {
+        "type": "message",
+        "text": "natekin: в стране где люди кидаются именно на декорации, это нормально же, не брать же интеллектуалами там, где в основном любители декораций)",
+        "user": "U48A8L25N",
+        "ts": "1497310272.861959",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303425.497516",
+        "parent_user_id": "U040HKJE7"
+    },
+    {
+        "type": "message",
+        "text": "пропаганда же давно совсем тупая, и не распознать её могут лишь те, кто рад обманываться",
+        "user": "U48A8L25N",
+        "ts": "1497310425.885579",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497303425.497516",
+        "parent_user_id": "U040HKJE7"
+    },
+    {
+        "type": "message",
+        "text": "так может и стоило пацану показать не декорации) а как раз то что орут Путин - вор",
+        "user": "U48A8L25N",
+        "ts": "1497310543.903508",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "а менты пакуют?)",
+        "user": "U48A8L25N",
+        "ts": "1497310567.907013",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "если нет нужных знакомств)",
+        "user": "U48A8L25N",
+        "ts": "1497310687.926380",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1497304319.720784",
+        "parent_user_id": "U0RV376MC"
+    },
+    {
+        "type": "message",
+        "text": "Это же как показательно, что мы защищаем мир выдуманной России, так или иначе пытаясь обойти всю неудобную реальность стороной, уберечь от этого детей там, родственников)",
+        "user": "U48A8L25N",
+        "ts": "1497310926.962990",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Пацану 3 года, давайте я лучше ему про винни-пуха расскажу, а не про школоту, которую пакуют за то, что они даже не понимают и про некого Путина и некого Навального, ок? ",
+        "user": "U43QVTY49",
+        "ts": "1497316710.730425",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e478d3302d4c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1046324740519_e478d3302d4c1bc1bf52_72.jpg",
+            "first_name": "Pavel",
+            "real_name": "Pavel Myagkikh",
+            "display_name": "pavel_myagkikh",
+            "team": "T040HKJE3",
+            "name": "pavel_myagkikh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U43QVTY49",
+            "ts": "1497317407.000000"
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "да этот еще маловат)",
+        "user": "U48A8L25N",
+        "ts": "1497334273.695553",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,574 @@
+[
+    {
+        "client_msg_id": "37c40818-0382-4f98-b4a3-0154deeaefa3",
+        "type": "message",
+        "text": "<https:\/\/www.proekt.media\/narrative\/yandex-i-kreml\/>",
+        "user": "U70TZK6Q3",
+        "ts": "1582971668.020800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g2428994d97a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fe2428994d97aa38df4b6efee3aa88a7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Matyukov",
+            "display_name": "nmatyukov",
+            "team": "T040HKJE3",
+            "name": "nmatyukov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Проект.",
+                "title": "Разговорчики в строю",
+                "title_link": "https:\/\/www.proekt.media\/narrative\/yandex-i-kreml\/",
+                "text": "Последние 10 лет Яндекс последовательно подвергался давлению со стороны Кремля: что за атаки предпринимало государство и чем это кончилось.",
+                "fallback": "Проект.: Разговорчики в строю",
+                "image_url": "https:\/\/proektmedia-stat.ams3.digitaloceanspaces.com\/2020\/02\/yandex_social.png",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1582700100,
+                "from_url": "https:\/\/www.proekt.media\/narrative\/yandex-i-kreml\/",
+                "image_bytes": 215629,
+                "id": 1,
+                "original_url": "https:\/\/www.proekt.media\/narrative\/yandex-i-kreml\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6x9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.proekt.media\/narrative\/yandex-i-kreml\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "type": "message",
+        "text": "Разоблачительная статья второй ссылкой",
+        "files": [
+            {
+                "id": "FUP20KMA8",
+                "created": 1582989380,
+                "timestamp": 1582989380,
+                "name": "Screenshot_2020-02-29-18-15-10-339_com.android.chrome.png",
+                "title": "Screenshot_2020-02-29-18-15-10-339_com.android.chrome.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U7CAU0GMU",
+                "editable": false,
+                "size": 725459,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FUP20KMA8\/screenshot_2020-02-29-18-15-10-339_com.android.chrome.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FUP20KMA8\/download\/screenshot_2020-02-29-18-15-10-339_com.android.chrome.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 171,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 227,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 341,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1689,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_960.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_960_w": 455,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FUP20KMA8-15ee300fbc\/screenshot_2020-02-29-18-15-10-339_com.android.chrome_1024.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_1024_w": 485,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 2280,
+                "thumb_tiny": "AwAwABbRyc8Ypefam7uSKA31oAUsFPNHmL6n8qCcDOfzpN4\/vLS1APmz60fN6Uh256UoxnjimAkoZkAwM571D5b\/AN1fzqcOrKSDwDijcPWgBOCT9aUAVH5BD5DsBuLYzQYTgASMNpzQBKyhlANM8tff86dGmxduSQOmTT8UAf\/Z",
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U7CAU0GMU\/FUP20KMA8\/screenshot_2020-02-29-18-15-10-339_com.android.chrome.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FUP20KMA8-9d27d1b904",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "guNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Разоблачительная статья второй ссылкой"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U7CAU0GMU",
+        "display_as_bot": false,
+        "ts": "1582989401.021300",
+        "client_msg_id": "e422446c-30b0-43c5-9204-4ce6862bb6d4",
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "91fc5c2d-078f-420b-9e36-8da0bd37bc45",
+        "type": "message",
+        "text": "&gt; «Яндекс» удалил *часть* ссылок из поисковых запросов со словами «Удодов» и «Александр Удодов».  \n",
+        "user": "U48A8L25N",
+        "ts": "1582991724.021800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TfB",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "«Яндекс» удалил "
+                            },
+                            {
+                                "type": "text",
+                                "text": "часть",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ссылок из поисковых запросов со словами «Удодов» и «Александр Удодов».  "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "69f4e160-f199-4991-a4b7-d2e5300ed6ff",
+        "type": "message",
+        "text": "<https:\/\/pbs.twimg.com\/media\/ER8BO-yW4AEUBKR?format=jpg&amp;name=900x900>",
+        "user": "U48A8L25N",
+        "ts": "1582991779.022100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "750x776px image",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/ER8BO-yW4AEUBKR?format=jpg&name=900x900",
+                "image_width": 750,
+                "image_height": 776,
+                "image_bytes": 60368,
+                "from_url": "https:\/\/pbs.twimg.com\/media\/ER8BO-yW4AEUBKR?format=jpg&name=900x900",
+                "id": 1,
+                "original_url": "https:\/\/pbs.twimg.com\/media\/ER8BO-yW4AEUBKR?format=jpg&amp;name=900x900"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqRt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pbs.twimg.com\/media\/ER8BO-yW4AEUBKR?format=jpg&name=900x900"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d774947a-3d9a-41bb-aaa5-d2538bdd8fd0",
+        "type": "message",
+        "text": "Я к тому, что это удаление мало на что влияет. Большинство кликнут на первые две ссылки, где разоблачения есть.",
+        "user": "U7CAU0GMU",
+        "ts": "1582993509.022300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F87J\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Я к тому, что это удаление мало на что влияет. Большинство кликнут на первые две ссылки, где разоблачения есть."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95ac7dfc-d241-420d-8463-820701412ede",
+        "type": "message",
+        "text": "зачем удалять если мало на что влияет?)",
+        "user": "U48A8L25N",
+        "ts": "1582993778.022600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kh1b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "зачем удалять если мало на что влияет?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7fa3bd15-511f-4fe1-8220-5dbb25de397b",
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1582993789.022800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ok9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "yeah-sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "a35c3f24-6466-407c-a9cc-df4b363bb533",
+        "type": "message",
+        "text": "Закон, ёпт",
+        "user": "U7CAU0GMU",
+        "ts": "1582993802.023000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "69c0136d324c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-09\/783141116705_69c0136d324c3287ce9d_72.jpg",
+            "first_name": "Andrey",
+            "real_name": "Andrey Kolomiets",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ak.519",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+h4C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Закон, ёпт"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "e1a74e54-2a2f-4920-885b-13fce1742d2f",
+        "type": "message",
+        "text": "какой закон?)",
+        "user": "U48A8L25N",
+        "ts": "1582997073.023200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LZWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "какой закон?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "298dfab7-1eb0-4075-ac0a-70bc0eb3a94b",
+        "type": "message",
+        "text": "там удаление по требованию суда",
+        "user": "U48A8L25N",
+        "ts": "1582997081.023400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "там удаление по требованию суда"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f6d99a67-6a1b-4961-8ea0-95b8d25a52dc",
+        "type": "message",
+        "text": "в том то и прикол, что удалили быстро слишком",
+        "user": "U48A8L25N",
+        "ts": "1582997121.023600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AnlL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "в том то и прикол, что удалили быстро слишком"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "ddb80176-5c79-4bf8-98d4-e1a9650892c4",
+        "type": "message",
+        "text": "для того чтобы как по закону удаляют",
+        "user": "U48A8L25N",
+        "ts": "1582997131.023800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "76lJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "для того чтобы как по закону удаляют"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582925459.020400",
+        "parent_user_id": "U48A8L25N"
+    }
+]

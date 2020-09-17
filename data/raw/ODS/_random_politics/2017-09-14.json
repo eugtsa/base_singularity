@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/nakanune_jubileja_jandeksa_putin_posetit_ego_ofis-444845\/>",
+        "user": "U48A8L25N",
+        "ts": "1505402412.000252",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Путин впервые посетит офис «Яндекса» накануне юбилея компании",
+                "title_link": "https:\/\/tvrain.ru\/news\/nakanune_jubileja_jandeksa_putin_posetit_ego_ofis-444845\/",
+                "text": "На следующей неделе, в преддверии празднования 20-летия &amp;laquo;Яндекса&amp;raquo;, Владимир Путин впервые приедет в московский офис компании. Путин критиковал &amp;laquo;Яндекс&amp;raquo;, но в последние годы отношения компании и государства стали&amp;nbsp; конструктивными, и на &amp;laquo;Яндекс&amp;raquo; рассчитывают в период президентской кампании, отмечают близкие к Кремлю собеседники.",
+                "fallback": "Путин впервые посетит офис «Яндекса» накануне юбилея компании",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/44\/48\/45\/image.png?2017_09_14_17_50_40",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1505400552,
+                "from_url": "https:\/\/tvrain.ru\/news\/nakanune_jubileja_jandeksa_putin_posetit_ego_ofis-444845\/",
+                "image_bytes": 690280,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1505402418.000395",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Вот это наброс на вентилятор. Это же такой антипиар Путина, у него там идиоты что ли сидят",
+        "user": "U36Q9NJMD",
+        "ts": "1505412524.000310",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

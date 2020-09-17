@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1475793757.000012",
+        "user": "U1UM6S9KN",
+        "text": "<@U1UM6S9KN> has left the channel",
+        "reactions": [
+            {
+                "name": "ragequit",
+                "users": [
+                    "U04ELQZAU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "dda77388-432b-407f-beee-014b4f805cda",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/navalny\/status\/1177945599397773313>",
+        "user": "UGTNTEBPV",
+        "ts": "1569685588.069900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/navalny|@navalny>: Приходите завтра на митинг обязательно. 15-00. Проспект Сахарова. США выделили мне на этот митинг огромные деньги, поэтому всё должно быть классно. @ Moscow, Russia <https:\/\/www.instagram.com\/p\/B29RgEJlzKN\/?igshid=1oqhqnlj08gdk>",
+                "ts": 1569679090,
+                "author_name": "Alexey Navalny",
+                "author_link": "https:\/\/twitter.com\/navalny\/status\/1177945599397773313",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/980761782909272064\/h-qrVrmY_normal.jpg",
+                "author_subname": "@navalny",
+                "text": "Приходите завтра на митинг обязательно. 15-00. Проспект Сахарова. США выделили мне на этот митинг огромные деньги, поэтому всё должно быть классно. @ Moscow, Russia <https:\/\/www.instagram.com\/p\/B29RgEJlzKN\/?igshid=1oqhqnlj08gdk>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/navalny\/status\/1177945599397773313",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/navalny\/status\/1177945599397773313",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b1b59d3-41a1-487e-913c-17aa563ec265",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=YqXmZoySW8c>",
+        "user": "U27HU84H4",
+        "ts": "1569692475.070200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Юлия Латынина \/ Код доступа \/\/ 28.09.19",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=YqXmZoySW8c",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/YqXmZoySW8c\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Юлия Латынина \/ Код доступа \/\/ 28.09.19",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/YqXmZoySW8c?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=YqXmZoySW8c",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=YqXmZoySW8c"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UGTNTEBPV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

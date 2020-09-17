@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "aff99ffb-2c91-44e2-ba70-72f10bbcf78b",
+        "type": "message",
+        "text": "это уже в челлендж превращается",
+        "user": "U48A8L25N",
+        "ts": "1563012789.283200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f08b6756-f236-4319-864c-342ca2987e18",
+        "type": "message",
+        "text": "<https:\/\/www.novayagazeta.ru\/articles\/2019\/07\/13\/81226-bitva-pod-lubyankoy>",
+        "user": "U48A8L25N",
+        "ts": "1563021827.283400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Новая газета - Novayagazeta.ru",
+                "title": "Битва под Лубянкой",
+                "title_link": "https:\/\/www.novayagazeta.ru\/articles\/2019\/07\/13\/81226-bitva-pod-lubyankoy",
+                "text": "Зачем патриарх Кирилл наносит смертельный удар по любимому детищу митрополита Тихона — Сретенской семинарии",
+                "fallback": "Новая газета - Novayagazeta.ru: Битва под Лубянкой",
+                "image_url": "https:\/\/static.novayagazeta.ru\/storage\/post\/81226\/regular_social_image-5743299bf72afe78323a97295db8a6a9.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1563019260,
+                "from_url": "https:\/\/www.novayagazeta.ru\/articles\/2019\/07\/13\/81226-bitva-pod-lubyankoy",
+                "image_bytes": 335216,
+                "service_icon": "https:\/\/www.novayagazeta.ru\/public\/fav_57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.novayagazeta.ru\/articles\/2019\/07\/13\/81226-bitva-pod-lubyankoy"
+            }
+        ]
+    }
+]

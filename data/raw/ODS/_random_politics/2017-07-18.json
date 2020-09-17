@@ -1,0 +1,190 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500398521.821996",
+        "user": "U34SSE54G",
+        "text": "<@U34SSE54G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Милости прошу к нашему шалашу",
+        "user": "U04725QK7",
+        "ts": "1500399259.252856",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1500399435.353569",
+        "user": "U0ZJV6E5Q",
+        "text": "<@U0ZJV6E5Q> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "это мой шалаш",
+        "user": "U48A8L25N",
+        "ts": "1500400236.820178",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "сам же писал",
+        "user": "U48A8L25N",
+        "ts": "1500400252.828825",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Теперь весь цвет рф сюда отселили",
+        "user": "U04725QK7",
+        "ts": "1500400278.844633",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "в мой блог?",
+        "user": "U48A8L25N",
+        "ts": "1500400320.869692",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "какая досада",
+        "user": "U48A8L25N",
+        "ts": "1500400338.879533",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/opendatascience.slack.com\/archives\/C040HKJF1\/p1500400539623215>",
+        "user": "U040HKJE7",
+        "ts": "1500400548.006157",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "910ffe66f361",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-25\/291044574499_910ffe66f3612ed5c505_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Natekin",
+            "display_name": "natekin",
+            "team": "T040HKJE3",
+            "name": "natekin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C040HKJF1\/p1500400539623215",
+                "fallback": "[July 18th, 2017 10:55 AM] natekin: <@U06J1LG1M> теперь ~король~ президент <#C0CLJ8C82|_random_politics>",
+                "ts": "1500400539.623215",
+                "author_subname": "natekin",
+                "channel_id": "C040HKJF1",
+                "channel_name": "_random_flood",
+                "is_msg_unfurl": true,
+                "text": "<@U06J1LG1M> теперь ~король~ президент <#C0CLJ8C82|_random_politics>",
+                "author_name": "Alex Natekin",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/natekin",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-09-15\/80071260369_86dbff4518f09c916e0a_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #_random_flood"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500405315.767077",
+        "user": "U1K7C32LQ",
+        "text": "<@U1K7C32LQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500415647.963540",
+        "user": "U65EHJ08N",
+        "text": "<@U65EHJ08N> has joined the channel"
+    }
+]

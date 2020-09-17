@@ -1,0 +1,662 @@
+[
+    {
+        "client_msg_id": "99695ACD-527F-477D-93F6-20191CC63734",
+        "type": "message",
+        "text": "<@U48A8L25N> что там сегодня на первой полосе в Петушином Sanomat'е?",
+        "user": "U049HDR2Z",
+        "ts": "1570779458.011400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9f6ff78f-8ad2-41c8-b0d8-4602df79c334",
+        "type": "message",
+        "text": "Подменю Даню, пока он коней запрягает",
+        "user": "U74DLUWUC",
+        "ts": "1570779554.011800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f55ca318-e58e-475f-8c2b-34ef691f4bc7",
+        "type": "message",
+        "text": "<https:\/\/meduza.io\/feature\/2019\/10\/11\/fbk-poluchil-lichnye-dannye-vseh-internet-izbirateley-na-vyborah-v-mosgordumu-no-meriya-eto-otritsala-my-dokazali-chto-spisok-nastoyaschiy>",
+        "user": "U74DLUWUC",
+        "ts": "1570779556.012000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "ФБК получил личные данные всех интернет-избирателей на выборах в Мосгордуму, но мэрия это отрицала. Мы доказали, что список настоящий Следите за руками — Meduza",
+                "title_link": "https:\/\/meduza.io\/feature\/2019\/10\/11\/fbk-poluchil-lichnye-dannye-vseh-internet-izbirateley-na-vyborah-v-mosgordumu-no-meriya-eto-otritsala-my-dokazali-chto-spisok-nastoyaschiy",
+                "text": "В середине сентября Фонд борьбы с коррупцией откуда-то получил полный список избирателей, допущенных к интернет-голосованию на выборах в Мосгордуму. Там же были персональные данные этих людей. В мэрии Москвы отказались считать этот список подлинным. Мы доказали, что список ФБК настоящий, а помогла нам это доказать сама мэрия. То, что список настоящих избирателей, оказался в чужих руках еще раз говорит о том, что система голосования ненадежна. Кроме того, она оставляет простор для принуждения избирателей к голосованию, но чтобы убедиться, что такие случаи были, нам нужна ваша помощь. Сейчас расскажем, как мы убедились, что из мэрии утек настоящий список избирателей, и в конце попросим вас о помощи.",
+                "fallback": "Meduza: ФБК получил личные данные всех интернет-избирателей на выборах в Мосгордуму, но мэрия это отрицала. Мы доказали, что список настоящий Следите за руками — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1570777730\/feature\/2019\/10\/11\/fbk-poluchil-lichnye-dannye-vseh-internet-izbirateley-na-vyborah-v-mosgordumu-no-meriya-eto-otritsala-my-dokazali-chto-spisok-nastoyaschiy",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/feature\/2019\/10\/11\/fbk-poluchil-lichnye-dannye-vseh-internet-izbirateley-na-vyborah-v-mosgordumu-no-meriya-eto-otritsala-my-dokazali-chto-spisok-nastoyaschiy",
+                "image_bytes": 443272,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/feature\/2019\/10\/11\/fbk-poluchil-lichnye-dannye-vseh-internet-izbirateley-na-vyborah-v-mosgordumu-no-meriya-eto-otritsala-my-dokazali-chto-spisok-nastoyaschiy"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "feelsgoodmeme",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf298bbd-d7cf-424a-acf3-0da9fdfe4ce8",
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/2019\/10\/10\/20907596\/apple-hong-kong-protests-app-removed-china>",
+        "user": "U48A8L25N",
+        "ts": "1570787682.012400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Apple removes app used in Hong Kong protests after pressure from China",
+                "title_link": "https:\/\/www.theverge.com\/2019\/10\/10\/20907596\/apple-hong-kong-protests-app-removed-china",
+                "text": "\"This app violates our guidelines and local laws.\"",
+                "fallback": "The Verge: Apple removes app used in Hong Kong protests after pressure from China",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/CFq90vfORwtfdQoAh_WWfGh-Bc0=\/0x146:2040x1214\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/19274659\/DSCF7157.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1570681935,
+                "from_url": "https:\/\/www.theverge.com\/2019\/10\/10\/20907596\/apple-hong-kong-protests-app-removed-china",
+                "image_bytes": 70090,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/2019\/10\/10\/20907596\/apple-hong-kong-protests-app-removed-china"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U049HDR2Z"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4de1c3c-cf4a-4e36-8643-4d1ad6e58d7b",
+        "type": "message",
+        "text": "<https:\/\/www.znak.com\/2019-10-11\/akcii_yandeksa_ruhnuli_na_fone_novostey_iz_gosdumy_kompaniya_poteryala_bolee_1_5_mlrd>",
+        "user": "U48A8L25N",
+        "ts": "1570809424.013200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Акции «Яндекса» рухнули на фоне новостей из Госдумы, компания потеряла более $1,5 млрд",
+                "title_link": "https:\/\/www.znak.com\/2019-10-11\/akcii_yandeksa_ruhnuli_na_fone_novostey_iz_gosdumy_kompaniya_poteryala_bolee_1_5_mlrd",
+                "text": "Акции Яндекса рухнули на американской бирже Nasdaq и Мосбирже из-за новостей из Госдумы РФ, где обсуждают законопроект о значимых информресурсах",
+                "fallback": "Акции «Яндекса» рухнули на фоне новостей из Госдумы, компания потеряла более $1,5 млрд",
+                "image_url": "https:\/\/img.znak.com\/og178776.png",
+                "from_url": "https:\/\/www.znak.com\/2019-10-11\/akcii_yandeksa_ruhnuli_na_fone_novostey_iz_gosdumy_kompaniya_poteryala_bolee_1_5_mlrd",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 235446,
+                "service_icon": "https:\/\/www.znak.com\/favicon.png",
+                "service_name": "znak.com",
+                "id": 1,
+                "original_url": "https:\/\/www.znak.com\/2019-10-11\/akcii_yandeksa_ruhnuli_na_fone_novostey_iz_gosdumy_kompaniya_poteryala_bolee_1_5_mlrd"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f110921-143b-467a-9806-68a1117e0e72",
+        "type": "message",
+        "text": "ЕЕЕЕ бой",
+        "user": "U48A8L25N",
+        "ts": "1570809429.013500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "putin",
+                "users": [
+                    "UCFT73AGM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8c391d3-33ab-4d28-b362-2753224bc78f",
+        "type": "message",
+        "text": "Найс ты, Данияр, через _русские_ магистральные сети читаешь на _русском_ языке новости про _русскую_ компанию, и еще что-то язвишь",
+        "user": "U049HDR2Z",
+        "ts": "1570811214.014400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5598fa20-43f2-46c3-a2fc-3447c6b76877",
+        "type": "message",
+        "text": "лучше коней, это у тебя лучше получается :yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1570811852.015100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dd5756dc-c57e-46f4-ad70-268c215ce1b9",
+        "type": "message",
+        "text": "У нас ни коней, ни шуток про них нет. Все эти навозные темы зааутсорсили в Республику Нурсултан, сами же запускаем ракеты и смотрим в будущее.",
+        "user": "U049HDR2Z",
+        "ts": "1570811941.016300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4184bd7c-7381-4aee-893c-306004fee38f",
+        "type": "message",
+        "text": "вон же выше целый табун, не переводи стрелки)",
+        "user": "U48A8L25N",
+        "ts": "1570812000.017400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e2f3c8b6-1303-4722-836d-4acb31d31834",
+        "type": "message",
+        "text": "Вот, кстати, объясни мне Данияр. Ты пожилой уже, виды видал, коней сколько похоронил за свой век",
+        "user": "U049HDR2Z",
+        "ts": "1570812042.018200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "65e702c0-e12e-41c3-85ca-57fc29ff19cf",
+        "type": "message",
+        "text": "Почему я с таким подвешенным языком не могу жену найти?",
+        "user": "U049HDR2Z",
+        "ts": "1570812053.018500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3311b7f0-fb05-46d7-aa34-de7d3a138ac7",
+        "type": "message",
+        "text": "Может они все считают себя недостойными тебя, и тебе надо почаще их хвалить?",
+        "user": "U48A8L25N",
+        "ts": "1570812124.019500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67f52fb9-d7e5-4809-843d-122e5d2a1c96",
+        "type": "message",
+        "text": "Добрый и мудрый совет! Спасибо!",
+        "user": "U049HDR2Z",
+        "ts": "1570812143.019800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b92aafd0-ddf1-4de9-a41f-2a68ad35b8ec",
+        "type": "message",
+        "text": "Со свадебных подарков куплю тебе новую юрту",
+        "user": "U049HDR2Z",
+        "ts": "1570812181.020500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pepe_happy",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bfe3f5a-0669-4bf9-a846-18900f69cebf",
+        "type": "message",
+        "text": "Русские добро не забывают",
+        "user": "U049HDR2Z",
+        "ts": "1570812198.021000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d2f477de-2429-4b28-bc19-43ecc3636bf7",
+        "type": "message",
+        "text": "ну да, мы русские друг друга не обманываем (с)",
+        "user": "U48A8L25N",
+        "ts": "1570812237.021500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a2a36b33-4745-437c-8eb4-0b478202176d",
+        "type": "message",
+        "text": "&gt;Почему я с таким подвешенным языком не могу жену найти?\n\nА я тебе говорил, едь в Питер и забирай студенток :kekeke:",
+        "user": "U74DLUWUC",
+        "ts": "1570812409.022500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7bbd32cd-9efb-449a-895d-1093007ff3f7",
+        "type": "message",
+        "text": "Да они на мефедроне там все",
+        "user": "U049HDR2Z",
+        "ts": "1570812429.022700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2992d206-0842-4a64-82fc-2edb1f5b0ff7",
+        "type": "message",
+        "text": "А ты приедь в Питер с 25 по 28 октября, я тебе поищу",
+        "user": "U74DLUWUC",
+        "ts": "1570812617.025200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1a9e4c25-c405-48b0-bd84-4d1d3dd8d348",
+        "type": "message",
+        "text": "вообще мы в 21 веке живем зачем тебе жена, воду при смерти явно сможет уже робот подать",
+        "user": "U48A8L25N",
+        "ts": "1570812657.026000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "494b4970-0a08-448a-8a61-ce77627aae12",
+        "type": "message",
+        "text": ":pepe_sad: Другие даты есть какие-н? Я на конференцию полечу",
+        "user": "U049HDR2Z",
+        "ts": "1570812675.026400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9214a1eb-304f-434d-96f6-491559879dd3",
+        "type": "message",
+        "text": "Эх",
+        "user": "U74DLUWUC",
+        "ts": "1570812741.027100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1424802c2686",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-31\/1155476209298_1424802c2686cdb34b8f_72.png",
+            "first_name": "Svyat",
+            "real_name": "Svyat",
+            "display_name": "the trampoline is working",
+            "team": "T040HKJE3",
+            "name": "error.derivative",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1d59c42c-082d-4a42-a127-605c8e273374",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/tictoc\/status\/1182476030793179139>",
+        "user": "U48A8L25N",
+        "ts": "1570814251.027300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/tictoc|@tictoc>: :headphones: SOUND ON: <https:\/\/twitter.com\/GretaThunberg|@GretaThunberg>'s powerful UN speech was sampled by <https:\/\/twitter.com\/FatboySlim|@FatboySlim> in a remix of his 1998 hit, “Right Here Right Now” <https:\/\/pbs.twimg.com\/amplify_video_thumb\/1182475863641788417\/img\/Y7ry_ZSMQ2uM0Dg1.jpg>",
+                "ts": 1570759229,
+                "author_name": "Bloomberg TicToc",
+                "author_link": "https:\/\/twitter.com\/tictoc\/status\/1182476030793179139",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/940202913393082373\/23X8DJQc_normal.jpg",
+                "author_subname": "@tictoc",
+                "text": ":headphones: SOUND ON: <https:\/\/twitter.com\/GretaThunberg|@GretaThunberg>'s powerful UN speech was sampled by <https:\/\/twitter.com\/FatboySlim|@FatboySlim> in a remix of his 1998 hit, “Right Here Right Now”",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/tictoc\/status\/1182476030793179139",
+                "thumb_url": "https:\/\/pbs.twimg.com\/amplify_video_thumb\/1182475863641788417\/img\/Y7ry_ZSMQ2uM0Dg1.jpg",
+                "thumb_width": 720,
+                "thumb_height": 720,
+                "video_html_width": 720,
+                "video_html_height": 720,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/amplify_video_thumb\/1182475863641788417\/img\/Y7ry_ZSMQ2uM0Dg1.jpg\" width=\"720\" height=\"720\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1182475863641788417\/vid\/720x720\/dVrr2JFwQDRFg_-w.mp4?tag=13\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/tictoc\/status\/1182476030793179139",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5H055U0J",
+                    "U4B4HJX9A"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fireball",
+                "users": [
+                    "U28J6CP29"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

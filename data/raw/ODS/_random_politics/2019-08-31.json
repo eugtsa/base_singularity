@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "e7e346b1-e3ef-4f32-8326-9571529d0ea4",
+        "type": "message",
+        "text": "да, раньше про Украину было меньше новостей. почитываю <http:\/\/utro.ru|utro.ru> — из шести новостей на главной все шесть про Украину.",
+        "user": "UCHK7F0TB",
+        "ts": "1567269736.012900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g40c31266363",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7c40c31266363c6947e66f661ae23439.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Malyk",
+            "display_name": "vladimir.malyk",
+            "team": "T040HKJE3",
+            "name": "vladimir.malyk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1566721547.199900",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "client_msg_id": "42ebffb6-6c8b-4b4d-ba83-1e07d8eaefcf",
+        "type": "message",
+        "text": "на счёт отца твоего одноклассника — обычное дело.\nздесь решают возможности выбора человека. если у него кроме Воронежа нечего выбрать, то и все убеждения автоматом подстроятся соответственно.",
+        "user": "UCHK7F0TB",
+        "ts": "1567269939.013100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g40c31266363",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7c40c31266363c6947e66f661ae23439.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Vladimir",
+            "real_name": "Vladimir Malyk",
+            "display_name": "vladimir.malyk",
+            "team": "T040HKJE3",
+            "name": "vladimir.malyk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UCHK7F0TB",
+            "ts": "1567270905.000000"
+        },
+        "thread_ts": "1566721547.199900",
+        "parent_user_id": "U5H0L5T98",
+        "reactions": [
+            {
+                "name": "smekalka",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03ba10f9-fbe3-46df-81fb-002cd4fd8f5e",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=FtlKGwcWiCE>",
+        "user": "U27HU84H4",
+        "ts": "1567286351.013700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Путин покупает презик в Аптеке - Камеди Клаб\/Гарик Харламов и Дмитрий Грачев",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=FtlKGwcWiCE",
+                "author_name": "Гарик Харламов",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCZk9Ka4bn7K5JVzA82U2qVA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/FtlKGwcWiCE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Путин покупает презик в Аптеке - Камеди Клаб\/Гарик Харламов и Дмитрий Грачев",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/FtlKGwcWiCE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=FtlKGwcWiCE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=FtlKGwcWiCE"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

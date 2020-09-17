@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "3fa43cc8-776e-4cd5-801c-29fa8678dd02",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/qkFMbzs_Too>\n<https:\/\/www.youtube.com\/watch?v=vnUjKUm5u-o>\n\n<https:\/\/1939live.ru\/>",
+        "user": "U27HU84H4",
+        "ts": "1567365711.014200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1567365771.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "За неделю до начала Второй Мировой войны. Шуленбург. Проект 1939.live",
+                "title_link": "https:\/\/youtu.be\/qkFMbzs_Too",
+                "author_name": "РБК",
+                "author_link": "https:\/\/www.youtube.com\/user\/tvrbcnews",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/qkFMbzs_Too\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: За неделю до начала Второй Мировой войны. Шуленбург. Проект 1939.live",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/qkFMbzs_Too?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/qkFMbzs_Too",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/qkFMbzs_Too"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Культурный шок \/ Мир перед войной: 1939-й глазами 2019-го \/\/ 01.09.19",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=vnUjKUm5u-o",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vnUjKUm5u-o\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Культурный шок \/ Мир перед войной: 1939-й глазами 2019-го \/\/ 01.09.19",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vnUjKUm5u-o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=vnUjKUm5u-o",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=vnUjKUm5u-o"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98ac5d53-ec55-4440-9037-30e95633f088",
+        "type": "message",
+        "text": "<https:\/\/news.mail.ru\/society\/38544550\/>",
+        "user": "U27HU84H4",
+        "ts": "1567401234.014800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Новости Mail.ru",
+                "title": "Нарушение закона — по требованию",
+                "title_link": "https:\/\/news.mail.ru\/society\/38544550\/",
+                "text": "Законной процедуры изъятия и просмотра мобильных не существует.",
+                "fallback": "Новости Mail.ru: Нарушение закона — по требованию",
+                "image_url": "https:\/\/news.mail.ru\/social_preview\/38544550\/?time=d6379fc6eb46f99a12472776a5ce1f82",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/news.mail.ru\/society\/38544550\/",
+                "image_bytes": 1344453,
+                "service_icon": "https:\/\/news.mail.ru\/img\/logo\/news\/news_57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/news.mail.ru\/society\/38544550\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "true-story",
+                "users": [
+                    "U48A8L25N",
+                    "U3AG4B1N1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

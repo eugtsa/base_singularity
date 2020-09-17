@@ -1,0 +1,310 @@
+[
+    {
+        "client_msg_id": "acf9947a-4325-47a4-98d1-ed8599d9e745",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=cC-d4M8PuRU> - про то, что  сейчас обкатка электронных тюрем с оплатой арестантами",
+        "user": "U27HU84H4",
+        "ts": "1585852816.039500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "«Потапенко будит!», Интерактив, Владимир Путин подписал закон о штрафах за нарушение карантина",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=cC-d4M8PuRU",
+                "author_name": "Серебряный Дождь",
+                "author_link": "https:\/\/www.youtube.com\/user\/wwwsilverru",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/cC-d4M8PuRU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: «Потапенко будит!», Интерактив, Владимир Путин подписал закон о штрафах за нарушение карантина",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/cC-d4M8PuRU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=cC-d4M8PuRU",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=cC-d4M8PuRU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jfT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=cC-d4M8PuRU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - про то, что  сейчас обкатка электронных тюрем с оплатой арестантами"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "leonid",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "coincidence",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b443bbf-92b1-40cf-9803-66330d90cb15",
+        "type": "message",
+        "text": "А куда и почему бегут губернаторы? За сегодня -3: Архангельск, Коми, и Камчатка, такими темпами надо будет для них счетчик как для больных делать. Понятно что это как то связано с сегодняшним посланием, но уволиться сейчас для политика, мне кажется это жирный крестик на политической карьере",
+        "user": "UACAW8UT1",
+        "ts": "1585869488.043400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "52512937b2f5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-27\/887859246581_52512937b2f5083cd769_72.jpg",
+            "first_name": "Dmitriy",
+            "real_name": "Dmitriy Kulagin",
+            "display_name": "rekcahd",
+            "team": "T040HKJE3",
+            "name": "rekcahd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VyxXe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "А куда и почему бегут губернаторы? За сегодня -3: Архангельск, Коми, и Камчатка, такими темпами надо будет для них счетчик как для больных делать. Понятно что это как то связано с сегодняшним посланием, но уволиться сейчас для политика, мне кажется это жирный крестик на политической карьере"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585869488.043400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1585916324.045100",
+        "reply_users": [
+            "U88T71FBL",
+            "UJUQAF96G",
+            "U2TP5JELS",
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U88T71FBL",
+                "ts": "1585874435.043500"
+            },
+            {
+                "user": "UJUQAF96G",
+                "ts": "1585879732.044400"
+            },
+            {
+                "user": "U2TP5JELS",
+                "ts": "1585884905.044800"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1585916324.045100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b346183e-2797-4b57-b76c-4cccf8e4d831",
+        "type": "message",
+        "text": "Позиция губернатора в Архангельске, Коми и Камчатке, это уже жирный намёк на жирный крест на политической карьере",
+        "user": "U88T71FBL",
+        "ts": "1585874435.043500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Позиция губернатора в Архангельске, Коми и Камчатке, это уже жирный намёк на жирный крест на политической карьере"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585869488.043400",
+        "parent_user_id": "UACAW8UT1"
+    },
+    {
+        "client_msg_id": "F99E9AC8-99C9-4312-B862-5B3E45787B74",
+        "type": "message",
+        "text": "Они не сами увольняются уж\n\n<https:\/\/www.bbc.com\/russian\/news-52137291?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit|https:\/\/www.bbc.com\/russian\/news-52137291?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit>",
+        "user": "UJUQAF96G",
+        "ts": "1585879732.044400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "3863ed0bbe84",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-18\/752196205714_3863ed0bbe845ba4c09a_72.png",
+            "first_name": "Danil",
+            "real_name": "Danil",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "denemmy703",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJUQAF96G",
+            "ts": "1585879845.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "BBC News Русская служба",
+                "title": "Путин дал губернаторам новые полномочия по борьбе с эпидемией. Трое ушли в отставку",
+                "title_link": "https:\/\/www.bbc.com\/russian\/news-52137291?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit",
+                "text": "Второе обращение президента Владимира Путина к россиянам из-за коронавируса сопровождалось отставками и назначениями в российских регионах. За несколько минут до начала трансляции речи президента свой пост покинул губернатор Архангельской области, а через несколько минут после обращения с должности ушел глава Коми. Оба считались претендентами на отставку еще до эпидемии, но кризис ускорил их уход.",
+                "fallback": "BBC News Русская служба: Путин дал губернаторам новые полномочия по борьбе с эпидемией. Трое ушли в отставку",
+                "image_url": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_russian\/E404\/production\/_111527385_tass_12631299.jpg",
+                "from_url": "https:\/\/www.bbc.com\/russian\/news-52137291?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 49953,
+                "service_icon": "https:\/\/static.bbc.co.uk\/news\/1.312.03569\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bbc.com\/russian\/news-52137291?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IGeeh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Они не сами увольняются уж\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bbc.com\/russian\/news-52137291?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit",
+                                "text": "https:\/\/www.bbc.com\/russian\/news-52137291?ocid=wsrussian.social.in-app-messaging.telegram..russiantelegram_.edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585869488.043400",
+        "parent_user_id": "UACAW8UT1"
+    },
+    {
+        "client_msg_id": "93743b5f-8a36-46d2-b933-3303a40b38c9",
+        "type": "message",
+        "text": "\"Я - девочка, Я не хочу ничего решать... Я хочу новое платье и на ручки...\" (с)",
+        "user": "U2TP5JELS",
+        "ts": "1585884905.044800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yL6aG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Я - девочка, Я не хочу ничего решать... Я хочу новое платье и на ручки...\" (с)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585869488.043400",
+        "parent_user_id": "UACAW8UT1",
+        "reactions": [
+            {
+                "name": "triggered",
+                "users": [
+                    "U4DUJM693"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "client_msg_id": "98b95c8f-843e-42db-abc5-af799c69d984",
+        "type": "message",
+        "text": "<https:\/\/www.novayagazeta.ru\/news\/2019\/02\/12\/149163-gosduma-prinyala-v-pervom-chtenii-zakonoproekt-ob-avtonomnom-runete>",
+        "user": "U88T71FBL",
+        "ts": "1550048091.002600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Новая газета - Novayagazeta.ru",
+                "title": "Госдума приняла в первом чтении законопроект об автономном Рунете",
+                "title_link": "https:\/\/www.novayagazeta.ru\/news\/2019\/02\/12\/149163-gosduma-prinyala-v-pervom-chtenii-zakonoproekt-ob-avtonomnom-runete",
+                "text": "Депутаты Госдумы приняли в первом чтении законопроект об автономной работе российского сегмента интернета в случае его отключения от глобальной сети в рамках санкций, сообщается на сайте нижней палаты парламента. Авторы закона предложили обеспечить страну нужной инфраструктурой для автономной...",
+                "fallback": "Новая газета - Novayagazeta.ru: Госдума приняла в первом чтении законопроект об автономном Рунете",
+                "image_url": "https:\/\/static.novayagazeta.ru\/storage\/news_entry\/149163\/picture-7d31381b3bfcc86b3a637671d60f46b0.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.novayagazeta.ru\/news\/2019\/02\/12\/149163-gosduma-prinyala-v-pervom-chtenii-zakonoproekt-ob-avtonomnom-runete",
+                "image_bytes": 37959,
+                "service_icon": "https:\/\/www.novayagazeta.ru\/public\/fav_57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.novayagazeta.ru\/news\/2019\/02\/12\/149163-gosduma-prinyala-v-pervom-chtenii-zakonoproekt-ob-avtonomnom-runete"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pepe_rage",
+                "users": [
+                    "U17UDV31D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d3cef27-347b-4b9a-9626-fbfadd460e34",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=V6GUpLVylOU>",
+        "user": "U0TUGHUA3",
+        "ts": "1550067027.003000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ge094d360f0d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cbe094d360f0da591659e11afc38d21d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Nikita",
+            "real_name": "Nikita Baskakov",
+            "display_name": "dword_ptr",
+            "team": "T040HKJE3",
+            "name": "dword_ptr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Как принимали закон об автономности российского интернета",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=V6GUpLVylOU",
+                "author_name": "STRINGERS",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCI2asj29dirSbqbn_zQA_mw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/V6GUpLVylOU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Как принимали закон об автономности российского интернета",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/V6GUpLVylOU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=V6GUpLVylOU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=V6GUpLVylOU"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d12c181-9c94-4409-8e7e-a00e3117c77b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=SbTWd3Yuxf8>",
+        "user": "U27HU84H4",
+        "ts": "1550088020.003300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Как изменить отношение к СССР за 7 минут?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=SbTWd3Yuxf8",
+                "author_name": "Нестор",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UChpZzbYdeyO1is7-xGJsw8Q",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/SbTWd3Yuxf8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Как изменить отношение к СССР за 7 минут?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/SbTWd3Yuxf8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=SbTWd3Yuxf8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=SbTWd3Yuxf8"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "harold",
+                "users": [
+                    "UA6FTKAE4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eww",
+                "users": [
+                    "U703EJR2N",
+                    "U48A8L25N",
+                    "UA6FTKAE4",
+                    "UF5DY9XQU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "leonid",
+                "users": [
+                    "U17UDV31D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "554bca71-f4bc-4f52-b19b-34ff91440d38",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=xoUXGgO0Lj4>",
+        "user": "U27HU84H4",
+        "ts": "1550088030.003600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Почему отменили будущее?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=xoUXGgO0Lj4",
+                "author_name": "Нестор",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UChpZzbYdeyO1is7-xGJsw8Q",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/xoUXGgO0Lj4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Почему отменили будущее?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/xoUXGgO0Lj4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=xoUXGgO0Lj4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=xoUXGgO0Lj4"
+            }
+        ]
+    }
+]

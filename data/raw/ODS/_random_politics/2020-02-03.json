@@ -1,0 +1,761 @@
+[
+    {
+        "client_msg_id": "b1339754-17ef-4627-bc9c-d321079790a0",
+        "type": "message",
+        "text": "<https:\/\/www.znak.com\/2020-02-03\/moskve_vse_regionam_ostatki_kak_sverhcentralizaciya_meshaet_rossii_lekciya_natali_zubarevich>",
+        "user": "U48A8L25N",
+        "ts": "1580722111.006000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Москве — всё, регионам остатки: как сверхцентрализация мешает России. Лекция Натальи Зубаревич",
+                "title_link": "https:\/\/www.znak.com\/2020-02-03\/moskve_vse_regionam_ostatki_kak_sverhcentralizaciya_meshaet_rossii_lekciya_natali_zubarevich",
+                "text": "Москве всё, регионам остатки? Лекцию на эту тему прочитала в Ельцин Центре Наталья Зубаревич, ведущий российский экономист-регионовед, доктор географических наук, профессор географического факультета МГУ",
+                "fallback": "Москве — всё, регионам остатки: как сверхцентрализация мешает России. Лекция Натальи Зубаревич",
+                "image_url": "https:\/\/img.znak.com\/og188981.png",
+                "from_url": "https:\/\/www.znak.com\/2020-02-03\/moskve_vse_regionam_ostatki_kak_sverhcentralizaciya_meshaet_rossii_lekciya_natali_zubarevich",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 356575,
+                "service_icon": "https:\/\/www.znak.com\/favicon.png",
+                "service_name": "znak.com",
+                "id": 1,
+                "original_url": "https:\/\/www.znak.com\/2020-02-03\/moskve_vse_regionam_ostatki_kak_sverhcentralizaciya_meshaet_rossii_lekciya_natali_zubarevich"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56\/tt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.znak.com\/2020-02-03\/moskve_vse_regionam_ostatki_kak_sverhcentralizaciya_meshaet_rossii_lekciya_natali_zubarevich"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580722111.006000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1580722261.006200",
+        "reply_users": [
+            "UJ2JGSQ3X"
+        ],
+        "replies": [
+            {
+                "user": "UJ2JGSQ3X",
+                "ts": "1580722261.006200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d973d973-fa0b-45d4-898e-90e1e5b8e95b",
+        "type": "message",
+        "text": "Кстати скоро зубаревич будет на SVTV\n+ у неё паблик зачетный",
+        "user": "UJ2JGSQ3X",
+        "ts": "1580722261.006200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "1ed5ef7b8531",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-24\/616533640836_1ed5ef7b85313f46c87c_72.jpg",
+            "first_name": "eStatiq",
+            "real_name": "eStatiq Hikky",
+            "display_name": "hikky",
+            "team": "T040HKJE3",
+            "name": "andrey.vl.danilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iyrfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Кстати скоро зубаревич будет на SVTV\n+ у неё паблик зачетный"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580722111.006000",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "tnx",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a41f82d3-8bdf-4a59-86d2-66f08771156a",
+        "type": "message",
+        "text": "<https:\/\/www.sibreal.org\/a\/29318508.html>",
+        "user": "U48A8L25N",
+        "ts": "1580724252.006700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Сибирь.Реалии",
+                "title": "\"Бросается в глаза прущее из всех щелей рабство\"",
+                "title_link": "https:\/\/www.sibreal.org\/a\/29318508.html",
+                "text": "Алексей Кунгуров вышел на свободу, проведя два года в колонии по статье 205.2 ​​– \"Оправдание терроризма\"",
+                "fallback": "Сибирь.Реалии: \"Бросается в глаза прущее из всех щелей рабство\"",
+                "image_url": "https:\/\/gdb.rferl.org\/7E7D9AA9-885C-4EEE-B346-9025D0AD7CB6_cx0_cy8_cw0_w1200_r1_s.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.sibreal.org\/a\/29318508.html",
+                "image_bytes": 59562,
+                "service_icon": "https:\/\/www.sibreal.org\/Content\/responsive\/RFE\/img\/webApp\/ico-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sibreal.org\/a\/29318508.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bv6=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sibreal.org\/a\/29318508.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hankey",
+                "users": [
+                    "U7CAU0GMU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10b9736c-1c06-422b-bf6a-9ad8588f3ab1",
+        "type": "message",
+        "text": "<https:\/\/www.newsvl.ru\/vlad\/2020\/02\/03\/187465\/>",
+        "user": "U48A8L25N",
+        "ts": "1580726993.007100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Из-за закрытой границы с Китаем во Владивостоке подорожали овощи (ФОТО) – Новости Владивостока на VL.ru",
+                "title_link": "https:\/\/www.newsvl.ru\/vlad\/2020\/02\/03\/187465\/",
+                "text": "Новости Владивостока: На выходных жители Владивостока заметили, что овощи серьезно подорожали или вообще исчезли из продажи. Огурцов почти не осталось, а те, что есть, стоят больше 350 рублей. Меньше стало помидоров, кабачков, баклажанов и перца – они тоже стали дороже. В торговых сетях отмечают, что из-за закрытой границы с Китаем новых поставок не было уже несколько дней.",
+                "fallback": "Из-за закрытой границы с Китаем во Владивостоке подорожали овощи (ФОТО) – Новости Владивостока на VL.ru",
+                "thumb_url": "https:\/\/static.vl.ru\/news\/1580706252564_default",
+                "from_url": "https:\/\/www.newsvl.ru\/vlad\/2020\/02\/03\/187465\/",
+                "thumb_width": 229,
+                "thumb_height": 229,
+                "service_icon": "http:\/\/www.newsvl.ru\/favicon.ico",
+                "service_name": "newsvl.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.newsvl.ru\/vlad\/2020\/02\/03\/187465\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tY7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.newsvl.ru\/vlad\/2020\/02\/03\/187465\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1580909256.016200",
+        "reply_users": [
+            "U88T71FBL",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U88T71FBL",
+                "ts": "1580733658.007400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1580733721.007600"
+            },
+            {
+                "user": "U88T71FBL",
+                "ts": "1580734059.007800"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1580734111.008000"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1580734135.008200"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1580734147.008400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1580734154.008600"
+            },
+            {
+                "user": "U88T71FBL",
+                "ts": "1580735182.008900"
+            },
+            {
+                "user": "U88T71FBL",
+                "ts": "1580908907.015700"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1580909256.016200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0f1a8c82-ae7f-46a5-aab5-3b2edacc78fe",
+        "type": "message",
+        "text": "Огурцов на полках одной из крупнейших сетей уже нет, помидоры остались только очень неприглядные. Бананы сгребают, думая что они из Китая, хотя они из Эквадора.  В общем да, овощи заканчиваются.",
+        "user": "U88T71FBL",
+        "ts": "1580733658.007400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sI3wa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Огурцов на полках одной из крупнейших сетей уже нет, помидоры остались только очень неприглядные. Бананы сгребают, думая что они из Китая, хотя они из Эквадора.  В общем да, овощи заканчиваются."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "2180cf2c-5c96-4d2d-96b5-0e1f53ee7298",
+        "type": "message",
+        "text": "на самом деле это может быть и спекуляцией, позже увидим",
+        "user": "U48A8L25N",
+        "ts": "1580733721.007600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qFDCz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "на самом деле это может быть и спекуляцией, позже увидим"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "a5aa0c2d-95d2-4f03-b603-89f984c19b2e",
+        "type": "message",
+        "text": "Не совсем. Местного производства очень мало. На край одно крупное тепличное хозяйство, которого конечно не хватит на всех. Плюс, февраль, это прям самый максимальный не сезон. Так что тут одно на другое.",
+        "user": "U88T71FBL",
+        "ts": "1580734059.007800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CqUa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Не совсем. Местного производства очень мало. На край одно крупное тепличное хозяйство, которого конечно не хватит на всех. Плюс, февраль, это прям самый максимальный не сезон. Так что тут одно на другое."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "61e565bf-2270-44ae-8072-04bfc45c809b",
+        "type": "message",
+        "text": "ну я то не оттуда, проверить не могу) но раз теперь есть свидетель, значит правда",
+        "user": "U48A8L25N",
+        "ts": "1580734111.008000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ko5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ну я то не оттуда, проверить не могу) но раз теперь есть свидетель, значит правда"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "8b695a48-ed08-486b-9be8-cd016bf0798f",
+        "type": "message",
+        "text": "че дальше то будет",
+        "user": "U48A8L25N",
+        "ts": "1580734135.008200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "че дальше то будет"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f8a1e9e5-2cb7-44da-a84f-fefa335a31d3",
+        "type": "message",
+        "text": "в тридорога будут возить из другого места?",
+        "user": "U48A8L25N",
+        "ts": "1580734147.008400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ewr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "в тридорога будут возить из другого места?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "70ebf63a-fe3f-4b64-af91-d6dae8e85f61",
+        "type": "message",
+        "text": "или границу откроют",
+        "user": "U48A8L25N",
+        "ts": "1580734154.008600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gWK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "или границу откроют"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "f9f47bc6-facc-4bb8-ac50-fad7dd02200b",
+        "type": "message",
+        "text": "Вырастить новые уражаи до открытия границы не успеют, так что либо переоринтация импорта, хотя хз откуда, либо голяк. Но в любом случае, либо ждать открытия границы, либо подсуетятся и найдут поставщиков из СНГ",
+        "user": "U88T71FBL",
+        "ts": "1580735182.008900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HbAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Вырастить новые уражаи до открытия границы не успеют, так что либо переоринтация импорта, хотя хз откуда, либо голяк. Но в любом случае, либо ждать открытия границы, либо подсуетятся и найдут поставщиков из СНГ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580726993.007100",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cce26bfc-6a19-4015-9d74-358ac935abd0",
+        "type": "message",
+        "text": "<https:\/\/openmedia.io\/news\/n2\/rossijskie-kreditory-potrebovali-9-mln-evro-s-glavnogo-francuzskogo-oppozicionera-marin-le-pen\/>\n:yeah-sure: :yeah-sure: :yeah-sure: :yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1580751902.009500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Российские кредиторы потребовали 9 млн евро с главного французского оппозиционера Марин Ле Пен",
+                "title_link": "https:\/\/openmedia.io\/news\/n2\/rossijskie-kreditory-potrebovali-9-mln-evro-s-glavnogo-francuzskogo-oppozicionera-marin-le-pen\/",
+                "text": "Фирма выходцев из ГРУ и ФСБ подала в суд на ассоциацию «Национальное объединение»",
+                "fallback": "Российские кредиторы потребовали 9 млн евро с главного французского оппозиционера Марин Ле Пен",
+                "image_url": "https:\/\/openmedia.io\/files\/2020\/01\/web-TASS_20596180.jpg",
+                "image_width": 439,
+                "image_height": 250,
+                "from_url": "https:\/\/openmedia.io\/news\/n2\/rossijskie-kreditory-potrebovali-9-mln-evro-s-glavnogo-francuzskogo-oppozicionera-marin-le-pen\/",
+                "image_bytes": 382152,
+                "service_icon": "https:\/\/openmedia.io\/template\/themes\/om-child\/assets\/images\/favicons\/apple-icon-57x57.png",
+                "service_name": "openmedia.io",
+                "id": 1,
+                "original_url": "https:\/\/openmedia.io\/news\/n2\/rossijskie-kreditory-potrebovali-9-mln-evro-s-glavnogo-francuzskogo-oppozicionera-marin-le-pen\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ppnrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openmedia.io\/news\/n2\/rossijskie-kreditory-potrebovali-9-mln-evro-s-glavnogo-francuzskogo-oppozicionera-marin-le-pen\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yeah-sure"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yeah-sure"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yeah-sure"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yeah-sure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "547f7526-1fdd-486d-8d0d-d4a3bc988799",
+        "type": "message",
+        "text": "<https:\/\/www.kommersant.ru\/doc\/4242249>",
+        "user": "U48A8L25N",
+        "ts": "1580763662.009800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Коронавирусу заказан воздушный путь",
+                "title_link": "https:\/\/www.kommersant.ru\/doc\/4242249",
+                "text": "«Уральские авиалинии» в Китае не взяли на борт иностранцев",
+                "fallback": "Коронавирусу заказан воздушный путь",
+                "image_url": "https:\/\/im.kommersant.ru\/SocialPics\/4242249_26_1855352_380789648",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1580763600,
+                "from_url": "https:\/\/www.kommersant.ru\/doc\/4242249",
+                "image_bytes": 36485,
+                "service_icon": "https:\/\/im.kommersant.ru\/ContentFlex\/images\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kommersant.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.kommersant.ru\/doc\/4242249"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tz6yR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kommersant.ru\/doc\/4242249"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

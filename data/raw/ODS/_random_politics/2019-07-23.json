@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "aea8a14c-20d6-4589-911a-09267d555f3b",
+        "type": "message",
+        "text": "<https:\/\/www.vedomosti.ru\/opinion\/articles\/2019\/05\/16\/801630-traditsionnie-tsennosti>",
+        "user": "U48A8L25N",
+        "ts": "1563880579.001300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Традиционные ценности и реальность",
+                "title_link": "https:\/\/www.vedomosti.ru\/opinion\/articles\/2019\/05\/16\/801630-traditsionnie-tsennosti",
+                "text": "Социолог Максим Руднев о манипуляции «традиционными ценностями»",
+                "fallback": "Традиционные ценности и реальность",
+                "image_url": "https:\/\/sharing.vedomosti.ru\/1558525713\/vedomosti.ru\/opinion\/articles\/2019\/05\/16\/801630-traditsionnie-tsennosti.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1558043203,
+                "from_url": "https:\/\/www.vedomosti.ru\/opinion\/articles\/2019\/05\/16\/801630-traditsionnie-tsennosti",
+                "image_bytes": 66929,
+                "service_name": "vedomosti.ru",
+                "id": 1,
+                "original_url": "https:\/\/www.vedomosti.ru\/opinion\/articles\/2019\/05\/16\/801630-traditsionnie-tsennosti"
+            }
+        ]
+    }
+]

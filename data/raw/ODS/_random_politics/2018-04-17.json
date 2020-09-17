@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "text": "Ну как у всех рабочий слак заблочиили и всякие гитлабы ? Охуенное правительство, я буквально не могу заработать на еду без впн теперь :facepalm:",
+        "user": "U2TP5JELS",
+        "ts": "1523991129.000608",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1523991129.000608",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1524071847.000497",
+        "reply_users": [
+            "U69A35EH3",
+            "U2TP5JELS"
+        ],
+        "replies": [
+            {
+                "user": "U69A35EH3",
+                "ts": "1524061643.000639"
+            },
+            {
+                "user": "U2TP5JELS",
+                "ts": "1524071847.000497"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "впн теперь не причуда, а рабочая необходимость)",
+        "user": "U48A8L25N",
+        "ts": "1523991249.000605",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,976 @@
+[
+    {
+        "client_msg_id": "d8955f4c-f26f-445e-8e1c-842b16c03371",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/sssmirnov\/status\/1173850308465836032>",
+        "user": "U48A8L25N",
+        "ts": "1568706913.014500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/sssmirnov|@sssmirnov>: Сегодня начинается суд у программиста Айдара Губайдулина. Его обвиняют, что он кинул пластиковую бутылку в сторону силовиков и не попал. Защита говорит, что бутылка была пустая, следователи, что полная. Но бутылку так и не нашли в итоге, конечно <https:\/\/zona.media\/article\/2019\/09\/17\/plastic-bottle>",
+                "ts": 1568702697,
+                "author_name": "Смирнов",
+                "author_link": "https:\/\/twitter.com\/sssmirnov\/status\/1173850308465836032",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/890343179748331520\/hjCOJ3Qt_normal.jpg",
+                "author_subname": "@sssmirnov",
+                "text": "Сегодня начинается суд у программиста Айдара Губайдулина. Его обвиняют, что он кинул пластиковую бутылку в сторону силовиков и не попал. Защита говорит, что бутылка была пустая, следователи, что полная. Но бутылку так и не нашли в итоге, конечно <https:\/\/zona.media\/article\/2019\/09\/17\/plastic-bottle>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/sssmirnov\/status\/1173850308465836032",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/sssmirnov\/status\/1173850308465836032",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1568706913.014500",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1568709838.016600",
+        "reply_users": [
+            "U3AG4B1N1",
+            "U48A8L25N",
+            "UAG21HMV4"
+        ],
+        "replies": [
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1568706948.014700"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568707079.015000"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568707117.015200"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1568707191.015400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568707421.015700"
+            },
+            {
+                "user": "U3AG4B1N1",
+                "ts": "1568707487.015900"
+            },
+            {
+                "user": "UAG21HMV4",
+                "ts": "1568707813.016200"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568709820.016400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568709838.016600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5ec2d6c9-eac5-4495-ac93-0f7059645321",
+        "type": "message",
+        "text": "Ну шо, фюстехи, на баррикады?",
+        "user": "U3AG4B1N1",
+        "ts": "1568706948.014700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "727a9f83-f07d-4785-8200-84fe9f6a1eed",
+        "type": "message",
+        "text": "собираются там кстати",
+        "user": "U48A8L25N",
+        "ts": "1568707079.015000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "5dae3499-be09-4f8d-8394-e5c30addd32c",
+        "type": "message",
+        "text": "выйти и не уходить, но там больше из-за чела который якобы руку потянул менту",
+        "user": "U48A8L25N",
+        "ts": "1568707117.015200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "89588e19-7852-4879-b466-2b947f59cd77",
+        "type": "message",
+        "text": "да блин, мы же тут все пиздаболы диванные. Вот физтеха-братишку судят, а я на работе сижу и возмущаюсь. Не сделаем мы так Россию свободной :pepe_sad:",
+        "user": "U3AG4B1N1",
+        "ts": "1568707191.015400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "kolobok",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "true-story",
+                "users": [
+                    "U70T87GMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5c1969f-1758-4831-8af2-66ac4c2bb4df",
+        "type": "message",
+        "text": "надо просто придумать, как безопасно протестовать из дома",
+        "user": "U48A8L25N",
+        "ts": "1568707421.015700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "chairborne",
+                "users": [
+                    "U70T87GMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67aa3a65-8007-4e0e-9582-9a9bbccae3d4",
+        "type": "message",
+        "text": "ну вообще уже сложно, за твиты сажают :harold: надеюсь за треды в ОДС еще нет статьи",
+        "user": "U3AG4B1N1",
+        "ts": "1568707487.015900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "00c6b43e55dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-06\/984764602884_00c6b43e55dd3bb6c308_72.jpg",
+            "first_name": "ivashnev",
+            "real_name": "ivashnev",
+            "display_name": "Ivan Ivashnev",
+            "team": "T040HKJE3",
+            "name": "ivashnyov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "ods",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e159d481-4758-4983-a669-68384c2054a1",
+        "type": "message",
+        "text": "Чем больше людей потом из-за всего что происходит уедет, тем лучше.",
+        "user": "UAG21HMV4",
+        "ts": "1568707813.016200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "12fc41de-2dcb-4776-8285-64ba48599b39",
+        "type": "message",
+        "text": "для людей лучше?)",
+        "user": "U48A8L25N",
+        "ts": "1568709820.016400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "97b374ab-a2c8-4362-adfb-05f12848df81",
+        "type": "message",
+        "text": "которые уедут :petr:",
+        "user": "U48A8L25N",
+        "ts": "1568709838.016600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568706913.014500",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "310b38ae-2639-4560-ba9a-0bb85a5f8645",
+        "type": "message",
+        "text": "<https:\/\/coub.com\/view\/219v2r>\nЮра не помчались :biblethump:",
+        "user": "U48A8L25N",
+        "ts": "1568710465.017400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coub",
+                "title": "Гагарин - Караваны ракет.",
+                "title_link": "https:\/\/coub.com\/view\/219v2r",
+                "text": "by unknown author",
+                "fallback": "Coub: Гагарин - Караваны ракет.",
+                "image_url": "https:\/\/coubsecure-s.akamaihd.net\/get\/b42\/p\/coub\/simple\/cw_image\/4822f83b79a\/d82684b0aca5ef1ffb9da\/med_1568576419_00028.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/coub.com\/view\/219v2r",
+                "image_bytes": 44922,
+                "service_icon": "https:\/\/coub.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/coub.com\/view\/219v2r"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb96f0ad-cda9-4f0c-8e42-192b98cdcf2f",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/CKonovalov\/status\/1173911553076355072>",
+        "user": "U48A8L25N",
+        "ts": "1568721209.018100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/CKonovalov|@CKonovalov>: Ну как это вообще?\nМне сломали ногу — даже не знаю сколько суммарно лечение встанет.\nРаздавили наушник — 5000₽\nЛишили нормальной жизни на месяцы — ∞\n\nА теперь штраф 10000₽ за участие в шествии, в котором я не участвовал?\n\nПросто мрази, редко так говорю, но тут других слов нет. <https:\/\/twitter.com\/tvrain\/status\/1173907740365918208>",
+                "ts": 1568717299,
+                "author_name": "Constantine",
+                "author_link": "https:\/\/twitter.com\/CKonovalov\/status\/1173911553076355072",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1683593518\/257093_10150201130879261_649569260_7279803_1191432_o__3__normal.jpg",
+                "author_subname": "@CKonovalov",
+                "text": "Ну как это вообще?\nМне сломали ногу — даже не знаю сколько суммарно лечение встанет.\nРаздавили наушник — 5000₽\nЛишили нормальной жизни на месяцы — ∞\n\nА теперь штраф 10000₽ за участие в шествии, в котором я не участвовал?\n\nПросто мрази, редко так говорю, но тут других слов нет. <https:\/\/twitter.com\/tvrain\/status\/1173907740365918208>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/CKonovalov\/status\/1173911553076355072",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/CKonovalov\/status\/1173911553076355072",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "fallback": "<https:\/\/twitter.com\/tvrain|@tvrain>: Дизайнера, которому полицейские сломали ногу у здания мэрии Москвы 27 июля, оштрафовали на 10 тысяч рублей. Он просил перенести заседание, потому что находится в больнице, но этого не произошло <https:\/\/tvrain.ru\/s\/y78\/>",
+                "ts": 1568716390,
+                "author_name": "Телеканал Дождь",
+                "author_link": "https:\/\/twitter.com\/tvrain\/status\/1173907740365918208",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1126375627760779264\/cWj4ZgNi_normal.jpg",
+                "author_subname": "@tvrain",
+                "text": "Дизайнера, которому полицейские сломали ногу у здания мэрии Москвы 27 июля, оштрафовали на 10 тысяч рублей. Он просил перенести заседание, потому что находится в больнице, но этого не произошло <https:\/\/tvrain.ru\/s\/y78\/>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/tvrain\/status\/1173907740365918208",
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1568721209.018100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1568728030.024000",
+        "reply_users": [
+            "UAG21HMV4"
+        ],
+        "replies": [
+            {
+                "user": "UAG21HMV4",
+                "ts": "1568728030.024000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "49c0c60a-54fb-4de6-85af-8be0f32a91b6",
+        "type": "message",
+        "text": "Му-ха-ха Опять испугались расширения протестного электората.\nСкоро на митингах артисты будут неприкасаемые.\n<https:\/\/russian.rt.com\/russia\/news\/668940-putin-peskov-kreml-ustinov-delo?utm_source=yxnews&amp;utm_medium=desktop&amp;utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews>",
+        "user": "UGTNTEBPV",
+        "ts": "1568721463.020500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "RT на русском",
+                "title": "В Кремле прокомментировали ситуацию с делом Устинова",
+                "title_link": "https:\/\/russian.rt.com\/russia\/news\/668940-putin-peskov-kreml-ustinov-delo?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews",
+                "text": "Пресс-секретарь российского лидера Дмитрий Песков, комментируя дело актёра Павла Устинова, который был приговорён к 3,5 года заключения за применение насилия к бойцу ОМОНа в ходе несанкционированной акции 3 августа, заявил, что президент России Владимир Путин получает доклады обо всех резонансных делах, но он не может оказывать влияние на суд.",
+                "fallback": "RT на русском: В Кремле прокомментировали ситуацию с делом Устинова",
+                "image_url": "https:\/\/cdni.rt.com\/russian\/images\/2019.09\/article\/5d80a90302e8bd712c052326.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "from_url": "https:\/\/russian.rt.com\/russia\/news\/668940-putin-peskov-kreml-ustinov-delo?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews",
+                "image_bytes": 57656,
+                "service_icon": "https:\/\/russian.rt.com\/static\/blocks\/touch-icon\/apple-touch-icon-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/russian.rt.com\/russia\/news\/668940-putin-peskov-kreml-ustinov-delo?utm_source=yxnews&amp;utm_medium=desktop&amp;utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98532afe-fc7a-479c-9c6b-4eb2d4a9922f",
+        "type": "message",
+        "text": "а где испуг то?",
+        "user": "U48A8L25N",
+        "ts": "1568721749.020900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "thread-please",
+                "users": [
+                    "UGTNTEBPV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6610ba12-2c21-4d6b-b3b7-f88f4c5808e0",
+        "type": "message",
+        "text": "тут скорее, а нам пох, ну подумаешь посадили ни за что, пусть апеляцию подает если невиновен)",
+        "user": "U48A8L25N",
+        "ts": "1568721794.021800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "thread-please",
+                "users": [
+                    "UGTNTEBPV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e204971f-9558-4b34-8337-065f49a3f5b2",
+        "type": "message",
+        "text": "&gt;Экипаж северокорейской шхуны напал на российских пограничников в российских водах Японского моря, сообщает ФСБ.\nвот они союзники россии :yeah-sure:",
+        "user": "U48A8L25N",
+        "ts": "1568724091.022100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1568724101.000000"
+        },
+        "thread_ts": "1568724091.022100",
+        "reply_count": 13,
+        "reply_users_count": 2,
+        "latest_reply": "1568903813.054400",
+        "reply_users": [
+            "UGTNTEBPV",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1568725792.022300"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568726136.022500"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568726169.022700"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1568726249.022900"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568726296.023200"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568726301.023400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568726317.023600"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1568726809.023800"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1568807481.034000"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568842794.051600"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1568850136.051800"
+            },
+            {
+                "user": "UGTNTEBPV",
+                "ts": "1568850184.052200"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1568903813.054400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "83605ff1-4543-493b-bbf1-0f383ec807ce",
+        "type": "message",
+        "text": "А где тут политика ? Какието рыбаки, которых поставили на грань выживания напали на фесебе ну что с того ?",
+        "user": "UGTNTEBPV",
+        "ts": "1568725792.022300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "94cc814d-b57d-46b6-b441-ffb31eab8d6e",
+        "type": "message",
+        "text": "э",
+        "user": "U48A8L25N",
+        "ts": "1568726136.022500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "34e7c383-3829-4619-8d43-6f1e6c9fd291",
+        "type": "message",
+        "text": "эти какие-то рыбаки ловят рыбу там где запрещено) и им особо никто не мешает, ибо союзники",
+        "user": "U48A8L25N",
+        "ts": "1568726169.022700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1568726276.000000"
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "8abf98d7-ec6a-4dfb-b2b4-3a1f606cc2e2",
+        "type": "message",
+        "text": "нуну, наших даж закрывают российских. у каждого свой бизнес. погранцам нужны палки.",
+        "user": "UGTNTEBPV",
+        "ts": "1568726249.022900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "e7516208-8374-4dfc-b237-0cbfcd3396db",
+        "type": "message",
+        "text": "отпустили",
+        "user": "U48A8L25N",
+        "ts": "1568726296.023200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "40026877-1785-4935-9b8f-a6703e54ca0f",
+        "type": "message",
+        "text": "тех которых поймали",
+        "user": "U48A8L25N",
+        "ts": "1568726301.023400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "96139e7b-56af-402c-a510-14101dbd3fc8",
+        "type": "message",
+        "text": "российских, причем еще раньше чем новости первые разошлись)",
+        "user": "U48A8L25N",
+        "ts": "1568726317.023600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "cd057b46-577f-4ea4-bbc3-7314191d99e9",
+        "type": "message",
+        "text": "там не разберёшь кого закроют а кого отпустят, но политики там нет.",
+        "user": "UGTNTEBPV",
+        "ts": "1568726809.023800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "b2af2eb8c24d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-31\/594799177189_b2af2eb8c24d88af6c49_72.jpg",
+            "first_name": "Yuriy",
+            "real_name": "Yuriy",
+            "display_name": "Pechkin80",
+            "team": "T040HKJE3",
+            "name": "recycle",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568724091.022100",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "not-sure-if",
+                "users": [
+                    "U27HU84H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8eb0b458-d59c-46ab-9ffe-f70ced2fcf14",
+        "type": "message",
+        "text": "Тут интересно реакцию Лебедева услышать.",
+        "user": "UAG21HMV4",
+        "ts": "1568728030.024000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "383f5f57abde",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-28\/355176895186_383f5f57abde089910ff_72.jpg",
+            "first_name": "Aleksei",
+            "real_name": "Aleksei Solovev",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "ansolovev81",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568721209.018100",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U70T87GMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78683b85-9d8f-4841-8a49-5499eb1e6040",
+        "type": "message",
+        "text": "Западная пропаганда очень любит танцевать на костях. Выводы журналиста понятны, выполнить все требования террористов и спасти людей любой ценой. Но похожая позиция государства породила рынок рабов в Чечне 90-тых годов. Бандитам стало очень выгодно брать в заложники, особенно известных журналистов (фамилию дамы все помнят). Людей жалко, особенно детей. Но люди эгоисты и не могут в данной ситуации мыслить масштабно. Есть много фактов что данная спец операция  спланирована и проведена спец службами враждебных нам государств. Я недавно видел на Николо-Архангельском кладбище целую аллею из военнослужащих погибших 3 сентября 2004 года. Их звания предполагают руководство операцией из безопасного места, но они выбрали погибнуть в бою.",
+        "user": "U7H91LHAA",
+        "ts": "1568729107.024200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac447bfc3d2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cfac447bfc3d2f4d1fcb21a623444b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Akumei",
+            "real_name": "Akumei",
+            "display_name": "Max Galaktionov",
+            "team": "T040HKJE3",
+            "name": "maxgalakt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568636440.008300",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "msn",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06d6283f-d18c-46b8-9ec3-7a75761bda19",
+        "type": "message",
+        "text": "И цитата с википедии: Сотрудничество с Грабовым привело к расколу комитета «Матери Беслана» и формированию новой общественной организации «Голос Беслана».",
+        "user": "U7H91LHAA",
+        "ts": "1568730367.024400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gac447bfc3d2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cfac447bfc3d2f4d1fcb21a623444b4c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Akumei",
+            "real_name": "Akumei",
+            "display_name": "Max Galaktionov",
+            "team": "T040HKJE3",
+            "name": "maxgalakt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568636440.008300",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "7cba7756-4374-4041-a366-9b789f17fc36",
+        "type": "message",
+        "text": "<https:\/\/www.rbc.ru\/society\/17\/09\/2019\/5d8128079a79476d25e747e6>",
+        "user": "U48A8L25N",
+        "ts": "1568752912.025100",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Священники РПЦ выступили в защиту фигурантов дела о митингах в Москве",
+                "title_link": "https:\/\/www.rbc.ru\/society\/17\/09\/2019\/5d8128079a79476d25e747e6",
+                "text": "Они просят пересмотреть судебные решения в виде тюремных сроков, считая, что в большей степени приговоры «похожи на запугивание граждан России, чем на справедливое решение в отношении подсудимых»",
+                "fallback": "РБК: Священники РПЦ выступили в защиту фигурантов дела о митингах в Москве",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/6\/13\/755687475275136.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/society\/17\/09\/2019\/5d8128079a79476d25e747e6",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 78698,
+                "service_icon": "http:\/\/s.rbk.ru\/v10_rbcnews_static\/common\/common-10.1.112\/images\/apple-touch-icon-60x60.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/society\/17\/09\/2019\/5d8128079a79476d25e747e6"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc53070d-e00f-48b8-bab7-54911ba7960a",
+        "type": "message",
+        "text": "вот это поворот)",
+        "user": "U48A8L25N",
+        "ts": "1568752917.025600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

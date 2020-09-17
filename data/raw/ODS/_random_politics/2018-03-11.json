@@ -1,0 +1,1017 @@
+[
+    {
+        "type": "message",
+        "text": "Не дай бог второй тур с таким человеком, уж лучше Путин",
+        "user": "U36Q9NJMD",
+        "ts": "1520755240.000066",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520717459.000109",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "facepalm",
+                "users": [
+                    "U7UP85B3J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "За Явлинского или за Титова. Надеюсь таких рофлеров не много, я думаю, лучше уж за Путина проголосовать, чем за Грудинина",
+        "user": "U36Q9NJMD",
+        "ts": "1520755662.000039",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1520755686.000000"
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98",
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U7UP85B3J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Явлинский норм, да и Титов, но они не выиграют (и набирует на двоих 2 %), а главное в этих выборах это уход с пути войны и воровства.",
+        "user": "U5H0L5T98",
+        "ts": "1520755848.000039",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "И прихода большей войны и воровства? Ты хотя бы посмотрел или прочитал хотя бы одно интервью с Грудининым. У Дудя нормальное было.",
+        "user": "U36Q9NJMD",
+        "ts": "1520756031.000042",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98",
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U7UP85B3J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "конечно, смотрел и читал. И думаю ты не прав, хуже быть не может.",
+        "user": "U5H0L5T98",
+        "ts": "1520756129.000047",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Уверен, что хуже может быть, особенно с приходом КПРФ. А где именно воруют по твоему? \nМеня больше всего не устраивает сейчас уровень законов и законодательства, причем почти во всех сферах: от свободы слова и информационных технологий до сертификации и таможни. Почти всё, что приняли начиная с 2012 года полная ерунда и нуждается в пересмотре. Плюс реформы судебной системы, много где просто необходимо вводить суд присяжных.",
+        "user": "U36Q9NJMD",
+        "ts": "1520757365.000005",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1520757385.000000"
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Он не состоит в партии КПРФ. И кстати говоря, в программе Грудинина судебная реформа одна из первых идет. Ты почитай, а вот программу Путина ты не найдешь. У Явлиского тоже программа ничего, но он уже мертв как политик.\n\nПример где воруют? Я даже не знаю от куда начать, что насчет стадиона в Питере? Или там дороги которые в РФ стоят в 100 раз больше чем в других странах? Или когда депутат ездит на бэнтли? Или когда один виолончелист является миллиардером хотя он тупой как пробка, но ему повезло быть другом солнце ликого вождя. Короче, если ты считаешь что у нам не воруют то разговор можно заканчивать",
+        "user": "U5H0L5T98",
+        "ts": "1520758234.000004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Нет, просто обычно люди приводят примеры видео Навального, а там - копейки в масштабах. Такие аргументы принимаются. Это очень печально, что сейчас ужесточили законы и начали сажать людей за копейки, причем именно тех, кто что-то делал.\n\nЯ сильно сомневаюсь в профессионализме Грудинина как президента, ну и его мировоззрение это за гранью добра и зла.",
+        "user": "U36Q9NJMD",
+        "ts": "1520758307.000028",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1520759003.000000"
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "копейка рубль бережет (с)",
+        "user": "U5H0L5T98",
+        "ts": "1520758342.000017",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "кстати вчера прочитал",
+        "user": "U5H0L5T98",
+        "ts": "1520758679.000016",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.novayagazeta.ru\/articles\/2018\/03\/01\/75656-otkat-v-100-nu-pochti>",
+        "user": "U5H0L5T98",
+        "ts": "1520758681.000005",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Новая газета - Novayagazeta.ru",
+                "title": "Откат в 100%? Ну почти",
+                "title_link": "https:\/\/www.novayagazeta.ru\/articles\/2018\/03\/01\/75656-otkat-v-100-nu-pochti",
+                "text": "28 февраля следком провел обыски в главном управлении МВД по Красноярскому краю — в рамках уголовного дела, возбужденного в отношении замначальника краевого ГУ МВД генерал-майора Александра Кузнецова и вышедшего уже на пенсию замначальника управления организации тылового обеспечения ГУ МВД...",
+                "fallback": "Новая газета - Novayagazeta.ru: Откат в 100%? Ну почти",
+                "image_url": "https:\/\/static.novayagazeta.ru\/storage\/post\/75656\/column_picture-d8aff49c2dc1491be8189b8be2883a09.png",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1519897440,
+                "from_url": "https:\/\/www.novayagazeta.ru\/articles\/2018\/03\/01\/75656-otkat-v-100-nu-pochti",
+                "image_bytes": 52891,
+                "service_icon": "https:\/\/www.novayagazeta.ru\/public\/fav_57.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "“По версии СК, оба фигуранта в конце 2012 года подписали акт приемки выполненных работ по строительству изолятора временного содержания УВД Норильска, после чего с расчетного счета краевой полиции было перечислено более 200 млн рублей. Однако работы выполнены лишь на 8–10 млн, забиты сваи, ИВС не построен до сих пор.”",
+        "user": "U5H0L5T98",
+        "ts": "1520758715.000018",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Ну это опять копейки, сейчас большинство таких вещей из-за низкого экономического роста. Конечно, нужно принимать меры, но в большинстве таких случаев потом работать просто не кому будет, а людей посадят на лет 10 за сумму эквивалентную квартире в Москве",
+        "user": "U36Q9NJMD",
+        "ts": "1520759126.000026",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1520759258.000000"
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98",
+        "reactions": [
+            {
+                "name": "wat",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "facepalm",
+                "users": [
+                    "U7UP85B3J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "копейки - 200 000 000 рублей, ясно",
+        "user": "U5H0L5T98",
+        "ts": "1520759746.000025",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Начал читать:\n\"По всей видимости, предвыборной конъюнктуры и политических резонов в громких обысках больше, чем реального содержания. По сведениям «Новой», у следствия выстраивается следующая картина: строители использовали деньги на другие объекты, а вина Кузнецова в том, что он слишком положился на подчиненных, готовивших бумаги.\"\nИ 200 кк рублей это не большие деньги, посмотрел на циане - четырехкомнатная квартира на Коропоткинской. В рамках строительства муниципальной собственности это, конечно, деньги и та фирма много таких контрактов сделала. И это явно не проблема возникшая из-за  Путина лично.",
+        "user": "U36Q9NJMD",
+        "ts": "1520760135.000029",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1520761254.000000"
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Я прочитал предвыборную программу Грудинина. Это :facepalm: :facepalm: :facepalm:",
+        "user": "U36Q9NJMD",
+        "ts": "1520760758.000047",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98",
+        "reactions": [
+            {
+                "name": "harold",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Только один адекватный пункт: \"Мы гарантируем реальную независимость суда и следственных органов от органов исполнительной власти, обеспечим выборность судей, распространим компетенцию судов присяжных на дела об «экстремизме», по 282-й «русской» статье, по коррупционным преступлениям высших должностных лиц. \" Но потом опять следует :facepalm: \"Невинно осужденные патриоты Отечества будут освобождены и реабилитированы.\" Что, если я не патриот - буду дальше сидеть?",
+        "user": "U36Q9NJMD",
+        "ts": "1520760942.000017",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "ну вообще если конечно учесть тот факт что ты за Путина, то уже должно быть понятно все с тобой, ну удачи тебе. Надеюсь, ты получишь путинскую пенсию в конце концов",
+        "user": "U5H0L5T98",
+        "ts": "1520761376.000008",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "программа у него норм, я не знаю как можно не согласиться с этим: “Смена экономической стратегии. Приоритетом станет благополучие широких народных масс, а не кучки олигархов, интересы простого человека, а не рвачество «жирных котов».”",
+        "user": "U5H0L5T98",
+        "ts": "1520761442.000049",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Извини, но жирным котом скорее всего тебя и признают, если захочешь вернуться. И посадят куда-нибудь чтобы неповадно было. Я против Путина по конкретным вещам. Ни один закон не вступает в силу без подписи президента, сейчас видно, что что-то сломалось и у него весь штаб вместо того, чтобы заниматься делом - проверять законы хотя бы на логику, я уже не говорю о том, что существует экономический анализ права, занимается пропагандой, закручиванием гаек и подменой различных ценностей.",
+        "user": "U36Q9NJMD",
+        "ts": "1520761746.000070",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1520761958.000000"
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "ну я жирный кот с пару тысяч евро? ага, ну да. Ну так если у тебя есть к нему претензии, зачем за него голосовать? И если ты хочешь чтобы тебя заметили и он солнце ликий вождь задумался, второй тур будет очень хорошей встряской для него.",
+        "user": "U5H0L5T98",
+        "ts": "1520762717.000039",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Я и не собираюсь за него голосовать, но показать тем, кто по фану сейчас за кандидата от народа проголосует, а потом будут браться за голову - что они наделали, что может случиться хочется. Пару тысяч евро это, наверное, топ 2-4% населения России (у меня не хочет почему то росстатовская таблица на Linux открываться, я бы сказал точнее). Не выглядит как широкие массы. \n\nИз той же логики встряски - ну встресет, увидит что люди соскучились по раннему СССР и пустым лозунгам. И что начнется то? Вряд ли какие-то разумные действия. А если увидит, что у нормальных кандидатов процент вырос? Посмотрит их программы? Увидит, что и у Титова, и у Явлинского есть какие-то предложения, которые понравились людям, увидит, что у них в команде есть неплохие экономисты (плохие тоже есть, к сожалению) которые готовы что-то предлагать, то может и опять соберет аналитиков, вернется к своей стратегии 2020.",
+        "user": "U36Q9NJMD",
+        "ts": "1520765265.000094",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q9NJMD",
+            "ts": "1520765635.000000"
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "У них у всех примерно одинаковые программы <https:\/\/youtu.be\/jILYSsB8UYs>\nи Путин, в своей первой части послания недавнего тоже вещал про то, что \"все ждут\"...",
+        "user": "U27HU84H4",
+        "ts": "1520767884.000054",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Сергей Беляков и Екатерина Шульман о предвыборных программах. ТК \"Настоящее время\", 23.02.2018 г",
+                "title_link": "https:\/\/youtu.be\/jILYSsB8UYs",
+                "author_name": "Екатерина Шульман",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCL1rJ0ROIw9V1qFeIN0ZTZQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/jILYSsB8UYs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Сергей Беляков и Екатерина Шульман о предвыборных программах. ТК \"Настоящее время\", 23.02.2018 г",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/jILYSsB8UYs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/jILYSsB8UYs",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Лучше Жириновский во втором туре?\n<https:\/\/youtu.be\/JQB-GjcGapU>\n<https:\/\/youtu.be\/mwjmBVQw-v4>",
+        "user": "U27HU84H4",
+        "ts": "1520768002.000027",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Сбылись все предсказания Жириновского за 30 лет",
+                "title_link": "https:\/\/youtu.be\/JQB-GjcGapU",
+                "author_name": "Россия-Украина",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC1p-v9fix0NMVgWJtoCkjjg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/JQB-GjcGapU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Сбылись все предсказания Жириновского за 30 лет",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/JQB-GjcGapU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/JQB-GjcGapU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Жириновский РАССКАЗАЛ что будет если Путин РЕШИТСЯ нажать на КРAСНУЮ КНOПКУ 11.03.2018",
+                "title_link": "https:\/\/youtu.be\/mwjmBVQw-v4",
+                "author_name": "NEWS",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCGqZMrHi0ApCpQeE-1hk0dQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/mwjmBVQw-v4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Жириновский РАССКАЗАЛ что будет если Путин РЕШИТСЯ нажать на КРAСНУЮ КНOПКУ 11.03.2018",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/mwjmBVQw-v4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/mwjmBVQw-v4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 2
+            }
+        ],
+        "thread_ts": "1520717459.000109",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/n-2wv6ktwsI>\nСогласно ей, основной электорат, это 39+ (от себя добавлю: задумайтесь, где они трудоустроены сейчас, сколько им было при развале СССР, кто как образован и всё такое, причём там можно прям смотреть 39+, 49+, 59+).\nВсех, кто моложе, просто тупо меньше.",
+        "user": "U27HU84H4",
+        "ts": "1520769423.000063",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Екатерина Шульман: Политическая демография: поколенческий переход и трансформация семьи",
+                "title_link": "https:\/\/youtu.be\/n-2wv6ktwsI",
+                "author_name": "Екатерина Шульман",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCL1rJ0ROIw9V1qFeIN0ZTZQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/n-2wv6ktwsI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Екатерина Шульман: Политическая демография: поколенческий переход и трансформация семьи",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/n-2wv6ktwsI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/n-2wv6ktwsI",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "type": "message",
+        "text": "Я поддерживаю яблоко и Явлинского, но Путину похуй на 2-3 %, к сожалению. А больше ему будет сложно набрать. Я ходил не за Грудинина голосовать а против Путина, и даже (надеюсь) если Грудинин выиграет, он будет честнее и лучше чем кремлевкая мафия сейчас.",
+        "user": "U5H0L5T98",
+        "ts": "1520797867.000128",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520707919.000126",
+        "parent_user_id": "U5H0L5T98"
+    },
+    {
+        "client_msg_id": "581d3353-17fc-420f-aa69-a3215b313742",
+        "type": "message",
+        "text": "Проголосовал. Очень душевно.",
+        "user": "U316J6CT1",
+        "ts": "1520799838.000049",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520799838.000049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1520836410.000195",
+        "reply_users": [
+            "U5H0L5T98"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1520836410.000195"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U5H0L5T98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Зачем вы голосуете? История с явкой ведь белыми нитками шита. (Да месяц назад я писал по-другому)",
+        "user": "U04725QK7",
+        "ts": "1520802198.000087",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520802198.000087",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1521101663.000175",
+        "reply_users": [
+            "U5H0L5T98",
+            "U04725QK7",
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U5H0L5T98",
+                "ts": "1520836466.000196"
+            },
+            {
+                "user": "U04725QK7",
+                "ts": "1520837598.000270"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1521101663.000175"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.cikrf.ru\/analog\/prezidentskiye-vybory-2018\/pamyatka_02.pdf>",
+        "files": [
+            {
+                "id": "F9N6E60S1",
+                "created": 1520803153,
+                "timestamp": 1520803153,
+                "name": "Screen Shot 2018-03-11 at 2.17.41 PM.png",
+                "title": "Screen Shot 2018-03-11 at 2.17.41 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U316J6CT1",
+                "editable": false,
+                "size": 37226,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F9N6E60S1\/screen_shot_2018-03-11_at_2.17.41_pm.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-F9N6E60S1\/download\/screen_shot_2018-03-11_at_2.17.41_pm.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F9N6E60S1-bd0f12747a\/screen_shot_2018-03-11_at_2.17.41_pm_64.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F9N6E60S1-bd0f12747a\/screen_shot_2018-03-11_at_2.17.41_pm_80.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F9N6E60S1-bd0f12747a\/screen_shot_2018-03-11_at_2.17.41_pm_360.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 360,
+                "thumb_360_h": 72,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F9N6E60S1-bd0f12747a\/screen_shot_2018-03-11_at_2.17.41_pm_480.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 480,
+                "thumb_480_h": 96,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F9N6E60S1-bd0f12747a\/screen_shot_2018-03-11_at_2.17.41_pm_160.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F9N6E60S1-bd0f12747a\/screen_shot_2018-03-11_at_2.17.41_pm_720.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 720,
+                "thumb_720_h": 144,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-F9N6E60S1-bd0f12747a\/screen_shot_2018-03-11_at_2.17.41_pm_800.png?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 800,
+                "thumb_800_h": 160,
+                "image_exif_rotation": 1,
+                "original_w": 900,
+                "original_h": 180,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U316J6CT1\/F9N6E60S1\/screen_shot_2018-03-11_at_2.17.41_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-F9N6E60S1-a31719ef1a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U316J6CT1",
+        "display_as_bot": false,
+        "ts": "1520803155.000039"
+    },
+    {
+        "client_msg_id": "EB4725D7-3829-4804-B5E0-04055259ADD0",
+        "type": "message",
+        "text": ":coolstorybob: ",
+        "user": "U04725QK7",
+        "ts": "1520824119.000033",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "coolstorybob",
+                "users": [
+                    "U48A8L25N",
+                    "U5H0L5T98",
+                    "U6YDWF4UB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BFAD8CE7-2DC1-4402-AE38-72F41761B062",
+        "type": "message",
+        "text": "За кого?",
+        "user": "U5H0L5T98",
+        "ts": "1520836410.000195",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520799838.000049",
+        "parent_user_id": "U316J6CT1",
+        "reactions": [
+            {
+                "name": "speak_no_evil",
+                "users": [
+                    "U316J6CT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3AF6014B-3E52-4C74-BF55-6EF00A24BFF6",
+        "type": "message",
+        "text": "Потому что так делают в демократических странах. ",
+        "user": "U5H0L5T98",
+        "ts": "1520836466.000196",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520802198.000087",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "client_msg_id": "4EA8EDE9-E873-4124-90CE-FE6D7F28A367",
+        "type": "message",
+        "text": "Но ведь Россия не демократическая страна",
+        "user": "U04725QK7",
+        "ts": "1520837598.000270",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520802198.000087",
+        "parent_user_id": "U04725QK7"
+    }
+]

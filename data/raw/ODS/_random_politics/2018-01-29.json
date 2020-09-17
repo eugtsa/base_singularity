@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.znak.com\/2018-01-29\/vciom_bolee_poloviny_rossiyan_podderzhivayut_ideyu_o_sozdanii_interneta_dlya_stran_briks>",
+        "user": "U48A8L25N",
+        "ts": "1517214316.000151",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "скоро-скоро, вот уже сейчас, отдельный интернет появится у нас)",
+        "user": "U48A8L25N",
+        "ts": "1517214351.000395",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1517214351.000395",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1517221842.000124",
+        "reply_users": [
+            "U6XAU8ZNW"
+        ],
+        "replies": [
+            {
+                "user": "U6XAU8ZNW",
+                "ts": "1517221842.000124"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "bc43dd7a-d6a7-4e38-b42b-bab56c7fd8ce",
+        "type": "message",
+        "text": "Векторный и гипертекстовый! ",
+        "user": "U6XAU8ZNW",
+        "ts": "1517221842.000124",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g075f40bed91",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/21075f40bed9158e64927c667f6e9638.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Sergey",
+            "real_name": "Sergey Kokarev",
+            "display_name": "skp87",
+            "team": "T040HKJE3",
+            "name": "skp87",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1517214351.000395",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U48A8L25N",
+                    "U28J6CP29"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

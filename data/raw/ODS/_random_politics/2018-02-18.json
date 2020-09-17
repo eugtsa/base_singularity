@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "text": "Призывной возраст повысили, пионергалстуки вернули, с геями какая-то хрень, ещё и посещения туалета ограничивают... это что же за альтернативная реальность, и какой там президент? ради чего могли бы все эти изменения сделать? Или наоборот, всё без изменений, просто бешеный принтер стал ещё более активен?!",
+        "user": "U27HU84H4",
+        "ts": "1518971126.000099",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1518890413.000042",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "type": "message",
+        "text": ":yeah-sure: думаю все проще) просто показали какие могли проблемы, не важно за какого кандидата, а просто чтобы пришли)",
+        "user": "U48A8L25N",
+        "ts": "1518973718.000027",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1518890413.000042",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "type": "message",
+        "text": "Грудининские фанаты уже под себя доработали ролик",
+        "user": "U27HU84H4",
+        "ts": "1518977676.000095",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1518890413.000042",
+        "parent_user_id": "U48A8L25N"
+    }
+]

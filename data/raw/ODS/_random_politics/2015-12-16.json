@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/roem.ru\/15-12-2015\/215164\/moskovskoe-narodnoe-opolchenie\/>",
+        "user": "U0AJU5AMA",
+        "ts": "1450299202.000004",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gbb21f67d330",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f6bb21f67d330be3c32e584dfaa9d021.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jin",
+            "real_name": "Jin Kolesnikov",
+            "display_name": "jinkolesnikov",
+            "team": "T040HKJE3",
+            "name": "jinkolesnikov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Открытка «живым ботам Собянина»: вы правда живые и хвалите мэра Москвы? → Roem.ru",
+                "title_link": "https:\/\/roem.ru\/15-12-2015\/215164\/moskovskoe-narodnoe-opolchenie\/",
+                "text": "Подход Москвы к соцсетям впечатляет своим масштабом и, судя по всему, оказался достаточно продуктивным.",
+                "fallback": "Открытка «живым ботам Собянина»: вы правда живые и хвалите мэра Москвы? → Roem.ru",
+                "image_url": "https:\/\/roem.ru\/wp-content\/uploads\/2015\/09\/night.jpg",
+                "ts": 1450210290,
+                "from_url": "https:\/\/roem.ru\/15-12-2015\/215164\/moskovskoe-narodnoe-opolchenie\/",
+                "image_width": 560,
+                "image_height": 250,
+                "image_bytes": 601751,
+                "id": 1
+            }
+        ]
+    }
+]

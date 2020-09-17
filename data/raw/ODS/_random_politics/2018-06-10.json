@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.bellingcat.com\/resources\/case-studies\/2018\/06\/08\/anatomy-russian-troll-factory-news-site\/> :kekeke:",
+        "user": "U48A8L25N",
+        "ts": "1528630268.000082",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "bellingcat",
+                "title": "Anatomy of a Russian 'Troll Factory' News Site - bellingcat",
+                "title_link": "https:\/\/www.bellingcat.com\/resources\/case-studies\/2018\/06\/08\/anatomy-russian-troll-factory-news-site\/",
+                "text": "When browsing through stories on the newly-established media outlet <http:\/\/USAReally.com|USAReally.com>, you may think that you are reading a procedural-generated site that exists entirely from search engine optimization tricks, stealing articles from more established outlets and reposting them as if they were original. However, a closer inspection shows that there are no advertisements on the site...",
+                "fallback": "bellingcat: Anatomy of a Russian 'Troll Factory' News Site - bellingcat",
+                "image_url": "https:\/\/017qndpynh-flywheel.netdna-ssl.com\/wp-content\/uploads\/2018\/06\/thepig.jpg",
+                "image_width": 276,
+                "image_height": 250,
+                "ts": 1528442217,
+                "from_url": "https:\/\/www.bellingcat.com\/resources\/case-studies\/2018\/06\/08\/anatomy-russian-troll-factory-news-site\/",
+                "image_bytes": 97413,
+                "service_icon": "https:\/\/017qndpynh-flywheel.netdna-ssl.com\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bellingcat.com\/resources\/case-studies\/2018\/06\/08\/anatomy-russian-troll-factory-news-site\/"
+            }
+        ]
+    }
+]

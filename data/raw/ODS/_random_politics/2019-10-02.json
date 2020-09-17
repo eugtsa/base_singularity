@@ -1,0 +1,223 @@
+[
+    {
+        "client_msg_id": "ad75cb61-0686-4584-92b8-c8314e531aa5",
+        "type": "message",
+        "text": "<https:\/\/coub.com\/view\/225jw4>",
+        "user": "U48A8L25N",
+        "ts": "1570009362.074200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Coub",
+                "title": "При крахе пенсионной системы, меняют правительство, а не пенсионный возраст, сказал Сенатор из Бурятии Вячеслав Мархаев.",
+                "title_link": "https:\/\/coub.com\/view\/225jw4",
+                "text": "by botanik",
+                "fallback": "Coub: При крахе пенсионной системы, меняют правительство, а не пенсионный возраст, сказал Сенатор из Бурятии Вячеслав Мархаев.",
+                "image_url": "https:\/\/coubsecure-s.akamaihd.net\/get\/b146\/p\/coub\/simple\/cw_image\/22fc983f561\/63aace6243cab7f789e51\/med_1569973479_00032.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/coub.com\/view\/225jw4",
+                "image_bytes": 52198,
+                "service_icon": "https:\/\/coub.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/coub.com\/view\/225jw4"
+            }
+        ],
+        "thread_ts": "1570009362.074200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1570014558.074600",
+        "reply_users": [
+            "U88T71FBL",
+            "U48A8L25N"
+        ],
+        "replies": [
+            {
+                "user": "U88T71FBL",
+                "ts": "1570014104.074400"
+            },
+            {
+                "user": "U48A8L25N",
+                "ts": "1570014558.074600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "80655140-a755-4c61-9815-99c9d9135ceb",
+        "type": "message",
+        "text": "Все бы нормально, но Иркутская область это не Бурятия.",
+        "user": "U88T71FBL",
+        "ts": "1570014104.074400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "ed85f1a4dfcb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-10\/379904457655_ed85f1a4dfcb8ccb34e8_72.jpg",
+            "first_name": "",
+            "real_name": "Perepechin Dmitry",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "perepechin.dmitry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570009362.074200",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "08f009e9-c225-4207-bfe6-843da814c298",
+        "type": "message",
+        "text": "ну так его от иркутской назначили, а от бурятской нет, а сам то он из бурятии",
+        "user": "U48A8L25N",
+        "ts": "1570014558.074600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570009362.074200",
+        "parent_user_id": "U48A8L25N"
+    },
+    {
+        "client_msg_id": "cbd97026-1e62-4799-a6fa-c6232ac66c47",
+        "type": "message",
+        "text": "<https:\/\/lenta.ru\/news\/2019\/10\/02\/doveli\/>",
+        "user": "U48A8L25N",
+        "ts": "1570015081.074900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Россиянин подал в суд на Apple за «доведение до гомосексуализма»",
+                "title_link": "https:\/\/lenta.ru\/news\/2019\/10\/02\/doveli\/",
+                "text": "Суд в Москве принял на рассмотрение иск местного жителя, который обвинил компанию Apple в «доведении до гомосексуализма» и потребовал выплатить ему миллион рублей компенсации. Мужчина рассказал, что стал геем, когда скачал приложение для операций с криптовалютами, и ему перевели GayCoins.",
+                "fallback": "Россиянин подал в суд на Apple за «доведение до гомосексуализма»",
+                "image_url": "https:\/\/icdn.lenta.ru\/images\/2019\/10\/02\/13\/20191002133022728\/detail_5e5e22e52c2fa91166dcb4f3b17d7c70.jpg",
+                "from_url": "https:\/\/lenta.ru\/news\/2019\/10\/02\/doveli\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 52470,
+                "service_icon": "https:\/\/icdn.lenta.ru\/lenta_touch.png",
+                "service_name": "lenta.ru",
+                "id": 1,
+                "original_url": "https:\/\/lenta.ru\/news\/2019\/10\/02\/doveli\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "476fcff2-cebe-4bae-a82f-160250ceba67",
+        "type": "message",
+        "text": "немогу перестать орать",
+        "user": "U48A8L25N",
+        "ts": "1570015086.075300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "65b2e09e-1ced-4608-8ede-dd1f16632733",
+        "type": "message",
+        "text": "&gt;«Я подумал, действительно, как можно судить о чем-то, не попробовав. И решил попробовать однополые отношения», — написал москвич. По его словам, Apple «подтолкнула его к гомосексуализму».",
+        "user": "U48A8L25N",
+        "ts": "1570015109.075600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "705a72cd-1ca7-4e49-a285-2a3677e5ed85",
+        "type": "message",
+        "text": "ахаха, лента прекрати, что ты делаешь",
+        "user": "U48A8L25N",
+        "ts": "1570015118.076000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U80H34210"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pepe_sad",
+                "users": [
+                    "UAG21HMV4",
+                    "U419TBDUL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

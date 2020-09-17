@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1487173209.000027",
+        "user": "U3PETUSSE",
+        "text": "<@U3PETUSSE> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1487226227.000028",
+        "user": "U43JR0B7A",
+        "text": "<@U43JR0B7A> has joined the channel"
+    }
+]

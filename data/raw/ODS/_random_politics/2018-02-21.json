@@ -1,0 +1,204 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/lenta.ru\/news\/2018\/02\/21\/interpol_rodch\/>",
+        "user": "U48A8L25N",
+        "ts": "1519228150.000001",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Интерпол отказался искать Родченкова",
+                "title_link": "https:\/\/lenta.ru\/news\/2018\/02\/21\/interpol_rodch\/",
+                "text": "Интерпол не стал объявлять в международный розыск информатора Всемирного антидопингового агентства (WADA) Григория Родченкова. «Генеральный секретариат Интерпола принял решение не вносить досье Родченкова в базу данных, посчитав, что его уголовное преследование носит политический характер», — отметили в организации.",
+                "fallback": "Интерпол отказался искать Родченкова",
+                "image_url": "https:\/\/icdn.lenta.ru\/images\/2018\/02\/21\/17\/20180221174448538\/detail_2fb82ccbf93adc1850dbbf2214becda8.jpg",
+                "from_url": "https:\/\/lenta.ru\/news\/2018\/02\/21\/interpol_rodch\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 112360,
+                "service_icon": "https:\/\/icdn.lenta.ru\/lenta_touch.png",
+                "service_name": "lenta.ru",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "настолько хреново слепили, что даже интерпол отказался)",
+        "user": "U48A8L25N",
+        "ts": "1519228173.000518",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U4WMPCB7W> Думаю, это не мем, а предвыборный девиз Грудинина",
+        "user": "U27HU84H4",
+        "ts": "1519238020.000127",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[February 21st, 2018 9:11 PM] evgenii.vasilev: :slow:  что за мем с кандидатом от народа?",
+                "ts": "1519236668.000096",
+                "author_id": "U4WMPCB7W",
+                "author_subname": "Evgenii Vasilev",
+                "channel_id": "C040HKJF1",
+                "channel_name": "_random_flood",
+                "is_msg_unfurl": true,
+                "text": ":slow:  что за мем с кандидатом от народа?",
+                "author_name": "Evgenii Vasilev",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U4WMPCB7W",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-04-10\/166921806290_251a8cee80ad6c4224cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C040HKJF1\/p1519236668000096",
+                "is_share": true,
+                "footer": "Posted in #_random_flood"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Который похоже стал мемом, я уже пару раз его видел)",
+        "user": "U4WMPCB7W",
+        "ts": "1519238190.000383",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "251a8cee80ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-10\/166921806290_251a8cee80ad6c4224cd_72.jpg",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Vasilev",
+            "display_name": "evgenii.vasilev",
+            "team": "T040HKJE3",
+            "name": "evgenii.vasilev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/vertelo77\/status\/965653878539681792>",
+        "user": "U4WMPCB7W",
+        "ts": "1519238317.000728",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "251a8cee80ad",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-10\/166921806290_251a8cee80ad6c4224cd_72.jpg",
+            "first_name": "Evgenii",
+            "real_name": "Evgenii Vasilev",
+            "display_name": "evgenii.vasilev",
+            "team": "T040HKJE3",
+            "name": "evgenii.vasilev",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/vertelo77|@vertelo77>: Одного парня заколдовала колдунья: он мог говорить только 1 слово в год. И вот этот парень влюбился. Он 18 лет не говорил ни слова и накопил 18 слов. Подошёл к девушке и сказал:\n«Я на выборы никогда не ходил, но в этот раз точно пойду за Грудинина голосовать. Кандидат от народа!»",
+                "ts": 1519064800,
+                "author_name": "Александр ✯",
+                "author_link": "https:\/\/twitter.com\/vertelo77\/status\/965653878539681792",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/948882098533883904\/3rRIWct2_normal.jpg",
+                "author_subname": "@vertelo77",
+                "text": "Одного парня заколдовала колдунья: он мог говорить только 1 слово в год. И вот этот парень влюбился. Он 18 лет не говорил ни слова и накопил 18 слов. Подошёл к девушке и сказал:\n«Я на выборы никогда не ходил, но в этот раз точно пойду за Грудинина голосовать. Кандидат от народа!»",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/vertelo77\/status\/965653878539681792",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29ebbcc8-1a02-4a22-96fb-3f2de1915aa4",
+        "type": "message",
+        "text": "Это боты везде писали, и превратилось в мем.  Вот тут почитать можно <https:\/\/tjournal.ru\/66619>",
+        "user": "U26MCSB8A",
+        "ts": "1519242514.000141",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "a129a02c25b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-23\/441372855269_a129a02c25b773959ad2_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew",
+            "display_name": "ambudance",
+            "team": "T040HKJE3",
+            "name": "ambudance",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TJ",
+                "title": "Мем: Кандидат от народа",
+                "title_link": "https:\/\/tjournal.ru\/66619",
+                "text": "Я про мемы обычно никогда читать не ходил, но в этот раз точно прочитаю.",
+                "fallback": "TJ: Мем: Кандидат от народа",
+                "image_url": "https:\/\/tjournal.ru\/cover\/66619\/tw\/1519230375\/cover.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1519209826,
+                "from_url": "https:\/\/tjournal.ru\/66619",
+                "image_bytes": 35089,
+                "service_icon": "https:\/\/tjournal.ru\/static\/build\/tjournal.ru\/favicons\/apple-touch-icon-180x180.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U4WMPCB7W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

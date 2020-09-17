@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "e608a3af-266b-4eeb-a7a4-7d2c1a56c2e1",
+        "type": "message",
+        "text": "С одной стороны понятно, что \"ничего личного это бизнес\", но с другой стороны сразу как-то все равно выглядит, что \"гитлаб - уебаны\")",
+        "user": "U2TP5JELS",
+        "ts": "1573162060.015800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "gc000f6b445d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/aec000f6b445df8af0d70dcc316304d4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "ilya",
+            "real_name": "ilya bogunov",
+            "display_name": "ibogunov",
+            "team": "T040HKJE3",
+            "name": "ibogunov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573021093.010400",
+        "parent_user_id": "U48A8L25N"
+    }
+]

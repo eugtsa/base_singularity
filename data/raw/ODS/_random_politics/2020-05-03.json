@@ -1,0 +1,370 @@
+[
+    {
+        "client_msg_id": "309980f5-ba82-44e3-82e4-51d194f5cf33",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=dl027TDEpeA> - политика, чиновники и коронавирус всё чаще друг с другом связаны в разных новостнях повестках. TLDR: интересных событий в РФ с политическим подтекстом за неделю",
+        "user": "U27HU84H4",
+        "ts": "1588514869.102400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Редакция. News: бесконечный карантин, полицейская этика, кризис в РПЦ",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=dl027TDEpeA",
+                "author_name": "Редакция",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC1eFXmJNkjITxPFWTy6RsWg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dl027TDEpeA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Редакция. News: бесконечный карантин, полицейская этика, кризис в РПЦ",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/dl027TDEpeA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=dl027TDEpeA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=dl027TDEpeA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/2u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=dl027TDEpeA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - политика, чиновники и коронавирус всё чаще друг с другом связаны в разных новостнях повестках. TLDR: интересных событий в РФ с политическим подтекстом за неделю"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b422f41-97a4-4ee9-aeb6-7e218728bc7c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Zcgp0vhnQuM> - про то, почему нельзя давать чиновникам РФ раздавать деньги людям, даже если до этого дойдёт.",
+        "user": "U27HU84H4",
+        "ts": "1588520136.102700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1588520199.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Что делать с вкладами? Когда будут раздавать деньги? Дмитрий Потапенко отвечает на вопросы",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Zcgp0vhnQuM",
+                "author_name": "Дмитрий ПОТАПЕНКО",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC54SBo5_usXGEoybX1ZVETQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Zcgp0vhnQuM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Что делать с вкладами? Когда будут раздавать деньги? Дмитрий Потапенко отвечает на вопросы",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Zcgp0vhnQuM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Zcgp0vhnQuM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Zcgp0vhnQuM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5U4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Zcgp0vhnQuM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - про то, почему нельзя давать чиновникам РФ раздавать деньги людям, даже если до этого дойдёт."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "924288c5-e894-47e4-a06e-99dcfb9d5876",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=hAz-exU4XBU>\n\n<https:\/\/www.youtube.com\/watch?v=T_U7HxOzhWw>",
+        "user": "U27HU84H4",
+        "ts": "1588522719.103200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "СРОЧНО Якутия! Рабочие подняли бунт в Якутии и требуют...",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=hAz-exU4XBU",
+                "author_name": "СЕМЬЯ НА ЧЕМОДАНАХ",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCFRfAEprRRmygwuzcVWKkxg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/hAz-exU4XBU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: СРОЧНО Якутия! Рабочие подняли бунт в Якутии и требуют...",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/hAz-exU4XBU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=hAz-exU4XBU",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=hAz-exU4XBU"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Семён Слепаков: Песня про нефть",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=T_U7HxOzhWw",
+                "author_name": "Семен Слепаков",
+                "author_link": "https:\/\/www.youtube.com\/user\/SemenSlepakov",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/T_U7HxOzhWw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Семён Слепаков: Песня про нефть",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/T_U7HxOzhWw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=T_U7HxOzhWw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=T_U7HxOzhWw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAi6W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=hAz-exU4XBU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=T_U7HxOzhWw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588522719.103200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1588792569.108100",
+        "reply_users": [
+            "UQRRC9GCD"
+        ],
+        "replies": [
+            {
+                "user": "UQRRC9GCD",
+                "ts": "1588792569.108100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b6826ff8-dcf4-446d-842b-e6e771acc24f",
+        "type": "message",
+        "text": "Как-то Гуриев не очень знаток экономики, пропагандист просто и мракобес :wink:\n<https:\/\/www.youtube.com\/watch?v=4Zj-uhegWkw>",
+        "user": "U28J6CP29",
+        "ts": "1588556666.104000",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d6a6aaaca1ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-07\/432337025062_d6a6aaaca1ca5a8db337_72.jpg",
+            "first_name": "Datalove",
+            "real_name": "Datalove is not a crime",
+            "display_name": "datalove_isnt_a_crime",
+            "team": "T040HKJE3",
+            "name": "datalove_isnt_a_crime",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U28J6CP29",
+            "ts": "1588556740.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Гуриев интервью Рыбакову, разбор",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=4Zj-uhegWkw",
+                "author_name": "психология спекулянта 4traders",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCu5t06DmBN47DJ9K0MM-DBg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4Zj-uhegWkw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Гуриев интервью Рыбакову, разбор",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/4Zj-uhegWkw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=4Zj-uhegWkw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=4Zj-uhegWkw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4k\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Как-то Гуриев не очень знаток экономики, пропагандист просто и мракобес "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=4Zj-uhegWkw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587582093.082200",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "4f036b7c-6ee4-45e7-9c3c-8131505cd726",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/6ajvTSNZWeA>",
+        "user": "U28J6CP29",
+        "ts": "1588556715.104600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d6a6aaaca1ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-07\/432337025062_d6a6aaaca1ca5a8db337_72.jpg",
+            "first_name": "Datalove",
+            "real_name": "Datalove is not a crime",
+            "display_name": "datalove_isnt_a_crime",
+            "team": "T040HKJE3",
+            "name": "datalove_isnt_a_crime",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Гуриев интервью Рыбакову разбор (часть 2)",
+                "title_link": "https:\/\/youtu.be\/6ajvTSNZWeA",
+                "author_name": "психология спекулянта 4traders",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCu5t06DmBN47DJ9K0MM-DBg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/6ajvTSNZWeA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Гуриев интервью Рыбакову разбор (часть 2)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/6ajvTSNZWeA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/6ajvTSNZWeA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/6ajvTSNZWeA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cRI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/6ajvTSNZWeA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587582093.082200",
+        "parent_user_id": "U27HU84H4"
+    }
+]

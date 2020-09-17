@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "21c720b8-295d-4310-bea6-69c9de58fba5",
+        "type": "message",
+        "text": "<https:\/\/www.currenttime.tv\/a\/ploshd-nemtsova\/30562796.html>",
+        "user": "U049HDR2Z",
+        "ts": "1587204935.070300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Настоящее Время",
+                "title": "Посольство России в Чехии \"переехало\" с площади Бориса Немцова",
+                "title_link": "https:\/\/www.currenttime.tv\/a\/ploshd-nemtsova\/30562796.html",
+                "text": "Посольство России в Чехии не будет находиться в Праге по адресу \"площадь Бориса Немцова\" (náměstí Borise Němcova). Об этом оно уведомило власти Чехии, сообщили чешские СМИ. Физическое положение посо",
+                "fallback": "Настоящее Время: Посольство России в Чехии \"переехало\" с площади Бориса Немцова",
+                "image_url": "https:\/\/gdb.currenttime.tv\/9F553357-0ADA-484B-A615-44FD83552148_cx5_cy7_cw85_w1200_r1.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.currenttime.tv\/a\/ploshd-nemtsova\/30562796.html",
+                "image_bytes": 140564,
+                "service_icon": "https:\/\/www.currenttime.tv\/Content\/responsive\/RFE\/ru-RU-TV\/img\/webApp\/ico-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/www.currenttime.tv\/a\/ploshd-nemtsova\/30562796.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RhdCg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.currenttime.tv\/a\/ploshd-nemtsova\/30562796.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "coincidence",
+                "users": [
+                    "U70T87GMA",
+                    "U28J6CP29"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yeah-sure",
+                "users": [
+                    "U48A8L25N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

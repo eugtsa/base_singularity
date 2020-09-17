@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1499196871.325830",
+        "user": "U2GAEHQR1",
+        "text": "<@U2GAEHQR1> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/boomstarter.ru\/projects\/kirillkk\/stalin_zabytoe_nasledie_kalendar_na_2018_god>",
+        "user": "U48A8L25N",
+        "ts": "1499197031.351420",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Boomstarter",
+                "title": "Сталин. Забытое наследие Календарь на 2018 год",
+                "title_link": "http:\/\/boomstarter.ru\/projects\/kirillkk\/stalin_zabytoe_nasledie_kalendar_na_2018_god",
+                "text": "Печать календаря с цитатами Сталина, отражающих суть его деятельности.",
+                "fallback": "Boomstarter: Сталин. Забытое наследие Календарь на 2018 год",
+                "thumb_url": "https:\/\/boomstarter.blob.core.windows.net\/boomstarter\/uploads\/project\/photo\/131142\/1495997271-photo.jpg",
+                "video_html_width": "560",
+                "video_html_height": "420",
+                "from_url": "http:\/\/boomstarter.ru\/projects\/kirillkk\/stalin_zabytoe_nasledie_kalendar_na_2018_god",
+                "thumb_width": 1374,
+                "thumb_height": 910,
+                "service_icon": "http:\/\/boomstarter.ru\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "2018 обещает стать годом сталина!",
+        "user": "U48A8L25N",
+        "ts": "1499197055.355299",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1499234241.019918",
+        "user": "U1GF4GC00",
+        "text": "<@U1GF4GC00> has joined the channel"
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FAFA5AYCW",
+                "created": 1524822045,
+                "timestamp": 1524822045,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U3KBYJQSF",
+                "editable": false,
+                "size": 571320,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FAFA5AYCW\/image_uploaded_from_ios.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T040HKJE3-FAFA5AYCW\/download\/image_uploaded_from_ios.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FAFA5AYCW-c78fd10691\/image_uploaded_from_ios_64.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FAFA5AYCW-c78fd10691\/image_uploaded_from_ios_80.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FAFA5AYCW-c78fd10691\/image_uploaded_from_ios_360.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_360_w": 283,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FAFA5AYCW-c78fd10691\/image_uploaded_from_ios_480.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_480_w": 378,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FAFA5AYCW-c78fd10691\/image_uploaded_from_ios_160.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FAFA5AYCW-c78fd10691\/image_uploaded_from_ios_720.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_720_w": 567,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T040HKJE3-FAFA5AYCW-c78fd10691\/image_uploaded_from_ios_800.jpg?t=xoxe-4017664479-1183653323168-1165996321204-80c36ecbc8f91d75dbcc15dbcfa0bec1",
+                "thumb_800_w": 630,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 640,
+                "original_h": 813,
+                "permalink": "https:\/\/opendatascience.slack.com\/files\/U3KBYJQSF\/FAFA5AYCW\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T040HKJE3-FAFA5AYCW-f14139a12e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U3KBYJQSF",
+        "display_as_bot": false,
+        "upload_reply_to": "86D9923B-6A0A-4E3F-9D02-7CFBEA189AAD",
+        "ts": "1524822045.000511"
+    },
+    {
+        "type": "message",
+        "text": ":whaaaaaat:",
+        "user": "U04725QK7",
+        "ts": "1524822290.000170",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "такое  себе конечно, но все-равно наверное лучше)",
+        "user": "U48A8L25N",
+        "ts": "1524822711.000296",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "не может же Ын просто отпустить возжи",
+        "user": "U48A8L25N",
+        "ts": "1524822743.000215",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1524822743.000215",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1525118123.000504",
+        "reply_users": [
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U27HU84H4",
+                "ts": "1525118123.000504"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.rbc.ru\/politics\/26\/04\/2018\/5ae1ee519a79472219f122c3>",
+        "user": "U48A8L25N",
+        "ts": "1524845668.000238",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "РБК",
+                "title": "Путин предупредил о риске «реально отстать» без технологического прорыва",
+                "title_link": "https:\/\/www.rbc.ru\/politics\/26\/04\/2018\/5ae1ee519a79472219f122c3",
+                "text": "Военный потенциал позволит России «просидеть» еще два-три десятилетия, заявил президент России Владимир Путин. Но, по его словам, если не сделать «технологического прорыва», то страна безнадежно отстанет",
+                "fallback": "РБК: Путин предупредил о риске «реально отстать» без технологического прорыва",
+                "image_url": "https:\/\/s0.rbk.ru\/v6_top_pics\/media\/img\/1\/50\/755247564906501.jpg",
+                "from_url": "https:\/\/www.rbc.ru\/politics\/26\/04\/2018\/5ae1ee519a79472219f122c3",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 83123,
+                "service_icon": "http:\/\/s.rbk.ru\/v8_top_static\/common\/common-8.5.83\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.rbc.ru\/politics\/26\/04\/2018\/5ae1ee519a79472219f122c3"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fidget-spinner",
+                "users": [
+                    "U5UF22N95",
+                    "U48A8L25N",
+                    "U7FFW1WGZ",
+                    "U4E1EF5CZ",
+                    "U5F198S75"
+                ],
+                "count": 5
+            },
+            {
+                "name": "rospil",
+                "users": [
+                    "U70T87GMA",
+                    "U17UDV31D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "если говорит через 20-30 то через пару лет)",
+        "user": "U48A8L25N",
+        "ts": "1524845728.000153",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ну все теперь партия сказала нужен прорыв - будет прорыв :kappa:",
+        "user": "U48A8L25N",
+        "ts": "1524845778.000036",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1524845778.000036",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1524848349.000078",
+        "reply_users": [
+            "U36Q9NJMD"
+        ],
+        "replies": [
+            {
+                "user": "U36Q9NJMD",
+                "ts": "1524848349.000078"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "\"Маленькая победоносная война\"",
+        "user": "U36Q9NJMD",
+        "ts": "1524848349.000078",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "g250bd3f6db7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c8250bd3f6db77c3e9e199f07a814157.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "Alexey",
+            "real_name": "Alexey Pronkin",
+            "display_name": "pronkin_alexey",
+            "team": "T040HKJE3",
+            "name": "pronkin_alexey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1524845778.000036",
+        "parent_user_id": "U48A8L25N",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U5F198S75"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

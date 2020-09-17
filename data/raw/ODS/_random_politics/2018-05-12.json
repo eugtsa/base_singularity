@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/mudakoff\/status\/995264079102201856>",
+        "user": "U48A8L25N",
+        "ts": "1526143579.000011",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mudakoff|@mudakoff>: Парень подходит к прохожим и спрашивает: «Как вы относитесь к гетеросексуалам?»\n\nБоже храни Россию-матушку от гетеросексуалов <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/995264027197673472\/pu\/img\/LJ2NN5lAG1v3gGj3.jpg>",
+                "ts": 1526124422,
+                "author_name": "#MDK",
+                "author_link": "https:\/\/twitter.com\/mudakoff\/status\/995264079102201856",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/921369060994109440\/rWj-Da6M_normal.jpg",
+                "author_subname": "@mudakoff",
+                "text": "Парень подходит к прохожим и спрашивает: «Как вы относитесь к гетеросексуалам?»\n\nБоже храни Россию-матушку от гетеросексуалов",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mudakoff\/status\/995264079102201856",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/995264027197673472\/pu\/img\/LJ2NN5lAG1v3gGj3.jpg",
+                "thumb_width": 496,
+                "thumb_height": 480,
+                "video_html_width": 496,
+                "video_html_height": 480,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/995264027197673472\/pu\/img\/LJ2NN5lAG1v3gGj3.jpg\" width=\"496\" height=\"480\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/995264027197673472\/pu\/vid\/372x360\/BpGo7y6yy_Z0CmXK.mp4?tag=3\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mudakoff\/status\/995264079102201856",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "popcorn",
+                "users": [
+                    "U4YMDHURY",
+                    "UA36T21TL",
+                    "U0MEP6PT2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "это прекрасно)",
+        "user": "U48A8L25N",
+        "ts": "1526143585.000022",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": ":spasi:",
+        "user": "U5H0L5T98",
+        "ts": "1526194443.000041",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

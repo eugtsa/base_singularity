@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "U6WRAUD4Y",
+        "ts": "1521834290.000449",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "0f431cef1d6c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/953317194370_0f431cef1d6cff083342_72.jpg",
+            "first_name": "Daniil",
+            "real_name": "Daniil Larionov",
+            "display_name": "rexhaif",
+            "team": "T040HKJE3",
+            "name": "rexhaif",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[March 23rd, 2018 5:14 PM] rexhaif: Всем привет. Переформатировал в csv данные Сергея Шпилькина по минувшим выборам. Суммарные цифры немного расходятся с официальными данными ЦИКа, т.к в исходных данных отсутствовала информация о некотором небольшом количестве УИКов. Используйте)\n<https:\/\/github.com\/Rexhaif\/RussianPresidentialElection2018>",
+                "ts": "1521814477.000525",
+                "author_id": "U6WRAUD4Y",
+                "author_subname": "Daniil Larionov",
+                "channel_id": "C0KL2AXD3",
+                "channel_name": "datasets",
+                "is_msg_unfurl": true,
+                "text": "Всем привет. Переформатировал в csv данные Сергея Шпилькина по минувшим выборам. Суммарные цифры немного расходятся с официальными данными ЦИКа, т.к в исходных данных отсутствовала информация о некотором небольшом количестве УИКов. Используйте)\n<https:\/\/github.com\/Rexhaif\/RussianPresidentialElection2018>",
+                "author_name": "Daniil Larionov",
+                "author_link": "https:\/\/opendatascience.slack.com\/team\/U6WRAUD4Y",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/710f6c215b30adaa301b9d4cea40e19a.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F272a%2Fimg%2Favatars%2Fava_0026-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/opendatascience.slack.com\/archives\/C0KL2AXD3\/p1521814477000525",
+                "is_share": true,
+                "footer": "Posted in #datasets"
+            }
+        ]
+    }
+]

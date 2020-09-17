@@ -1,0 +1,232 @@
+[
+    {
+        "client_msg_id": "79cff3da-0ab4-40b5-a1fc-987110d5fc29",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0>\n\nВ студии Виктор Шендерович, писатель, журналист. Эфир ведет Ольга Журавлева.\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=55s|00:55> - о задержании журналистов «Эха»\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=485s|08:05> - Илья Азар превращается в нового Навального?\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=723s|12:03> - о голосовании по поправкам к Конституции\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=1185s|19:45> - про новый указ Сергея Собянина\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=1343s|22:23> - о здравом смысле в вопросе существования в пандемии\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=1733s|28:53> - об угрозах к журналистам и блогерам\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=2028s|33:48> - помогают ли заявления в прокуратуру\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=2077s|34:37> - о разнице в скорости работы правоохранительных органов\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=2127s|35:27> - есть ли в обществе люди, которые внушают надежду\n<https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&amp;t=2293s|38:13> - легитимные механизмы отсутствуют в России?\n\n<https:\/\/echo.msk.ru\/programs\/personalno\/2649985-echo\/>",
+        "user": "U27HU84H4",
+        "ts": "1590688839.150800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U27HU84H4",
+            "ts": "1590689015.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Виктор Шендерович \/ Особое мнение \/\/ 28.05.20",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0",
+                "author_name": "Эхо Москвы",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCo4GExFphiUnNiMMExvFWdg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9e5REHtA1w0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Виктор Шендерович \/ Особое мнение \/\/ 28.05.20",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9e5REHtA1w0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5cA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nВ студии Виктор Шендерович, писатель, журналист. Эфир ведет Ольга Журавлева.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=55s",
+                                "text": "00:55"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - о задержании журналистов «Эха»\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=485s",
+                                "text": "08:05"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Илья Азар превращается в нового Навального?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=723s",
+                                "text": "12:03"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - о голосовании по поправкам к Конституции\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=1185s",
+                                "text": "19:45"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - про новый указ Сергея Собянина\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=1343s",
+                                "text": "22:23"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - о здравом смысле в вопросе существования в пандемии\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=1733s",
+                                "text": "28:53"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - об угрозах к журналистам и блогерам\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=2028s",
+                                "text": "33:48"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - помогают ли заявления в прокуратуру\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=2077s",
+                                "text": "34:37"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - о разнице в скорости работы правоохранительных органов\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=2127s",
+                                "text": "35:27"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - есть ли в обществе люди, которые внушают надежду\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9e5REHtA1w0&t=2293s",
+                                "text": "38:13"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - легитимные механизмы отсутствуют в России?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/echo.msk.ru\/programs\/personalno\/2649985-echo\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590688839.150800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1590690448.151300",
+        "reply_users": [
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "U316J6CT1",
+                "ts": "1590690448.151300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U316J6CT1",
+                    "U0RATU6TU",
+                    "U1TJJJZQ8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90d1a65f-2b21-41ac-85ed-7eb3409ed429",
+        "type": "message",
+        "text": "Чёткий формат ТЛДР! :tnx:",
+        "user": "U316J6CT1",
+        "ts": "1590690448.151300",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "voJSH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Чёткий формат ТЛДР! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tnx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590688839.150800",
+        "parent_user_id": "U27HU84H4"
+    }
+]

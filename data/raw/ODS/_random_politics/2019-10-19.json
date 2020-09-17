@@ -1,0 +1,193 @@
+[
+    {
+        "client_msg_id": "0c63c804-f6e5-4497-b71e-a1d7df1dcf3a",
+        "type": "message",
+        "text": "О, отличный повод перенабросить на казахскую тему - <https:\/\/meduza.io\/news\/2019\/10\/18\/sud-v-londone-prigovoril-vnuka-nazarbaeva-k-polutora-godam-uslovnogo-sroka-on-ukusil-politseyskogo>",
+        "user": "U049HDR2Z",
+        "ts": "1571475173.386500",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meduza",
+                "title": "Суд в Лондоне приговорил внука Назарбаева к полутора годам условного срока. Он укусил полицейского — Meduza",
+                "title_link": "https:\/\/meduza.io\/news\/2019\/10\/18\/sud-v-londone-prigovoril-vnuka-nazarbaeva-k-polutora-godam-uslovnogo-sroka-on-ukusil-politseyskogo",
+                "text": "Королевский суд лондонского боро Саутуарк приговорил внука первого президента Казахстана Нурсултана Назарбаева 29-летнего Айсултана к условному сроку с испытательным сроком в полтора года.",
+                "fallback": "Meduza: Суд в Лондоне приговорил внука Назарбаева к полутора годам условного срока. Он укусил полицейского — Meduza",
+                "image_url": "https:\/\/meduza.io\/imgly\/share\/1571430571\/news\/2019\/10\/18\/sud-v-londone-prigovoril-vnuka-nazarbaeva-k-polutora-godam-uslovnogo-sroka-on-ukusil-politseyskogo",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/meduza.io\/news\/2019\/10\/18\/sud-v-londone-prigovoril-vnuka-nazarbaeva-k-polutora-godam-uslovnogo-sroka-on-ukusil-politseyskogo",
+                "image_bytes": 88210,
+                "service_icon": "https:\/\/meduza.io\/apple-touch-icon-1024.png",
+                "id": 1,
+                "original_url": "https:\/\/meduza.io\/news\/2019\/10\/18\/sud-v-londone-prigovoril-vnuka-nazarbaeva-k-polutora-godam-uslovnogo-sroka-on-ukusil-politseyskogo"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc5bb339-4965-46be-9e42-70cfa574b22d",
+        "type": "message",
+        "text": "&gt;Айсултан Назарбаев должен продолжить лечение от наркозависимости\nА у нас дочь президента будет новейший медицинский центр в Ленинградской области строить. Где теперь чёрное, где белое, Данияр?",
+        "user": "U049HDR2Z",
+        "ts": "1571475284.387800",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bdfe357e-d151-4543-a20b-87a462a11704",
+        "type": "message",
+        "text": "<https:\/\/tvrain.ru\/news\/sovetnik_putina_o_suverennom_internete-495778\/>",
+        "user": "U48A8L25N",
+        "ts": "1571494011.388200",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "«Замедление трафика — плата за технологическую безопасность». Советник Путина — о «суверенном интернете»",
+                "title_link": "https:\/\/tvrain.ru\/news\/sovetnik_putina_o_suverennom_internete-495778\/",
+                "text": "Спецпредставитель президента России по вопросам цифрового и технологического развития Дмитрий Песков заявил, что страна пока технологически не готова к вступлению в силу закона о «суверенном интернете». Об этом сообщает «Интерфакс».",
+                "fallback": "«Замедление трафика — плата за технологическую безопасность». Советник Путина — о «суверенном интернете»",
+                "image_url": "https:\/\/s79369.cdn.ngenix.net\/media\/articles_share_images\/49\/57\/78\/image.png?2019_10_19_16_51_08",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1571493068,
+                "from_url": "https:\/\/tvrain.ru\/news\/sovetnik_putina_o_suverennom_internete-495778\/",
+                "image_bytes": 69699,
+                "service_icon": "http:\/\/s79369.cdn.ngenix.net\/static\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "Телеканал Дождь",
+                "id": 1,
+                "original_url": "https:\/\/tvrain.ru\/news\/sovetnik_putina_o_suverennom_internete-495778\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "597ada50-f4c0-44e8-ba7d-fcf72e34b5df",
+        "type": "message",
+        "text": "это бесподобно",
+        "user": "U48A8L25N",
+        "ts": "1571494014.388600",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07ccd32e-b6dc-45c4-9ebe-27631e2ac029",
+        "type": "message",
+        "text": "<@U48A8L25N> <@U049HDR2Z>\nможет не в тему, но мои 5 коп выровнять ситуацию чуток ))ахаха\n<https:\/\/labs.inspirehep.net\/jobs\/1714869>",
+        "user": "U9ZU1CYUD",
+        "ts": "1571500970.389400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7eb2ff4809d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526058894178_7eb2ff4809d315450fd6_72.jpg",
+            "first_name": "Mukharbek",
+            "real_name": "Mukharbek Organokov",
+            "display_name": "muhakabartay",
+            "team": "T040HKJE3",
+            "name": "organokov.m",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4e2755d3-e92a-44df-9e1f-1363d2d763c1",
+        "type": "message",
+        "text": "да ладно, они же просто тролят",
+        "user": "U48A8L25N",
+        "ts": "1571501022.389700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "daec7a63-b694-4cc0-90d7-ac5eea9d5501",
+        "type": "message",
+        "text": "&gt;headed by Nobel Laureate George Smoot at Nazarbayev University\nДальше не читал",
+        "user": "U049HDR2Z",
+        "ts": "1571510204.389900",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "c2eac6d6f36c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-28\/1084838624086_c2eac6d6f36c0bf6c05e_72.png",
+            "first_name": "Eg",
+            "real_name": "Eg",
+            "display_name": "eg",
+            "team": "T040HKJE3",
+            "name": "egor.panfilov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "el_risitas",
+                "users": [
+                    "U74DLUWUC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

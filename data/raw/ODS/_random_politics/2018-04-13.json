@@ -1,0 +1,198 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/tjournal.ru\/69092-nastroyka-sobstvennogo-vpn-servera-v-dva-klika>",
+        "user": "U91AA77KR",
+        "ts": "1523636959.000208",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "518035feadfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-29\/305650654528_518035feadfde73c9ca1_72.jpg",
+            "first_name": "Alexandr",
+            "real_name": "Alexandr Shurigin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "alexandr.shurigin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TJ",
+                "title": "Настройка собственного VPN сервера в два клика",
+                "title_link": "https:\/\/tjournal.ru\/69092-nastroyka-sobstvennogo-vpn-servera-v-dva-klika",
+                "text": "Привет всем!",
+                "fallback": "TJ: Настройка собственного VPN сервера в два клика",
+                "image_url": "https:\/\/tjournal.ru\/cover\/69092\/tw\/1523635947\/cover.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1523635947,
+                "from_url": "https:\/\/tjournal.ru\/69092-nastroyka-sobstvennogo-vpn-servera-v-dva-klika",
+                "image_bytes": 54461,
+                "service_icon": "https:\/\/tjournal.ru\/static\/build\/tjournal.ru\/favicons\/apple-touch-icon-180x180.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Сегодня горячий топик, написал небольшую статью тоже",
+        "user": "U91AA77KR",
+        "ts": "1523636974.000068",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "518035feadfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-01-29\/305650654528_518035feadfde73c9ca1_72.jpg",
+            "first_name": "Alexandr",
+            "real_name": "Alexandr Shurigin",
+            "display_name": "",
+            "team": "T040HKJE3",
+            "name": "alexandr.shurigin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U70T87GMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24E9385B-D4F5-4FED-8B62-C5BAFB101755",
+        "type": "message",
+        "text": "Сегодня горячий топик это как Путин отреагирует на удары по сириии   ",
+        "user": "U5H0L5T98",
+        "ts": "1523683574.000039",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "2583286cfe69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001061894912_2583286cfe69946597f2_72.jpg",
+            "first_name": "Vadim",
+            "real_name": "Vadim Borisov",
+            "display_name": "borisov",
+            "team": "T040HKJE3",
+            "name": "pybor",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "```\nИдет Путин по Дамаску, и громко орет: Сирия наш! Трамп наш! Собьем! За все ответите! и тут вдруг прилетают ракеты коалиции, вокруг все рушится, горит, и к нему подбегает журналист Первого канала, Путин говорит журналисту: Сирия наш, район ответственности не наш!\n```",
+        "user": "U48A8L25N",
+        "ts": "1523684334.000008",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "slava",
+                "users": [
+                    "U8U5W7JG5",
+                    "U5H0L5T98",
+                    "U7FFW1WGZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "putout",
+                "users": [
+                    "U8U5W7JG5",
+                    "U5H0L5T98"
+                ],
+                "count": 2
+            },
+            {
+                "name": "slava_2",
+                "users": [
+                    "U8U5W7JG5",
+                    "U5H0L5T98",
+                    "U7FFW1WGZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-6",
+                "users": [
+                    "U5H0L5T98",
+                    "U28J6CP29"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Надеюсь отреагируют жестко и по понятиям :be-a-man:",
+        "user": "U316J6CT1",
+        "ts": "1523686759.000034",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "по первому каналу отреагирует Россия, как обычно, неужели непонятно еще, это ведь не первый такой случай, даже обстрел не первый)",
+        "user": "U48A8L25N",
+        "ts": "1523686802.000058",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "80555db3b28e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-24\/202244047937_80555db3b28e977842fb_72.png",
+            "first_name": "Данияр",
+            "real_name": "Данияр Елеусизов",
+            "display_name": "daniyarel",
+            "team": "T040HKJE3",
+            "name": "daniyarel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U48A8L25N",
+            "ts": "1523686968.000000"
+        },
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U27SUBTB9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

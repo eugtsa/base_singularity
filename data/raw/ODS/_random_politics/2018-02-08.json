@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "text": "Голосуй за того, кто победит. Это хорошо для твоей психики",
+        "user": "U28J6CP29",
+        "ts": "1518102365.000764",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "d6a6aaaca1ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-09-07\/432337025062_d6a6aaaca1ca5a8db337_72.jpg",
+            "first_name": "Datalove",
+            "real_name": "Datalove is not a crime",
+            "display_name": "datalove_isnt_a_crime",
+            "team": "T040HKJE3",
+            "name": "datalove_isnt_a_crime",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1517399573.000370",
+        "parent_user_id": "U04725QK7"
+    },
+    {
+        "type": "message",
+        "text": "Я либо за лошадку либо за явлинского",
+        "user": "U04725QK7",
+        "ts": "1518108524.000216",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "6c5a2eb7d11b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-04-06\/165204167890_6c5a2eb7d11ba847fb69_72.png",
+            "first_name": "Gleb",
+            "real_name": "Gleb Filatov",
+            "display_name": "gleb_filatov",
+            "team": "T040HKJE3",
+            "name": "gleb_filatov",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1517399573.000370",
+        "parent_user_id": "U04725QK7"
+    }
+]

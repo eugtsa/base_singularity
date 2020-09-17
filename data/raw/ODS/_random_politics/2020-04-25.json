@@ -1,0 +1,208 @@
+[
+    {
+        "client_msg_id": "652c819d-5a03-4b81-a81a-739c06d79ed0",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=9quE2iNm5XQ>",
+        "user": "U27HU84H4",
+        "ts": "1587820342.083400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "ЧЁРНЫЙ QR. Михаил Ефремов читает стихи Орлуши из самоизоляции 20\/04\/2020",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9quE2iNm5XQ",
+                "author_name": "GrazhdaninPoet",
+                "author_link": "https:\/\/www.youtube.com\/user\/GrazhdaninPoet",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9quE2iNm5XQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: ЧЁРНЫЙ QR. Михаил Ефремов читает стихи Орлуши из самоизоляции 20\/04\/2020",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9quE2iNm5XQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9quE2iNm5XQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=9quE2iNm5XQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5cH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9quE2iNm5XQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587820342.083400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1587845608.083700",
+        "reply_users": [
+            "U27HU84H4"
+        ],
+        "replies": [
+            {
+                "user": "U27HU84H4",
+                "ts": "1587845608.083700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "32177ae6-13a6-4113-ba65-1bcb3626c367",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=UITSumyPnV8>",
+        "user": "U27HU84H4",
+        "ts": "1587845608.083700",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "7ec7ef7154ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-04-26\/354236189286_7ec7ef7154baf1b9e9b5_72.jpg",
+            "first_name": "Leonid",
+            "real_name": "Leonid Sinev",
+            "display_name": "leonid",
+            "team": "T040HKJE3",
+            "name": "leonid",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ClBs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=UITSumyPnV8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587820342.083400",
+        "parent_user_id": "U27HU84H4"
+    },
+    {
+        "client_msg_id": "d16d107b-e2bd-4992-8124-82189ff40f6f",
+        "type": "message",
+        "text": "Лео, если смотришь - пиши тлдр. Или ты не смотришь и предлагаешь нам посмотреть?\n\nСоветую посмотреть тупичок у гоблина, про рождение революции. Там замахиваются с древних времен и рассматривается история с материалистической точки зрения, какие предпосылки были к событиям 17го года.\n\nОчень интересно, познавательно и фундаментально. Это произвело сдвиг в моем сознании.\n\nВторое видео, которое так же подкрутило мои шестерёнки - Михаил Попов введение в науку логики, так же в тупичке. Наука логики - труд Георга Вильгельма Фридриха Гегеля (18-19 век), излагающий концепцию того, как или в каких категориях мыслит человек (боюсь ошибиться) - вещь хардкорная, но очень интересная, как математика. Посмотрите видео.",
+        "user": "U316J6CT1",
+        "ts": "1587882867.089400",
+        "team": "T040HKJE3",
+        "user_team": "T040HKJE3",
+        "source_team": "T040HKJE3",
+        "user_profile": {
+            "avatar_hash": "e46a815a951c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-17\/198777472864_e46a815a951c03817f0c_72.jpg",
+            "first_name": "Alexander",
+            "real_name": "Alexander Lapin",
+            "display_name": "sashulya",
+            "team": "T040HKJE3",
+            "name": "sashulya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U316J6CT1",
+            "ts": "1587883388.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Лео, если смотришь - пиши тлдр. Или ты не смотришь и предлагаешь нам посмотреть?\n\nСоветую посмотреть тупичок у гоблина, про рождение революции. Там замахиваются с древних времен и рассматривается история с материалистической точки зрения, какие предпосылки были к событиям 17го года.\n\nОчень интересно, познавательно и фундаментально. Это произвело сдвиг в моем сознании.\n\nВторое видео, которое так же подкрутило мои шестерёнки - Михаил Попов введение в науку логики, так же в тупичке. Наука логики - труд Георга Вильгельма Фридриха Гегеля (18-19 век), излагающий концепцию того, как или в каких категориях мыслит человек (боюсь ошибиться) - вещь хардкорная, но очень интересная, как математика. Посмотрите видео."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587882867.089400",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1587913636.091200",
+        "reply_users": [
+            "UCQ1YNU9M",
+            "UDSEN1N2E",
+            "U27HU84H4",
+            "U316J6CT1"
+        ],
+        "replies": [
+            {
+                "user": "UCQ1YNU9M",
+                "ts": "1587890553.089700"
+            },
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1587891323.090000"
+            },
+            {
+                "user": "U27HU84H4",
+                "ts": "1587892645.090200"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1587911588.090500"
+            },
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1587911746.090700"
+            },
+            {
+                "user": "UDSEN1N2E",
+                "ts": "1587911761.090900"
+            },
+            {
+                "user": "U316J6CT1",
+                "ts": "1587913636.091200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UG22X2678",
+                    "U2ARJRMPT"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]
