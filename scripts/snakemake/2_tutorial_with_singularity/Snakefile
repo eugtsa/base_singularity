@@ -1,4 +1,4 @@
-singularity: "../../../../ukb_singularity_latest.sif"
+singularity: "../../../base.simg"
 
 rule plot:
     output: "{dataset}_plot.jpg"
