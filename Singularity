@@ -18,6 +18,9 @@ From: neurodebian:latest
     tree \
     vim \
     git \
+    zip \
+    unzip \
+    graphviz \
     libsndfile1 \
     postgresql-server.dev
 
