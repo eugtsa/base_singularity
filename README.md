@@ -13,17 +13,59 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 └── README.md          - this document
 ```
 
-# How to start
+# How to start: base steps (needed for all later steps)
 
 - install singularity: https://sylabs.io/guides/3.2/user-guide/installation.html#install-the-debian-ubuntu-package-using-apt
 
-- pull singularity image: `$ singularity pull shub://eugtsa/base_singularity:latest`
+- clone this repo: `$ git clone https://github.com/eugtsa/base_singularity.git;cd base_singularity`
+
+- run prepare.sh script in this repo root, it would download nescessary singularity image and unpack data: `$ ./prepare.sh`
+
+# How to start with Jupyter lab
+
+- do base steps (find above)
+
+- start jupyter lab from singularity container, run in terminal: `$ singularity exec eugtsa-base_singularity-master-latest.simg jupyter lab`
+
+- copy link from terminal to your browser
+
+- check out ipywidgets demo in `notebooks/ipywidgets/1_Widjgets Basics.ipynb`
+
+# How to start with snakemake
+
+- do base steps (find above)
 
 - start jupyter lab from singularity container, run in terminal: `singularity exec eugtsa-base_singularity-master-latest.simg jupyter lab`
 
 - copy link from terminal to your browser
 
-- check out ipywidgets demo in `notebooks/ipywidgets/1_Widjgets Basics.ipynb`
+- check out Readme for example in: `scripts/snakemake/1_tutorial/Readme.md`
+
+# How to sun snakemake with singularity
+
+- do base steps (find above)
+
+- install snakemake: "$ pip install snakemake"
+
+- check out Readme for example in: `scripts/snakemake/2_tutorial_with_singularityReadme.md`
+
+# How to sun snakemake with singularity on cluster
+
+- login on cluster (this step is cluster-specific)
+
+- run tmux session: `$ tmux`
+
+- clone this repo: `$ git clone https://github.com/eugtsa/base_singularity.git;cd base_singularity`
+
+- run prepare.sh script in this repo root, it would download nescessary singularity image and unpack data: `$ ./prepare.sh`
+
+- run jupyter lab: `$ jupyter lab --no-browser --port 18799`
+
+- install snakemake: "$ pip install snakemake --user"
+
+- check out Readme for example in: `scripts/snakemake/2_tutorial_with_singularity_on_HPC/Readme.md`
+
+- alternatively, run bigger example: `scripts/snakemake/3_bigger_example/Readme.md`
 
 # Singularity
 
