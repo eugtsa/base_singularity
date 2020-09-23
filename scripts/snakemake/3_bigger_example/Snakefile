@@ -1,0 +1,17 @@
+#singularity: "../../../base.simg"
+chunkcount=4
+
+rule split_csv_file:
+    output: expand("{{dataset}}__chunks/csv_chunks/chunk_{chunk_num}.csv", chunk_num=[str(c) for c in range(chunkcount)]),directory("{dataset}__chunks")
+    input:  "{dataset}.csv"
+    shell: "python create_csv_batches.py -i {input} -o {wildcards.dataset}__chunks -c {chunkcount}"
+
+rule process_one_csv_chunk_to_vw:
+    output: "{dataset}__chunks/vw_chunks/chunk_{chunk_num}.vw"
+    input: "{dataset}__chunks/csv_chunks/chunk_{chunk_num}.csv"
+    shell: "python make_vw_format_from_one_batch.py -i {input} -o {output}"
+
+rule concat_all_vw_to_one:
+    output: "{dataset}.vw"
+    input: expand("{{dataset}}__chunks/vw_chunks/chunk_{chunk_num}.vw", chunk_num=[c for c in range(chunkcount)])
+    shell: "cat {input} > {wildcards.dataset}.vw"

@@ -1,9 +1,0 @@
-[
-    {
-        "type": "message",
-        "subtype": "channel_leave",
-        "ts": "1487608630.000030",
-        "user": "U1NLYUY5N",
-        "text": "<@U1NLYUY5N> has left the channel"
-    }
-]

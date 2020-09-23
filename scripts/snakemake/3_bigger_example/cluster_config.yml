@@ -1,0 +1,11 @@
+# cluster_config.yml - cluster configuration
+__default__:
+    account: e.tcatcorin
+    partition: cpu_small
+    time: 00:05:00 # time limit for each job
+    nodes: 1
+    ntasks-per-node: 1 #Request n cores be allocated per node.
+    chdir: /gpfs/data/home/e.tcatcorin/ukb_ml/scripts/snakemake/tutorial_with_singularity 
+    output: snakemake_simple-%j.out
+    error: snakemake_simple-%j.err
+    memory: 500
