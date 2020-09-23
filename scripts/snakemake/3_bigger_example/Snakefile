@@ -1,5 +1,5 @@
-#singularity: "../../../base.simg"
-chunkcount=4
+singularity: "../../../base_singularity.sif"
+chunkcount=30
 
 rule split_csv_file:
     output: expand("{{dataset}}__chunks/csv_chunks/chunk_{chunk_num}.csv", chunk_num=[str(c) for c in range(chunkcount)]),directory("{dataset}__chunks")
