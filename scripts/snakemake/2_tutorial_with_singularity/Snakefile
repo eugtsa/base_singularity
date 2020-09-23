@@ -1,4 +1,4 @@
-singularity: "../../../eugtsa-base_singularity-master-latest.simg"
+singularity: "../../../base_singularity.sif"
 
 rule plot:
     output: "{dataset}_plot.jpg"
