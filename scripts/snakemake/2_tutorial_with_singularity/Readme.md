@@ -4,7 +4,7 @@ Snakemake example
 This is a basic snakemake example. 
 
 
-1. To run one snakemake job, please do: `snakemake --use_singularity --cluster "sbatch -t {cluster.time} -p {cluster.partition} -N {cluster.nodes} --mem {cluster.memory}" --cluster-config cluster_config.yml --jobs 1 ds1_plot.jpg`
+1. To run one snakemake job, please do: `snakemake --use-singularity --cluster "sbatch -t {cluster.time} -p {cluster.partition} -N {cluster.nodes} --mem {cluster.memory}" --cluster-config cluster_config.yml --jobs 1 ds1_plot.jpg`
 2. It would produce image, you could check it with `fim ds1_plot.jpg`
 3. To tun complicated job, type in: `snakemake --use_singularity --cluster "sbatch -t {cluster.time} -p {cluster.partition} -N {cluster.nodes} --mem {cluster.memory}" --cluster-config cluster_config.yml --jobs 1 ds1_filtered_plot.jpg`
 4. Try to run complicated job again - it should not run again, because all files are already created.
