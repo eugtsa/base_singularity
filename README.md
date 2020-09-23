@@ -25,7 +25,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 - do base steps (find above)
 
-- start jupyter lab from singularity container, run in terminal: `$ singularity exec eugtsa-base_singularity-master-latest.simg jupyter lab`
+- start jupyter lab from singularity container, run in terminal: `$ singularity exec base_singularity.sif jupyter lab`
 
 - copy link from terminal to your browser
 
@@ -35,7 +35,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 - do base steps (find above)
 
-- start jupyter lab from singularity container, run in terminal: `singularity exec eugtsa-base_singularity-master-latest.simg jupyter lab`
+- start jupyter lab from singularity container, run in terminal: `$ singularity exec base_singularity.sif jupyter lab`
 
 - copy link from terminal to your browser
 
