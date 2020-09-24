@@ -29,7 +29,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 - copy link from terminal to your browser
 
-- check out ipywidgets demo in `notebooks/ipywidgets/1_Widjgets Basics.ipynb`
+- check out ipywidgets demo in `notebooks/ipywidgets/1_Widgets Basics.ipynb`
 
 # How to start with snakemake
 
