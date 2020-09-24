@@ -19,7 +19,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 - clone this repo: `$ git clone https://github.com/eugtsa/base_singularity.git;cd base_singularity`
 
-- run prepare.sh script in this repo root, it would download nescessary singularity image and unpack data: `$ ./prepare.sh`
+- run prepare.sh script in this repo root, it would download nescessary singularity image (about 4.5Gb) and unpack data: `$ ./prepare.sh`
 
 # How to start with Jupyter lab
 
@@ -61,7 +61,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 - run jupyter lab: `$ jupyter lab --no-browser --port 18799`
 
-- install snakemake: "$ pip install snakemake --user"
+- install snakemake: `$ pip install snakemake --user`
 
 - check out Readme for example in: `scripts/snakemake/2_tutorial_with_singularity_on_HPC/Readme.md`
 
