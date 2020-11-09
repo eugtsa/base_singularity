@@ -22,6 +22,10 @@ From: neurodebian:latest
     unzip \
     graphviz \
     libsndfile1 \
+    libasound2 \
+    curl \
+    ca-sertificates \
+    apt-utils \
     postgresql-server.dev
 
   rm -rf /var/lib/apt/lists/*
