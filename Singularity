@@ -24,7 +24,7 @@ From: neurodebian:latest
     libsndfile1 \
     libasound2 \
     curl \
-    ca-sertificates \
+    ca-certificates \
     apt-utils \
     postgresql-server.dev
 
