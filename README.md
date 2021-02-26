@@ -15,7 +15,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 # How to start: base steps (needed for all later steps)
 
-- install singularity: https://sylabs.io/guides/3.2/user-guide/installation.html#install-the-debian-ubuntu-package-using-apt
+- install singularity: https://sylabs.io/guides/3.4/user-guide/installation.html#install-the-debian-ubuntu-package-using-apt
 
 - clone this repo: `$ git clone https://github.com/eugtsa/base_singularity.git;cd base_singularity`
 
