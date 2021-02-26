@@ -69,7 +69,7 @@ This repository contain base image of singularity with snakemake, jupyterlab+ipy
 
 # Singularity
 
-We use singularity (https://sylabs.io/guides/3.2/user-guide/)
+We use singularity (https://sylabs.io/guides/3.4/user-guide/)
 
 ## Base image
 
