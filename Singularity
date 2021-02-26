@@ -50,6 +50,6 @@ From: neurodebian:latest
   pip uninstall matplotlib -y
   conda install nodejs pyqt
   conda install matplotlib --force-reinstall
-  jupyter labextension install @jupyter-widgets/jupyterlab-manager
+#  jupyter labextension install @jupyter-widgets/jupyterlab-manager
 #  conda install xeus-python -c conda-forge
 #  jupyter labextension install @jupyterlab/debugger
